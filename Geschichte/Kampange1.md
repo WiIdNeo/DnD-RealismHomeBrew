@@ -242,7 +242,45 @@ Da nun der zauber auf der Rüstung gebrochen war, fiel sie in sich zusammen und 
 
 Da der Raum nach dem Ableben der Statue aber hell blieb, entschied sich die Gruppe, ersteinmal hier zu kampieren, um etwas zu rasten und zu schlafen. 
 
-So entzündeten sie ein kleines, rauchfreies Feuer und Helmut legte vor seiner Rast noch sein Rattenfell zum trocknen aus.
+So entzündeten sie ein kleines, rauchfreies Feuer und Helmut legte vor seiner Rast noch sein Rattenfell zum trocknen aus...
 
 ---
 # Session 2
+
+Nun galt es aus dem Unterberg zu entkommen und den Siegelstein von Leilon ebendort hinzubringen.
+
+So machte sich die Gruppe auf den Weg heraus aus dem Unterberg. Sie gingen den gleichen weg wie den Tag zuvor. So kamen sie auch an der Hütte des Zwerges vorbei. Dieser Schaute aus seinem Fenster und rief der Gruppe zu: "Ich habe Informationen für euch, die Lebenswichtig sein könnten, für euch. Wollt ihr sie kaufen? Nur Läppische 2 Gold pro Person." 
+
+Doch bei diesem Wucher, entschied sich unsere Gruppe weiterzugehen.
+
+Darauf rief der Zerg Evelynne von Veyras zu hinterher: "Er weiß davon, seit ihr sicher, dass ihr meine informationen nicht kaufen wollt?"
+
+Aber auch jetzt war unsere gruppe sich sicher, es so zu schaffen.
+
+So verließen sie den unterberg und machten sich nach Süden auf, um durch einen Geheimen gang einer Bakannten von helmut zu gehen.
+
+Sie gingen zu einer Unschienbaren Taverne am Südrand der Stadtmauer und nach einem Kurzen Gespräch ließ die Wirtin sie durch einen alten Schmugglergang verschwinden. So kam die gruppe tatsöchlich völlig unbehelligt aus Waterdeep heraus.
+
+Doch `Leilon` liegt im Norden von Waterdeep und, um möglichst Wenig zeit zu verlieren entschlossen sie sich außen an der Stadtmauer entlang die Stadt zu umrunden.
+Das war der Moment, in dem `Revan` erzählte, dass er nur beim Zwerg gelebt hat, weil er von der Stadtwache wegen Mordes gesucht wird. Um Zusammenstöße mit den Torwächtern zuvermeiden verkleidete sich Revan also mit einer Verkleidung von Drygas, dem Satyr der Gruppe.
+
+Leider war Revan sehr nervös, als sie am Osttor vorbeikamen. Den wachen kam es sowieso schon komisch v or, warum eine so große Gruppe nicht durch die Stadt geht, und da Revan vor Nervösität das make-Up verschwitzte, erkannten die Wachen ihn. Als sie auf die Gruppe zukam, nahmen also alle ihre Beine in die hand und rannten, was das Zeug hält.
+
+## Die Wagenbeschaffungsmaßnahme §4 
+
+Nach kurzer Zeit fielen die Wachen zurück und nahmen ihren Posten am Tor wieder ein. Die Gruppe erschöpft vom Sprint, beschließt einen Wagen von einem der reisenden zu kapern.
+
+Zu diesem Zweck geht `Aduian` in das leicht hügelige Gelände neben der Straße und die anderen warten auf einen Passanten. Und tatsächlich kommt nach kurzer zeit ein alter bauer mit seinem Sohn vorbei. Sie wollen offensichtlich in die Stadt, um ihre ernte zu verkaufen, denn der Wagen, den zwei alte kläpper mühevoll ziehen ist voll mit Gemüse aller Art.
+
+Als der Wagen nahe genug ist, fängt Drygas an auf sie zu zu laufen und erzählt den Bauern von einem freund, der sich im Hügeligen Gelände verletzt hat und nicht laufen kann.
+
+Nichtsahnend und hilfsbereit schickt der bauer seinen Sohn los, um zu Helfen, denn er möchte den Wagen nicht ins Hügelland lenken aus Angst, dass die Tiere das nicht schaffen.
+
+So folgt der Sohn Drygas zu Aduain, welcher sobald er sie sieht anfängt zu wimmern. Doch der Sohn lässt sich von den beiden nicht täuschen und läuft zurück. Doch so schnell wie Aduain seine Armbrust gezückt und einen Bolzen gefeuert hat, kommt der Bauerssohn nichtmal den halben Weg weit. Der Bolzen trifft ihn in den Hinterkopf und der Bauerssohn ist sofort Tot.
+
+Ähnlich schlecht läuft auch das Klauen des Wagens. So schleicht Revan hinter den Bauern und versucht ihn mit dem Heft des Dolches auszuknocken, doch der bauer ist alt und schwach und so zertrümmert er ihm stattdessen den Schädel. Auch er ist direkt tot. Nun herrscht einigermaßen Panik in der Gruppe. Die beim Wagen wirft die leiche des Alten bauern ins meer auf der anderen seite des Weges.
+
+Doch ganz anders Aduian und Drygas: Sie lassen die Leiche nich tnur liegen, Aduain schlitzt auch noch Zeichen ihn seinen Körper und Drygas schneidet ihm einen Finger ab.
+
+So treffen sich alle am Wagen und verschweigen den jeweils anderen das geschehene.
+
