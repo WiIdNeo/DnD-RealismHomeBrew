@@ -308,6 +308,8 @@ Noch später am Abend, kurz bevor die Ersten zu Bett gingen, kamen zusätzlich n
 
 Das Ging Helmut die ganze nacht nichtmehr aus dem Kopf und so kam es dazu, dass Revan und Helmut am Nächsten Tag durch die Tür gehen und der Sache auf den Grund gehen wollten.
 
+# Session 3
+
 So sammelte sich die Gruppe am Morgen wieder im Schankraum, um das vorgehen beim Frühstük zu besprechen, doch sie wurden unterbrochen, als die Tür zum Lokal wirsch geöffnet wurde und ein hoher schlacksiger Mann betrat den Raum. Auf seiner Edlen Kleidung prangte das Emblem von Waterdeep. Er sah sich kurz um und ging dann langen Schrittes zielstrebig zum Tisch und überreichte ihnen einen Brief. Dazu sagte er: "Der Hohe Rat von Waterdeep erhabt anklage wegen Mordes. Sie alle werden in einer Woche vor dem Rat erwartet. Genaueres steht im brief." Darauf dreht er sich um und verlässt die Teverne wieder. Man hört noch den Schrei seines Greifen und schon ist er wieder weg.
 
 Die Gruppe brauch nicht lange Überlegen: Sie sind schuldig, sie können nicht zurück, lieber gehen sie in die vogelfreiheit.
