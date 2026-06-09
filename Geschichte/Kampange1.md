@@ -1,5 +1,6 @@
 # Inhalt
 [Session 1](#1-session-1)
+
 [Session 2](#1-session-2)
 
 # Session 1
@@ -283,4 +284,35 @@ So folgt der Sohn Drygas zu Aduain, welcher sobald er sie sieht anfängt zu wimm
 Doch ganz anders Aduian und Drygas: Sie lassen die Leiche nich tnur liegen, Aduain schlitzt auch noch Zeichen ihn seinen Körper und Drygas schneidet ihm einen Finger ab.
 
 So treffen sich alle am Wagen und verschweigen den jeweils anderen das geschehene.
+
+Nur wenige Tagesreisen später werden sie von einem Meldereiter überholt. Dieser erzählt ihnen von einer Leiche, die gefunden wurde, gezeichnet mit den Symbolen des Bhaal. Er reitet vorraus zu den Städten entlang der High Road, um die Stadtwachen zu informieren und eventuell einen Hinweis auf die Verbrecher zu finden.
+
+Aufgrund dieser Gefahr für die Gruppe beschließen sie Größere Orte zu meiden, bis sie in Leilon ankommen. Dort ist das Recht zum Glück noch nicht sonderlich ausgeprägt, da die Stadt immernoch wieder aufgebaut wird.
+
+So kommen sie an Thornshold vorbei und langsam kommt `Mere of Dead Men` in sicht. Der Weg wird Morastiger und Nebel rollt in Dicken Bänken übers Land. Nachts hört man immer wieder unheimliche Schreie und Geräusche aus dem Sumpf, ein Gluckern und Matschen.
+
+Eines Morgens kommt der gleiche Meldereiter zurück. Er erzählt, dass niemandem auf seinem Weg etwas merkwürdiges aufgefallen ist. Dafür sei in Waterdeep nahe der Ersten Leiche, die man auf der Wiese gefunden habe, eine Weitere Leiche ans Ufer gespühlt worden. Als der Meldereiter wieder weg ist, entscheiden die Gruppenmitglieder einander zu beichten, was tatsächlich passiert ist.
+
+Sie folgen dem Weg tagelang, immer entlang des Sumpfes und bald kommt ein Großes Rasthaus in Sicht. Es ist das einzige Gebäude weit und breit und sieht zwischen dem Moor und dem Gebirge etwas fehl am Platz aus. Doch die Straßen sind lang und gut genutzt und als einziges Wirtshaus in der Umgebung, ist es gut besucht und gern gesehen. 
+
+## Das Carnath Roadhouse
+
+Das Rasthaus war in ein angenehmes Licht getaucht. Ein Halbdunkel, dass sehr beruhigend war.
+Es waren nur wenige Leute unterwegs, zu dieser Zeit nach der Ernte waren die Meisten Bauern und Händler gerade in den Städten um zu feilschen. Aber in einigen Tagen wüürde das Gasthaus aus allen Nähten platzen. Hinter der bar stand ein alter Halbork und polierte die Gläser.
+
+Die Gruppe bestellte zunächst eine Portion Essen und mietete Sich für die Nacht ein. Die Pferde und der Wagen wurden in den Stall gebracht. Drygas und Aduain hatten als Bezahlung für die Zimmer angeboten den Abend lang aufzutreten und so war die Bühne im Hinteren teil des Gasthauses Hell erleuchtet und von Gauklerspiel erfüllt. 
+
+Am Frühen Abend kamen zwei Leute vom Echsenvolk herein und gingen, als würden sie jede Berechtigung haben durch eine Tür, auf der "Personal" stand. Sie Trugen Kisten und als die Tür auf und wieder zu schwang, dass ein Weiterer Echsenmensch im Raum saß und irgendetwas schrieb. 
+
+Noch später am Abend, kurz bevor die Ersten zu Bett gingen, kamen zusätzlich noch zwei Gestalten herein: Mannshoch, ganz in Schwarz und beide mit Masken auf dem Kopf, die das Haupt eines Drachen zeigten. Auch diese Gingen in durch die Tür in den Raum und Helmut sah eindeutig: Die drei Echsenmenschen waren weg und das ohne, dass sie durch die Tür wieder herausgekommen wären. 
+
+Das Ging Helmut die ganze nacht nichtmehr aus dem Kopf und so kam es dazu, dass Revan und Helmut am Nächsten Tag durch die Tür gehen und der Sache auf den Grund gehen wollten.
+
+So sammelte sich die Gruppe am Morgen wieder im Schankraum, um das vorgehen beim Frühstük zu besprechen, doch sie wurden unterbrochen, als die Tür zum Lokal wirsch geöffnet wurde und ein hoher schlacksiger Mann betrat den Raum. Auf seiner Edlen Kleidung prangte das Emblem von Waterdeep. Er sah sich kurz um und ging dann langen Schrittes zielstrebig zum Tisch und überreichte ihnen einen Brief. Dazu sagte er: "Der Hohe Rat von Waterdeep erhabt anklage wegen Mordes. Sie alle werden in einer Woche vor dem Rat erwartet. Genaueres steht im brief." Darauf dreht er sich um und verlässt die Teverne wieder. Man hört noch den Schrei seines Greifen und schon ist er wieder weg.
+
+Die Gruppe brauch nicht lange Überlegen: Sie sind schuldig, sie können nicht zurück, lieber gehen sie in die vogelfreiheit.
+
+Und da sie sowieso schon bis zum Hals in Problemen stecken, wollen sie noch den Nebenraum erkunden und sich dann schnell nach Leilon machen, um verschwinden zu können, bevor das Urteil verkündet wird und jeder an der Küste von ihren Taten weiß.
+
+
 
