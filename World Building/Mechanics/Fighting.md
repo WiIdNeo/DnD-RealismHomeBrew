@@ -1,434 +1,231 @@
-As in many of my resources you notice I find many aspects of DnDs World to easy to unimportant. So I aim to make it a little harder and more rewarding to play tactically like it would be in real world.
+# Combat System for DnD Homebrew
 
-On of those topics is the fighting system. I personally don't like this basic Get more TP and AC to get progression. This doesn't feel like fun and also makes hits so generic. There is nothing you can do but tank the hit and your enemy got the same. This also leads to all enemies playing the same: A bandit is the same as a dragon just lower HP.
+Many aspects of DnD's standard rules feel too light, too generic, or tactically flat. The goal of this system is to make combat more realistic and tactically demanding: a bandit should feel different from a dragon — not just through more HP, but through different decisions made during the fight.
 
-So I worked on some ideas about a more complex fighting system and someone told me I ended up to something similar to 'The Riddle of Steel' table-top game. So I give them the props for this fighting system, byside I am not just copying the system, but mix it up.
+This system is inspired by *The Riddle of Steel*, but not a 1:1 copy — the stamina resource, weapon classes, and attribute weighting are adapted independently.
 
-# Fighting System for DnD
-## Base idea
+**Core idea:** Real physical resilience barely increases with level — a human dies from an arrow to the eye regardless of experience. What actually increases is technique and anticipation. This isn't reflected by more HP, but by better active defense.
 
-In a real fight you two situations: Melee and projectile. In case of a projectile you need to aim, and then the target got the option to block or dodge it. So you throw an aim dice and your enemy throws an evade- or block-dice.  In a melee fight both participants got their weapons and maybe a shield. So may they block or dodge the attack or try to parry it.  Of course those things need to scale and reactions are limited. To limit it I would give kind of a stamina pool which is drained by all of these actions. 
+---
 
-Additionally, the real resistance is not really increased during leveling. A human still dies by an arrow shoot to the eye, and it's spine still breaks it gets a rock thrown on it. So what really increases is not the resistance but the technique and the prioritizing. 
+## 1. Core Mechanic: Ranged vs. Melee
 
-## Values
+**Ranged:** The attacker rolls an aim check (scaling with distance). The defender rolls Dodge or Block against it.
+
+**Melee:** At distances under 0.5m, "does it land at all" is practically no longer an open question — the real uncertainty lies entirely in the defense. A separate attacker roll would therefore be redundant.
+
+> **Rule:** Standard melee attacks require **no** attacker roll. Only the damage is rolled (which also determines the Stance-Breaking strength); the defender decides whether and how to react, and rolls their one check. One roll per exchange instead of two.
+>
+> **Exception — Called Shots:** Precise hits on small target zones (eye, throat) remain uncertain even at close range. Here the attacker rolls an additional precision check, but only as a deliberate special action, not as the default. (Details: see Attack Zones section, TBD.)
+
+Reactions are limited by a stamina pool (relevant only for defense — offense remains pure action economy).
+
+---
+
+## 2. Attributes
 
 ### STR
-
-Higher Strength means your weapon hits harder. So it is harder for your enemy to parry or block. Additionally, you can break their stance more easily getting a really hard hit out. Also, this means your blocks are harder to overcome.
+Harder hits → harder to parry/block, easier to break the opponent's stance. Own blocks are more resilient.
 
 ### DEX
-
-Higher Dexterity means you move faster. This increases your absolute Stamina and your Initiative good for fast attacking. Being faster also makes parries a little easier. You shoot your bow really fast making it harder to dodge your arrows.
+Faster movement → higher absolute stamina, better initiative, easier parries. Arrow shots are harder to dodge. Governing stat for finesse weapons and ranged combat.
 
 ### CON
+HP matters less, but CON stays relevant: increases resistance to impacts/falls and makes stamina more valuable (multiplier on the pool).
 
-Even if TP is way less worth Constitution is still important, as it increases your resistance again moves and makes your Stamina more worth. 
+**Governing stat per weapon:** STR for most melee weapons, DEX for finesse weapons (dagger, rapier) and ranged combat. See weapon table.
 
-## Weapon choice
+---
 
-Different weapons of course offer different skill sets. So a shield is for pushing or blocking, a hammer is really heavy, but offers bad blocks, a sword enables blocks and risky parries, but it's lighter than a shield, making it less efficient against a hammer.
+## 3. Weapon Table
 
-In my opinion there are 4 ranks in each utility: 1 Easy, 2 normal, 3 hard, 4 impossible/very hard. This is just caused by some properties: A Dagger is so short, Blocking something with Dagger is nearly impossible, same for overwinding a block: Hitting a shield with an dagger normally does not break the block. A staff makes blocking quite easy, as you wield it two handed anyway. A parry is more complicated, as you need to turn whole body to parry. But to avoid to many throws and bookhandling the attacker just throws it's aiming and the damage (against stances you get a breaking buff, not effecting real damage) and this is calculated against blocks or parries.
+4 ranks per property: 1 = light, 2 = normal, 3 = heavy, 4 = (nearly) impossible.
 
-We go over some weapons next showing the idea.
+| Weapon | Weight | Governing Stat | Stance-Breaking | Blocking Diff. | Parry Diff. |
+|---|---|---|---|---|---|
+| Dagger | light | DEX | 1 | 4 | 4 |
+| Shortsword | light | STR/DEX | 2 | 3 | 2 |
+| Rapier | light | DEX | 2 | 4 | 3 |
+| Handaxe | normal | STR | 2 | 3 | 2 |
+| Longsword | normal | STR | 3 | 2 | 2 |
+| Staff | medium | STR | 3 | 1 | 3 |
+| Spear | medium | STR | 3 | 1 | 3 |
+| Shield | medium | STR | 3 | 1 | 1 |
+| Battleaxe | heavy | STR | 4 | 2 | 3 |
+| Hammer | heavy | STR | 4 | 2 | 3 |
 
-### Short sword
+*Stance-Breaking* belongs to the attacking weapon, *Blocking/Parry Diff.* to the defender's weapon — both independent of each other.
 
-- light weight
-- normal thickness
-- normal lenght
+---
 
-|Offensive Property|Level|
-|-|-|
-|Stance breaking | 2 |
+## 4. Magic
 
-|Defensive Move | Difficulty |
-|-|-|
-Blocking | 3
-Parry | 2
+Most spells require line of sight and (for precision effects) anatomical knowledge of the target — no "popping a vein in the brain" without sight and expertise. Projectile spells work like physical ranged attacks: the defender gets a normal Dodge/Block check against them.
 
-### Dagger
+---
 
-- light weight
-- normal thickness
-- short lenght
+## 5. Stamina
 
-|Offensive Property|Level|
-|-|-|
-|Stance breaking | 1 |
+### 5.1 Formula
 
-|Defensive Move | Difficulty |
-|-|-|
-Blocking | 4
-Parry | 4
+Level (Prof) and Constitution are scaled **separately**, so both can be tuned independently:
 
-### Long Sword
+$$\text{Stamina} = \text{LevelBase}(\text{Prof}) \times \text{ConMult}(\text{Con-Mod})$$
 
-- normal weight
-- normal thickness
-- long length
+$$\text{LevelBase} = 50 + 10 \cdot (\text{Prof} - 2)$$
+$$\text{ConMult} = 1 + \frac{\text{Con-Mod}}{10}$$
 
-|Offensive Property|Level|
-|-|-|
-|Stance breaking | 3 |
+| Prof | LevelBase | | Con-Mod | ConMult |
+|---|---|---|---|---|
+| 2 (Lvl 1) | 50 | | -5 | 0.5 |
+| 3 | 60 | | -3 | 0.7 |
+| 4 | 70 | | 0 | 1.0 |
+| 5 | 80 | | +3 | 1.3 |
+| 6 (Lvl 20) | 90 | | +5 | 1.5 |
 
-|Defensive Move | Difficulty |
-|-|-|
-Blocking | 2
-Parry | 2
+**Why separate:** Pure level scaling (at Con=0) gives 50 → 90, a factor of **1.8×** — roughly matching damage scaling (see below) and preventing experienced fighters from being able to sustain proportionally *fewer* blocks than beginners. CON remains an independent second axis: worst CON exactly halves the pool, best CON gives +50%.
 
-### Rapier
+### 5.2 Reset
 
-- light weight
-- light thickness
-- normal length
+Stamina regenerates per combat, not per round — a middle ground between realism and bookkeeping.
 
-|Offensive Property|Level|
-|-|-|
-|Stance breaking | 2 |
+---
 
-|Defensive Move | Difficulty |
-|-|-|
-Blocking | 4
-Parry | 3
+## 6. Defense Options
 
-### Hand axe
+### 6.1 Dodge
+Fixed stamina cost (see 6.4). Pure DEX check, scaling with distance/attacker's DEX. On success: 0 damage.
 
-- normal weight
-- thick thickness
-- short length
+### 6.2 Block
+No roll required, but stamina drain scales with the damage of the hit:
 
-|Offensive Property|Level|
-|-|-|
-|Stance breaking | 2 |
+$$\text{Block-Drain} = \text{Damage} \times \left(1 + \frac{\text{Stance-Breaking}}{2}\right)$$
 
-|Defensive Move | Difficulty |
-|-|-|
-Blocking | 3
-Parry | 2
+If the pool drops below 0, the remaining force is passed through proportionally as damage (see calculation example 8.3).
 
-### Battle Axe
+### 6.3 Parry
+Requires timing (success check). On success: 0 damage + free counterattack (opportunity attack, no reaction possible from the opponent). On failure: full hit.
 
-- heavy weight
-- thick thickness
-- long length
+**Success DC:**
+$$DC = 10 + \text{Attacker-Stat} + \text{Attacker-Prof} + \text{Init-Diff-Tier} - \text{Defender-Prof} - \text{Defender-Dex}$$
 
-|Offensive Property|Level|
-|-|-|
-|Stance breaking | 4 |
+Defender rolls a plain 1d20 ≥ DC (all modifiers are already baked into the DC). At parity with no initiative difference: ~50/50. A natural 20 always succeeds, a natural 1 always fails.
 
-|Defensive Move | Difficulty |
-|-|-|
-Blocking | 2
-Parry | 3
+**Init-Diff-Tier** (capped at max. +4, to limit stacking with stat/prof bonuses):
 
-### Hammer
+| Initiative Difference | Tier |
+|---|---|
+| < 5 | 1 |
+| 5–9 | 2 |
+| 10–14 | 3 |
+| ≥ 15 | 4 (cap) |
 
-- heavy weight
-- thick thickness
-- long length
+*Replaces a separate "can I react at all" gate check — the initiative difference flows directly into the existing defense DC, no extra roll needed.*
 
-|Offensive Property|Level|
-|-|-|
-|Stance breaking | 4 |
+**Cost (regardless of success):**
+$$\text{Parry-Drain} = \left(\varnothing d6 \times \frac{\text{Stance-Breaking}}{2}\right) + \frac{\text{Prof-Mod}}{2}$$
 
-|Defensive Move | Difficulty |
-|-|-|
-Blocking | 2
-Parry | 3
+### 6.4 Reference Values for Stamina Costs
 
-### Staff
+| Action | Cost |
+|---|---|
+| Dodge | fixed ~9 |
+| Parry | variable, ~2–15 (see 6.3) |
+| Block | variable, ~4.5–18+ depending on weapon/damage (see 6.2) |
 
-- midd weight
-- thick thickness
-- long length
+---
 
-|Offensive Property|Level|
-|-|-|
-|Stance breaking | 3 |
+## 7. Damage
 
-|Defensive Move | Difficulty |
-|-|-|
-Blocking | 1
-Parry | 3
+### 7.1 Formula
 
-### Spear
+$$\text{Damage} = \max\left(1,\; 1d6 + \text{Prof-Mod} + \text{Stat-Mod}\right)$$
 
-- midd weight
-- thick thickness
-- long length
+- **Prof-Mod** unchanged (+2 to +6) — carries the level curve.
+- **Stat-Mod** (weapon's governing stat) full weight, **capped at base ±5** (magic item bonuses handled separately/situationally, not in this calculation).
+- Minimum 1 damage on any hit, regardless of negative modifiers.
 
-|Offensive Property|Level|
-|-|-|
-|Stance breaking | 3 |
+*So that a level-1 wizard and a level-1 barbarian with the same weapon deal different damage — not because of level, but because of build.*
 
-|Defensive Move | Difficulty |
-|-|-|
-Blocking | 1
-Parry | 3
+### 7.2 Rounding Rule
+Standard 0.5 → 1 round-up, but the base value is reduced by 0.1 beforehand (effectively rounds x.5 values down, e.g. 1d6 average 3.5 → 3.4 → 3).
 
-### Shield
+---
 
-- midd weight
-- thick thickness
-- short length
+## 8. Calculation Examples
 
-|Offensive Property|Level|
-|-|-|
-|Stance breaking | 3 |
+### 8.1 Stamina Pool: Minimum and Maximum Case
 
-|Defensive Move | Difficulty |
-|-|-|
-Blocking | 1
-Parry | 1
+| Case | Level (Prof) | Con-Mod | Stamina |
+|---|---|---|---|
+| Minimum | 1 (+2) | -5 | 50 × 0.5 = **25** |
+| Reference (average) | 1 (+2) | 0 | 50 × 1.0 = **50** |
+| Reference (average) | 20 (+6) | 0 | 90 × 1.0 = **90** |
+| Maximum | 20 (+6) | +5 | 90 × 1.5 = **135** |
 
-## Magic
+### 8.2 Dagger Damage: Minimum and Maximum Case
 
-Something we did not talked about so far is Magic. To regular Magic in a vital and deadly fight most Spells require knowledge and seeing. Unlike in Eragon you are not eable to just sqeeze an vene in brain, as you can't see it. This makes magic not overpowered. 
-It still works quite similar to currents dnd magic with difference the enemy also gets his evade on projectiles.
+| Case | Level | Stat-Mod | 1d6 | Damage |
+|---|---|---|---|---|
+| Minimum | 1 (+2) | -5 | 1 | max(1, 1+2-5) = **1** |
+| Minimum, avg roll | 1 (+2) | -5 | 3 | max(1, 3+2-5) = **1** |
+| Maximum, avg roll | 20 (+6) | +5 | 3 | 3+6+5 = **14** |
+| Maximum | 20 (+6) | +5 | 6 | 6+6+5 = **17** |
 
-## Stamina
+### 8.3 Core Question: Can a Maxed-Out Build Take Down a Weak Defender in 1–2 Hits?
 
-What action does cost how much stamina?
+**Setup:** Attacker: Level 20, Stat-Mod +5, Hammer (Stance-Breaking 4, multiplier ×3). Defender: Level 1, Con-Mod -5 → Stamina pool **25** (minimum case from 8.1).
 
-First we need to define Stamina in this case is just for defensive porpoise. Offensive we still got the action economy! So what moves did we got?
+| Roll | Damage (Attacker) | Block-Drain (×3) | Remaining Pool After Block |
+|---|---|---|---|
+| Minimum (1d6=1) | 12 | 36 | -11 |
+| Average (1d6≈3) | 14 | 42 | -17 |
+| Maximum (1d6=6) | 17 | 51 | -26 |
 
-- Evade
-- Block
-- Parry
+**Result:** Even the weakest possible hit from a maxed-out hammer build exceeds the entire stamina pool of a fragile defender — **the very first block already can't be fully absorbed.**
 
-### Evading
+**Overflow Damage (new rule, resolves the previously open question from the original document):**
 
-Evanding is quite easy: You make a dex-Throw scaling with distance and dex of enemy and get or get not the evade. Damage will be Zero. Stamina is drain by always same value.
+$$\text{Damage Through} = \text{Damage} \times \frac{\text{Overflow}}{\text{Drain}}$$
 
-### Blocking 
+| Roll | Overflow | Fraction | Damage Through |
+|---|---|---|---|
+| Minimum | 11 | 0.31 | ≈ **4** |
+| Average | 17 | 0.40 | ≈ **6** |
+| Maximum | 26 | 0.51 | ≈ **9** |
 
-Blocking is a little different. It also reduces incoming Damage to zero. But it is stationary: It does not require any Throw. But Stamina is drained based on Enemy's attack's strength. If it hits harder it is harder to keep strength. In case your stamina is reduced below 0 you calc the remaining force of the hit and so the part of damage still applied.
+**Conclusion:** Not an instant kill in one hit (the wound pool is separate and larger), but stamina is fully spent after this single block — any further attack in the same round lands unhindered at full damage (12–17). This confirms that the three defense options carry real tactical weight: against a clearly superior hammer-wielder, **Dodge (fixed cost ~9) is clearly the better choice** over Block — exactly the kind of situational decision this system is meant to create.
 
-### Parrying 
+---
 
-To parry an attack requires timing. So you need to throw an execution dice. In case you reach a certain level you get the parry and you get a free opportunity attack the enemy can't react to. Else you miss the parry getting hitted by the attack. Also stamina drain scales on enemy strength, but base is way lower than blocking. 
-
-## First idea on values and forms
-
-Needings: As we now do not have Blocking and evading implemented in AC and TP anymore we need to adjust damage. As base dice I would reccomend 1d6 as this enables lower throws: 1d4 and does not expand to high numbers like 1d10 or similar would.
-
-So all weapons base damage is 1d6 (3,5 $\approx$ 3)
-
-> **Rounding**:
-> 
-> Just normal 0.5 $\to$ 1 rule, but originally value is decreased by 0.1 
-
-Now question is if you should get stamina per round or per fight? And is it a fixed value or does it recover?
-
-Recover results in higher bookkeeping, but would be most realistic. Per Round is not picturing this exhausting like it would be in real fights but per fight would would make first rounds for attackers quite hard, as parries are more likely and on sucess they are really punishing. But still I would stick to per fight, as it is the midd way of realism and bookkeeping.
-
-Fight one vs. one should be baseline. It is fair and noone is really in advantage. 
-You are getting 3.5 Damage on average.  
-Normally you have a few rounds before exhausting is noticable. Maybe 4 $\to$ ~15 Stamina as base?
-
-This scales on Con Mod as we said, but in what way? Do we just apply Modifier, so 15+Con-Mod? Would be a possibility, but +3 could be little low reward, let's see.
-
-Move on to blocking:
-
-In case you block a Hammer your Stamina is reduced harder than if attacked with a sword or dagger. We said it scales on Damage.
-
-Damage scales 1d6+Prof-Mod resulting in 5.5 Damage for level 1 Characters. We got that ranks in stance-breaking: 1, 2, 3, 4. How to make them handleable for fairness? Just x/2 would result in a *2 mod for stance breaking on Shield, while an 0.5 Mod for Dagger, what would be okay ig. But this would result in 11 Stance Damage overwinding your Stamina within 2 Rounds. 
-
-So maybe higher Stamina would be better. Like 35 to 45 Base. But in that case a simple +Con_Mod would be not noticable in my opinion. + (Con-Mod * Prof Bonus) would result in a range of $\plumin$ 25 Stamina at max. In theory that's okay, but if I imagine a legendary level 20 Worrier, than no even the double of a normal lvl 1 npc is quite low. 
-
-So I want a value of base stamina being doubled for a worrier on level 20 and being not  more than halfed for bad constitution.
-
-Most Bad Mod is -5, best +5. So regarding 50 being default goal would be 100 max and 25 lowest. 
-
-$$f(-5) = 25\\
-f(0) = 50\\
-f(+5) = 100$$
-
-Prof Mods are +2, +3, +4, +5, +6
-
-It's clear the funktion got a +50 part in it's end, without resulting in:
-
-$$f(-5) = -25\\
-f(0) = 0\\
-f(+5) = 50$$
-
-A linear funktion of handeling that would be really great.
-
-$$f(x) = ax+50$$
-
-#### First Attempt
-
-$f(CON-Mod) = 5*(CON-Mod + Prof - 1) + 50?$
-
-|Con-Mod|Prof-Mod|Stamina|
-|-|-|-|
--5 | 2 | 30
--5 | 3 | 35
--5 | 4 | 40
--5 | 5 | 45
--5 | 6 | 50
-||
--4 | 2 | 35
--4 | 3 | 40
--4 | 4 | 45
--4 | 5 | 50
--4 | 6 | 55
-||
--3 | 2 | 40
--3 | 3 | 45
--3 | 4 | 50
--3 | 5 | 55
--3 | 6 | 60
-||
--2 | 2 | 45
--2 | 3 | 50
--2 | 4 | 55
--2 | 5 | 60
--2 | 6 | 65
-||
--1 | 2 | 50
--1 | 3 | 55
--1 | 4 | 60
--1 | 5 | 65
--1 | 6 | 70
-||
-0 | 2 | 55
-0 | 3 | 60
-0 | 4 | 65
-0 | 5 | 70
-0 | 6 | 75
-||
-1 | 2 | 60
-1 | 3 | 65
-1 | 4 | 70
-1 | 5 | 75
-1 | 6 | 80
-||
-2 | 2 | 65
-2 | 3 | 70
-2 | 4 | 75
-2 | 5 | 80
-2 | 6 | 85
-||
-3 | 2 | 70
-3 | 3 | 75
-3 | 4 | 80
-3 | 5 | 85
-3 | 6 | 90
-||
-4 | 2 | 75
-4 | 3 | 80
-4 | 4 | 85
-4 | 5 | 90
-4 | 6 | 95
-||
-5 | 2 | 80
-5 | 3 | 85
-5 | 4 | 90
-5 | 5 | 95
-5 | 6 | 100
-
-This now is not perfect fit, as lowest is 30 Stamina, but that's okay I guess.
-
-### Blocking Stamina
-I think that's also fine for Stance Damage f being $f(Damage, Stance-Damage_Mod) = Damage * (1 + Stance-Damage-Mod / 2)$
-
-### Parry Stamina
-Parry is also a Stance and therefore is effected by Stance Damage. So may that's the difficulty? 
-That would be 1d6 * Stance-Damage-Mod 
-
-|1d6|Stance-Damage-Mod / 2|Difficulty|
-|-|-|-|
-1 | 0.5 | 0.5
-2 | 0.5 | 1
-3 | 0.5 | 1.5
-4 | 0.5 | 2
-5 | 0.5 | 2.5
-6 | 0.5 | 3
-||
-1 | 1 | 1
-2 | 1 | 2
-3 | 1 | 3
-4 | 1 | 4
-5 | 1 | 5
-6 | 1 | 6
-||
-1 | 1.5 | 1.5
-2 | 1.5 | 3
-3 | 1.5 | 4.5
-4 | 1.5 | 6
-5 | 1.5 | 7.5
-6 | 1.5 | 9
-||
-1 | 2 | 2
-2 | 2 | 4
-3 | 2 | 6
-4 | 2 | 8
-5 | 2 | 10
-6 | 2 | 12
-
-This needs to be normalized. The STR of the Attacker is relevant. And the STR of the defender is relevant. And is a Dagger actually easier to parry than a Hammer? The hammer is heavy so it breaks stance, but a dagger is small and therefore hard to hit for a parry. So maybe the parry should not scale. It is more a Defender's DEX against Attacker's Attack Stat (DEX or STR). Maybe it's the right way to say DC = (10 + Attacker's Stat + Attackers prof Bonus - Defender's Prof Bonus - Defenders Dex Bonus). So in an equal fight it is just 50/50 and a level 1 against an level 20 is just the nat20 chance. 
-
-And table could be Stamina Drain of the parry itself. For Rounding Rules of course increased by +0.1 and end value + Prof-Mod/2.
-
-### Dodge Stamina
-
-As I wrote eralier, it should be always a fix value. Atm Parry is something between 2 and 15, blocking between 4.5 and 18. This means 7,5 $\approx$ 7 midd for Parry and 11,25 $\approx$ 11 for blocking. So Dodging would be in between at 9 Stamina.
-
-
-
-## Dealing Damage
-
-So we got a basic approach for Defenses and basic Attacks. But is 1d6 + Prof-Mod Really enough for level proceding?
-
-This means 5.5 base Damage on Level 1 and 9.5 for Level 20. That's already quite close to Doubeling, what is not to bad. Also you add other modifier, by other skills from group. So may I actually would stick to that values. If you really want an higher increasment could be 1d6 base + 1.5*Prof-Mod
-
-This results in 6.5 for level 1 and 12.5 for Level 20 what is really the double, but I don't t hink that's necessary as the r eal Damage does not really increase but the precision, what is not shown in Damage but Hit Roll. 
-
-## AC and Initiative
+## 9. AC & Initiative
 
 ### Initiative
-
-Both are not touched yet in new fighting System, but both stay relevant. Initiative is not only the queue, but on higher differenzes in Initiative the Reaction becomes harder. 
-And in that case it requires the Enemy to throw a dice every time it wants to do an fight reaction.
-
-I would orientate for difficulty around normal DC-Clalculation: 8 + Differenz-bonus + Professiency-Bonus. 
-
-mods could be like: x<5: 1, 5<= x < 10: 2, 10<= x < 15: 3, 15 <= x < 20: 4, 20 <= x < 25: 5, 25 <= x < 30: 6
-
-And if I am correct highest possible gab is 29, as you can up to +5 from Dex and +5 from Alert Feat, so nat1 = 1 and nat20+10 $\to$ 30-1 = 29. Of course there are megical items. So it could be higher, but scaling is clear ig.
-
-Or should you do it harder like Gap of more than 12 is no reaction? But this could make DEX Builds Really strong. I think throw way is easier to balance.
+Still determines turn order. Additionally, the difference between two combatants' initiative values flows directly into the Parry DC as a tier (see 6.3) — no separate reaction gate roll.
 
 ### AC
+No longer a binary hit/miss, but a damage modifier:
 
-Also AC stays relevant. Not anymore if you hit, but how hard. So if you shoot an Arrow it is your precision, and of course if that enemy got an plate Armor you hit way less often. But calculation maybe is adapted, as 19 AC is way to high for just aiming. 
-For melee AC just is a Damage Mod. Like $\frac{1}{(AC/10)}$ is a mod to damage or something.
+$$\text{Mod} = \frac{1}{AC/10}$$
 
-## Attack zones
+AC 10 = neutral (×1), AC 20 = ×0.5 (half damage), AC 5 = ×2 (double damage). Full avoidance remains reserved for active reactions (Block/Parry/Dodge).
 
-This Combat system already calls for zones. This also fixes a big issue of DnD. Hitting a toe of an Dragon does same damage as hitting the billy, that's kind of wired. Therefor each enemy got some more or less damaging body parts.
+---
 
-Hitting the Eye is not only blinding enemies often, at least for enemies to giant size it is often deadly, as it pierces the brain as well. So there you deal more damage. Hitting the toe or the tail of an enemy is often not even really noticeable.
+## 10. Attack Zones (TBD)
 
-But this topic is touched on monster guide, as soon as I wrote it.
+Different body zones should allow for different amounts of damage (a hit to a dragon's toe ≠ a hit to its belly). Details to follow in the Monster Guide. Called Shots (see Section 1) are the interface to this system.
 
+---
 
-A complete attack loop could look like this:
+## 11. Example Combat Sequence
 
-- A sets Bonus Attack trigger to lost parry (from A's sight lost)
-- A calls attack
-    - damage roll
-    - precision roll
-- B calls parry (Parry is enemy but also self-exposure, as you need to open your body to controll enemies weapon)
-    - Stamina reduction
-    - roll:
-        - miss
-            - A deals damage to B
-        - success
-            - B deals damage to A
-            - A's bonus attack triggers
-                - A deals damage to B
-
+- A sets a bonus-attack trigger: "when the opponent's parry fails" (A exploits the opening).
+- A attacks:
+  - Damage roll
+  - *(no precision roll in melee, see Section 1)*
+- B reacts with a Parry (costs stamina, simultaneously opens B's own guard):
+  - Stamina deducted from B
+  - Success check against DC (see 6.3):
+    - **Failure:** A hits B with full damage
+    - **Success:** B hits A (free counterattack) + A's bonus trigger fires → A additionally hits B
