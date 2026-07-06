@@ -6,6 +6,31 @@
 
 ## Biomes
 
+### Meadows
+
+### Forest
+
+### Coast
+
+### Mountains
+
+### Swamp
+
+### Tundra
+
+### Polar
+
+### Desert
+
+### Continantal-Desert
+
+### Steppe
+
+### Jungle
+
+### Ocean
+
+
 ## Weather effects
 ### Clouds
 
@@ -15,3 +40,4 @@
 
 ### Temperatures
 
+## Skill Mod
