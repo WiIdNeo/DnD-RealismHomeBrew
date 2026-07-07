@@ -10,13 +10,22 @@ This system is inspired by *The Riddle of Steel*, but not a 1:1 copy — the sta
 
 ## 1. Core Mechanic: Ranged vs. Melee
 
-**Ranged:** The attacker rolls an aim check (scaling with distance). The defender rolls Dodge or Block against it.
+| Distance | DC |
+| ---------: | --------------: |
+|      0,5 m |               2 |
+|        5 m |               3 |
+|       10 m |               4 |
+|       20 m |               6 |
+|       30 m |               8 |
+|       40 m |              10 |
+|       50 m |              12 |
+|       75 m |              15 |
+|      100 m |              18 |
+|      125 m |              20 |
 
-**Melee:** At distances under 0.5m, "does it land at all" is practically no longer an open question — the real uncertainty lies entirely in the defense. A separate attacker roll would therefore be redundant.
-
-> **Rule:** Standard melee attacks require **no** attacker roll. Only the damage is rolled (which also determines the Stance-Breaking strength); the defender decides whether and how to react, and rolls their one check. One roll per exchange instead of two.
->
 > **Exception — Called Shots:** Precise hits on small target zones (eye, throat) remain uncertain even at close range. Here the attacker rolls an additional precision check, but only as a deliberate special action, not as the default. (Details: see Attack Zones section, TBD.)
+> 
+> Dm decides how much harder called shoots are. Normally the smaller, the harder. Of course a called shot to Heart and you role one to low does not need to mean to not hit. It could also mean just not hitting that critical zone. But DM makes that call. Also the size difference can be hard, as a tiny human like halfling could become problem if hitting a giant into eye. So DM may increase difficulty or requires a prior Skill check. This would also fix problems about precise longshots to an eye or something.
 
 Reactions are limited by a stamina pool (relevant only for defense — offense remains pure action economy).
 
@@ -142,7 +151,7 @@ $$\text{Parry-Drain} = \left(\varnothing d6 \times \frac{\text{Stance-Breaking}}
 $$\text{Damage} = \max\left(1,\; 1d6 + \text{Prof-Mod} + \text{Stat-Mod}\right)$$
 
 - **Prof-Mod** unchanged (+2 to +6) — carries the level curve.
-- **Stat-Mod** (weapon's governing stat) full weight, **capped at base ±5** (magic item bonuses handled separately/situationally, not in this calculation).
+- **Stat-Mod** (weapon's governing stat) full weight
 - Minimum 1 damage on any hit, regardless of negative modifiers.
 
 *So that a level-1 wizard and a level-1 barbarian with the same weapon deal different damage — not because of level, but because of build.*
@@ -221,7 +230,7 @@ Different body zones should allow for different amounts of damage (a hit to a dr
 ## 11. Example Combat Sequence
 
 - A sets a bonus-attack trigger: "when the opponent's parry fails" (A exploits the opening).
-- A attacks:
+- An attack:
   - Damage roll
   - *(no precision roll in melee, see Section 1)*
 - B reacts with a Parry (costs stamina, simultaneously opens B's own guard):
