@@ -14,19 +14,6 @@ I try this by giving a per hour or per day need of those things and your DM deci
 
 The core principle remains the same as in the original version: **the DM rarely asks for tracking** (usually once per day during a rest), while a simple, realistic deterioration system runs in the background if a need is not met. The common mechanic throughout is **Exhaustion**.
 
-### Reference Table: Exhaustion Levels (applies to all sections)
-
-| Level | Effect                                         |
-| ----- | ---------------------------------------------- |
-| 1     | Disadvantage on ability checks                 |
-| 2     | Speed halved                                   |
-| 3     | Disadvantage on attack rolls and saving throws |
-| 4     | Hit point maximum halved                       |
-| 5     | Speed reduced to 0                             |
-| 6     | Death                                          |
-
-Exhaustion is normally reduced by **1 level only after completing a Long Rest with full provisions** (food, water, and adequate warmth). Characters who sleep hungry or while suffering from cold cannot recover Exhaustion.
-
 ---
 
 ## Food
