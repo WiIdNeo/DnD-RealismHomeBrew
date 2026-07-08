@@ -11,6 +11,4 @@ Yes they do. As stamina is the main increasing stat, hp scales way less but I am
 
 As long as i need just ask your Dm what he things your character or also monsters should survive to hits on base level. 
 
-$$\text{HP} = \text{Hits to die after} \times 3.5 \times (\text{Prof-Mod} - 1)$$
-
-This now does not scale with any CON, but so it is as long this is WIP.
+$$\text{HP} = \text{Hits to die after} + 3.5 \times (\text{Prof-Mod} - 1 + \text{CON-Mod} )$$
