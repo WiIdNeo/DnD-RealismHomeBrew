@@ -228,6 +228,8 @@ AC 10 = neutral (×1), AC 20 = ×0.5 (half damage), AC 5 = ×2 (double damage). 
 Base idea is to bring more realism to fights by making specific body parts more penetrating than others.
 A hit to the arm or foot may is bad for movement, but damage is just normal to low. In opposite a hit to head is really dangerous and deals a lot of damage and as conclusion a hit into ear or eye is immediate death. Therefore, this system supports different body parts. Of course, you can bring a lot of rules in this for loosed arms or legs and stuff like this, but I would say that's mainly a dm topic he is deciding on the fly. As the damage in this system also is not really high, normally about 3.5+Mods the hit into a vital area may grant a further d4 to d8 depending on zone. But that's a dm choice.
 
+of course this needs to be balanced in a way not every fight is just hit to eye bow simulator. So high DC is wanted at those shots.
+
 ---
 
 ## 11. Example Combat Sequence
@@ -242,6 +244,7 @@ A hit to the arm or foot may is bad for movement, but damage is just normal to l
     - **Failure:** A hits B with full damage
     - **Success:** B hits A (free counterattack) + A's bonus trigger fires → A additionally hits B
 
+---
 
 ## 12. Buffs
 
@@ -251,3 +254,9 @@ Most buffs are covered in special Buffs.md.
 In originally DnD rules those are to overwind the AC of the Enemy to deal damage. In our System AC is just a Mod itself and has nothing to do with the hit dice. Therefore, also Advantage and Disadvantage do not affect the hit-dice. If the target is blinded it is not easier to you to aim, it is just harder for the blinded creature to notice your attack. So advantage and disadvantage are depending on Buff or Debuff granting it little different but may mean best of two on Damage Dice or disadvantage on a saving throw.
 
 ---
+
+## Dying
+
+If you reduce a creature's TP to 0 it is not dying immediately. Instead, it goes unconscious. Now the level of wounds is critical. If you have really heavy wounds you start dying. You need to be cared about. You can't save yourself. If you have some not critical wounds they of course stay, but you awake after some time and therefore can take care of yourself. 
+
+During this down state you are completely helpless and need to hope for your opponents' and mates' mercy and grace. If you fight an unconscious opponent you got the opportunity to attack it without it can defend itself, so you got the opportunity for a finisher move killing the enemy.
