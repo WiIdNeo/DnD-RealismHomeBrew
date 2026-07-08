@@ -8,6 +8,8 @@ This system is inspired by *The Riddle of Steel*, but not a 1:1 copy — the sta
 
 ---
 
+If not stated differently the original DnD fighting rules are applied. Remember this is work in progress and for now only a theoretical concept and not playtested. If you notice any problem please raise an issue!
+
 ## 1. Core Mechanic: Ranged vs. Melee
 
 | Distance | DC |
@@ -92,7 +94,7 @@ $$\text{ConMult} = 1 + \frac{\text{Con-Mod}}{10}$$
 | 5 | 80 | | +3 | 1.3 |
 | 6 (Lvl 20) | 90 | | +5 | 1.5 |
 
-**Why separate:** Pure level scaling (at Con=0) gives 50 → 90, a factor of **1.8×** — roughly matching damage scaling (see below) and preventing experienced fighters from being able to sustain proportionally *fewer* blocks than beginners. CON remains an independent second axis: worst CON exactly halves the pool, best CON gives +50%.
+**Why separate:** Pure level scaling (at Con=0) gives 50 → 90, a factor of **1.8×** — roughly matching damage scaling (see below) and preventing experienced fighters from being able to sustain proportionally *fewer* blocks than beginners. CON remains an independent second axis: worst CON exactly halves the pool.
 
 ### 5.2 Reset
 
@@ -102,21 +104,8 @@ Stamina regenerates per combat, not per round — a middle ground between realis
 
 ## 6. Defense Options
 
-### 6.1 Dodge
-Fixed stamina cost (see 6.4). Pure DEX check, scaling with distance/attacker's DEX. On success: 0 damage.
-
-### 6.2 Block
-No roll required, but stamina drain scales with the damage of the hit:
-
-$$\text{Block-Drain} = \text{Damage} \times \left(1 + \frac{\text{Stance-Breaking}}{2}\right)$$
-
-If the pool drops below 0, the remaining force is passed through proportionally as damage (see calculation example 8.3).
-
-### 6.3 Parry
-Requires timing (success check). On success: 0 damage + free counterattack (opportunity attack, no reaction possible from the opponent). On failure: full hit.
-
 **Success DC:**
-$$DC = 10 + \text{Attacker-Stat} + \text{Attacker-Prof} + \text{Init-Diff-Tier} - \text{Defender-Prof} - \text{Defender-Dex}$$
+$$DC = 10 + \text{Init-Diff-Tier} + \text{Attacker-Prof} - \text{Defender-Prof}$$
 
 Defender rolls a plain 1d20 ≥ DC (all modifiers are already baked into the DC). At parity with no initiative difference: ~50/50. A natural 20 always succeeds, a natural 1 always fails.
 
@@ -124,15 +113,37 @@ Defender rolls a plain 1d20 ≥ DC (all modifiers are already baked into the DC)
 
 | Initiative Difference | Tier |
 |---|---|
-| < 5 | 1 |
-| 5–9 | 2 |
-| 10–14 | 3 |
-| ≥ 15 | 4 (cap) |
+| 0 | 0 |
+| 3 | 1 |
+| 6 | 2 |
+| 9 | 3 |
+| 12 | 4 |
+| 15 | 5|
+| 18 | 6 |
+| 21 | 7 |
+| ... | ... |
 
 *Replaces a separate "can I react at all" gate check — the initiative difference flows directly into the existing defense DC, no extra roll needed.*
 
+In case you role a nat1 or nat20 that only effects your position in action queue, the Initiative for this difference is still increased/decreased according to Buffs.
+
+
+### 6.1 Dodge
+
+Fixed stamina cost of 9. Pure DEX check, scaling with distance/attacker's DEX. On success: 0 damage.
+
+### 6.2 Block
+You gain a block buff depending on your block weapon, stamina drain scales with the damage of the hit:
+
+$$\text{Stamina-Drain} = \text{Damage} \times \left(1 + \frac{\text{Stance-Breaking}}{2}\right)$$
+
+If the pool drops below 0, the remaining force is passed through proportionally as damage (see calculation example 8.3).
+
+### 6.3 Parry
+Requires timing (success check). On success: 0 damage + free counterattack (opportunity attack, no reaction possible from the opponent). On failure: full hit. There is a parry bonus to the check depending on your weapon.
+
 **Cost (regardless of success):**
-$$\text{Parry-Drain} = \left(\varnothing d6 \times \frac{\text{Stance-Breaking}}{2}\right) + \frac{\text{Prof-Mod}}{2}$$
+$$\text{Stamina-Drain} = \left(\text{Damage} \times \frac{\text{Stance-Breaking}}{2}\right) + \frac{\text{Prof-Mod}}{2}$$
 
 ### 6.4 Reference Values for Stamina Costs
 
@@ -193,7 +204,7 @@ Standard 0.5 → 1 round-up, but the base value is reduced by 0.1 beforehand (ef
 
 **Result:** Even the weakest possible hit from a maxed-out hammer build exceeds the entire stamina pool of a fragile defender — **the very first block already can't be fully absorbed.**
 
-**Overflow Damage (new rule, resolves the previously open question from the original document):**
+**Overflow Damage:**
 
 $$\text{Damage Through} = \text{Damage} \times \frac{\text{Overflow}}{\text{Drain}}$$
 
@@ -210,7 +221,7 @@ $$\text{Damage Through} = \text{Damage} \times \frac{\text{Overflow}}{\text{Drai
 ## 9. AC & Initiative
 
 ### Initiative
-Still determines turn order. Additionally, the difference between two combatants' initiative values flows directly into the Parry DC as a tier (see 6.3) — no separate reaction gate roll.
+Still determines turn order. Additionally, the difference between two combatants' initiative values flows directly into the Defensive DC as a tier (see 6.3) — no separate reaction gate roll.
 
 ### AC
 No longer a binary hit/miss, but a damage modifier:
