@@ -241,3 +241,13 @@ A hit to the arm or foot may is bad for movement, but damage is just normal to l
   - Success check against DC (see 6.3):
     - **Failure:** A hits B with full damage
     - **Success:** B hits A (free counterattack) + A's bonus trigger fires → A additionally hits B
+
+
+## 12. Buffs
+
+Most buffs are covered in special Buffs.md.
+
+### Advantage and Disadvantage
+In originally DnD rules those are to overwind the AC of the Enemy to deal damage. In our System AC is just a Mod itself and has nothing to do with the hit dice. Therefore, also Advantage and Disadvantage do not affect the hit-dice. If the target is blinded it is not easier to you to aim, it is just harder for the blinded creature to notice your attack. So advantage and disadvantage are depending on Buff or Debuff granting it little different but may mean best of two on Damage Dice or disadvantage on a saving throw.
+
+---
