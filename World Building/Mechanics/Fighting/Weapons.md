@@ -63,3 +63,18 @@ If your weapon is really heavy it is likely to slow you down. To simulate that y
 | Pike                | double |   -3 |       +3 |    +2 |    +1 |         +1 |
 | Schwere Armbrust    | double |   -3 |       -3 |    -3 |    -3 |         -3 |
 | Langbogen           | double |    0 |       -3 |    -3 |    -3 |         -3 |
+
+
+## Special Weapons
+### Shield
+
+A shield does not deal any damage on Attack! Therefore your Target needs to do an STR-Check $\text{DC} = 10 + \text{Your STR-Mod} - \text{enenies STR-Mod} + \text{Your Prof-Mod} - \text{enenies Prof-Mod}$. If it fails that check it falls to the ground and so gets the on-the-ground-mod what will be discussed in Buffs and debuffs Markdown as soon I wrote that! In case your Enemy tries to parry or block that attack, throw a normal 1d6 for Block or Parry Energy drain!
+
+| Schild           | Typ     | Init | Parry DC | Parry | Block | Stance Damage |
+| ---------------- | ------- | ---: | -------: | ----: | ----: | ------------: |
+| Buckler          | Special |   +1 |       +1 |    +1 |     0 |             0 |
+| Leichter Schild  | Special |    0 |       +2 |    +2 |    +1 |            +1 |
+| Mittlerer Schild | Special |   -1 |       +2 |    +2 |    +2 |            +2 |
+| Turmschild       | Special |   -3 |       +3 |    +1 |    +3 |            +2 |
+
+

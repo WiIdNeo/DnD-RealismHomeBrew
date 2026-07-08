@@ -90,7 +90,7 @@ Stamina regenerates per combat, not per round — a middle ground between realis
 ## 6. Defense Options
 
 **Success DC:**
-$$DC = 10 + \text{Init-Diff-Tier} + \text{Attacker-Prof} - \text{Defender-Prof}$$
+$$DC = \text{10} + \text{Init-Diff-Tier} + \text{Attacker-Prof} - \text{Defender-Prof} + \text{Defensive Action Mod}$$
 
 Defender rolls a plain 1d20 ≥ DC (all modifiers are already baked into the DC). At parity with no initiative difference: ~50/50. A natural 20 always succeeds, a natural 1 always fails.
 
@@ -115,6 +115,10 @@ In case you role a nat1 or nat20 that only effects your position in action queue
 
 ### 6.1 Dodge
 
+As DEX is already represented in Initiative-Difference. Defensive Action Mod is 2, as I am not a fan of basic Heads or Tails, but the DM can decide if the check is close to win, so you may already in the dodge, so the damage is halved and the zone maybe isn't hit or something like that. If your Dm wants a Head and Tail System I recommend instead a Mod of 0.
+
+Failure
+
 Fixed stamina cost of 9. Pure DEX check, scaling with distance/attacker's DEX. On success: 0 damage.
 
 ### 6.2 Block
@@ -124,8 +128,10 @@ $$\text{Stamina-Drain} = \text{Damage} \times \left(1 + \frac{\text{Stance-Break
 
 If the pool drops below 0, the remaining force is passed through proportionally as damage (see calculation example 8.3).
 
+Blocking requires really low timing or speed so Defensive Aktion Bonus is here - (2 + Weapon Mod).
+
 ### 6.3 Parry
-Requires timing (success check). On success: 0 damage + free counterattack (opportunity attack, no reaction possible from the opponent). On failure: full hit. There is a parry bonus to the check depending on your weapon.
+Requires timing and accuracy so Defensive Action Mod is + (2 - Weapon Mod). On success: 0 damage + free counterattack (opportunity attack, no reaction possible from the opponent). On failure: full hit. There is a parry bonus to the check depending on your weapon.
 
 **Cost (regardless of success):**
 $$\text{Stamina-Drain} = \left(\text{Damage} \times \frac{\text{Stance-Breaking}}{2}\right) + \frac{\text{Prof-Mod}}{2}$$
