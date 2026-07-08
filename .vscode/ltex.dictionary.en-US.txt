@@ -1,2 +1,4 @@
 DnD
 Feywild
+debuffs
+debuff

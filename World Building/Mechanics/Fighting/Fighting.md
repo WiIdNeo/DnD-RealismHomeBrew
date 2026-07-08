@@ -50,22 +50,7 @@ HP matters less, but CON stays relevant: increases resistance to impacts/falls a
 
 ## 3. Weapon Table
 
-4 ranks per property: 1 = light, 2 = normal, 3 = heavy, 4 = (nearly) impossible.
-
-| Weapon | Weight | Governing Stat | Stance-Breaking | Blocking Diff. | Parry Diff. |
-|---|---|---|---|---|---|
-| Dagger | light | DEX | 1 | 4 | 4 |
-| Shortsword | light | STR/DEX | 2 | 3 | 2 |
-| Rapier | light | DEX | 2 | 4 | 3 |
-| Handaxe | normal | STR | 2 | 3 | 2 |
-| Longsword | normal | STR | 3 | 2 | 2 |
-| Staff | medium | STR | 3 | 1 | 3 |
-| Spear | medium | STR | 3 | 1 | 3 |
-| Shield | medium | STR | 3 | 1 | 1 |
-| Battleaxe | heavy | STR | 4 | 2 | 3 |
-| Hammer | heavy | STR | 4 | 2 | 3 |
-
-*Stance-Breaking* belongs to the attacking weapon, *Blocking/Parry Diff.* to the defender's weapon — both independent of each other.
+Weapons grant you different buffs and debuffs for checks and properties making the correct weapon choice quite important. As this is a really long list of all weapons and their buff there will be another markdown on this.
 
 ---
 
@@ -232,9 +217,10 @@ AC 10 = neutral (×1), AC 20 = ×0.5 (half damage), AC 5 = ×2 (double damage). 
 
 ---
 
-## 10. Attack Zones (TBD)
+## 10. Attack Zones (WIP)
 
-Different body zones should allow for different amounts of damage (a hit to a dragon's toe ≠ a hit to its belly). Details to follow in the Monster Guide. Called Shots (see Section 1) are the interface to this system.
+Base idea is to bring more realism to fights by making specific body parts more penetrating than others.
+A hit to the arm or foot may is bad for movement, but damage is just normal to low. In opposite a hit to head is really dangerous and deals a lot of damage and as conclusion a hit into ear or eye is immediate death. Therefore, this system supports different body parts. Of course, you can bring a lot of rules in this for loosed arms or legs and stuff like this, but I would say that's mainly a dm topic he is deciding on the fly. As the damage in this system also is not really high, normally about 3.5+Mods the hit into a vital area may grant a further d4 to d8 depending on zone. But that's a dm choice.
 
 ---
 
