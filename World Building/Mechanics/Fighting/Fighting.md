@@ -268,3 +268,11 @@ During this down state you are completely helpless and need to hope for your opp
 Opportunity Attacks are still handled the same way as before, but of course you got the opportunity to React to those if DM does not decide differently.
 
 There also is a new type of Opportunity Attack: If you enter melee range of someone else it got the opportunity to do an opening hit. It got the normal Defensive Action DC to it with special mod 0. If it declares that attack you can decide if react or not react. In case you react you just treat it as normal out of the loop attack. If you don't react you take the hit or if the other one fails the DC it can't react to your next Action.
+
+On leaving the melee range of an enemy it got it's leaving attack. Now there are two possibilities: 
+
+- You want to block/parry: 
+  - You can do just as normal, but all the range you walk until this block is treated as walking backwards and therefore is multiplied by 1.5.
+- You want to dodge
+  - if you just guess the moment when dodge should be necessary, the DC gains a +1 per meter melee Range the attacking weapon got.
+  - if you want normal DC, you need to walk backwards to the point of dodge: multiplied by 1.5 
