@@ -255,8 +255,16 @@ In originally DnD rules those are to overwind the AC of the Enemy to deal damage
 
 ---
 
-## Dying
+## 13. Dying
 
 If you reduce a creature's TP to 0 it is not dying immediately. Instead, it goes unconscious. Now the level of wounds is critical. If you have really heavy wounds you start dying. You need to be cared about. You can't save yourself. If you have some not critical wounds they of course stay, but you awake after some time and therefore can take care of yourself. 
 
 During this down state you are completely helpless and need to hope for your opponents' and mates' mercy and grace. If you fight an unconscious opponent you got the opportunity to attack it without it can defend itself, so you got the opportunity for a finisher move killing the enemy.
+
+---
+
+## 14. Opportunity Attacks
+
+Opportunity Attacks are still handled the same way as before, but of course you got the opportunity to React to those if DM does not decide differently.
+
+There also is a new type of Opportunity Attack: If you enter melee range of someone else it got the opportunity to do an opening hit. It got the normal Defensive Action DC to it with special mod 0. If it declares that attack you can decide if react or not react. In case you react you just treat it as normal out of the loop attack. If you don't react you take the hit or if the other one fails the DC it can't react to your next Action.
