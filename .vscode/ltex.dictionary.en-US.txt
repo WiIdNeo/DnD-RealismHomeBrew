@@ -2,3 +2,4 @@ DnD
 Feywild
 debuffs
 debuff
+psychologic

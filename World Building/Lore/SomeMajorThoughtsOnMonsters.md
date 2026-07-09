@@ -91,7 +91,7 @@ Fairies/Pixies/Sprites, Korreds, Quicklings, Redcaps — Celtic, Hags — Slavic
 Giants, Ettins, Trolls, Ogres — Norse jötnar model, no clergy, propitiation not worship. Oni — Japanese, but worth a correction: oni aren't purely Shinto. They're a **Buddhist-hell-and-Chinese-demon (gui) import** that got folklorized into native Japanese belief — closer to "imported hell-iconography gone folk" than animist Shinto. Feared and warded off (bean-throwing at Setsubun), never worshipped — same no-faith model applies.
 
 ### Dragons & kin
-too god-adjacent, no cult. Draconians, tier-1 emperor-loyalty to their creator (Mesopotamian god-empress flavor)
+too god-adjacent, no cult. Draconians, tier-1 emperor-loyalty to their creator
 
 ### Aberrations
 Mind Flayers, Aboleths, Slaadi, Neogi stay culture-less by design (Cthulhu-Mythos-style alienness resists real-world religious mapping on purpose). Flumphs keep the soft Shinto-animist-harmony option
