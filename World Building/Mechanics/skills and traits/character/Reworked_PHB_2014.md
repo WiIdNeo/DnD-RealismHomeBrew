@@ -2,177 +2,57 @@
 >
 >All things not relevant to changes like creation help are cleansed from this version! You can find the pdf for free in Web, so just search there if you got any question or raise an Discussion after checking on already existing one.
 
-# Chapter 1: Step by Step Characters
-
-OUR FIRST STEP IN PLAYING AN ADVENTURER IN THE Dungeons & Dragons game is to imagine and create a character of your own. Your character is a combination of game statistics, roleplaying hooks, and your imagination. You choose a race (such as human or halfling) and a class (such as fighter or wizard). You also invent the personality, appearance, and backstory of your character. Once completed, your character serves as your representative in the game, your avatar in the Dungeons & Dragons world.
-
-Before you dive into step 1 below, think about the kind of adventurer you want to play. You might be a courageous fighter, a skulking rogue, a fervent cleric, or a flamboyant wizard. Or you might be more interested in an unconventional character, such as a brawny rogue who likes hand-to-hand combat, or a sharpshooter who picks off enemies from afar. Do you like fantasy fiction featuring dwarves or elves? Try building a character of one of those races. Do you want your character to be the toughest adventurer at the table? Consider a class like barbarian or paladin. If you don't know where else to begin, take a look at the illustrations in this book to see what catches your interest.Once you have a character in mind, follow these steps in order, making decisions that reflect the character you want. Your conception of your character might evolve with each choice you make. What's important is that you come to the table with a character you're excited to play.
-
-Throughout this chapter, we use the term character sheet to mean whatever you use to track your character, whether it's a formal character sheet (like the one at the end of this book), some form of digital record, or a piece of notebook paper. An official D&D character sheet is a fine place to start until you know what information you need and how you use it during the game.
-
-## Building Bruenor
-
-Each step of character creation includes an example of that step, with a player named Bob building his dwarf character, Bruenor.
-
-## 1. Choose a Race
-
-Every character belongs to a race, one of the many intelligent humanoid species in the D&D world. The most common player character races are dwarves, elves, halflings, and humans. Some races also have subraces, such as mountain dwarf or wood elf. Chapter 2 provides more information about these races, as well as the less widespread races of dragonborn, gnomes, half-elves, half-orcs, and tieflings.The race you choose contributes to your character's identity in an important way, by establishing a general appearance and the natural talents gained from culture and ancestry. Your character's race grants particular racial traits, such as special senses, proficiency with certain weapons or tools, proficiency in one or more skills, or the ability to use minor spells. These traits sometimes dovetail with the capabilities of certain classes (see step 2). For example, the racial traits of lightfoot halflings make them exceptional rogues, and high elves tend to be powerful wizards. Sometimes playing against type can be fun, too. Half-orc paladins and mountain dwarf wizards, for example, can be unusual but memorable characters.
-
-Your race also increases one or more of your ability scores, which you determine in step 3. Note these increases and remember to apply them later.
-
-Record the traits granted by your race on your character sheet. Be sure to note your starting languages and your base speed as well.
-
-## Building Bruno, Step 1
-
-Bob is sitting down to create his character. He decides that a gruff mountain dwarf fits the character he wants to play. He notes all the racial traits of dwarves on his character sheet, including his speed of 25 feet and the languages he knows: Common and Dwarvish.
-
-## 2. Choose a ClassEvery adventurer is a member of a class. Class broadly describes a character's vocation, what special talents he or she possesses, and the tactics he or she is most likely to employ when exploring a dungeon, fighting monsters, or engaging in a tense negotiation. The character classes are described in chapter 3.
-
-Your character receives a number of benefits from your choice of class. Many of these benefits are class features—capabilities (including spellcasting) that set your character apart from members of other classes. You also gain a number of proficiencies: armor, weapons, skills, saving throws, and sometimes tools. Your proficiencies define many of the things your character can do particularly well, from using certain weapons to telling a convincing lie.
-
-On your character sheet, record all the features that your class gives you at 1st level.
-
-## Level
-
-Typically, a character starts at 1st level and advances in level by adventuring and gaining experience points (XP). A 1st-level character is inexperienced in the adventuring world, although he or she might have been a soldier or a pirate and done dangerous things before.
-
-Starting off at 1st level marks your character's entry into the adventuring life. If you're already familiar with the game, or if you are joining an existing D&D campaign, your DM might decide to have you begin at a higher level, on the assumption that your character has already survived a few harrowing adventures.
-
-1
-
-## Quick Build
-
-Each class description in chapter 3 includes a section offering suggestions to quickly build a character of that class, including how to assign your highest ability scores, a background suitable to the class, and starting spells.Record your level on your character sheet. If you're starting at a higher level, record the additional elements your class gives you for your levels past 1st. Also record your experience points. A 1st-level character has 0 XP. A higher-level character typically begins with the minimum amount of XP required to reach that level (see "Beyond 1st Level" later in this chapter).
-
-## Hit Points and Hit Dice
-
-Your character's hit points define how tough your character is in combat and other dangerous situations. Your hit points are determined by your Hit Dice (short for Hit Point Dice).
 
 ## Ability Score Summary
 
 ## Strength
 
-Measures: Natural athleticism, bodily power
-
-Important for: Barbarian, fighter, paladin
-
-Racial Increases:
-
-Mountain dwarf (+2) Half-orc (+2)
-
-Dragonborn (+2) Human (+1)
+- Natural athleticism
+- bodily power
+- scales Damage on STR-Weapons
+- max carry weight 
 
 ## Dexterity
 
-Measures: Physical agility, reflexes, balance, poise
-
-Important for: Monk, ranger, rogue
-
-Racial Increases:
-
-Elf (+2) Forest gnome (+1)
-
-Halfling (+2) Human (+1)
+- Physical agility
+- reflexes
+- balance
+- poise
+- scales DEX Weapons Damage
+- walking speed increase
 
 ## Constitution
 
-Measures: Health, stamina, vital force
-
-Important for: Everyone
-
-Racial Increases:
-
-Dwarf (+2) Half-orc (+1)
-
-Stout halfling (+1) Human (+1)
-
-Rock gnome (+1)
+- Health
+- stamina
+- vital force
+- how long you can march
 
 ## Intelligence
 
-Measures: Mental acuity, information recall, analytical skill
+- Mental acuity
+- information recall
+- analytical skill
+- scales INT-Spells Damage
 
-Important for: Wizard
-
-Racial Increases:
-
-High elf (+1) Tiefling (+1)
-
-Gnome (+2) Human (+1)
 
 ## Wisdom
 
-Measures: Awareness, intuition, insight
+- Awareness
+- intuition / faith
+- insight
+- scales your miracles damage and effectivness
 
-Important for: Cleric, druid
-
-Racial Increases:
-
-Hill dwarf (+1) Human (+1)
-
-Wood elf (+1)
 
 ## Charisma
 
-Measures: Confidence, eloquence, leadership
-
-Important for: Bard, sorcerer, warlock
-
-Racial Increases:
-
-Half-elf (+2) Dragonborn (+1)
-
-Drow (+1) Human (+1)
-
-Lightfoot halfling (+1) Tiefling (+2)At 1st level, your character has 1 Hit Die, and the die type is determined by your class. You start with hit points equal to the highest roll of that die, as indicated in your class description. (You also add your Constitution modifier, which you'll determine in step 3.) This is also your hit point maximum.
-
-Record your character's hit points on your character sheet. Also record the type of Hit Die your character uses and the number of Hit Dice you have. After you rest, you can spend Hit Dice to regain hit points (see "Resting" in chapter 8).
-
-## Proficiency Bonus
-
-The table that appears in your class description shows your proficiency bonus, which is +2 for a 1st-level character. Your proficiency bonus applies to many of the numbers you'll be recording on your character sheet:
-
-- Attack rolls using weapons you're proficient with
-- Attack rolls with spells you cast
-- Ability checks using skills you're proficient in
-- Ability checks using tools you're proficient with
-- Saving throws you're proficient in
-- Saving throw DCs for spells you cast (explained in each spellcasting class)
-
-Your class determines your weapon proficiencies, your saving throw proficiencies, and some of your skill and tool proficiencies. (Skills are described in chapter 7, tools in chapter 5.) Your background gives you additional skill and tool proficiencies, and some races give you more proficiencies. Be sure to note all these proficiencies, as well as your proficiency bonus, on your character sheet.Your proficiency bonus can't be added to a single die roll or other number more than once. Occasionally, your proficiency bonus might be modified (doubled or halved, for example) before you apply it. If a circumstance suggests that your proficiency bonus applies more than once to the same roll or that it should be multiplied more than once, you nevertheless add it only once, multiply it only once, and halve it only once.
-
-## Building Bruenor, Step 2
-
-Bob imagines Bruenor charging into battle with an axe, one horn on his helmet broken off. He makes Bruenor a fighter and notes the fighter's proficiencies and 1st-level class features on his character sheet.
-
-As a 1st-level fighter, Bruenor has 1 Hit Die—a d10—and starts with hit points equal to 10 + his Constitution modifier. Bob notes this, and will record the final number after he determines Bruenor's Constitution score (see step 3). Bob also notes the proficiency bonus for a 1st-level character, which is +2.
+- Confidence
+- eloquence
+- leadership
 
 ## 3. Determine Ability Scores
 
-Much of what your character does in the game depends on his or her six abilities: Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma. Each ability has a score, which is a number you record on your character sheet.The six abilities and their use in the game are described in chapter 7. The Ability Score Summary table provides a quick reference for what qualities are measured by each ability, what races increase which abilities, and what classes consider each ability particularly important.
-
-You generate your character's six ability scores randomly. Roll four 6-sided dice and record the total of the highest three dice on a piece of scratch paper. Do this five more times, so that you have six numbers. If you want to save time or don't like the idea of randomly determining ability scores, you can use the following scores instead: 15, 14, 13, 12, 10, 8.
-
-Now take your six numbers and write each number beside one of your character's six abilities to assign scores to Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma. Afterward, make any changes to your ability scores as a result of your race choice.
-
-After assigning your ability scores, determine your ability modifiers using the Ability Scores and Modifiers table. To determine an ability modifier without consulting the table, subtract 10 from the ability score and then divide the result by 2 (round down). Write the modifier next to each of your scores.
-
-## Building Bruenor, Step 3Bob decides to use the standard set of scores (15, 14, 13, 12, 10, 8) for Bruenor's abilities. Since he's a fighter, he puts his highest score, 15, in Strength. His next highest, 14, goes in Constitution. Bruenor might be a brash fighter, but Bob decides he wants the dwarf to be older, wiser, and a good leader, so he puts decent scores in Wisdom and Charisma. After applying his racial benefits (increasing Bruenor's Constitution by 2 and his Strength by 2), Bruenor's ability scores and modifiers look like this: Strength 17 (+3), Dexterity 10 (+0), Constitution 16 (+3), Intelligence 8 (-1), Wisdom 13 (+1), Charisma 12 (+1).
-
-## Ability Scores and Modifiers
-
-| Score             | Modifier Score Modifier   |
-|-------------------|----------------------------|
-| 1                 | -5                         |
-| 2-3               | -4                         |
-| 4-5               | -3                         |
-| 6-7               | -2                         |
-| 8-9               | -1                         |
-| 10-11             | +0                         |
-| 12-13             | +1                         |
-| 14-15             | +2                         |
-
-average and nearly equal (13, 13, 13, 12, 12, 12), or any set of numbers between those extremes.
+See Abillity_Score.md
 
 ## 4. Describe Your Character
 
@@ -4193,3 +4073,4055 @@ Beginning at 18th level, you are so evasive that attackers rarely gain the upper
 ## Stroke of Luck
 
 At 20th level, you have an uncanny knack for succeeding when you need to. If your attack misses a target within range, you can turn the miss into a hit. Alternatively, if you fail an ability check, you can treat the d20 roll as a 20.
+
+Once you use this feature, you can't use it again until you finish a short or long rest.
+
+## Rogue Archetypes
+
+Rogues have many features in common, including their emphasis on perfecting their skills, their precise and deadly approach to combat, and their increasingly quick reflexes. But different rogues steer those talents in varying directions, embodied by the rogue archetypes. Your choice of archetype is a reflection of your focus—not necessarily an indication of your chosen profession, but a description of your preferred techniques.
+
+## Thief
+
+You hone your skills in the larcenous arts. Burglars, bandits, cutpurses, and other criminals typically follow this archetype, but so do rogues who prefer to think of themselves as professional treasure seekers, explorers, delvers, and investigators. In addition to improving your agility and stealth, you learn skills useful for delving into ancient ruins, reading unfamiliar languages, and using magic items you normally couldn't employ.
+
+## Fast Hands
+
+Starting at 3rd level, you can use the bonus action granted by your Cunning Action to make a Dexterity (Sleight of Hand) check, use your thieves' tools to disarm a trap or open a lock, or take the Use an Object action.
+
+## Second-Story WorkWhen you choose this archetype at 3rd level, you gain the ability to climb faster than normal; climbing no longer costs you extra movement.
+
+In addition, when you make a running jump, the distance you cover increases by a number of feet equal to your Dexterity modifier.
+
+## Supreme Sneak
+
+Starting at 9th level, you have advantage on a Dexterity (Stealth) check if you move no more than half your speed on the same turn.
+
+## Use Magic Device
+
+By 13th level, you have learned enough about the workings of magic that you can improvise the use of items even when they are not intended for you. You ignore all class, race, and level requirements on the use of magic items.
+
+## Thief's Reflexes
+
+When you reach 17th level, you have become adept at laying ambushes and quickly escaping danger. You can take two turns during the first round of any combat. You take your first turn at your normal initiative and your second turn at your initiative minus 10. You can't use this feature when you are surprised.
+
+## Assassin
+
+You focus your training on the grim art of death. Those who adhere to this archetype are diverse: hired killers, spies, bounty hunters, and even specially anointed priests trained to exterminate the enemies of their deity. Stealth, poison, and disguise help you eliminate your foes with deadly efficiency.
+
+## Bonuses ProficienciesWhen you choose this archetype at 3rd level, you gain proficiency with the disguise kit and the poisoner's kit.
+
+## Assassin
+
+Starting at 3rd level, you are at your deadliest when you get the drop on your enemies. You have advantage on attack rolls against any creature that hasn't taken a turn in combat yet. In addition, any hit you score against a creature that is surprised is a critical hit.
+
+## Infiltration Expertise
+
+Starting at 9th level, you can unfailingly create false identities for yourself. You must spend seven days and 25 gp to establish the history, profession, and affiliations for an identity. You can't establish an identity that belongs to someone else. For example, you might acquire appropriate clothing, letters of introduction, and official-looking certification to establish yourself as a member of a trading house from a remote city so you can insinuate yourself into the company of other wealthy merchants.
+
+Thereafter, if you adopt the new identity as a disguise, other creatures believe you to be that person until given an obvious reason not to.
+
+## Impostor
+
+At 13th level, you gain the ability to unerringly mimic another person's speech, writing, and behavior. You must spend at least three hours studying these three components of the person's behavior, listening to speech, examining handwriting, and observing mannerisms.
+
+Your ruse is indiscernible to the casual observer. If a wary creature suspects something amiss, you have advantage on any Charisma (Deception) check you make to avoid detection.## Death Strike
+
+Starting at 17th level, you become a master of instant death. When you attack and hit a creature that is surprised, it must make a Constitution saving throw (DC 8 + your Dexterity modifier + your proficiency bonus). On a failed save, double the damage of your attack against the creature.
+
+## Arcane Trickster
+
+Some rogues enhance their fine-honed skills of stealth and agility with magic, learning tricks of enchantment and illusion. These rogues include pickpockets and burglars, but also pranksters, mischief-makers, and a significant number of adventurers.
+
+## Spellcasting
+
+When you reach 3rd level, you gain the ability to cast spells. See chapter 10 for the general rules of spellcasting and chapter 11 for the wizard spell list.
+
+Cantrips. You learn three cantrips: mage hand and two other cantrips of your choice from the wizard spell list. You learn another wizard cantrip of your choice at 10th level.
+
+Spell Slots. The Arcane Trickster Spellcasting table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+
+For example, if you know the 1st-level spell charm person and have a 1st-level and a 2nd-level spell slot available, you can cast charm person using either slot.Spells Known of 1st-Level and Higher. You know three 1st-level wizard spells of your choice, two of which you must choose from the enchantment and illusion spells on the wizard spell list.
+
+The Spells Known column of the Arcane Trickster Spellcasting table shows when you learn more wizard spells of 1st level or higher. Each of these spells must be an enchantment or illusion spell of your choice, and must be of a level for which you have spell slots. For instance, when you reach 7th level in this class, you can learn one new spell of 1st or 2nd level.
+
+The spells you learn at 8th, 14th, and 20th level can come from any school of magic.
+
+Whenever you gain a level in this class, you can replace one of the wizard spells you know with another spell of your choice from the wizard spell list. The new spell must be of a level for which you have spell slots, and it must be an enchantment or illusion spell, unless you're replacing the spell you gained at 8th, 14th, or 20th level.
+
+Spellcasting Ability. Intelligence is your spellcasting ability for your wizard spells, since you learn your spells through dedicated study and memorization. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one.
+
+Spell save DC = 8 + your proficiency bonus + your Intelligence modifier
+
+Spell attack modifier = your proficiency bonus + your Intelligence modifier
+
+## Mage Hand LegerdemainStarting at 3rd level, when you cast mage hand, you can make the spectral hand invisible, and you can perform the following additional tasks with it:
+
+- You can stow one object the hand is holding in a container worn or carried by another creature.
+- You can retrieve an object in a container worn or carried by another creature.
+- You can use thieves' tools to pick locks and disarm traps at range.
+
+## Arcane Trickster Spellcasting| Rogue Level   | — Spell Slots per Spell Level—   | — Spell Slots per Spell Level—   | — Spell Slots per Spell Level—   | — Spell Slots per Spell Level—   |
+|---------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|
+| Known Known   | 1st                              |                                  | 2nd 3rd 4th                      |                                  |
+| 3rd 3 3 2     |                                  |                                  | — — —                            |                                  |
+| 4th 3 4       | 3                                | —                                | — —                              |                                  |
+| 5th           | 3 4 3                            |                                  | — — —                            |                                  |
+| 6th           | 3 4 3                            | — —                              |                                  | —                                |
+| 7th           | 3 5 4 2                          |                                  | — —                              |                                  |
+| 8th           | 3 6 4 2                          |                                  | — —                              |                                  |
+| 9th           | 3 6 4 2                          |                                  | — —                              |                                  |
+| 10th 4 7      |                                  | 4 3                              | —                                | —                                |
+| 11th 4 8     | 4                                | 3                                | — —                              |                                  |
+| 12th 4        | 8 4 3                            |                                  | — —                              |                                  |
+| 13th 4        | 9 4 3 2                          |                                  |                                  | —                                |
+| 14th 4        | 10 4 3 2                         |                                  |                                  | —                                |
+| 15th 4        | 10 4 3 2                         |                                  |                                  | —                                |
+| 16th 4        | 11 4 3 3                         |                                  |                                  | —                                |
+| 17th 4 11 4   |                                  |                                  | 3 3                              | —                                |
+| 18th 4        | 11 4 3                           |                                  | 3                                | —                                |
+| 19th 4 12     |                                  |                                  | 4 3 3 1                          |                                  |
+| 20th 4 13 4   |                                  |                                  | 3 3 1                            |                                  |You can perform one of these tasks without being noticed by a creature if you succeed on a Dexterity (Sleight of Hand) check contested by the creature's Wisdom (Perception) check.
+
+In addition, you can use the bonus action granted by your Cunning Action to control the hand.
+
+## Magical Ambush
+
+Starting at 9th level, if you are hidden from a creature when you cast a spell on it, the creature has disadvantage on any saving throw it makes against the spell this turn.
+
+## Versatile Trickster
+
+At 13th level, you gain the ability to distract targets with your mage hand. As a bonus action on your turn, you can designate a creature within 5 feet of the spectral hand created by the spell. Doing so gives you advantage on attack rolls against that creature until the end of the turn.
+
+## Spell Thief
+
+At 17th level, you gain the ability to magically steal the knowledge of how to cast a spell from another spellcaster.Immediately after a creature casts a spell that targets you or includes you in its area of effect, you can use your reaction to force the creature to make a saving throw with its spellcasting ability modifier. The DC equals your spell save DC. On a failed save, you negate the spell's effect against you, and you steal the knowledge of the spell if it is at least 1st level and of a level you can cast (it doesn't need to be a wizard spell). For the next 8 hours, you know the spell and can cast it using your spell slots. The creature can't cast that spell until the 8 hours have passed.
+
+Once you use this feature, you can't use it again until you finish a long rest.
+
+## S orcerer
+
+Golden eyes flashing, a human stretches out her hand and unleashes the dragonfire that burns in her veins. As an inferno rages around her foes, leathery wings spread from her back and she takes to the air.
+
+Long hair whipped by a conjured wind, a half-elf spreads his arms wide and throws his head back. Lifting him momentarily off the ground, a wave of magic surges up in him, through him, and out from him in a mighty blast of lightning.
+
+Crouching behind a stalagmite, a halfling points a finger at a charging troglodyte. A blast of fire springs from her finger to strike the creature. She ducks back behind the rock formation with a grin, unaware that her wild magic has turned her skin bright blue.Sorcerers carry a magical birthright conferred upon them by an exotic bloodline, some otherworldly influence, or exposure to unknown cosmic forces. One can't study sorcery as one learns a language, any more than one can learn to live a legendary life. No one chooses sorcery; the power chooses the sorcerer.
+
+## Raw Magic
+
+Magic is a part of every sorcerer, suffusing body, mind, and spirit with a latent power that waits to be tapped. Some sorcerers wield magic that springs from an ancient bloodline infused with the magic of dragons. Others carry a raw, uncontrolled magic within them, a chaotic storm that manifests in unexpected ways.
+
+The appearance of sorcerous powers is wildly unpredictable. Some draconic bloodlines produce exactly one sorcerer in every generation, but in other lines of descent every individual is a sorcerer. Most of the time, the talents of sorcery appear as apparent flukes. Some sorcerers can't name the origin of their power, while others trace it to strange events in their own lives. The touch of a demon, the blessing of a dryad at a baby's birth, or a taste of the water from a mysterious spring might spark the gift of sorcery. So too might the gift of a deity of magic, exposure to the elemental forces of the Inner Planes or the maddening chaos of Limbo, or a glimpse into the inner workings of reality.Sorcerers have no use for the spellbooks and ancient tomes of magic lore that wizards rely on, nor do they rely on a patron to grant their spells as warlocks do. By learning to harness and channel their own inborn magic, they can discover new and staggering ways to unleash that power.
+
+## Unexplained Powers
+
+Sorcerers are rare in the world, and it's unusual to find a sorcerer who is not involved in the adventuring life in some way. People with magical power seething in their veins soon discover that the power doesn't like to stay quiet. A sorcerer's magic wants to be wielded, and it has a tendency to spill out in unpredictable ways if it isn't called on.
+
+## The Sorcerer| Proficiency   | Sorcery Points    | Features                         | Cantrips   | Spells Known   | — Spell Slots per Spell Level—   | — Spell Slots per Spell Level—   | — Spell Slots per Spell Level—   | — Spell Slots per Spell Level—   | — Spell Slots per Spell Level—   | — Spell Slots per Spell Level—   | — Spell Slots per Spell Level—   | — Spell Slots per Spell Level—   | — Spell Slots per Spell Level—   |
+|---------------|-------------------|----------------------------------|------------|----------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|
+| Level Bonus   |                   |                                  | Known      |                |                                  | 1st 2nd 3rd 4th 5th              |                                  |                                  | 6th 7th 8th                      | 9th                              |                                  |                                  |                                  |
+| 1st +2        | —                 | Spellcasting, Sorcerous Origin  | 4          | 2              | 2                                |                                  |                                  |                                  | — — — — — — — —                  |                                  |                                  |                                  |                                  |
+| 2nd +2 2      |                   | Font of Magic 4                  |            |                | 3 3                              | — — — — — — — —                  |                                  |                                  |                                  |                                  |                                  |                                  |                                  |
+| 3rd +2 3      |                   | Metamagic 4                      |            |                |                                  | 4 4 2                            |                                  |                                  | — — — — — — —                    |                                  |                                  |                                  |                                  |
+| 4th +2 4      |                   | Ability Score Improvement        |            | 5 5 4          |                                  | 3                                |                                  |                                  | — — — — — — —                    |                                  |                                  |                                  |                                  |
+| 5th           | +3 5              | —                                | 5          | 6              | 4                                | 3 2                              |                                  |                                  | — — — — — —                      |                                  |                                  |                                  |                                  |
+| 6th           | +3 6              | Sorcerous Origin feature         | 5          | 7              | 4                                | 3 3                              |                                  |                                  | — — — — — —                      |                                  |                                  |                                  |                                  |
+| 7th +3        | 7                 | —                                | 5          | 8              | 4                                | 3 3 1                            |                                  |                                  | — — — — —                        |                                  |                                  |                                  |                                  |
+| 8th +3 8      |                   | Ability Score Improvement        | 5          | 9              | 4                                | 3 3 2                            | — — — — —                        |                                  |                                  |                                  |                                  |                                  |                                  |
+| 9th +4        | 9                 | —                                |            | 5 10 4         |                                  | 3 3 3                            | 1                                | —                                |                                  | — —                              |                                  |                                  |                                  |
+| 10th          | +4 10             | Metamagic                        |            | 6 11           | 4                                | 3 3                              | 3 2                              | —                                | — —                              | —                                |                                  |                                  |                                  |
+| 11th +4       | 11                | —                                | 6          | 12             | 4                                | 3 3                              | 3 2 1                            |                                  | —                                | — —                              |                                  |                                  |                                  |
+| 12th +4 12    |                   | Ability Score Improvement        |            | 6 12 4 3 3     |                                  |                                  | 3 2                              | 1                                | — —                              | —                                |                                  |                                  |                                  |
+| 13th          | +5 13             | —                                | 6          | 13             | 4                                | 3 3 3                            | 2                                | 1                                | 1 —                              | —                                |                                  |                                  |                                  |
+| 14th +5 14    |                   | Sorcerous Origin feature         |            | 6 13 4         |                                  |                                  | 3 3 3 2 1                        |                                  | 1                                | — —                              |                                  |                                  |                                  |
+| 15th          | +5 15             | —                                |            | 6 14 4 3 3     |                                  |                                  |                                  | 3 2 1 1 1                        |                                  | —                                |                                  |                                  |                                  |
+| 16th          | +5 16             | Ability Score Improvement 6 14 4 |            |                |                                  | 3 3 3                            | 2                                | 1                                |                                  | 1 1 —                            |                                  |                                  |                                  |
+| 17th +6       | 17                | Metamagic 6                      |            | 15             | 4                                | 3 3 3                            | 2                                | 1                                |                                  | 1 1 1                            |                                  |                                  |                                  |
+| 18th          | +6 18             | Sorcerous Origin feature         |            | 6 15           | 4                                | 3 3 3                            | 3                                | 1                                | 1 1                              | 1                                |                                  |                                  |                                  |
+| 19th          | +6 19             | Ability Score Improvement 6      |            | 15             | 4                                | 3 3 3                            | 3                                | 2                                | 1 1                              | 1                                |                                  |                                  |                                  |
+| 20th          |                   | +6 20 Sorcerous Restoration     | 6          | 15             | 4                                |                                  | 3 3 3 3 2                        |                                  |                                  | 2 1 1                            |                                  |                                  |                                  |Sorcerers often have obscure or quixotic motivations driving them to adventure. Some seek a greater understanding of the magical force that infuses them, or the answer to the mystery of its origin. Others hope to find a way to get rid of it, or to unleash its full potential. Whatever their goals, sorcerers are every bit as useful to an adventuring party as wizards, making up for a comparative lack of breadth in their magical knowledge with enormous flexibility in using the spells they know.
+
+## Creating a Sorcerer
+
+The most important question to consider when creating your sorcerer is the origin of your power. As a starting character, you'll choose an origin that ties to a draconic bloodline or the influence of wild magic, but the exact source of your power is up to you to decide. Is it a family curse, passed down to you from distant ancestors? Or did some extraordinary event leave you blessed with inherent magic but perhaps scarred as well?How do you feel about the magical power coursing through you? Do you embrace it, try to master it, or revel in its unpredictable nature? Is it a blessing or a curse? Did you seek it out, or did it find you? Did you have the option to refuse it, and do you wish you had? What do you intend to do with it? Perhaps you feel like you've been given this power for some lofty purpose. Or you might decide that the power gives you the right to do what you want, to take what you want from those who lack such power. Perhaps your power links you to a powerful individual in the world—the fey creature that blessed you at birth, the dragon who put a drop of its blood into your veins, the lich who created you as an experiment, or the deity who chose you to carry this power.
+
+## Quick Build
+
+You can make a sorcerer quickly by following these suggestions. First, Charisma should be your highest ability score, followed by Constitution. Second, choose the hermit background. Third, choose the light, prestidigitation, ray of frost, and shocking grasp cantrips, along with the 1st-level spells shield and magic missile.
+
+## Class Features
+
+As a sorcerer, you gain the following class features.
+
+Hit Points Hit Dice: 1d6 per sorcerer level
+Hit Points at 1st Level: 6 + your Constitution modifier
+Hit Points at Higher Levels: 1d6 (or 4) + your Constitution modifier per sorcerer level after 1stProficiencies Armor: None Weapons: Daggers, darts, slings, quarterstaffs, light crossbows Tools: None
+
+Saving Throws: Constitution, Charisma Skills: Choose two from Arcana, Deception, Insight, Intimidation, Persuasion, and Religion
+
+## Equipment
+
+You start with the following equipment, in addition to the equipment granted by your background:
+
+- (a) a light crossbow and 20 bolts or (b) any simple weapon
+- (a) a component pouch or (b) an arcane focus
+- (a) a dungeoneer's pack or (b) an explorer's pack
+- Two daggers
+
+## Spellcasting
+
+An event in your past, or in the life of a parent or ancestor, left an indelible mark on you, infusing you with arcane magic. This font of magic, whatever its origin, fuels your spells. See chapter 10 for the general rules of spellcasting and chapter 11 for the sorcerer spell list.
+
+## Cantrips
+
+At 1st level, you know four cantrips of your choice from the sorcerer spell list. You learn additional sorcerer cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Sorcerer table.
+
+## Spell Slots
+
+The Sorcerer table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these sorcerer spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.For example, if you know the 1st-level spell burning hands and have a 1st-level and a 2nd-level spell slot available, you can cast burning hands using either slot.
+
+Spells Known of 1st Level and Higher You know two 1st-level spells of your choice from the sorcerer spell list.
+
+The Spells Known column of the Sorcerer table shows when you learn more sorcerer spells of your choice. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 3rd level in this class, you can learn one new spell of 1st or 2nd level.
+
+Additionally, when you gain a level in this class, you can choose one of the sorcerer spells you know and replace it with another spell from the sorcerer spell list, which also must be of a level for which you have spell slots.
+
+## Spellcasting Ability
+
+Charisma is your spellcasting ability for your sorcerer spells, since the power of your magic relies on your ability to project your will into the world. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a sorcerer spell you cast and when making an attack roll with one.
+
+Spell save DC = 8 + your proficiency bonus + your Charisma modifier
+
+Spell attack modifier = your proficiency bonus + your Charisma modifier
+
+## Spellcasting FocusYou can use an arcane focus (found in chapter 5) as a spellcasting focus for your sorcerer spells.
+
+## Sorcerous Origin
+
+Choose a sorcerous origin, which describes the source of your innate magical power: Draconic Bloodline or Wild Magic, both detailed at the end of the class description.
+
+Your choice grants you features when you choose it at 1st level and again at 6th, 14th, and 18th level.
+
+## Font of Magic
+
+At 2nd level, you tap into a deep wellspring of magic within yourself. This wellspring is represented by sorcery points, which allow you to create a variety of magical effects.
+
+## Sorcery Points
+
+You have 2 sorcery points, and you gain more as you reach higher levels, as shown in the Sorcery Points column of the Sorcerer table. You can never have more sorcery points than shown on the table for your level. You regain all spent sorcery points when you finish a long rest.
+
+## Flexible Casting
+
+You can use your sorcery points to gain additional spell slots, or sacrifice spell slots to gain additional sorcery points. You learn other ways to use your sorcery points as you reach higher levels.
+
+Creating Spell Slots. You can transform unexpended sorcery points into one spell slot as a bonus action on your turn. The Creating Spell Slots table shows the cost of creating a spell slot of a given level. You can create spell slots no higher in level than 5th.## Creating Spell Slots
+
+| Spell Slot | Level | Point Cost |
+|------------|-------|-----------|
+| 1st        |       2 |
+| 2nd        |       3 |
+| 3rd        |       5 |
+| 4th        |       6 |
+| 5th        |       7 |
+
+Converting a Spell Slot to Sorcery Points. As a bonus action on your turn, you can expend one spell slot and gain a number of sorcery points equal to the slot's level.
+
+## Metamagic
+
+At 3rd level, you gain the ability to twist your spells to suit your needs. You gain two of the following Metamagic options of your choice. You gain another one at 10th and 17th level.
+
+You can use only one Metamagic option on a spell when you cast it, unless otherwise noted.
+
+## Careful Spell
+
+When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell's full force. To do so, you spend 1 sorcery point and choose a number of those creatures up to your Charisma modifier (minimum of one creature). A chosen creature automatically succeeds on its saving throw against the spell.
+
+## Distant Spell
+
+When you cast a spell that has a range of 5 feet or greater, you can spend 1 sorcery point to double the range of the spell.
+
+When you cast a spell that has a range of touch, you can spend 1 sorcery point to make the range of the spell 30 feet.## Empowered Spell
+
+When you roll damage for a spell, you can spend 1 sorcery point to reroll a number of the damage dice up to your Charisma modifier (minimum of one). You must use the new rolls.
+
+You can use Empowered Spell even if you have already used a different Metamagic option during the casting of the spell.
+
+## Extended Spell
+
+When you cast a spell that has a duration of 1 minute or longer, you can spend 1 sorcery point to double its duration, to a maximum duration of 24 hours.
+
+## Heightened Spell
+
+When you cast a spell that forces a creature to make a saving throw to resist its effects, you can spend 3 sorcery points to give one target of the spell disadvantage on its first saving throw made against the spell.
+
+## Quickened Spell
+
+When you cast a spell that has a casting time of 1 action, you can spend 2 sorcery points to change the casting time to 1 bonus action for this casting.
+
+## Subtle Spell
+
+When you cast a spell, you can spend 1 sorcery point to cast it without any somatic or verbal components.
+
+## Twinned SpellWhen you cast a spell that targets only one creature and doesn't have a range of self, you can spend a number of sorcery points equal to the spell's level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip).
+
+## Ability Score Improvement
+
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+## Sorcerous Restoration
+
+At 20th level, you regain 4 expended sorcery points whenever you finish a short rest.
+
+## Sorcerous Origins
+
+Different sorcerers claim different origins for their innate magic. Although many variations exist, most of these origins fall into two categories: a draconic bloodline and wild magic.
+
+## Draconic Bloodline
+
+Your innate magic comes from draconic magic that was mingled with your blood or that of your ancestors. Most often, sorcerers with this origin trace their descent back to a mighty sorcerer of ancient times who made a bargain with a dragon or who might even have claimed a dragon parent. Some of these bloodlines are well established in the world, but most are obscure. Any given sorcerer could be the first of a new bloodline, as a result of a pact or some other exceptional circumstance.
+
+## Dragon Ancestor
+
+At 1st level, you choose one type of dragon as your ancestor. The damage type associated with each dragon is used by features you gain later.
+
+## Draconic Ancestry
+
+| Dragon      | Damage Type    |
+|-------------|----------------|
+| Black       | Acid           |
+|             | Blue Lightning |
+| Brass       | Fire           |
+| Bronze      | Lightning      |
+| Copper      | Acid           |
+| Cold        | Fire           |
+|             | Green Poison   |
+| Red         | Fire           |
+| Silver      | Cold           |
+| White       | Cold           |
+
+You can speak, read, and write Draconic. Additionally, whenever you make a Charisma check when interacting with dragons, your proficiency bonus is doubled if it applies to the check.
+
+## Draconic Resilience
+
+As magic flows through your body, it causes physical traits of your dragon ancestors to emerge. At 1st level, your hit point maximum increases by 1 and increases by 1 again whenever you gain a level in this class.Additionally, parts of your skin are covered by a thin sheen of dragon-like scales. When you aren't wearing armor, your AC equals 13 + your Dexterity modifier.
+
+## Elemental Affinity
+
+Starting at 6th level, when you cast a spell that deals damage of the type associated with your draconic ancestry, add your Charisma modifier to that damage. At the same time, you can spend 1 sorcery point to gain resistance to that damage type for 1 hour.
+
+## Dragon Wings
+
+At 14th level, you gain the ability to sprout a pair of dragon wings from your back, gaining a flying speed equal to your current speed. You can create these wings as a bonus action on your turn. They last until you dismiss them as a bonus action on your turn.
+
+You can't manifest your wings while wearing armor unless the armor is made to accommodate them, and clothing not made to accommodate your wings might be destroyed when you manifest them.
+
+## Dragonic Presence
+
+Beginning at 18th level, you can channel the dread presence of your dragon ancestor, causing those around you to become awestruck or frightened. As an action, you can spend 5 sorcery points to draw on this power and exude an aura of awe or fear (your choice) to a distance of 60 feet. For 1 minute or until you lose your concentration (as if you were casting a concentration spell), each hostile creature that starts its turn in this aura must succeed on a Wisdom saving throw or be charmed (if you chose awe) or frightened (if you chose fear) until the aura ends. A creature that succeeds on this saving throw is immune to your aura for 24 hours.
+
+## Wild Magic
+
+Your innate magic comes from the wild forces of chaos that underlie the order of creation. You might have endured exposure to some form of raw magic, perhaps through a planar portal leading to Limbo, the Elemental Planes, or the mysterious Far Realm. Perhaps you were blessed by a powerful fey creature or marked by a demon. Or your magic could be a fluke of your birth, with no apparent cause or reason. However it came to be, this chaotic magic churns within you, waiting for any outlet.
+
+## Wild Magic SurgeStarting when you choose this origin at 1st level, your spellcasting can unleash surges of untamed magic. Immediately after you cast a sorcerer spell of 1st level or higher, the DM can have you roll a d20. If you roll a 1, roll on the Wild Magic Surge table to create a random magical effect.
+
+## Tides of Chaos
+
+Starting at 1st level, you can manipulate the forces of chance and chaos to gain advantage on one attack roll, ability check, or saving throw. Once you do so, you must finish a long rest before you can use this feature again.
+
+Any time before you regain the use of this feature, the DM can have you roll on the Wild Magic Surge table immediately after you cast a sorcerer spell of 1st level or higher. You then regain the use of this feature.
+
+## Bend Luck
+
+Starting at 6th level, you have the ability to twist fate using your wild magic. When another creature you can see makes an attack roll, an ability check, or a saving throw, you can use your reaction and spend 2 sorcery points to roll 1d4 and apply the number rolled as a bonus or penalty (your choice) to the creature's roll. You can do so after the creature rolls but before any effects of the roll occur.
+
+## Controlled Chaos
+
+At 14th level, you gain a modicum of control over the surges of your wild magic. Whenever you roll on the Wild Magic Surge table, you can roll twice and use either number.## Spell Bombardment
+
+Beginning at 18th level, the harmful energy of your spells intensifies. When you roll damage for a spell and roll the highest number possible on any of the dice, choose one of those dice, roll it again and add that roll to the damage. You can use the feature only once per turn.
+
+## Wild Magic Surge
+
+## d100 Effect- 01-02 Roll on this table at the start of each of your turns for the next minute, ignoring this result on subsequent rolls.
+- 03-04 For the next minute, you can see any invisible creature if you have line of sight to it.
+- 05-06 A modron chosen and controlled by the DM appears in an unoccupied space within 5 feet of you, then disappears 1 minute later.
+- 07-08 You cast fireball as a 3rd-level spell centered on yourself.
+- 09-10 You cast magic missile as a 5th-level spell.
+- 11-12 Roll a d10. Your height changes by a number of inches equal to the roll. If the roll is odd, you shrink. If the roll is even, you grow.
+- 13-14 You cast confusion centered on yourself.
+- 15-16 For the next minute, you regain 5 hit points at the start of each of your turns.
+- 17-18 You grow a long beard made of feathers that remains until you sneeze, at which point the feathers explode out from your face.
+- 19-20 You cast grease centered on yourself.
+- 21-22 Creatures have disadvantage on saving throws against the next spell you cast in the next minute that involves a saving throw.
+- 23-24 Your skin turns a vibrant shade of blue. A remove curse spell can end this effect.
+
+## d100 Effect- 45-46 You cast levitate on yourself.
+- 47-48 A unicorn controlled by the DM appears in a space within 5 feet of you, then disappears 1 minute later.
+- 49-50 You can't speak for the next minute. Whenever you try, pink bubbles float out of your mouth.
+- 51-52 A spectral shield hovers near you for the next minute, granting you a +2 bonus to AC and immunity to magic missile.
+- 53-54 You are immune to being intoxicated by alcohol for the next 5d6 days.
+- 55-56 Your hair falls out but grows back within 24 hours.
+- 57-58 For the next minute, any flammable object you touch that isn't being worn or carried by another creature bursts into flame.
+- 59-60 You regain your lowest-level expended spell slot.
+- 61-62 For the next minute, you must shout when you speak.
+- 63-64 You cast fog cloud centered on yourself.
+- 65-66 Up to three creatures you choose within 30 feet of you take 4d10 lightning damage.
+- 67-68 You are frightened by the nearest creature until the end of your next turn.
+- 69-70 Each creature within 30 feet of you becomes invisible for the next minute. The invisibility ends on a creature when it attacks or casts a spell.
+- 71-72 You gain resistance to all damage for the next minute.
+- 25-26 An eye appears on your forehead for the next minute. During that time, you have advantage on Wisdom (Perception) checks that rely on sight.
+- 73-74 A random creature within 60 feet of you becomes poisoned for 1d4 hours.
+- 75-76 You glow with bright light in a 30-foot radius for the next minute. Any creature that ends its turn within 5 feet of you is blinded until the end of its next turn.
+- 27-28 For the next minute, all your spells with a casting time of 1 action have a casting time of 1 bonus action.
+- 77-78
+- 29-30 You teleport up to 60 feet to an unoccupied space of your choice that you can see.
+- 31-32 You are transported to the Astral Plane until the end of your next turn, after which time you return to the space you previously occupied or the nearest unoccupied space if that space is occupied.
+- You cast polymorph on yourself. If you fail the saving throw, you turn into a sheep for the spell's duration.
+- 79-80 Illusory butterflies and flower petals flutter in the air within 10 feet of you for the next minute.
+- 81-82 You can take one additional action immediately.
+- 83-84 Each creature within 30 feet of you takes 1d10 necrotic damage. You regain hit points equal to the sum of the necrotic damage dealt.
+- 33-34 Maximize the damage of the next damaging spell you cast within the next minute.
+- 85-86 You cast mirror image.
+- 35-36 Roll a d10. Your age changes by a number of years equal to the roll. If the roll is odd, you get younger (minimum 1 year old). If the roll is even, you get older.
+- 87-88 You cast fly on a random creature within 60 feet of you.
+- 89-90 You become invisible for the next minute. During that time, other creatures can't hear you. The invisibility ends if you attack or cast a spell.
+- 37-38 1d6 flumphs controlled by the DM appear in unoccupied spaces within 60 feet of you and are frightened of you. They vanish after 1 minute.
+- 39-40 You regain 2d10 hit points.
+- 41-42 You turn into a potted plant until the start of your next turn. While a plant, you are incapacitated and have vulnerability to all damage. If you drop to 0 hit points, your pot breaks, and your form reverts.
+- 91-92 If you die within the next minute, you immediately come back to life as if by the reincarnate spell.
+- 93-94 Your size increases by one size category for the next minute.
+- 95-96 You and all creatures within 30 feet of you gain vulnerability to piercing damage for the next minute.
+- 97-98 You are surrounded by faint, ethereal music for the
+- For the next minute, you can teleport up to 20 feet as a bonus action on each of your turns.
+- 99-100 You regain all expended sorcery points.## Warlock
+
+With a pseudodragon curled on his shoulder, a young elf in golden robes smiles warmly, weaving a magical charm into his honeyed words and bending the palace sentinel to his will.
+
+As flames spring to life in her hands, a wizened human whispers the secret name of her demonic patron, infusing her spell with fiendish magic.
+
+Shifting his gaze between a battered tome and the odd alignment of the stars overhead, a wild-eyed tiefling chants the mystic ritual that will open a doorway to a distant world.
+
+Warlocks are seekers of the knowledge that lies hidden in the fabric of the multiverse. Through pacts made with mysterious beings of supernatural power, warlocks unlock magical effects both subtle and spectacular. Drawing on the ancient knowledge of beings such as fey nobles, demons, devils, hags, and alien entities of the Far Realm, warlocks piece together arcane secrets to bolster their own power.
+
+## Sworn and Beholden
+
+A warlock is defined by a pact with an otherworldly being. Sometimes the relationship between warlock and patron is like that of a cleric and a deity, though the beings that serve as patrons for warlocks are not gods. A warlock might lead a cult dedicated to a demon prince, an archdevil, or an utterly alien entity—beings not typically served by clerics. More often, though, the arrangement is similar to that between a master and an apprentice. The warlock learns and grows in power, at the cost of occasional services performed on the patron's behalf.The magic bestowed on a warlock ranges from minor but lasting alterations to the warlock's being (such as the ability to see in darkness or to read any language) to access to powerful spells. Unlike bookish wizards, warlocks supplement their magic with some facility at hand-to-hand combat. They are comfortable in light armor and know how to use simple weapons.
+
+## Delvers into Secrets
+
+Warlocks are driven by an insatiable need for knowledge and power, which compels them into their pacts and shapes their lives. This thirst drives warlocks into their pacts and shapes their later careers as well.
+
+Stories of warlocks binding themselves to fiends are widely known. But many warlocks serve patrons that are not fiendish. Sometimes a traveler in the wilds comes to a strangely beautiful tower, meets its fey lord or lady, and stumbles into a pact without being fully aware of it. And sometimes, while poring over tomes of
+
+## The Warlock| Level Proficiency   | Bonus Features                     | Cantrips Known | Spells Known   | Spell Slots   | Slot Level   | Invocations Known   |
+|---------------------|------------------------------------|---------------|----------------|---------------|--------------|---------------------|
+| 1st                 | +2 Otherworldly Patron, Pact Magic |              0 | 2 2            |               | 1 1st        | —                   |
+| 2nd +2              | Eldritch Invocations               |                | 2              | 3 2           | 1st 2        |                     |
+| 3rd +2              | Pact Boon                          |                | 4              |               | 2 2nd 2      |                     |
+| 4th +2              | Ability Score Improvement          |                |                | 5 2           | 2nd 2        |                     |
+| 5th +3              | —                                  |                |                | 6 2           | 3rd 3        |                     |
+| 6th +3              | Otherworldly Patron feature        |                | 7              |               | 2 3rd 3      |                     |
+| 7th +3              | —                                  |                |                | 8 2           | 4th 4        |                     |
+| 8th +3              | Ability Score Improvement          |                |                |               | 9 2 4th 4    |                     |
+| 9th +4              | —                                  |                | 3 10           |               | 2 5th        | 5                   |
+| 10th +4             | Otherworldly Patron feature        |                | 4              |               | 10 2 5th     | 5                   |
+| 11th                | +4 Mystic Arcanum (6th level)      |                | 4 11           |               | 3 5th        | 5                   |
+| 12th +4             | Ability Score Improvement          |                | 4 11           |               | 3 5th        | 6                   |
+|                     | 13th +5 Mystic Arcanum (7th level) |                | 4 12           |               | 3 5th        | 6                   |
+| 14th  +5            | Otherworldly Patron feature        |                | 4 12           |               | 3 5th        | 6                   |
+| 15th +5             | Mystic Arcanum (8th level)         |                | 13             | 3             | 5th          | 7                   |
+| 16th +5             | Ability Score Improvement          |                |                |               | 13 3 5th 7   |                     |
+| 17th                | +6 Mystic Arcanum (9th level)      |                | 14 4           |               | 5th 7        |                     |
+| 18th  +6            | —                                  |                | 4 14           | 4             | 5th          | 8                   |
+| 19th                | +6 Ability Score Improvement       |                | 15 4           |               | 5th          | 8                   |
+| 20th                | +6 Eldritch Master                 |                |                |               | 15 4 5th     | 8                   |Your patron's demands might drive you into adventures, or they might consist entirely of small favors you can do between adventures.
+
+What kind of relationship do you have with your patron? Is it friendly, antagonistic, uneasy, or romantic? How important does your patron consider you to be? What part do you play in your patron's plans? Do you know other servants of your patron?
+
+How does your patron communicate with you? If you have a familiar, it might occasionally speak with your patron's voice. Some warlocks find messages from their patrons etched on trees, mingled among tea leaves, or adrift in the clouds—messages that only the warlock can see. Other warlocks converse with their patrons in dreams or waking visions, or deal only with intermediaries.
+
+## Quick Build
+
+You can make a warlock quickly by following these suggestions. First, Charisma should be your highest ability score, followed by Constitution. Second, choose the charlatan background. Third, choose the eldritch blast and chill touch cantrips, along with the 1st-level spells ray of sickness and witch bolt.
+
+## Class Features
+
+As a warlock, you gain the following class features.
+
+Hit Points
+
+Hit Dice: 1d8 per warlock level
+
+Hit Points at 1st Level: 8 + your Constitution modifier
+
+Hit Points at Higher Levels: 1d8 (or 5) + your Constitution modifier per warlock level after 1st forbidden lore, a brilliant but crazed student's mind is opened to realities beyond the material world and to the alien beings that dwell in the outer void.Once a pact is made, a warlock's thirst for knowledge and power can't be slaked with mere study and research. No one makes a pact with such a mighty patron if he or she doesn't intend to use the power thus gained. Rather, the vast majority of warlocks spend their days in active pursuit of their goals, which typically means some kind of adventuring. Furthermore, the demands of their patrons drive warlocks toward adventure.
+
+## Creating a Warlock
+
+As you make your warlock character, spend some time thinking about your patron and the obligations that your pact imposes upon you. What led you to make the pact, and how did you make contact with your patron? Were you seduced into summoning a devil, or did you seek out the ritual that would allow you to make contact with an alien elder god? Did you search for your patron, or did your patron find and choose you? Do you chafe under the obligations of your pact or serve joyfully in anticipation of the rewards promised to you?
+
+Work with your DM to determine how big a part your pact will play in your character's adventuring career.
+
+## Proficiencies
+
+Armor: Light armor Weapons: Simple weapons Tools: None
+
+Saving Throws: Wisdom, Charisma Skills: Choose two skills from Arcana, Deception, History, Intimidation, Investigation, Nature, and Religion
+
+## Equipment
+
+You start with the following equipment, in addition to the equipment granted by your background:- (a) a light crossbow and 20 bolts or (b) any simple weapon
+- (a) a component pouch or (b) an arcane focus
+- (a) a scholar's pack or (b) a dungeoneer's pack
+- Leather armor, any simple weapon, and two daggers
+
+## Otherworldly Patron
+
+At 1st level, you have struck a bargain with an otherworldly being of your choice: the Archfey, the Fiend, or the Great Old One, each of which is detailed at the end of the class description. Your choice grants you features at 1st level and again at 6th, 10th, and 14th level.
+
+## Pact Magic
+
+Your arcane research and the magic bestowed on you by your patron have given you facility with spells. See chapter 10 for the general rules of spellcasting and chapter 11 for the warlock spell list.
+
+## Cantrips
+
+You know two cantrips of your choice from the warlock spell list. You learn additional warlock cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Warlock table.
+
+## Spell Slots
+
+The Warlock table shows how many spell slots you have. The table also shows what the level of those slots is; all of your spell slots are the same level. To cast one of your warlock spells of 1st level or higher, you must expend a spell slot. You regain all expended spell slots when you finish a short or long rest.For example, when you are 5th level, you have two 3rd-level spell slots. To cast the 1st-level spell thunderwave, you must spend one of those slots, and you cast it as a 3rd-level spell.
+
+Spells Known of 1st Level and Higher At 1st level, you know two 1st-level spells of your choice from the warlock spell list.
+
+The Spells Known column of the Warlock table shows when you learn more warlock spells of your choice of 1st level and higher. A spell you choose must be of a level no higher than what's shown in the table's Slot Level column for your level. When you reach 6th level, for example, you learn a new warlock spell, which can be 1st, 2nd, or 3rd level.
+
+Additionally, when you gain a level in this class, you can choose one of the warlock spells you know and replace it with another spell from the warlock spell list, which also must be of a level for which you have spell slots.
+
+## Spellcasting Ability
+
+Charisma is your spellcasting ability for your warlock spells, so you use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a warlock spell you cast and when making an attack roll with one.
+
+Spell save DC = 8 + your proficiency bonus + your Charisma modifier
+
+Spell attack modifier = your proficiency bonus + your Charisma modifier## Spellcasting Focus
+
+You can use an arcane focus (found in chapter 5) as a spellcasting focus for your warlock spells.
+
+## Eldritch Invocations
+
+In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability.
+
+At 2nd level, you gain two eldritch invocations of your choice. Your invocation options are detailed at the end of the class description. When you gain certain warlock levels, you gain additional invocations of your choice, as shown in the Invocations Known column of the Warlock table.
+
+Additionally, when you gain a level in this class, you can choose one of the invocations you know and replace it with another invocation that you could learn at that level.
+
+## Pact Boon
+
+At 3rd level, your otherworldly patron bestows a gift upon you for your loyal service. You gain one of the following features of your choice.
+
+## Pact of the Chain
+
+You learn the find familiar spell and can cast it as a ritual. The spell doesn't count against your number of spells known.
+
+When you cast the spell, you can choose one of the normal forms for your familiar or one of the following special forms: imp, pseudodragon, quasit, or sprite.
+
+Additionally, when you take the Attack action, you can forgo one of your own attacks to allow your familiar to make one attack of its own.## Pact of the Blade
+
+You can use your action to create a pact weapon in your empty hand. You can choose the form that this melee weapon takes each time you create it (see chapter 5 for weapon options). You are proficient with it while you wield it. This weapon counts as magical for the purpose of overcoming resistance and immunity to non-magical attacks and damage.
+
+Your pact weapon disappears if it is more than 5 feet away from you for 1 minute or more. It also disappears if you use this feature again, if you dismiss the weapon (no action required), or if you die.
+
+You can transform one magic weapon into your pact weapon by performing a special ritual while you hold the weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest. You can then dismiss the weapon, shunting it into an extradimensional space, and it appears whenever you create your pact weapon thereafter. You can't affect an artifact or a sentient weapon in this way. The weapon ceases being your pact weapon if you die, if you perform the 1-hour ritual on a different weapon, or if you use a 1-hour ritual to break your bond to it. The weapon appears at your feet if it is in the extradimensional space when the bond breaks.
+
+## Pact of the TomeYour patron gives you a grim oire called a Book of Shadows. When you gain this feature, choose three cantrips from any class's spell list. While the book is on your person, you can cast those cantrips at will. They don't count against your number of cantrips known.
+
+If you lose your Book of Shadows, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous book. The book turns to ash when you die.
+
+## Ability Score Improvement
+
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+## Mystic Arcanum
+
+At 11th level, your patron bestows upon you a magical secret called an arcanum. Choose one 6th-level spell from the warlock spell list as this arcanum.
+
+You can cast your arcanum spell once without expending a spell slot. You must finish a long rest before you can do so again.
+
+At higher levels, you gain more warlock spells of your choice that can be cast in this way: one 7th-level spell at 13th level, one 8th-level spell at 15th level, and one 9th-level spell at 17th level. You regain all uses of your Mystic Arcanum when you finish a long rest.## Eldritch Master
+
+At 20th level, you can draw on your inner reserve of mystical power while entreting your patron to regain expended spell slots. You can spend 1 minute entreting your patron for aid to regain all your expended spell slots from your Pact Magic feature. Once you regain spell slots with this feature, you must finish a long rest before you can do so again.
+
+## Your Pact Boon
+
+Each Pact Boon option produces a special creature or an object that reflects your patron's nature.
+
+Pact of the Chain. Your familiar is more cunning than a typical familiar. Its default form can be a reflection of your patron, with sprites and pseudodragons tied to the Archfey and imps and quasits tied to the Fiend. Because the Great Old One's nature is inscrutable, any familiar form is suitable for it.
+
+Pact of the Blade. If your patron is the Archfey, your weapon might be a slender blade wrapped in leafy vines. If you serve the Fiend, your weapon could be an axe made of black metal and adorned with decorative flames. If your patron is the Great Old One, your weapon might be an ancient-looking spear, with a gemstone embedded in its head, carved to look like a terrible unblinking eye.Pact of the Tome. Your Book of Shadows might be a fine, gilt-edged tome with spells of enchantment and illusion, gifted to you by the lordly Archfey. It could be a weighty tome bound in demon hide studded with iron, holding spells of conjuration and a wealth of forbidden lore about the sinister regions of the cosmos, a gift of the Fiend. Or it could be the tattered diary of a lunatic driven mad by contact with the Great Old One, holding scraps of spells that only your own burgeoning insanity allows you to understand and cast.
+
+## Other Worldly Patrons
+
+The beings that serve as patrons for warlocks are mighty inhabitants of other planes of existence—not gods, but almost godlike in their power. Various patrons give their warlocks access to different powers and invocations, and expect significant favors in return.
+
+Some patrons collect warlocks, doling out mystic knowledge relatively freely or boasting of their ability to bind mortals to their will. Other patrons bestow their power only grudgingly, and might make a pact with only one warlock. Warlocks who serve the same patron might view each other as allies, siblings, or rivals.
+
+## The ArchfeyYour patron is a lord or lady of the fey, a creature of legend who holds secrets that were forgotten before the mortal races were born. This being's motivations are often inscrutable, and sometimes whimsical, and might involve a striving for greater magical power or the settling of age-old grudges. Beings of this sort include the Prince of Frost; the Queen of Air and Darkness, ruler of the Gloom ing Court; Titania of the Summer Court; her consort Oberon, the Green Lord; Hyrsam, the Prince of Fools; and ancient hags.
+
+## Expanded Spell List
+
+The Archfey lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
+
+## Archfey Expanded Spells
+
+| Spell Level | Spells   |
+|-------------|----------|
+| 1st         | faerie fire, sleep                   |
+| 2nd         | calm emotions, phantasmal force      |
+| 3rd         | blink, plant growth                  |
+| 4th         | dominate beast, greater invisibility |
+| 5th         | dominate person, seeming             |
+
+## Fey PresenceStarting at 1st level, your patron bestows upon you the ability to project the beguiling and fearsome presence of the fey. As an action, you can cause each creature in a 10-foot cube originating from you to make a Wisdom saving throw against your warlock spell save DC. The creatures that fail their saving throws are all charmed or frightened by you (your choice) until the end of your next turn.
+
+Once you use this feature, you can't use it again until you finish a short or long rest.
+
+## Misty Escape
+
+Starting at 6th level, you can vanish in a puff of mist in response to harm. When you take damage, you can use your reaction to turn invisible and teleport up to 60 feet to an unoccupied space you can see. You remain invisible until the start of your next turn or until you attack or cast a spell.
+
+Once you use this feature, you can't use it again until you finish a short or long rest.
+
+## Beguiling Defenses
+
+Beginning at 10th level, your patron teaches you how to turn the mind-affecting magic of your enemies against them. You are immune to being charmed, and when another creature attempts to charm you, you can use your reaction to attempt to turn the charm back on that creature. The creature must succeed on a Wisdom saving throw against your warlock spell save DC or be charmed by you for 1 minute or until the creature takes any damage.
+
+## Dark DeliriumStarting at 14th level, you can plunge a creature into an illusory realm. As an action, choose a creature that you can see within 60 feet of you. It must make a Wisdom saving throw against your warlock spell save DC. On a failed save, it is charmed or frightened by you (your choice) for 1 minute or until your concentration is broken (as if you are concentrating on a spell). This effect ends early if the creature takes any damage.
+
+Until this illusion ends, the creature thinks it is lost in a misty realm, the appearance of which you choose. The creature can see and hear only itself, you, and the illusion.
+
+You must finish a short or long rest before you can use this feature again.
+
+## The F i e n d
+
+You have made a pact with a fiend from the lower planes of existence, a being whose aims are evil, even if you strive against those aims. Such beings desire the corruption or destruction of all things, ultimately including you. Fiends powerful enough to forge a pact include demon lords such as Demogorgon, Orcus, Fraz'Urb-luu, and Baphomet; archdevils such as Asm odeus, Dispater, Mephistopheles, and Belial; pit fiends and balors that are especially mighty; and ultroloths and other lords of the yugoloths.
+
+## Expanded Spell List
+
+The Fiend lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
+
+## F i e n d E x p a n d e d S p e l l s
+
+## Spell Level Spells1st burning hands, comm and
+
+2nd
+
+blindness/deafness, scorching ray
+
+3rd fireball, stinking cloud
+
+4th fire shield, wall of fire
+
+5th flame strike, halo
+
+## Dark One's Blessing
+
+Starting at 1st level, when you reduce a hostile creature to 0 hit points, you gain temporary hit points equal to your Charisma modifier + your warlock level (minimum of 1).
+
+## Dark One's Own Luck
+
+Starting at 6th level, you can call on your patron to alter fate in your favor. When you make an ability check or a saving throw, you can use this feature to add a d10 to your roll. You can do so after seeing the initial roll but before any of the roll's effects occur.
+
+Once you use this feature, you can't use it again until you finish a short or long rest.
+
+## Fiendish Resilience
+
+Starting at 10th level, you can choose one damage type when you finish a short or long rest. You gain resistance to that damage type until you choose a different one with this feature. Damage from magical weapons or silver weapons ignores this resistance.
+
+## Hurl Through Hell
+
+Starting at 14th level, when you hit a creature with an attack, you can use this feature to instantly transport the target through the lower planes. The creature disappears and hurtles through a nightmare landscape.At the end of your next turn, the target returns to the space it previously occupied, or the nearest unoccupied space. If the target is not a fiend, it takes 10d10 psychic damage as it reels from its horrific experience.
+
+Once you use this feature, you can't use it again until you finish a long rest.
+
+## The Great Old One
+
+Your patron is a mysterious entity whose nature is utterly foreign to the fabric of reality. It might come from the Far Realm, the space beyond reality, or it could be one of the elder gods known only in legends. Its motives are incomprehensible to mortals, and its knowledge so immense and ancient that even the greatest libraries pale in comparison to the vast secrets it holds. The Great Old One might be unaware of your existence or entirely indifferent to you, but the secrets you have learned allow you to draw your magic from it.
+
+Entities of this type include Ghaunadar, called That Which Lurks; Tharizdun, the Chained God; Dendar, the Night Serpent; Zargon, the Returner; Great Cthulhu; and other unfathomable beings.
+
+## Expanded Spell List
+
+The Great Old One lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
+
+## Great Old One Expanded Spells| Spell Level    | Spells                                       |
+|----------------|----------------------------------------------|
+| 1st            | dissonant whispers, Tasha's hideous laughter |
+| 2nd            | detect thoughts, phantasmal force             |
+| 3rd            | clairvoyance, sending                         |
+| 4th            | dominate beast, Evard’s black tentacles       |
+| 5th            | dominate person, telekinesis                  |
+
+## Awakened Mind
+
+Starting at 1st level, your alien knowledge gives you the ability to touch the minds of other creatures. You can communicate telepathically with any creature you can see within 30 feet of you. You don't need to share a language with the creature for it to understand your telepathic utterances, but the creature must be able to understand at least one language.
+
+## Entropic Ward
+
+At 6th level, you learn to magically ward yourself against attack and to turn an enemy's failed strike into good luck for yourself. When a creature makes an attack roll against you, you can use your reaction to impose disadvantage on that roll. If the attack misses you, your next attack roll against the creature has advantage if you make it before the end of your next turn.
+
+Once you use this feature, you can't use it again until you finish a short or long rest.
+
+## Thought Shield
+
+Starting at 10th level, your thoughts can't be read by telepathy or other means unless you allow it. You also have resistance to psychic damage, and whenever a creature deals psychic damage to you, that creature takes the same amount of damage that you do.
+
+## Create ThrallAt 14th level, you gain the ability to infect a humanoid's mind with the alien magic of your patron. You can use your action to touch an incapacitated humanoid. That creature is then charmed by you until a remove curse spell is cast on it, the charmed condition is removed from it, or you use this feature again.
+
+## Eldritch Invocations
+
+If an eldritch invocation has prerequisites, you must meet them to learn it. You can learn the invocation at the same time that you meet its prerequisites.
+
+## Agonizing Blast Prerequisite: Eldritch Blast cantrip
+
+When you cast Eldritch Blast, add your Charisma modifier to the damage it deals on a hit.
+
+## Armor of Shadows
+
+You can cast Mage Armor on yourself at will, without expending a spell slot or material components.
+
+## Ascendant Step
+
+Prerequisite: 9th level
+
+You can cast Levitate on yourself at will, without expending a spell slot or material components.
+
+## Beast Speech
+
+You can cast Speak with Animals at will, without expending a spell slot.
+
+## Beguiling Influence
+
+You gain proficiency in the Deception and Persuasion skills.## Bewitching Whispers
+
+## Prerequisite: 7th level
+
+You can cast compulsion once using a warlock spell slot. You can't do so again until you finish a long rest.
+
+## Book of Ancient Secrets
+
+## Prerequisite: Pact of the Tome feature
+
+You can now inscribe magical rituals in your Book of Shadows. Choose two 1st-level spells that have the ritual tag from any class's spell list. The spells appear in the book and don't count against the number of spells you know. With your Book of Shadows in hand, you can cast the chosen spells as rituals. You can't cast the spells except as rituals, unless you've learned them by some other means. You can also cast a warlock spell you know as a ritual if it has the ritual tag.
+
+On your adventures, you can add other ritual spells to your Book of Shadows. When you find such a spell, you can add it to the book if the spell's level is equal to or less than half your warlock level (rounded up) and if you can spare the time to transcribe the spell. For each level of the spell, the transcription process takes 2 hours and costs 50 gp for the rare inks needed to inscribe it.
+
+## Chains of Carkeri
+
+## Prerequisite: 15th level, Pact of the Chain featureYou can cast hold monster at will—targeting a celestial, fiend, or elemental—without expending a spell slot or material components. You must finish a long rest before you can use this invocation on the same creature again.
+
+## Devil's Sight
+
+You can see normally in darkness, both magical and nonmagical, to a distance of 120 feet.
+
+## Dreadful Word
+
+Prerequisite: 7th level
+
+You can cast confusion once using a warlock spell slot. You can't do so again until you finish a long rest.
+
+## Eldritch Sight
+
+You can cast detect magic at will, without expending a spell slot.
+
+## Eldritch Spear
+
+Prerequisite: eldritch blast cantrip
+
+When you cast eldritch blast, its range is 300 feet.
+
+## Eyes of the Rune Keeper
+
+You can read all writing.
+
+## Fiendish Vigor
+
+You can cast false life on yourself at will as a 1st-level spell, without expending a spell slot or material components.
+
+## Gaze of Two MindsYou can use your action to touch a willing humanoid and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can use your action on subsequent turns to maintain this connection, extending the duration until the end of your next turn. While perceiving through the other creature's senses, you benefit from any special senses possessed by that creature, and you are blinded and deafened to your own surroundings.
+
+## Life drinker
+
+## Prerequisite: 12th level, Pact of the Blade feature
+
+When you hit a creature with your pact weapon, the creature takes extra necrotic damage equal to your Charisma modifier (minimum 1).
+
+## Mask of Many Faces
+
+You can cast disguise self at will, without expending a spell slot.
+
+## Master of Myriad Forms
+
+Prerequisite: 15th level
+
+You can cast alter self at will, without expending a spell slot.
+
+## Minions of Chaos
+
+Prerequisite: 9th level
+
+You can cast conjure elemental once using a warlock spell slot. You can't do so again until you finish a long rest.
+
+## Mireth the Mind
+
+Prerequisite: 5th level
+
+You can cast slow once using a warlock spell slot. You can't do so again until you finish a long rest.
+
+## Misty Visions
+
+You can cast silent image at will, without expending a spell slot or material components.## One with Shadows
+
+Prerequisite: 5th level
+
+When you are in an area of dim light or darkness, you can use your action to become invisible until you move or take an action or a reaction.
+
+## Other Worldly Leap
+
+Prerequisite: 9th level
+
+You can cast jump on yourself at will, without expending a spell slot or material components.
+
+## Repelling Blast
+
+Prerequisite: eldritch blast cantrip
+
+When you hit a creature with eldritch blast, you can push the creature up to 10 feet away from you in a straight line.
+
+## Sculptor of Flesh
+
+Prerequisite: 7th level
+
+You can cast polymorph once using a warlock spell slot. You can't do so again until you finish a long rest.
+
+## Sign of Ill Omens
+
+Prerequisite: 5th level
+
+You can cast bestow curse once using a warlock spell slot. You can't do so again until you finish a long rest.
+
+## Thief of Five Fates
+
+You can cast bane once using a warlock spell slot. You can't do so again until you finish a long rest.
+
+## Thirsting Blade
+
+Prerequisite: 5th level, Pact of the Blade feature
+
+You can attack with your pact weapon twice, instead of once, whenever you take the Attack action on your turn.## Visions of Distant Realms
+
+## Prerequisite: 15th level
+
+You can cast arcane eye at will, without expending a spell slot.
+
+## Voice of the Chain Master Prerequisite: Pact of the Chain feature
+
+You can communicate telepathically with your familiar and perceive through your familiar's senses as long as you are on the same plane of existence. Additionally, while perceiving through your familiar's senses, you can also speak through your familiar in your own voice, even if your familiar is normally incapable of speech.
+
+## Whispers of the Grave
+
+Prerequisite: 9th level
+
+You can cast speak with dead at will, without expending a spell slot.
+
+## Witch Sight
+
+Prerequisite: 15th level
+
+You can see the true form of any shapechanger or creature concealed by illusion or transmutation magic while the creature is within 30 feet of you and within line of sight.
+
+## Wizard
+
+Clad in the silver robes that denote her station, an elf closes her eyes to shut out the distractions of the battlefield and begins her quiet chant. Fingers weaving in front of her, she completes her spell and launches a tiny bead of fire toward the enemy ranks, where it erupts into a conflagration that engulfs the soldiers.Checking and rechecking his work, a human scribes an intricate magic circle in chalk on the bare stone floor, then sprinkles powdered iron along every line and graceful curve. When the circle is complete, he drones a long incantation. A hole opens in space inside the circle, bringing a whiff of brimstone from the otherworldly plane beyond.
+
+Crouching on the floor in a dungeon intersection, a gnome tosses a handful of small bones inscribed with mystic symbols, muttering a few words of power over them. Closing his eyes to see the visions more clearly, he nods slowly, then opens his eyes and points down the passage to his left.
+
+Wizards are supreme magic-users, defined and united as a class by the spells they cast. Drawing on the subtle weave of magic that permeates the cosmos, wizards cast spells of explosive fire, arcing lightning, subtle deception, and brute-force mind control. Their magic conjures monsters from other planes of existence, glimpses the future, or turns slain foes into zombies. Their mightiest spells change one substance into another, call meteors down from the sky, or open portals to other worlds.
+
+## Scholars of the ArcaneWild and enigmatic, varied in form and function, the power of magic draws students who seek to master its mysteries. Some aspire to become like the gods, shaping reality itself. Though the casting of a typical spell requires merely the utterance of a few strange words, fleeting gestures, and sometimes a pinch or clump of exotic materials, these surface components barely hint at the expertise attained after years of apprenticeship and countless hours of study.
+
+Wizards live and die by their spells. Everything else is secondary. They learn new spells as they experiment and grow in experience. They can also learn them from other wizards, from ancient tombs or inscriptions, and from ancient creatures (such as the fey) that are steeped in magic.
+
+## The Wizard|         |   Proficiency |                                 | Cantrips   | — Spells Slots per Spell Level —   | — Spells Slots per Spell Level —   | — Spells Slots per Spell Level —   | — Spells Slots per Spell Level —   | — Spells Slots per Spell Level —   | — Spells Slots per Spell Level —   | — Spells Slots per Spell Level —   | — Spells Slots per Spell Level —   |
+| Level   |               | Bonus Features                  | Known      | — Spells Slots per Spell Level —   | 1st 2nd 3rd                        | 4th 5th 6th                        | 7th 8th                            | 9th                                |                                    |                                    |                                    |
+| 1st     |            +2 | Spellcasting, Arcane Recovery 3 |            | — Spells Slots per Spell Level —   | 2                                  | — — — —                            | — —                                | —                                  | —                                  |                                    |                                    |
+|         |               | 2nd +2 Arcane Tradition         | 3 3        | — Spells Slots per Spell Level —   | — — —                              |                                    | —  — —                             | —                                  | —                                  |                                    |                                    |
+| 3rd +2  |               | — 3                             |            | — Spells Slots per Spell Level —   | 4                                  | 2                                  |                                    | — — — — — — —                      | —                                  |                                    |                                    |                                    |
+| 4th     |            +2 | Ability Score Improvement 4 4   |            | — Spells Slots per Spell Level —   | 3                                  |                                    |                                    | — — — — — — —                      |                                    |                                    |                                    |                                    |
+| 5th +3  |               | —                               | 4 4        | — Spells Slots per Spell Level —   | 3 2                                |                                    |                                    | — — — — —                          | —                                  |                                    |                                    |                                    |
+|         |               | 6th +3 Arcane Tradition feature | 4 4        | — Spells Slots per Spell Level —   | 3 3                                |                                    |                                    | — — — — — —                        |                                    |                                    |                                    |                                    |
+| 7th +3  |               | —                               | 4          | — Spells Slots per Spell Level —   | 4                                  | 3 3                                |                                    | — — — — —                          |                                    |                                    |                                    |                                    |
+| 8th +3  |               | Ability Score Improvement 4 4   |            | — Spells Slots per Spell Level —   |                                    |                                    |                                    | 3 3 2 — — — — —                    |                                    |                                    |                                    |                                    |
+| 9th     |            +4 | —                               | 4 4        | — Spells Slots per Spell Level —   | 4                                  | 3 3 3 1                            |                                    | —  — —                             | —                                  |                                    |                                    |                                    |
+| 10th    |               | +4 Arcane Tradition feature     | 5          | — Spells Slots per Spell Level —   | 4                                  |                                    |                                    | 3 3 3 2 — — — —                    |                                    |                                    |                                    |                                    |
+| 11th    |            +4 | —                               | 5          | — Spells Slots per Spell Level —   | 4                                  | 3  3 3                             | 2 1                                | — — —                              |                                    |                                    |                                    |                                    |
+| 12th +4 |               | Ability Score Improvement       | 5 4        | — Spells Slots per Spell Level —   |                                    |                                    | 3 3 3 2 1 —                        | —                                  | —                                  |                                    |                                    |                                    |
+| 13th    |            +5 | —                               | 5 4 3      | — Spells Slots per Spell Level —   |                                    | 3 3 2 1 1                          | 1                                  | —                                  | —                                  |                                    |                                    |                                    |
+| 14th    |               | +5 Arcane Tradition feature     | 5          | — Spells Slots per Spell Level —   | 4                                  | 3 3 3 2 1 1                        | 1                                  |                                    | — —                                |                                    |                                    |                                    |
+| 15th    |            +5 | —                               |            | — Spells Slots per Spell Level —   | 5 4 3                              | 3                                  | 3 2 1 1                            | 1                                  | 1  1                               | —                                  |                                    |                                    |
+| 16th    |            +5 | Ability Score Improvement       | 5          | — Spells Slots per Spell Level —   | 4                                  | 3 3 3 2 1 1                        | 1                                  | 1  1                               | —                                  |                                    |                                    |                                    |
+| 17th +6 |               | —                               |            | — Spells Slots per Spell Level —   | 5 4                                | 3 3 3 2 1 1                        | 1                                  | 1 1                                |                                    |                                    |                                    |                                    |
+| 18th    |               | +6 Spell Mastery                | 5          | — Spells Slots per Spell Level —   | 4                                  | 3 3 3 3 1 1                        | 1                                  | 1 1                                |                                    |                                    |                                    |                                    |
+| 19th +6 |               | Ability Score Improvement 5     |            | — Spells Slots per Spell Level —   | 4                                  | 3 3 3 3                            | 2 1                                | 1                                  | 1 1                                |                                    |                                    |                                    |
+| 20th    |            +6 | Signature Spell                 | 5          | — Spells Slots per Spell Level —   | 3  3                               | 2                                  | 3 3                                | 2 1 1                              |                                    |                                    |                                    |                                    |## The Lure of Knowledge
+
+Wizards' lives are seldom mundane. The closest a wizard is likely to come to an ordinary life is working as a sage or lecturer in a library or university, teaching others the secrets of the multiverse. Other wizards sell their services as diviners, serve in military forces, or pursue lives of crime or domination.
+
+But the lure of knowledge and power calls even the most unadventurous wizards out of the safety of their libraries and laboratories and into crumbling ruins and lost cities. Most wizards believe that their counterparts in ancient civilizations knew secrets of magic that have been lost to the ages, and discovering those secrets could unlock the path to a power greater than any magic available in the present age.
+
+## Creating a Wizard
+
+__________
+
+Creating a wizard character demands a backstory dominated by at least one extraordinary event. How did your character first come into contact with magic? How did you discover you had an aptitude for it? Do you have a natural talent, or did you simply study hard and practice incessantly? Did you encounter a magical creature or an ancient tome that taught you the basics of magic?What drew you forth from your life of study? Did your first taste of magical knowledge leave you hungry for more? Have you received word of a secret repository of knowledge not yet plundered by any other wizard? Perhaps you're simply eager to put your newfound magical skills to the test in the face of danger.
+
+## Quick Build
+
+You can make a wizard quickly by following these suggestions. First, Intelligence should be your highest ability score, followed by Constitution or Dexterity. If you plan to join the School of Enchantment, make Charisma your next-best score. Second, choose the sage background. Third, choose the mage hand, light, and ray of frost cantrips, along with the following 1st-level spells for your spellbook: burning hands, charm person, feather fall, mage armor, magic missile, and sleep.
+
+## Class Features
+
+As a wizard, you gain the following class features.
+
+## Hit Points
+
+Hit Dice: 1d6 per wizard level
+
+Hit Points at 1st Level: 6 + your Constitution modifier
+
+Hit Points at Higher Levels: 1d6 (or 4) + your Constitution modifier per wizard level after 1st
+
+## Proficiencies
+
+Armor: None Weapons: Daggers, darts, slings, quarterstaffs, light crossbows Tools: None
+
+Saving Throws: Intelligence, Wisdom Skills: Choose two from Arcana, History, Insight, Investigation, Medicine, and Religion
+
+## Equipment
+
+You start with the following equipment, in addition to the equipment granted by your background:- (a) a quarterstaff or (b) a dagger
+- (a) a component pouch or (b) an arcane focus
+- (a) a scholar's pack or (b) an explorer's pack
+- A spellbook
+
+## Spellcasting
+
+As a student of arcane magic, you have a spellbook containing spells that show the first glimmers of your true power. See chapter 10 for the general rules of spellcasting and chapter 11 for the wizard spell list.
+
+## Cantrips
+
+At 1st level, you know three cantrips of your choice from the wizard spell list. You learn additional wizard cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Wizard table.
+
+1
+
+## Your Spellbook
+
+The spells that you add to your spellbook as you gain levels reflect the arcane research you conduct on your own, as well as intellectual breakthroughs you have had about the nature of the multiverse. You might find other spells during your adventures. You could discover a spell recorded on a scroll in an evil wizard's chest, for example, or in a dusty tome in an ancient library.
+
+Copying a Spell into the Book. When you find a wizard spell of 1st level or higher, you can add it to your spellbook if it is of a level for which you have spell slots and if you can spare the time to decipher and copy it.Copying a spell into your spellbook involves reproducing the basic form of the spell, then deciphering the unique system of notation used by the wizard who wrote it. You must practice the spell until you understand the sounds or gestures required, then transcribe it into your spellbook using your own notation.
+
+For each level of the spell, the process takes 2 hours and costs 50 gp. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it. Once you have spent this time and money, you can prepare the spell just like your other spells.
+
+Replacing the Book. You can copy a spell from your own spellbook into another book—for example, if you want to make a backup copy of your spellbook. This is just like copying a new spell into your spellbook, but faster and easier, since you understand your own notation and already know how to cast the spell. You need spend only 1 hour and 10 gp for each level of the copied spell.
+
+If you lose your spellbook, you can use the same procedure to transcribe the spells that you have prepared into a new spellbook. Filling out the remainder of your spellbook requires you to find new spells to do so, as normal. For this reason, many wizards keep backup spellbooks in a safe place.The Book's Appearance. Your spellbook is a unique compilation of spells, with its own decorative flourishes and margin notes. It might be a plain, functional leather volume that you received as a gift from your master, a finely bound gilt-edged tome you found in an ancient library, or even a loose collection of notes scrounged together after you lost your previous spellbook in a mishap.
+
+1
+
+## Spell Book
+
+At 1st level, you have a spellbook containing six 1st-level wizard spells of your choice.
+
+## Preparing and Casting Spells
+
+The Wizard table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+
+You prepare the list of wizard spells that are available for you to cast. To do so, choose a number of wizard spells from your spellbook equal to your Intelligence modifier + your wizard level (minimum of one spell). The spells must be of a level for which you have spell slots.
+
+For example, if you're a 3rd-level wizard, you have four 1st-level and two 2nd-level spell slots. With an Intelligence of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination, chosen from your spellbook. If you prepare the 1st-level spell magic missile, you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.You can change your list of prepared spells when you finish a long rest. Preparing a new list of wizard spells requires time spent studying your spellbook and m em orizing the incantations and gestures you must make to cast the spell: at least 1 minute per spell level for each spell on your list.
+
+## S p e l l c a s t i n g A b i l i t y
+
+Intelligence is your spellcasting ability for your wizard spells, since you learn your spells through dedicated study and m em orization. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one.
+
+Spell save DC = 8 + your proficiency bonus + your Intelligence modifier
+
+Spell attack modifier = your proficiency bonus + your intelligence modifier
+
+## R i t u a l C a s t i n g
+
+You can cast a w izard spell as a ritual if that spell has the ritual tag and you have the spell in your spellbook. You don't need to have the spell prepared.
+
+## S p e l l c a s t i n g F o c u s
+
+You can use an arcane focus (found in chapter 5) as a spellcasting focus for your w izard spells.Learning Spells of 1st Level and Higher Each time you gain a wizard level, you can add two wizard spells of your choice to your spellbook. Each of these spells must be of a level for which you have spell slots, as shown on the Wizard table. On your adventures, you might find other spells that you can add to your spellbook (see the "Your Spellbook" sidebar).
+
+## Arcane Recovery
+
+You have learned to regain some of your magical energy by studying your spellbook. Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your wizard level (rounded up), and none of the slots can be 6th level or higher.
+
+For example, if you're a 4th-level wizard, you can recover up to two levels worth of spell slots. You can recover either a 2nd-level spell slot or two 1st-level spell slots.
+
+## Arcane Tradition
+
+When you reach 2nd level, you choose an arcane tradition, shaping your practice of magic through one of eight schools: Abjuration, Conjuration, Divination, Enchantment, Evocation, Illusion, Necromancy, or Transmutation, all detailed at the end of the class description.
+
+Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level.## Ability Score Improvement
+
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+## Spell Mastery
+
+At 18th level, you have achieved such mastery over certain spells that you can cast them at will. Choose a 1st-level wizard spell and a 2nd-level wizard spell that are in your spellbook. You can cast those spells at their lowest level without expending a spell slot when you have them prepared. If you want to cast either spell at a higher level, you must expend a spell slot as normal.
+
+By spending 8 hours in study, you can exchange one or both of the spells you chose for different spells of the same levels.
+
+## Signature Spells
+
+When you reach 20th level, you gain mastery over two powerful spells and can cast them with little effort. Choose two 3rd-level wizard spells in your spellbook as your signature spells. You always have these spells prepared, they don't count against the number of spells you have prepared, and you can cast each of them once at 3rd level without expending a spell slot. When you do so, you can't do so again until you finish a short or long rest.If you want to cast either spell at a higher level, you must expend a spell slot as normal.
+
+## A Tradition of Traditions
+
+The study of wizardry is ancient, stretching back to the earliest mortal discoveries of magic. It is firmly established in the worlds of D&D, with various traditions dedicated to its complex study.
+
+The most common arcane traditions in the multiverse revolve around the schools of magic. Wizards through the ages have cataloged thousands of spells, grouping them into eight categories called schools, as described in chapter 10. In some places, these traditions are literally schools; a wizard might study at the School of Illusion while another studies across town at the School of Enchantment. In other institutions, the schools are more like academic departments, with rival faculties competing for students and funding. Even wizards who train apprentices in the solitude of their own towers use the division of magic into schools as a learning device, since the spells of each school require mastery of different techniques.
+
+## School of Abjuration
+
+The School of Abjuration emphasizes magic that blocks, banishes, or protects. Detractors of this school say that its tradition is about denial, negation rather than positive assertion. You understand, however, that ending harmful effects, protecting the weak, and banishing evil influences is anything but a philosophical void. It is a proud and respected vocation.Called abjurers, members of this school are sought when baleful spirits require exorcism, when important locations must be guarded against magical spying, and when portals to other planes of existence must be closed.
+
+## Abjuration Savant
+
+Beginning when you select this school at 2nd level, the gold and time you must spend to copy an abjuration spell into your spellbook is halved.
+
+## Arcane Ward
+
+Starting at 2nd level, you can weave magic around yourself for protection. When you cast an abjuration spell of 1st level or higher, you can simultaneously use a strand of the spell's magic to create a magical ward on yourself that lasts until you finish a long rest. The ward has hit points equal to twice your wizard level + your Intelligence modifier. Whenever you take damage, the ward takes the damage instead. If this damage reduces the ward to 0 hit points, you take any remaining damage.
+
+While the ward has 0 hit points, it can't absorb damage, but its magic remains. Whenever you cast an abjuration spell of 1st level or higher, the ward regains a number of hit points equal to twice the level of the spell.
+
+Once you create the ward, you can't create it again until you finish a long rest.
+
+## Projected WardStarting at 6th level, when a creature that you can see within 30 feet of you takes damage, you can use your reaction to cause your Arcane Ward to absorb that damage. If this damage reduces the ward to 0 hit points, the warded creature takes any remaining damage.
+
+## Improved Abjuration
+
+Beginning at 10th level, when you cast an abjuration spell that requires you to make an ability check as a part of casting that spell (as in counterspell and dispel magic), you add your proficiency bonus to that ability check.
+
+
+## Spell Resistance
+
+Starting at 14th level, you have advantage on saving throws against spells.
+
+Furthermore, you have resistance against the damage of spells.
+
+## School of Conjuration
+
+As a conjurer, you favor spells that produce objects and creatures out of thin air. You can conjure billowing clouds of killing fog or summon creatures from elsewhere to fight on your behalf. As your mastery grows, you learn spells of transportation and can teleport yourself across vast distances, even to other planes of existence, in an instant.
+
+## Conjuration Savant
+
+Beginning when you select this school at 2nd level, the gold and time you must spend to copy a conjuration spell into your spellbook is halved.Starting at 2nd level when you select this school, you can use your action to conjure up an inanimate object in your hand or on the ground in an unoccupied space that you can see within 10 feet of you. This object can be no larger than 3 feet on a side and weigh no more than 10 pounds, and its form must be that of a nonmagical object that you have seen. The object is visibly magical, radiating dim light out to 5 feet.
+
+The object disappears after 1 hour, when you use this feature again, or if it takes any damage.
+
+## Benign Transposition
+
+Starting at 6th level, you can use your action to teleport up to 30 feet to an unoccupied space that you can see. Alternatively, you can choose a space within range that is occupied by a Small or Medium creature. If that creature is willing, you both teleport, swapping places.
+
+Once you use this feature, you can't use it again until you finish a long rest or you cast a conjuration spell of 1st level or higher.
+
+## Focused Conjunction
+
+Beginning at 10th level, while you are concentrating on a conjuration spell, your concentration can't be broken as a result of taking damage.
+
+## Durable Summons
+
+Starting at 14th level, any creature that you summon or create with a conjuration spell has 30 temporary hit points.## School of Divination
+
+The counsel of a diviner is sought by royalty and commoners alike, for all seek a clearer understanding of the past, present, and future. As a diviner, you strive to part the veils of space, time, and consciousness so that you can see clearly. You work to master spells of discernment, remote viewing, supernatural knowledge, and foresight.
+
+## Divination Savant
+
+Beginning when you select this school at 2nd level, the gold and time you must spend to copy a divination spell into your spellbook is halved.
+
+## Portent
+
+Starting at 2nd level when you choose this school, glimmers of the future begin to press in on your awareness. When you finish a long rest, roll two d20s and record the numbers rolled. You can replace any attack roll, saving throw, or ability check made by you or a creature that you can see with one of these foretelling rolls. You must choose to do so before the roll, and you can replace a roll in this way only once per turn.
+
+Each foretelling roll can be used only once. When you finish a long rest, you lose any unused foretelling rolls.
+
+## Expert DivinationBeginning at 6th level, casting divination spells comes so easily to you that it expends only a fraction of your spellcasting efforts. When you cast a divination spell of 2nd level or higher using a spell slot, you regain one expended spell slot. The slot you regain must be of a level lower than the spell you cast and can't be higher than 5th level.
+
+## The Third Eye
+
+Starting at 10th level, you can use your action to increase your powers of perception. When you do so, choose one of the following benefits, which lasts until you are incapacitated or you take a short or long rest. You can't use the feature again until you finish a rest.
+
+- Darkvision. You gain darkvision out to a range of 60 feet, as described in chapter 8.
+- Ethereal Sight. You can see into the Ethereal Plane within 60 feet of you.
+- Greater Comprehension. You can read any language.
+- Invisibility. You can see invisible creatures and objects within 10 feet of you that are within line of sight.
+
+## Greater Portent
+
+Starting at 14th level, the visions in your dreams intensify and paint a more accurate picture in your mind of what is to come. You roll three d20s for your Portent feature, rather than two.
+
+## School of EnchantmentAs a member of the School of Enchantment, you have honed your ability to magically entrance and beguile other people and monsters. Some enchanters are peacemakers who bewitch the violent to lay down their arms and charm the cruel into showing mercy. Others are tyrants who magically bind the unwilling into their service. Most enchanters fall somewhere in between.
+
+## Enchantment Savant
+
+Beginning when you select this school at 2nd level, the gold and time you must spend to copy an enchantment spell into your spellbook is halved.
+
+## Hypnotic Gaze
+
+Starting at 2nd level when you choose this school, your soft words and enchanting gaze can magically enthrall another creature. As an action, choose one creature that you can see within 5 feet of you. If the target can see or hear you, it must succeed on a Wisdom saving throw against your wizard spell save DC or be charmed by you until the end of your next turn. The charmed creature's speed drops to 0, and the creature is incapacitated and visibly dazed.
+
+On subsequent turns, you can use your action to maintain this effect, extending its duration until the end of your next turn. However, the effect ends if you move more than 5 feet away from the creature, if the creature can neither see nor hear you, or if the creature takes damage.Once the effect ends, or if the creature succeeds on its initial saving throw against this effect, you can't use this feature on that creature again until you finish a long rest.
+
+## Instinctive Charm
+
+Beginning at 6th level, when a creature you can see within 30 feet of you makes an attack roll against you, you can use your reaction to divert the attack, provided that another creature is within the attack's range. The attacker must make a Wisdom saving throw against your wizard spell save DC. On a failed save, the attacker must target the creature that is closest to it, not including you or itself. If multiple creatures are closest, the attacker chooses which one to target.
+
+On a successful save, you can't use this feature on the attacker again until you finish a long rest.
+
+You must choose to use this feature before knowing whether the attack hits or misses. Creatures that can't be charmed are immune to this effect.
+
+## Split Enchantment
+
+Starting at 10th level, when you cast an enchantment spell of 1st level or higher that targets only one creature, you can have it target a second creature.
+
+## Alter Memories
+
+At 14th level, you gain the ability to make a creature unaware of your magical influence on it. When you cast an enchantment spell to charm one or more creatures, you can alter one creature's understanding so that it remains unaware of being charmed.Additionally, once before the spell expires, you can use your action to try to make the chosen creature forget some of the time it spent charmed. The creature must succeed on an Intelligence saving throw against your wizard spell save DC or lose a number of hours of its memories equal to 1 + your Charisma modifier (minimum 1). You can make the creature forget less time, and the amount of time can't exceed the duration of your enchantment spell.
+
+## School of Evocation
+
+You focus your study on magic that creates powerful elemental effects such as bitter cold, searing flame, rolling thunder, crackling lightning, and burning acid. Some evokers find employment in military forces, serving as artillery to blast enemy armies from afar. Others use their spectacular power to protect the weak, while some seek their own gain as bandits, adventurers, or aspiring tyrants.
+
+## Evocation Savant
+
+Beginning when you select this school at 2nd level, the gold and time you must spend to copy an evocation spell into your spellbook is halved.
+
+## Sculpt Spells
+
+Beginning at 2nd level, you can create pockets of relative safety within the effects of your evocation spells. When you cast an evocation spell that affects other creatures that you can see, you can choose a number of them equal to 1 + the spell's level. The chosen creatures automatically succeed on their saving throws against the spell, and they take no damage if they would normally take half damage on a successful save.## Potent Cantrip
+
+Starting at 6th level, your damaging cantrips affect even creatures that avoid the brunt of the effect. W hen a creature succeeds on a saving throw against your cantrip, the creature takes half the cantrip's damage (if any) but suffers no additional effect from the cantrip.
+
+## Empowered Evocation
+
+Beginning at 10th level, you can add your Intelligence modifier to the damage roll of any wizard evocation spell you cast.
+
+## Overchannel
+
+Starting at 14th level, you can increase the power of your simpler spells. W hen you cast a wizard spell of 5th level or lower that deals damage, you can deal maximum damage with that spell.
+
+The first time you do so, you suffer no adverse effect. If you use this feature again before you finish a long rest, you take 2d12 necrotic damage for each level of the spell, immediately after you cast it. Each time you use this feature again before finishing a long rest, the necrotic damage per spell level increases by 1d12. This damage ignores resistance and immunity.
+
+## School of Illusion
+
+You focus your studies on magic that dazzles the senses, befuddles the mind, and tricks even the wisest folk. Your magic is subtle, but the illusions crafted by your keen mind make the impossible seem real. Some illusionists—including many gnome wizards—are benign tricksters who use their spells to entertain. Others are more sinister masters of deception, using their illusions to frighten and fool others for their personal gain.
+
+## Illusion Savant
+
+Beginning when you select this school at 2nd level, the gold and time you must spend to copy an illusion spell into your spellbook is halved.
+
+## Improved Minor Illusion
+
+When you choose this school at 2nd level, you learn the minor illusion cantrip. If you already know this cantrip, you learn a different wizard cantrip of your choice. The cantrip doesn't count against your number of cantrips known.
+
+When you cast minor illusion, you can create both a sound and an image with a single casting of the spell.
+
+## Malleable Illusions
+
+Starting at 6th level, when you cast an illusion spell that has a duration of 1 minute or longer, you can use your action to change the nature of that illusion (using the spell's normal parameters for the illusion), provided that you can see the illusion.
+
+## Illusory SelfBeginning at 10th level, you can create an illusory duplicate of yourself as an instant, almost instinctual reaction to danger. When a creature makes an attack roll against you, you can use your reaction to interpose the illusory duplicate between the attacker and yourself. The attack automatically misses you, then the illusion dissipates.
+
+Once you use this feature, you can't use it again until you finish a short or long rest.
+
+## Illusory Reality
+
+By 14th level, you have learned the secret of weaving shadow magic into your illusions to give them a semireality. When you cast an illusion spell of 1st level or higher, you can choose one inanimate, nonmagical object that is part of the illusion and make that object real. You can do this on your turn as a bonus action while the spell is ongoing. The object remains real for 1 minute. For example, you can create an illusion of a bridge over a chasm and then make it real long enough for your allies to cross.
+
+The object can't deal damage or otherwise directly harm anyone.
+
+## School of Necromancy
+
+The School of Necromancy explores the cosmic forces of life, death, and undeath. As you focus your studies in this tradition, you learn to manipulate the energy that animates all living things. As you progress, you learn to sap the life force from a creature as your magic destroys its body, transforming that vital energy into magical power you can manipulate.Most people see necromancers as menacing, or even villainous, due to the close association with death. Not all necromancers are evil, but the forces they manipulate are considered taboo by many societies.
+
+## Necromancy Savant
+
+Beginning when you select this school at 2nd level, the gold and time you must spend to copy a necromancy spell into your spellbook is halved.
+
+## Grim Harvest
+
+At 2nd level, you gain the ability to reap life energy from creatures you kill with your spells. Once per turn when you kill one or more creatures with a spell of 1st level or higher, you regain hit points equal to twice the spell's level, or three times its level if the spell belongs to the School of Necromancy. You don't gain this benefit for killing constructs or undead.
+
+## Undead Thralls
+
+At 6th level, you add the animate dead spell to your spellbook if it is not there already. When you cast animate dead, you can target one additional corpse or pile of bones, creating another zombie or skeleton, as appropriate.
+
+Whenever you create an undead using a necromancy spell, it has additional benefits:
+
+- The creature's hit point maximum is increased by an amount equal to your wizard level.
+- The creature adds your proficiency bonus to its weapon damage rolls.
+
+## Inured to UndeathBeginning at 10th level, you have resistance to necrotic damage, and your hit point maximum can't be reduced. You have spent so much time dealing with undead and the forces that animate them that you have become inured to some of their worst effects.
+
+## Command Undead
+
+Starting at 14th level, you can use magic to bring undead under your control, even those created by other wizards. As an action, you can choose one undead that you can see within 60 feet of you. That creature must make a Charisma saving throw against your wizard spell save DC. If it succeeds, you can't use this feature on it again. If it fails, it becomes friendly to you and obeys your commands until you use this feature again.
+
+Intelligent undead are harder to control in this way. If the target has an Intelligence of 8 or higher, it has advantage on the saving throw. If it fails the saving throw and has an Intelligence of 12 or higher, it can repeat the saving throw at the end of every hour until it succeeds and breaks free.
+
+## School of Transmutation
+
+You are a student of spells that modify energy and matter. To you, the world is not a fixed thing, but eminently mutable, and you delight in being an agent of change. You wield the raw stuff of creation and learn to alter both physical forms and mental qualities. Your magic gives you the tools to become a smith on reality's forge.Some transmuters are tinkerers and pranksters, turning people into toads and transforming copper into silver for fun and occasional profit. Others pursue their magical studies with deadly seriousness, seeking the power of the gods to make and destroy worlds.
+
+## Transmutation Savant
+
+Beginning when you select this school at 2nd level, the gold and time you must spend to copy a transmutation spell into your spellbook is halved.
+
+## Minor Alchemy
+
+Starting at 2nd level when you select this school, you can temporarily alter the physical properties of one nonmagical object, changing it from one substance into another. You perform a special alchemical procedure on one object composed entirely of wood, stone (but not a gemstone), iron, copper, or silver, transforming it into a different one of those materials. For each 10 minutes you spend performing the procedure, you can transform up to 1 cubic foot of material. After 1 hour, or until you lose your concentration (as if you were concentrating on a spell), the material reverts to its original substance.
+
+## Transmuter's Stone
+
+Starting at 6th level, you can spend 8 hours creating a transmuter's stone that stores transmutation magic. You can benefit from the stone yourself or give it to another creature. A creature gains a benefit of your choice as long as the stone is in the creature's possession. When you create the stone, choose the benefit from the following options:- Darkvision out to a range of 60 feet, as described in chapter 8
+- An increase to speed of 10 feet while the creature is unencumbered
+- Proficiency in Constitution saving throws
+- Resistance to acid, cold, fire, lightning, or thunder damage (your choice whenever you choose this benefit)
+
+Each time you cast a transmutation spell of 1st level or higher, you can change the effect of your stone if the stone is on your person.
+
+If you create a new transmuter's stone, the previous one ceases to function.
+
+## Shapeshifter
+
+At 10th level, you add the polymorph spell to your spellbook, if it is not there already. You can cast polymorph without expending a spell slot. When you do so, you can target only yourself and transform into a beast whose challenge rating is 1 or lower.
+
+Once you cast polymorph in this way, you can't do so again until you finish a short or long rest, though you can still cast it normally using an available spell slot.
+
+## Master Transmuter
+
+Starting at 14th level, you can use your action to consume the reserve of transmutation magic stored within your transmuter's stone in a single burst. When you do so, choose one of the following effects. Your transmuter's stone is destroyed and can't be remade until you finish a long rest.
+
+Major Transformation. You can transmute one nonmagical object—no larger than a 5-foot cube—into another nonmagical object of similar size and mass and of equal or lesser value. You must spend 10 minutes handling the object to transform it.Panacea. You remove all curses, diseases, and poisons affecting a creature that you touch with the transmuter's stone. The creature also regains all its hit points.
+
+Restore Life. You cast the raise dead spell on a creature you touch with the transmuter's stone, without expending a spell slot or needing to have the spell in your spellbook.
+
+Restore Youth. You touch the transmuter's stone to a willing creature, and that creature's apparent age is reduced by 3d10 years, to a minimum of 13 years. This effect doesn't extend the creature's lifespan.
+
+## Chapter 4: Personality and Background
+
+CHARACTERS ARE DEFINED BY MUCH MORE THAN their race and class. They're individuals with their own stories, interests, connections, and capabilities beyond those that class and race define. This chapter expounds on the details that distinguish characters from one another, including the basics of name and physical description, the rules of backgrounds and languages, and the finer points of personality and alignment.
+
+## Character Details
+
+Your character's name and physical description might be the first things that the other players at the table learn about you. It's worth thinking about how these characteristics reflect the character you have in mind.
+
+## Name
+
+Your character's race description includes sample names for members of that race. Put some thought into your name even if you're just picking one from a list.
+
+## SexYou can play a male or female character without gaining any special benefits or hindrances. Think about how your character does or does not conform to the broader culture's expectations of sex, gender, and sexual behavior. For example, a male drow cleric defies the traditional gender divisions of drow society, which could be a reason for your character to leave that society and come to the surface.
+
+## Tik a a n d A r t e m i s : C o n t r a s t i n g C h a r a c t e r s
+
+The details in this chapter make a big difference in setting your character apart from every other character. Consider the following two human fighters.
+
+Hailing from the Dragonlance setting, Tika Waylan was a brash teenager who had a rough childhood. The daughter of a thief, she ran away from home and practiced her father's trade on the streets of Solace. When she tried to rob the proprietor of the Inn of the Last Home, he caught her and took her under his wing, giving her a job as a barmaid. But when the dragonarmies laid waste to the town of Solace and destroyed the inn, necessity forced Tika into adventure alongside the friends she'd known from her childhood. Her skill as a fighter (a frying pan remains one of her favorite weapons) combined with her history on the streets gave her skills invaluable in her adventuring career.Artemis Entreri grew up on the streets of Calimport in the Forgotten Realms. He used his wits, strength, and agility to carve out his own territory in one of the city's hundreds of poor shanty towns. After several years, he attracted the notice of one of the most powerful thieves' guilds in the city, and he ascended the ranks of the guild quickly despite his youth. Artemis became the favored assassin of one of the city's pashas, who sent him to far-off Icewind Dale to recover some stolen gems. He's a professional killer, constantly challenging himself to improve his skills.
+
+Tika and Artemis are both human and both fighters (with some experience as rogues), possessing similarly high Strength and Dexterity scores, but there the similarity ends.
+
+司
+
+You don't need to be confined to binary notions of sex and gender. The elf god Corellon Larethian is often seen as androgynous or hermaphroditic, for example, and some elves in the multiverse are made in Corellon's image. You could also play a female character who presents herself as a man, a man who feels trapped in a female body, or a bearded female dwarf who hates being mistaken for a male. Likewise, your character's sexual orientation is for you to decide.
+
+## Height and Weight
+
+You can decide your character's height and weight, using the information provided in your race description or on the Random Height and Weight table. Think about what your character's ability scores might say about his or her height and weight. A weak but agile character might be thin. A strong and tough character might be tall or just heavy.If you want to, you can roll randomly for your character's height and weight using the Random Height and Weight table. The dice roll given in the Height Modifier column determines the character's extra height (in inches) beyond the base height. That same number multiplied by the dice roll or quantity given in the Weight Modifier column determines the character's extra weight (in pounds) beyond the base weight.
+
+## Random Height and Weight
+
+|                    |             |                    | Base Height  Base Weight Race Height Modifier Weight Modifier   |
+|--------------------|-------------|--------------------|----------------------------------------------------------------|
+| Human              | 4'8"        | +2d10 110 lb.      | x (2d4) lb.                                                    |
+| Dwarf, hill        | 3'8”        | 115 lb.            | +2d4  x (2d6) lb.                                              |
+| Dwarf, mountain    | 4'          | +2d4 130 lb.       | x (2d6) lb.                                                    |
+| Elf, high          | 4’6"        | +2d10 90 lb.       | x (1d4) lb.                                                    |
+| Elf, wood          | 4'6"        | +2d10 100 lb.      | x (1d4) lb.                                                    |
+| Elf, drow          |             | 4'5" +2d6 75 lb.   | x (1d6) lb.                                                    |
+| Halfling           | 2'7" +2d4   | 35 lb.             | x 1 lb.                                                        |
+| Dragonborn         | 5'6"        | +2d8 175 lb.       | x (2d6) lb.                                                    |
+| Gnome              |             | 2' 11" +2d4 35 lb. | x 1 lb.                                                        |
+| Half-elf           | 4'9"        | +2d8 110 lb.       | x (2d4) lb.                                                    |
+| Half-orc           | 4'10" +2d10 | 140 lb.            | x (2d6) lb.                                                    |
+| Tiefling           | 4'9"        | +2d8 110 lb.       | x (2d4) lb.                                                    |For example, as a human, Tika has a height of 4 feet 8 inches plus 2d10 inches. Her player rolls 2d10 and gets a total of 12, so Tika stands 5 feet 8 inches tall. Then the player uses that same roll of 12 and multiplies it by 2d4 pounds. Her 2d4 roll is 3, so Tika weighs an extra 36 pounds (12 x 3) on top of her base 110 pounds, for a total of 146 pounds.
+
+## Other Physical Characteristic s
+
+You choose your character's age and the color of his or her hair, eyes, and skin. To add a touch of distinctiveness, you might want to give your character an unusual or memorable physical characteristic, such as a scar, a limp, or a tattoo.
+
+## Tika and Artemis: Character Details
+
+Consider how the names Tika Waylan and Artemis Entreri set these characters apart from each other and reflect their personalities. Tika is a young woman determined to prove that she's not just a kid anymore, and her name makes her sound young and ordinary. Artemis Entreri comes from an exotic land and carries a more mysterious name.Tika is nineteen years old at the start of her adventuring career and has auburn hair, green eyes, fair skin with freckles, and a mole on her right hip. Artemis is a small man, compact and all wiry muscle. He has angular features and high cheekbones, and he always seems in need of a shave. His raven-black hair is thick and full, but his eyes are gray and lifeless— betraying the emptiness of his life and soul.
+
+## Alignment
+
+A typical creature in the worlds of Dungeons & Dragons has an alignment, which broadly describes its moral and personal attitudes. Alignment is a combination of two factors: one identifies morality (good, evil, or neutral), and the other describes attitudes toward society and order (lawful, chaotic, or neutral). Thus, nine distinct alignments define the possible combinations.
+
+These brief summaries of the nine alignments describe the typical behavior of a creature with that alignment. Individuals might vary significantly from that typical behavior, and few people are perfectly and consistently faithful to the precepts of their alignment.
+
+Lawful good (LG) creatures can be counted on to do the right thing as expected by society. Gold dragons, paladins, and most dwarves are lawful good.
+
+Neutral good (NG) folk do the best they can to help others according to their needs. Many celestials, some cloud giants, and most gnomes are neutral good.
+
+Chaotic good (CG) creatures act as their conscience directs, with little regard for what others expect. Copper dragons, many elves, and unicorns are chaotic good.Lawful neutral (LN) individuals act in accordance with law, tradition, or personal codes. Many monks and some wizards are lawful neutral.
+
+Neutral (N) is the alignment of those who prefer to steer clear of moral questions and don't take sides,
+
+## Dwarvish Script: Sample Alphabet
+
+| A   | B   | C   | D   | E   | F   | G   | H   | I   | J   | K   | L   | M   |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| >   | T   |     |     |     | IF  |     | +   | 1   |     |     |     | P   |
+| N   | 0   | P   | Q   | R   | S   | T   | U   | V   | W   | X   | 人   | Z   |
+| N   | n   | r   |     |     |     | P   |     | T   |     |     | n   |     |
+
+doing what seems best at the time. Lizardfolk, most druids, and many humans are neutral.
+
+Chaotic neutral (CN) creatures follow their whims, holding their personal freedom above all else. Many barbarians and rogues, and some bards, are chaotic neutral.
+
+Lawful evil (LE) creatures methodically take what they want, within the limits of a code of tradition, loyalty, or order. Devils, blue dragons, and hobgoblins are lawful evil.
+
+Neutral evil (NE) is the alignment of those who do whatever they can get away with, without compassion or qualms. Many drow, some cloud giants, and yugoloths are neutral evil.
+
+Chaotic evil (CE) creatures act with arbitrary violence, spurred by their greed, hatred, or bloodlust. Demons, red dragons, and orcs are chaotic evil.## Alignment in the Multiverse
+
+For many thinking creatures, alignment is a moral choice. Humans, dwarves, elves, and other humanoid races can choose whether to follow the paths of good or evil, law or chaos. According to myth, the good-aligned gods who created these races gave them free will to choose their moral paths, knowing that good without free will is slavery.
+
+The evil deities who created other races, though, made those races to serve them. Those races have strong inborn tendencies that match the nature of their gods. Most orcs share the violent, savage nature of the orc god, Gruumsh, and are thus inclined toward evil. Even if an orc chooses a good alignment, it struggles against its innate tendencies for its entire life. (Even half-orcs feel the lingering pull of the orc god's influence.)
+
+Alignment is an essential part of the nature of celestials and fiends. A devil does not choose to be lawful evil, and it doesn't tend toward lawful evil, but rather it is lawful evil in its essence. If it somehow ceased to be lawful evil, it would cease to be a devil.
+
+Most creatures that lack the capacity for rational thought do not have alignments—they are unaligned. Such a creature is incapable of making a moral or ethical choice and acts according to its bestial nature. Sharks are savage predators, for example, but they are not evil; they have no alignment.
+
+## LanguagesYour race indicates the languages your character can speak by default, and your background might give you access to one or more additional languages of your choice. Note these languages on your character sheet.
+
+Choose your languages from the Standard Languages table, or choose one that is common in your campaign. With your DM's permission, you can instead choose a language from the Exotic Languages table or a secret language, such as thieves' cant or the tongue of druids.
+
+Some of these languages are actually families of languages with many dialects. For example, the Primordial language includes the Auran, Aquan, Ignan, and Terran dialects, one for each of the four elemental planes. Creatures that speak different dialects of the same language can communicate with one another.
+
+## Standard Languages
+
+| Language  | Typical Speakers    | Script   |
+|-----------|---------------------|----------|
+| Common    | Humans              | Common   |
+| Dwarvish  | Dwarves             | Dwarvish |
+| Elvish    | Elves               | Elvish   |
+| Giant     | Ogres, giants       | Dwarvish |
+| Gnomish   | Gnomes              | Dwarvish |
+| Goblin   | Goblinoids          | Dwarvish |
+| Halfling  | Halflings Common    |          |
+| Orc      | Orcs                | Dwarvish |
+
+## Exotic Languages| Language                  | Typical Speakers Script       |          |
+|---------------------------|-------------------------------|----------|
+|                           | Abyssal Demons                | Infernal |
+| Celestial                 | Celestials Celestial          |          |
+| Draconic                  | Dragons, dragonborn           | Draconic |
+| Deep Speech Mind flayers, | beholders                     | ---      |
+| Infernal Devils           |                               | Infernal |
+| Primordial                | Elementals Dwarvish           |          |
+| Sylvan                    | Fey creatures Elvish          |          |
+|                           | Undercommon Underdark traders | Elvish   |
+
+## E l v i s h S c r i p t : S a m p l e A l p h a b e t
+
+| A   | B  | C   | D   | E   | F   | G   | H   | I   | J   | K   | L   | M   |
+|-----|----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 0   |    |     |     |     | 2   |     | y   |     | cb  |     |     |     |
+| N   | 0  | P   | Q   | R   | S   | T   | U   | V   | W   | X   | Y   | Z   |
+| G   |    |     | 7   |     |     |     |     | D   | IC  | h   |     | ##  |
+
+## T i k a  a n d A r t e m i s : A l i g n m e n t
+
+Tika Waylan is neutral good, fundamentally good-hearted and striving to help others where she can. Artemis is lawful evil, unconcerned with the value of sentient life but at least professional in his approach to murder.
+
+As an evil character, Artemis is not an ideal adventurer. He began his career as a villain, and only cooperates with heroes when he must— and when it's in his own best interests. In most games, evil adventurers cause problems in groups alongside others who don't share their interests and objectives. Generally, evil alignments are for villains and monsters.## Personal Characteristics
+
+Fleshing out your character's personality—the array of traits, mannerisms, habits, beliefs, and flaws that give a person a unique identity—will help you bring him or her to life as you play the game. Four categories of characteristics are presented here: personality traits, ideals, bonds, and flaws. Beyond those categories, think about your character's favorite words or phrases, tics and habitual gestures, vices and pet peeves, and whatever else you can imagine.
+
+Each background presented later in this chapter includes suggested characteristics that you can use to spark your imagination. You're not bound to those options, but they're a good starting point.
+
+## Personality Traits
+
+Give your character two personality traits. Personality traits are small, simple ways to help you set your character apart from every other character. Your personality traits should tell you something interesting and fun about your character. They should be self-descriptions that are specific about what makes your character stand out. "I'm smart" is not a good trait, because it describes a lot of characters. "I've read every book in Candlekeep" tells you something specific about your character's interests and disposition.
+
+Personality traits might describe the things your character likes, his or her past accomplishments, things your character dislikes or fears, your character's self-attitude or mannerisms, or the influence of his or her ability scores.
+
+## Tika and Artemis: Personal CharacteristicsTika and Artemis have distinct personality traits. Tika Waylan dislikes boastfulness and has a fear of heights resulting from a bad fall during her career as a thief. Artemis Entreri is always prepared for the worst and moves with a quick, precise confidence.
+
+Consider their ideals. Tika Waylan is innocent, almost childlike, believing in the value of life and the importance of appreciating everyone. Neutral good in alignment, she cleaves to ideals of life and respect. Artemis Entreri never allows his emotions to master him, and he constantly challenges himself to improve his skills. His lawful evil alignment gives him ideals of impartiality and a lust for power.
+
+Tika Waylan's bond is to the Inn of the Last Home. The inn's proprietor gave her a new chance at life, and her friendship with her adventuring companions was forged during her time working there. Its destruction by the marauding dragonarmies gives Tika a very personal reason to hate them with a fiery passion. Her bond might be phrased as "I will do whatever it takes to punish the dragonarmies for the destruction of the Inn of the Last Home."
+
+Artemis Entreri's bond is a strange, almost paradoxical relationship with Drizzt Do'Urden, his equal in swordplay and grim determination. In his first battle with Drizzt, Artemis recognized something of himself in his opponent, some indication that if his life had gone differently, he might have led a life more like the heroic drow's. From that moment, Artemis is more than a criminal assassin—he is an antihero, driven by his rivalry with Drizzt. His bond might be phrased as "I will not rest until I have proved myself better than Drizzt Do'Urden."Each of these characters also has an important flaw. Tika Waylan is naive and emotionally vulnerable, younger than her companions and annoyed that they still think of her as the kid they knew years ago. She might even be tempted to act against her principles if she's convinced that a particular achievement would demonstrate her maturity. Artemis Entreri is completely walled off from any personal relationship and just wants to be left alone.
+
+A useful place to start thinking about personality traits is to look at your highest and lowest ability scores and define one trait related to each. Either one could be positive or negative: you might work hard to overcome a low score, for example, or be cocky about your high score.
+
+## Draconic Script: Sample Alphabet
+
+| A   | B   | C   | D   | E   | F   | G   | H   | I   | J   | K   | L   | M   |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|     | 业   |     | T   |     | T   |     |     | T   |     | ↑   | 7   |     |
+| N   | 0   | P   | Q   | R   | S   | T   | U   | V   | W   | X   | 人   | Z   |
+| 2   |     |     |     |     | T   |     |     |     | 下   |     | D   |     |
+
+## IdealsDescribe one ideal that drives your character. Your ideals are the things that you believe in most strongly, the fundamental moral and ethical principles that compel you to act as you do. Ideals encompass everything from your life goals to your core belief system.
+
+Ideals might answer any of these questions: What are the principles that you will never betray? What would prompt you to make sacrifices? What drives you to act and guides your goals and ambitions? What is the single most important thing you strive for?
+
+You can choose any ideals you like, but your character's alignment is a good place to start defining them. Each background in this chapter includes six suggested ideals. Five of them are linked to aspects of alignment: law, chaos, good, evil, and neutrality. The last one has more to do with the particular background than with moral or ethical perspectives.
+
+## Bonds
+
+Create one bond for your character. Bonds represent a character's connections to people, places, and events in the world. They tie you to things from your background. They might inspire you to heights of heroism, or lead you to act against your own best interests if they are threatened. They can work very much like ideals, driving a character's motivations and goals.
+
+Bonds might answer any of these questions: Whom do you care most about? To what place do you feel a special connection? What is your most treasured possession?
+
+Your bonds might be tied to your class, your background, your race, or some other aspect of your character's history or personality. You might also gain new bonds over the course of your adventures.
+
+## FlawsFinally, choose a flaw for your character. Your character's flaw represents some vice, compulsion, fear, or weakness—in particular, anything that someone else could exploit to bring you to ruin or cause you to act against your best interests. More significant than negative personality traits, a flaw might answer any of these questions: What enrages you? What's the one person, concept, or event that you are terrified of? What are your vices?
+
+## Inspiration
+
+Inspiration is a rule the Dungeon Master can use to reward you for playing your character in a way that's true to his or her personality traits, ideal, bond, and flaw. By using inspiration, you can draw on your personality trait of compassion for the downtrodden to give you an edge in negotiating with the Beggar Prince. Or inspiration can let you call on your bond to the defense of your home village to push past the effect of a spell that has been laid on you.
+
+## Gaining Inspiration
+
+Your DM can choose to give you inspiration for a variety of reasons. Typically, DMs award it when you play out your personality traits, give in to the drawbacks presented by a flaw or bond, and otherwise portray your character in a compelling way. Your DM will tell you how you can earn inspiration in the game.
+
+You either have inspiration or you don't—you can't stockpile multiple "inspirations" for later use.
+
+## Using InspirationIf you have inspiration, you can expend it when you make an attack roll, saving throw, or ability check. Spending your inspiration gives you advantage on that roll.
+
+Additionally, if you have inspiration, you can reward another player for good roleplaying, clever thinking, or simply doing something exciting in the game. When another player character does something that really contributes to the story in a fun and interesting way, you can give up your inspiration to give that character inspiration.
+
+## Backgrounds
+
+Every story has a beginning. Your character's background reveals where you came from, how you became an adventurer, and your place in the world. Your fighter might have been a courageous knight or a grizzled soldier. Your wizard could have been a sage or an artisan. Your rogue might have gotten by as a guild thief or commanded audiences as a jester.
+
+Choosing a background provides you with important story cues about your character's identity. The most important question to ask about your background is what changed? Why did you stop doing whatever your background describes and start adventuring? Where did you get the money to purchase your starting gear, or, if you come from a wealthy background, why don't you have more money? How did you learn the skills of your class? What sets you apart from ordinary people who share your background?
+
+1
+
+## Tik and Artemis: BackgroundsTika Waylan and Artemis Entreri both lived their earliest years as street urchins. Tika's later career as a barmaid didn't really change her, so she might choose the urchin background, gaining proficiency in the Sleight of Hand and Stealth skills, and learning the tools of the thieving trade. Artemis is more defined by his criminal background, giving him skills in Deception and Stealth, as well as proficiency with the tools of thievery and poison.
+
+The sample backgrounds in this chapter provide both concrete benefits (features, proficiencies, and languages) and roleplaying suggestions.
+
+## Proficiencies
+
+Each background gives a character proficiency in two skills. Skills are described in chapter 7.
+
+In addition, most backgrounds give a character proficiency with one or more tools. Tools and tool proficiencies are detailed in chapter 5.
+
+If a character would gain the same proficiency from two different sources, he or she can choose a different proficiency of the same kind (skill or tool) instead.
+
+## Languages
+
+Some backgrounds also allow characters to learn additional languages beyond those given by race. See "Languages" earlier in this chapter.
+
+## Equipment
+
+Each background provides a package of starting equipment. If you use the optional rule from chapter 5 to spend coin on gear, you do not receive the starting equipment from your background.
+
+## Suggested Characteristics
+
+A background contains suggested personal characteristics based on your background. You can pick characteristics, roll dice to determine them randomly, or use the suggestions as inspiration for characteristics of your own creation.## Customizing a Background
+
+You might want to tweak some of the features of a background so it better fits your character or the campaign setting. To customize a background, you can replace one feature with any other one, choose any two skills, and choose a total of two tool proficiencies or languages from the sample backgrounds. You can either use the equipment package from your background or spend coin on gear as described in chapter 5. (If you spend coin, you can't also take the equipment package suggested for your class.) Finally, choose two personality traits, one ideal, one bond, and one flaw. If you can't find a feature that matches your desired background, work with your DM to create one.
+
+
+## Acolyte
+
+You have spent your life in the service of a temple to a specific god or pantheon of gods. You act as an intermediary between the realm of the holy and the mortal world, performing sacred rites and offering sacrifices in order to conduct worshipers into the presence of the divine. You are not necessarily a cleric—performing sacred rites is not the same thing as channeling divine power.Choose a god, a pantheon of gods, or some other quasi-divine being from among those listed in appendix B or those specified by your DM, and work with your DM to detail the nature of your religious service. Were you a lesser functionary in a temple, raised from childhood to assist the priests in the sacred rites? Or were you a high priest who suddenly experienced a call to serve your god in a different way? Perhaps you were the leader of a small cult outside of any established temple structure, or even an occult group that served a fiendish master that you now deny.
+
+## Skill Proficiencies: Insight, Religion
+
+Languages: Two of your choice
+
+- Equipment: A holy symbol (a gift to you when you entered the priesthood), a prayer book or prayer wheel, 5 sticks of incense, vestments, a set of common clothes, and a belt pouch containing 15 gp
+
+Feature: Shelter of the Faithful As an acolyte, you command the respect of those who share your faith, and you can perform the religious ceremonies of your deity. You and your adventuring companions can expect to receive free healing and care at a temple, shrine, or other established presence of your faith, though you must provide any material components needed for spells. Those who share your religion will support you (but only you) at a modest lifestyle.You might also have ties to a specific temple dedicated to your chosen deity or pantheon, and you have a residence there. This could be the temple where you used to serve, if you remain on good terms with it, or a temple where you have found a new home. While near your temple, you can call upon the priests for assistance, provided the assistance you ask for is not hazardous and you remain in good standing with your temple.
+
+## Suggested Character Traits
+
+Acolytes are shaped by their experience in temples or other religious communities. Their study of the history and tenets of their faith and their relationships to temples, shrines, or hierarchies affect their mannerisms and ideals. Their flaws might be some hidden hypocrisy or heretical idea, or an ideal or bond taken to an extreme.
+
+## d8 Personality Trait- 1 I idolize a particular hero of my faith, and constantly refer to that person's deeds and example.
+- 2 I can find common ground between the fiercest enemies, empathizing with them and always working toward peace.
+- 3 I see omens in every event and action. The gods try to speak to us; we just need to listen
+- 4 Nothing can shake my optimistic attitude.
+- 5 I quote (or misquote) sacred texts and proverbs in almost every situation.
+- 6 I am tolerant (or intolerant) of other faiths and respect (or condemn) the worship of other gods.
+- 7 I've enjoyed fine food, drink, and high society among my temple's elite. Rough living grates on me.
+- 8 I've spent so long in the temple that I have little practical experience dealing with people in the outside world.
+
+## d6 Ideal
+
+- 1 Tradition. The ancient traditions of worship and sacrifice must be preserved and upheld. (Lawful)
+- 2 Charity. I always try to help those in need, no matter what the personal cost. (Good)
+- 3 Change. We must help bring about the changes the gods are constantly working in the world. (Chaotic)
+- 4 Power. I hope to one day rise to the top of my faith's religious hierarchy. (Lawful)
+- 5 Faith. I trust that my deity will guide my actions; I have faith that if I work hard, things will go well. (Lawful)
+- 6 Aspiration. I seek to prove myself worthy of my god's favor by matching my actions against his or her teachings. (Any)- 1 I would die to recover an ancient relic of my faith that was lost long ago.
+- 2 I will someday get revenge on the corrupt temple hierarchy who branded me a heretic.
+- 3 I owe my life to the priest who took me in when my parents died.
+- 4 Everything I do is for the common people.
+- 5 I will do anything to protect the temple where I served.
+- 6 I seek to preserve a sacred text that my enemies consider heretical and seek to destroy.
+
+## d6 Flaw
+
+- 1 I judge others harshly, and myself even more severely.
+- 2 I put too much trust in those who wield power within my temple's hierarchy.
+- 3 My piety sometimes leads me to blindly trust those that profess faith in my god.
+- 4 I am inflexible in my thinking.
+- 5 I am suspicious of strangers and expect the worst of them.
+- 6 Once I pick a goal, I become obsessed with it to the detriment of everything else in my life.
+
+## C h a r l a t a n
+
+You have always had a way with people. You know what makes them tick, you can tease out their hearts' desires after a few minutes of conversation, and with a few leading questions you can read them like they were children's books. It's a useful talent, and one that you're perfectly willing to use for your advantage.You know what people want and you deliver, or rather, you promise to deliver. Common sense should steer people away from things that sound too good to be true, but common sense seems to be in short supply when you're around. The bottle of pink-colored liquid will surely cure that unseemly rash, this ointment—nothing more than a bit of fat with a sprinkle of silver dust—can restore youth and vigor, and there's a bridge in the city that just happens to be for sale. These marvels sound implausible, but you make them sound like the real deal.
+
+## Skill Proficiencies: Deception, Sleight of Hand
+Tool Proficiencies: Disguise kit, forgery kit
+
+Equipment: A set of fine clothes, a disguise kit, tools of the con of your choice (ten stoppered bottles filled with colored liquid, a set of weighted dice, a deck of marked cards, or a signet ring of an imaginary duke), and a belt pouch containing 15 gp
+
+## Favorite Schemes
+
+Every charlatan has an angle he or she uses in preference to other schemes. Choose a favorite scam or roll on the table below.
+
+## d6 Scam
+
+- 1 I cheat at games of chance.
+- 2 I shave coins or forge documents.
+- 3 I insinuate myself into people's lives to prey on their weakness and secure their fortunes.
+- 4 I put on new identities like clothes.
+- 5 I run sleight-of-hand cons on street corners.
+- 6 I convince people that worthless junk is worth their hard-earned money.
+
+## Feature: False IdentityYou have created a second identity that includes documentation, established acquaintances, and disguises that allow you to assume that persona. Additionally, you can forge documents including official papers and personal letters, as long as you have seen an example of the kind of document or the handwriting you are trying to copy.
+
+## Suggested Characteristics
+
+Charlatans are colorful characters who conceal their true selves behind the masks they construct. They reflect what people want to see, what they want to believe, and how they see the world. But their true selves are sometimes plagued by an uneasy conscience, an old enemy, or deep-seated trust issues.
+
+## d8 Personality Trait
+
+- 1 I fall in and out of love easily, and am always pursuing someone.
+- 2 I have a joke for every occasion, especially occasions where humor is inappropriate.
+- 3 Flattery is my preferred trick for getting what I want.
+- 4 I'm a born gambler who can't resist taking a risk for a potential payoff.
+- 5 I lie about almost everything, even when there's no good reason to.
+- 6 Sarcasm and insults are my weapons of choice.
+- 7 I keep multiple holy symbols on me and invoke whatever deity might come in useful at any given moment.
+- 8 I pocket anything I see that might have some value.
+
+## d6 Ideal
+
+- 1 Independence: I am a free spirit— no one tells me what to do. (Chaotic)
+- 2 Fairness: I never target people who can't afford to lose a few coins. (Lawful)
+- 3 Charity: I distribute the money I acquire to the people who really need it. (Good)
+- 4 Creativity: I never run the same con twice. (Chaotic)
+- 5 Friendship: Material goods come and go. Bonds of friendship last forever. (Good)
+- 6 Aspiration: I'm determined to make something of myself. (Any)
+
+## d6 Bond
+
+- 1 I fleeced the wrong person and must work to ensure that this individual never crosses paths with me or those I care about.
+- 2 I owe everything to my mentor— a horrible person who's probably rotting in jail somewhere.
+- 3 Somewhere out there, I have a child who doesn't know me. I'm making the world better for him or her.
+- 4 I come from a noble family, and one day I'll reclaim my lands and title from those who stole them from me.
+- 5 A powerful person killed someone I love. Some day soon, I'll have my revenge.
+- 6 I swindled and ruined a person who didn't deserve it. I seek to atone for my misdeeds but might never be able to forgive myself.- 1 I can't resist a pretty face.
+- 2 I'm always in debt. I spend my ill-gotten gains on decadent luxuries faster than I bring them in..
+- 3 I'm convinced that no one could ever fool me the way I fool others.
+- 4 I'm too greedy for my own good. I can't resist taking a risk if there's money involved.
+- 5 I can't resist swindling people who are more powerful than me.
+- 6 I hate to admit it and will hate myself for it, but I'll run and preserve my own hide if the going gets tough.
+
+## Criminal
+
+You are an experienced criminal with a history of breaking the law. You have spent a lot of time among other criminals and still have contacts within the criminal underworld. You're far closer than most people to the world of murder, theft, and violence that pervades the underbelly of civilization, and you have survived up to this point by flouting the rules and regulations of society.
+
+Skill Proficiencies: Deception, Stealth
+
+Tool Proficiencies: One type of gaming set, thieves' tools
+
+Equipment: A crowbar, a set of dark common clothes including a hood, and a belt pouch containing 15 gp
+
+## Criminal Specialty
+
+There are many kinds of criminals, and within a thieves' guild or similar criminal organization, individual members have particular specialties. Even criminals who operate outside of such organizations have strong preferences for certain kinds of crimes over others. Choose the role you played in your criminal life, or roll on the table below.
+
+## d8 Specialty- 1 Blackmailer
+- 2 Burglar
+- 3 Enforcer
+- 4 Fence
+
+## d8 Specialty
+
+- 5 Highway robber
+- 6 Hired killer
+- 7 Pickpocket
+- 8 Smuggler
+
+## Feature: Criminal Contact
+
+You have a reliable and trustworthy contact who acts as your liaison to a network of other criminals. You know how to get messages to and from your contact, even over great distances; specifically, you know the local messengers, corrupt caravan masters, and seedy sailors who can deliver messages for you.
+
+## Suggested Characteristics
+
+Criminals might seem like villains on the surface, and many of them are villainous to the core. But some have an abundance of endearing, if not redeeming, characteristics. There might be honor among thieves, but criminals rarely show any respect for law or authority.
+
+## d8 Personality Trait
+
+- 1 I always have a plan for what to do when things go wrong.
+- 2 I am always calm, no matter what the situation. I never raise my voice or let my emotions control me.
+- 3 The first thing I do in a new place is note the locations of everything valuable—or where such things could be hidden.
+- 4 I would rather make a new friend than a new enemy.
+- 5 I am incredibly slow to trust. Those who seem the fairest often have the most to hide.
+- 6 I don't pay attention to the risks in a situation. Never tell me the odds.
+- 7 The best way to get me to do something is to tell me can't do it.
+- 8 I blow up at the slightest insult.
+
+## d6 Ideal- 1 Honor. I don't steal from others in the trade. (Lawful)
+- 2 Freedom. Chains are meant to be broken, as are those who would forge them. (Chaotic)
+- 3 Charity. I steal from the wealthy so that I can help people in need. (Good)
+- 4 Greed. I will do whatever it takes to become wealthy. (Evil)
+- 5 People. I'm loyal to my friends, not to any ideals, and everyone else can take a trip down the Styx for all I care. (Neutral)
+- 6 Redemption. There's a spark of good in everyone. (Good)
+
+## d6 Bond
+
+- 1 I'm trying to pay off an old debt I owe to a generous benefactor.
+- 2 My ill-gotten gains go to support my family.
+- 3 Something important was taken from me, and I aim to steal it back.
+- 4 I will become the greatest thief that ever lived.
+- 5 I'm guilty of a terrible crime. I hope I can redeem myself for it.
+- 6 Someone I loved died because of a mistake I made. That will never happen again.
+
+## d6 Flaw
+
+- 1 When I see something valuable, I can't think about anything but how to steal it.
+- 2 When faced with a choice between money and my friends, I usually choose the money.
+- 3 If there's a plan, I'll forget it. If I don't forget it, I'll ignore it.
+- 4 I have a "tell" that reveals when I'm lying.
+- 5 I turn tail and run when things look bad.
+- 6 An innocent person is in prison for a crime that I committed. I'm okay with that.
+
+## V a r i a n t C r i m i n a l : S p yAlthough your capabilities are not much different from those of a burglar or smuggler, you learned and practiced them in a very different context: as an espionage agent. You might have been an officially sanctioned agent of the crown, or perhaps you sold the secrets you uncovered to the highest bidder.
+
+
+## Entertainer
+
+You thrive in front of an audience. You know how to entrance them, entertain them, and even inspire them. Your poetics can stir the hearts of those who hear you, awakening grief or joy, laughter or anger. Your music raises their spirits or captures their sorrow. Your dance steps captivate, your humor cuts to the quick. Whatever techniques you use, your art is your life.
+
+Skill Proficiencies: Acrobatics, Performance Tool Proficiencies: Disguise kit, one type of musical instrument
+
+Equipment: A musical instrument (one of your choice), the favor of an admirer (love letter, lock of hair, or trinket), a costume, and a belt pouch containing 15 gp
+
+## Entertainer Routines
+
+A good entertainer is versatile, spicing up every performance with a variety of different routines. Choose one to three routines or roll on the table below to define your expertise as an entertainer.
+
+|    | d10 Entertainer Routine    |    | d10 Entertainer Routine   |
+|----|----------------------------|----|---------------------------|
+|  1 | Actor                      |  6 | Instrumentalist           |
+|  2 | Dancer                     |    | Poet                      |
+|  3 | Fire-eater                 |  8 | Singer                    |
+|    | Jester                     |  9 | Storyteller               |
+|  5 | Juggler                    | 10 | Tumbler                   |## Feature: By Popular Demand
+
+You can always find a place to perform, usually in an inn or tavern but possibly with a circus, at a theater, or even in a noble's court. At such a place, you receive free lodging and food of a modest or comfortable standard (depending on the quality of the establishment), as long as you perform each night. In addition, your performance makes you something of a local figure. When strangers recognize you in a town where you have performed, they typically take a liking to you.
+
+## Suggested Characteristics
+
+Successful entertainers have to be able to capture and hold an audience's attention, so they tend to have flamboyant or forceful personalities. They're inclined toward the romantic and often cling to high-minded ideals about the practice of art and the appreciation of beauty.
+
+## d8 Personality Trait
+
+- 1 I know a story relevant to almost every situation.
+- 2 Whenever I come to a new place, I collect local rumors and spread gossip.
+- 3 I'm a hopeless romantic, always searching for that "special someone."
+- 4 Nobody stays angry at me or around me for long, since I can defuse any amount of tension.
+- 5 I love a good insult, even one directed at me.
+- 6 I get bitter if I'm not the center of attention.
+- 7 I'll settle for nothing less than perfection.
+- 8 I change my mood or my mind as quickly as I change key in a song.## d6 Ideal
+
+- 1 Beauty. When I perform, I make the world better than it was. (Good)
+- 2 Tradition. The stories, legends, and songs of the past must never be forgotten, for they teach us who we are. (Lawful)
+- 3 Creativity. The world is in need of new ideas and bold action. (Chaotic)
+- 4 Greed. I'm only in it for the money and fame. (Evil)
+- 5 People. I like seeing the smiles on people's faces when I perform. That's all that matters. (Neutral)
+- 6 Honesty. Art should reflect the soul; it should come from within and reveal who we really are. (Any)
+
+## d6 Bond
+
+- 1 My instrument is my most treasured possession, and it reminds me of someone I love.
+- 2 Someone stole my precious instrument, and someday I'll get it back.
+- 3 I want to be famous, whatever it takes.
+- 4 I idolize a hero of the old tales and measure my deeds against that person's.
+- 5 I will do anything to prove myself superior to my hated rival.
+- 6 I would do anything for the other members of my old troupe.
+
+## d6 Flaw
+
+- 1 I'll do anything to win fame and renown.
+- 2 I'm a sucker for a pretty face.
+- 3 A scandal prevents me from ever going home again. That kind of trouble seems to follow me around.
+- 4 I once satirized a noble who still wants my head. It was a mistake that I will likely repeat.
+- 5 I have trouble keeping my true feelings hidden. My sharp tongue lands me in trouble.
+- 6 Despite my best efforts, I am unreliable to my friends.## Variant Entainer: Gladiator
+
+A gladiator is as much an entertainer as any minstrel or circus performer, trained to make the arts of combat into a spectacle the crowd can enjoy. This kind of flashy combat is your entertainer routine, though you might also have some skills as a tumbler or actor. Using your By Popular Demand feature, you can find a place to perform in any place that features combat for entertainment—perhaps a gladiatorial arena or secret pit fighting club. You can replace the musical instrument in your equipment package with an inexpensive but unusual weapon, such as a trident or net.
+
+## Folk Hero
+
+You come from a humble social rank, but you are destined for so much more. Already the people of your home village regard you as their champion, and your destiny calls you to stand against the tyrants and monsters that threaten the common folk everywhere.
+
+Skill Proficiencies: Animal Handling, Survival Tool Proficiencies: One type of artisan's tools, vehicles (land)
+
+Equipment: A set of artisan's tools (one of your choice), a shovel, an iron pot, a set of common clothes, and a belt pouch containing 10 gp
+
+## Defining EventYou previously pursued a simple profession among the peasantry, perhaps as a farmer, miner, servant, shepherd, woodcutter, or gravedigger. But something happened that set you on a different path and marked you for greater things. Choose or randomly determine a defining event that marked you as a hero of the people.
+
+## d10 Defining Event
+
+- 1 I stood up to a tyrant's agents.
+- 2 I saved people during a natural disaster.
+- 3 I stood alone against a terrible monster.
+- 4 I stole from a corrupt merchant to help the poor.
+- 5 I led a militia to fight off an invading army.
+- 6 I broke into a tyrant's castle and stole weapons to arm the people.
+- 7 I trained the peasantry to use farm implements as weapons against a tyrant's soldiers.
+- 8 A lord rescinded an unpopular decree after I led a symbolic act of protect against it.
+- 9 A celestial, fey, or similar creature gave me a blessing or revealed my secret origin.
+- 10 Recruited into a lord's army, I rose to leadership and was commended for my heroism.
+
+## Feature: Rustic Hospitality
+
+Since you come from the ranks of the common folk, you fit in among them with ease. You can find a place to hide, rest, or recuperate among other commoners, unless you have shown yourself to be a danger to them. They will shield you from the law or anyone else searching for you, though they will not risk their lives for you.## Suggested Characteristics
+
+A folk hero is one of the common people, for better or for worse. Most folk heroes look on their humble origins as a virtue, not a shortcoming, and their home communities remain very important to them.
+
+## d8 Personality Trait
+
+- 1 I judge people by their actions, not their words.
+- 2 If someone is in trouble, I'm always ready to lend help.
+- 3 When I set my mind to something, I follow through no matter what gets in my way.
+- 4 I have a strong sense of fair play and always try to find the most equitable solution to arguments.
+- 5 I'm confident in my own abilities and do what I can to instill confidence in others.
+- 6 Thinking is for other people. I prefer action.
+- 7 I misuse long words in an attempt to sound smarter.
+- 8 I get bored easily. When am I going to get on with my destiny?
+
+## d6 Ideal
+
+- 1 Respect. People deserve to be treated with dignity and respect. (Good)
+- 2 Fairness. No one should get preferential treatment before the law, and no one is above the law. (Lawful)
+- 3 Freedom. Tyrants must not be allowed to oppress the people. (Chaotic)
+- 4 Might. If I become strong, I can take what I want—what I deserve. (Evil)
+- 5 Sincerity. There's no good in pretending to be something I'm not. (Neutral)
+- 6 Destiny. Nothing and no one can steer me away from my higher calling. (Any)
+
+## d6 Bond- 1 I have a family, but I have no idea where they are. One day, I hope to see them again.
+- 2 I worked the land, I love the land, and I will protect the land.
+- 3 A proud noble once gave me a horrible beating, and I will take my revenge on any bully I encounter.
+- 4 My tools are symbols of my past life, and I carry them so that I will never forget my roots.
+- 5 I protect those who cannot protect themselves.
+- 6 I wish my childhood sweetheart had come with me to pursue my destiny.
+
+
+## d6 Flaw
+
+- 1 The tyrant who rules my land will stop at nothing to see me killed.
+- 2 I'm convinced of the significance of my destiny, and blind to my shortcomings and the risk of failure.
+- 3 The people who knew me when I was young know my shameful secret, so I can never go home again.
+- 4 I have a weakness for the vices of the city, especially hard drink.
+- 5 Secretly, I believe that things would be better if I were a tyrant lording over the land.
+- 6 I have trouble trusting in my allies.Skill Proficiencies: Insight, Persuasion Tool Proficiencies: One type of artisan's tools Languages: One of your choice
+
+Equipment: A set of artisan's tools (one of your choice), a letter of introduction from your guild, a set of traveler's clothes, and a belt pouch containing 15 gp
+
+## Guild Business
+
+Guilds are generally found in cities large enough to support several artisans practicing the same trade. However, your guild might instead be a loose network of artisans who each work in a different village within a larger realm. Work with your DM to determine the nature of your guild. You can select your guild business from the Guild Business table or roll randomly.
+
+## d20 Guild Business
+
+- 1 Alchemists and apothecaries
+- 2 Armorers, locksmiths, and finesmiths
+- 3 Brewers, distillers, and vintners
+- 4 Calligraphers, scribes, and scriveners
+- 5 Carpenters, roofers, and plasterers
+- 6 Cartographers, surveyors, and chart-makers
+- 7 Cobblers and shoemakers
+- 8 Cooks and bakers
+- 9 Glassblowers and glaziers
+- 10 Jewelers and gemcutters
+- 11 Leatherworkers, skinners, and tanners
+- 12 Masons and stonecutters
+- 13 Painters, limners, and sign-makers
+- 14 Potters and tile-makers
+- 15 Shipwrights and sailmakers
+- 16 Smiths and metal-forgers
+- 17 Tinkers, pewterers, and casters
+- 18 Wagon-makers and wheelwrights
+- 19 Weavers and dyers
+- 20 Woodcarvers, coopers, and bowyersAs a member of your guild, you know the skills needed to create finished items from raw materials (reflected in your proficiency with a certain kind of artisan's tools), as well as the principles of trade and good business practices. The question now is whether you abandon your trade for adventure, or take on the extra effort to weave adventuring and trade together.
+
+## Feature: Guild Membership
+
+As an established and respected member of a guild, you can rely on certain benefits that membership provides. Your fellow guild members will provide you with lodging and food if necessary, and pay for your funeral if needed. In some cities and towns, a guildhall offers a central place to meet other members of your profession, which can be a good place to meet potential patrons, allies, or hirelings.
+
+Guilds often wield tremendous political power. If you are accused of a crime, your guild will support you if a good case can be made for your innocence or the crime is justifiable. You can also gain access to powerful political figures through the guild, if you are a member in good standing. Such connections might require the donation of money or magic items to the guild's coffers.
+
+You must pay dues of 5 gp per month to the guild. If you miss payments, you must make up back dues to remain in the guild's good graces.
+
+## Suggested CharacteristicsGuild artisans are among the most ordinary people in the world—until they set down their tools and take up an adventuring career. They understand the value of hard work and the importance of community, but they're vulnerable to sins of greed and covetousness.
+
+## d8 Personality Trait
+
+- 1 I believe that anything worth doing is worth doing right. I can't help it—I'm a perfectionist.
+- 2 I'm a snob who looks down on those who can't appreciate fine art.
+- 3 I always want to know how things work and what makes people tick.
+- 4 I'm full of witty aphorisms and have a proverb for every occasion.
+- 5 I'm rude to people who lack my commitment to hard work and fair play.
+- 6 I like to talk at length about my profession.
+- 7 I don't part with my money easily and will haggle tirelessly to get the best deal possible.
+- 8 I'm well known for my work, and I want to make sure everyone appreciates it. I'm always taken aback when people haven't heard of me.
+
+## d6 Ideal
+
+- 1 Community. It is the duty of all civilized people to strengthen the bonds of community and the security of civilization. (Lawful)
+- 2 Generosity. My talents were given to me so that I could use them to benefit the world. (Good)
+- 3 Freedom. Everyone should be free to pursue his or her own livelihood. (Chaotic)
+- 4 Greed. I'm only in it for the money. (Evil)
+- 5 People. I'm committed to the people I care about, not to ideals. (Neutral)
+- 6 Aspiration. I work hard to be the best there is at my craft.
+
+## d6 Bond- 1 The workshop where I learned my trade is the most important place in the world to me.
+- 2 I created a great work for someone, and then found them unworthy to receive it. I'm still looking for someone worthy.
+- 3 I owe my guild a great debt for forging me into the person I am today.
+- 4 I pursue wealth to secure someone's love.
+- 5 One day I will return to my guild and prove that I am the greatest artisan of them all.
+- 6 I will get revenge on the evil forces that destroyed my place of business and ruined my livelihood.
+
+## d6 Flaw
+
+- 1 I'll do anything to get my hands on something rare or priceless.
+- 2 I'm quick to assume that someone is trying to cheat me.
+- 3 No one must ever learn that I once stole money from guild coffers.
+- 4 I'm never satisfied with what I have— I always want more.
+- 5 I would kill to acquire a noble title.
+- 6 I'm horribly jealous of anyone who can outshine my handiwork. Everywhere I go, I'm surrounded by rivals.Variant Guild Artisan: Guild Merchant Instead of an artisans' guild, you might belong to a guild of traders, caravan masters, or shopkeepers. You don't craft items yourself but earn a living by buying and selling the works of others (or the raw materials artisans need to practice their craft). Your guild might be a large merchant consortium (or family) with interests across the region. Perhaps you transported goods from one place to another, by ship, wagon, or caravan, or bought them from traveling traders and sold them in your own little shop. In some ways, the traveling merchant's life lends itself to adventure far more than the life of an artisan.
+
+Rather than proficiency with artisan's tools, you might be proficient with navigator's tools or an additional language. And instead of artisan's tools, you can start with a mule and a cart.
+
+## Hermit
+
+You lived in seclusion—either in a sheltered community such as a monastery, or entirely alone—for a formative part of your life. In your time apart from the clamor of society, you found quiet, solitude, and perhaps some of the answers you were looking for.
+
+Skill Proficiencies: Medicine, Religion
+
+Tool Proficiencies: Herbalism kit
+
+Languages: One of your choice
+
+Equipment: A scroll case stuffed full of notes from your studies or prayers, a winter blanket, a set of common clothes, an herbalism kit, and 5 gp
+
+## Life of SeculionWhat was the reason for your isolation, and what changed to allow you to end your solitude? You can work with your DM to determine the exact nature of your seclusion, or you can choose or roll on the table below to determine the reason behind your seclusion.
+
+## d8 Life of Seclusion
+
+- 1 I was searching for spiritual enlightenment.
+- 2 I was partaking of communal living in accordance with the dictates of a religious order.
+- 3 I was exiled for a crime I didn't commit.
+- 4 I retreated from society after a life-altering event.
+
+
+## d8 Life of Seclusion
+
+- 5 I needed a quiet place to work on my art, literature, music, or manifesto.
+- 6 I needed to commune with nature, far from civilization.
+- 7 I was the caretaker of an ancient ruin or relic.
+- 8 I was a pilgrim in search of a person, place, or relic of spiritual significance.
+
+## Feature: Discovery
+
+The quiet seclusion of your extended hermitage gave you access to a unique and powerful discovery. The exact nature of this revelation depends on the nature of your seclusion. It might be a great truth about the cosmos, the deities, the powerful beings of the outer planes, or the forces of nature. It could be a site that no one else has ever seen. You might have uncovered a fact that has long been forgotten, or unearthed some relic of the past that could rewrite history. It might be information that would be damaging to the people who consigned you to exile, and hence the reason for your return to society.Work with your DM to determine the details of your discovery and its impact on the campaign.
+
+## Suggested Characteristics
+
+Some hermits are well suited to a life of seclusion, whereas others chafe against it and long for company. Whether they embrace solitude or long to escape it, the solitary life shapes their attitudes and ideals. A few are driven slightly mad by their years apart from society.
+
+## d8 Personality Trait
+
+- 1 I've been isolated for so long that I rarely speak, preferring gestures and the occasional grunt.
+- 2 I am utterly serene, even in the face of disaster.
+- 3 The leader of my community had something wise to say on every topic, and I am eager to share that wisdom.
+- 4 I feel tremendous empathy for all who suffer.
+- 5 I'm oblivious to etiquette and social expectations.
+- 6 I connect everything that happens to me to a grand, cosmic plan.
+- 7 I often get lost in my own thoughts and contemplation, becoming oblivious to my surroundings.
+- 8 I am working on a grand philosophical theory and love sharing my ideas.
+
+## d6 Ideal
+
+- 1 Greater Good. My gifts are meant to be shared with all, not used for my own benefit. (Good)
+- 2 Logic. Emotions must not cloud our sense of what is right and true, or our logical thinking. (Lawful)
+- 3 Free Thinking. Inquiry and curiosity are the pillars of progress. (Chaotic)
+- 4 Power. Solitude and contemplation are paths toward mystical or magical power. (Evil)
+- 5 Live and Let Live. Meddling in the affairs of others only causes trouble. (Neutral)
+- 6 Self-Knowledge. If you know yourself, there's nothing left to know. (Any)
+
+## d6 Bond
+
+- 1 Nothing is more important than the other members of my hermitage, order, or association.
+- 2 I entered seclusion to hide from the ones who might still be hunting me. I must someday confront them.
+- 3 I'm still seeking the enlightenment I pursued in my seclusion, and it still eludes me.
+- 4 I entered seclusion because I loved someone I could not have.
+- 5 Should my discovery come to light, it could bring ruin to the world.
+- 6 My isolation gave me great insight into a great evil that only I can destroy.
+
+## d6 Flaw
+
+- 1 Now that I've returned to the world, I enjoy its delights a little too much.
+- 2 I harbor dark, bloodthirsty thoughts that my isolation and meditation failed to quell.
+- 3 I am dogmatic in my thoughts and philosophy.
+- 4 I let my need to win arguments overshadow friendships and harmony.
+- 5 I'd risk too much to uncover a lost bit of knowledge.
+- 6 I like keeping secrets and won't share them with anyone.
+
+## Other HermitsThis hermit background assumes a contemplative sort of seclusion that allows room for study and prayer. If you want to play a rugged wilderness recluse who lives off the land while shunning the company of other people, look at the outlander background. On the other hand, if you want to go in a more religious direction, the acolyte might be what you're looking for. Or you could even be a charlatan, posing as a wise and holy person and letting pious fools support you.
+
+## Noble
+
+You understand wealth, power, and privilege. You carry a noble title, and your family owns land, collects taxes, and wields significant political influence. You might be a pampered aristocrat unfamiliar with work or discomfort, a former merchant just elevated to the nobility, or a disinherited scoundrel with a disproportionate sense of entitlement. Or you could be an honest, hard-working landowner who cares deeply about the people who live and work on your land, keenly aware of your responsibility to them.
+
+Work with your DM to come up with an appropriate title and determine how much authority that title carries. A noble title doesn't stand on its own—it's connected to an entire family, and whatever title you hold, you will pass it down to your own children. Not only do you need to determine your noble title, but you should also work with the DM to describe your family and their influence on you.Is your family old and established, or was your title only recently bestow ed? How much influence do they wield, and over what area? What kind of reputation does your family have among the other aristocrats of the region? How do the common people regard them?
+
+What's your position in the family? Are you the heir to the head of the family? Have you already inherited the title? How do you feel about that responsibility? Or are you so far down the line of inheritance that no one cares what you do, as long as you don't embarrass the family? How does the head of your family feel about your adventuring career? Are you in your family's good graces, or shunned by the rest of your family?
+
+Does your family have a coat of arms? An insignia you might wear on a signet ring? Particular colors you wear all the time? An animal you regard as a symbol of your line or even a spiritual member of the family?
+
+These details help establish your family and your title as features of the world of the campaign.
+
+Skill Proficiencies: History, Persuasion Tool Proficiencies: One type of gaming set Languages: One of your choice
+
+Equipment: A set of fine clothes, a signet ring, a scroll of pedigree, and a purse containing 25 gp
+
+Feature: Position of PrivilegeThanks to your noble birth, people are inclined to think the best of you. You are welcome in high society, and people assume you have the right to be wherever you are. The common folk make every effort to accommodate you and avoid your displeasure, and other people of high birth treat you as a member of the same social sphere. You can secure an audience with a local noble if you need to.
+
+## Suggested Character Traits
+
+Nobles are born and raised to a very different lifestyle than most people ever experience, and their personalities reflect that upbringing. A noble title comes with a plethora of bonds—responsibilities to family, to other nobles (including the sovereign), to the people entrusted to the family's care, or even to the title itself. But this responsibility is often a good way to undermine a noble.
+
+## d8 Personality Trait- 1 My eloquent flattery makes everyone I talk to feel like the most wonderful and important person in the world.
+- 2 The common folk love me for my kindness and generosity.
+- 3 No one could doubt by looking at my regal bearing that I am a cut above the unwashed masses.
+- 4 I take great pains to always look my best and follow the latest fashions.
+- 5 I don't like to get my hands dirty, and I won't be caught dead in unsuitable accommodations.
+- 6 Despite my noble birth, I do not place myself above other folk. We all have the same blood.
+- 7 My favor, once lost, is lost forever.
+- 8 If you do me an injury, I will crush you, ruin your name, and salt your fields.
+
+## d6 Ideal
+
+- 1 Respect. Respect is due to me because of my position, but all people regardless of station deserve to be treated with dignity. (Good)
+- 2 Responsibility. It is my duty to respect the authority of those above me, just as those below me must respect mine. (Lawful)
+- 3 Independence. I must prove that I can handle myself without the coddling of my family. (Chaotic)
+- 4 Power. If I can attain more power, no one will tell me what to do. (Evil)
+- 5 Family. Blood runs thicker than water. (Any)
+- 6 Noble Obligation. It is my duty to protect and care for the people beneath me. (Good)- 1 I will face any challenge to win the approval of my family.
+- 2 My house's alliance with another noble family must be sustained at all costs.
+- 3 Nothing is more important than the other members of my family.
+- 4 I am in love with the heir of a family that my family despises.
+- 5 My loyalty to my sovereign is unwavering.
+- 6 The common folk must see me as a hero of the people.
+
+## d6 Flaw
+
+- 1 I secretly believe that everyone is beneath me.
+- 2 I hide a truly scandalous secret that could ruin my family forever.
+- 3 I too often hear veiled insults and threats in every word addressed to me, and I'm quick to anger.
+- 4 I have an insatiable desire for carnal pleasures.
+- 5 In fact, the world does revolve around me.
+- 6 By my words and actions, I often bring shame to my family.
+
+## Variant Noble: Knight
+
+A knighthood is among the lowest noble titles in most societies, but it can be a path to higher status. If you wish to be a knight, choose the Retainers feature (see the sidebar) instead of the Position of Privilege feature. One of your commoner retainers is replaced by a noble who serves as your squire, aiding you in exchange for
+
+1You have the service of three retainers loyal to your family. These retainers can be attendants or messengers, and one might be a majordomo. Your retainers are commoners who can perform mundane tasks for you, but they do not fight for you, will not follow you into obviously dangerous areas (such as dungeons), and will leave if they are frequently endangered or abused.
+
+Training on his or her own path to knighthood. Your two remaining retainers might include a groom to care for your horse and a servant who polishes your arm or (and even helps you put it on).
+
+As an emblem of chivalry and the ideals of courtly love, you might include among your equipment a banner or other token from a noble lord or lady to whom you have given your heart—in a chaste sort of devotion. (This person could be your bond.)
+
+## OUTLANDER
+
+You grew up in the wilds, far from civilization and the comforts of town and technology. You've witnessed the migration of herds larger than forests, survived weather more extreme than any city-dweller could comprehend, and enjoyed the solitude of being the only thinking creature for miles in any direction. The wilds are in your blood, whether you were a nomad, an explorer, a recluse, a hunter-gatherer, or even a marauder. Even in places where you don't know the specific features of the terrain, you know the ways of the wild.
+
+Skill Proficiencies: Athletics, Survival
+
+Tool Proficiencies: One type of musical instrument
+
+Languages: One of your choice
+
+Equipment: A staff, a hunting trap, a trophy from an animal you killed, a set of traveler's clothes, and a belt pouch containing 10 gp
+
+## OriginYou've been to strange places and seen things that others cannot begin to fathom. Consider some of the distant lands you have visited, and how they impacted you. You can roll on the following table to determine your occupation during your time in the wild, or choose one that best fits your character.
+
+|   d 10  | Origin           |   d 10  | Origin          |
+|---------|------------------|---------|-----------------|
+|       1 | Forester         |       6 | Bounty hunter   |
+|       2 | Trapper          |       7 | Pilgrim         |
+|       3 | Homesteader      |       8 | Tribal nomad    |
+|       4 | Guide            |       9 | Hunter-gatherer |
+|       5 | Exile or outcast |      10 | Tribal marauder |
+
+## Feature: Wanderer
+
+You have an excellent memory for maps and geography, and you can always recall the general layout of terrain, settlements, and other features around you. In addition, you can find food and fresh water for yourself and up to five other people each day, provided that the land offers berries, small game, water, and so forth.
+
+## Suggested Characteristics
+
+Often considered rude and uncouth among civilized folk, outlanders have little respect for the niceties of life in the cities. The ties of tribe, clan, family, and the natural world of which they are a part are the most important bonds to most outlanders.
+
+## d8 Personality Trait- 1 I'm driven by a wanderlust that led me away from home.
+- 2 I watch over my friends as if they were a litter of newborn pups.
+- 3 I once ran twenty-five miles without stopping to warn my clan of an approaching orc horde. I'd do it again if I had to.
+- 4 I have a lesson for every situation, drawn from observing nature.
+- 5 I place no stock in wealthy or well-mannered folk. Money and manners won't save you from a hungry owlbear.
+- 6 I'm always picking things up, absently fiddling with them, and sometimes accidentally breaking them.
+- 7 I feel far more comfortable around animals than people.
+- 8 I was, in fact, raised by wolves.
+
+## d6 Ideal
+
+- 1 Change. Life is like the seasons, in constant change, and we must change with it. (Chaotic)
+- 2 Greater Good. It is each person's responsibility to make the most happiness for the whole tribe. (Good)
+- 3 Honor. If I dishonor myself, I dishonor my whole clan. (Lawful)
+- 4 Might. The strongest are meant to rule. (Evil)
+- 5 Nature. The natural world is more important than all the constructs of civilization. (Neutral)
+- 6 Glory. I must earn glory in battle, for myself and my clan. (Any)
+
+## d6 Bond- 1 My family, clan, or tribe is the most important thing in my life, even when they are far from me.
+- 2 An injury to the unspoiled wilderness of my home is an injury to me.
+- 3 I will bring terrible wrath down on the evildoers who destroyed my homeland.
+- 4 I am the last of my tribe, and it is up to me to ensure their names enter legend.
+- 5 I suffer awful visions of a coming disaster and will do anything to prevent it.
+- 6 It is my duty to provide children to sustain my tribe.
+
+## d6 Flaw
+
+- 1 I am too enamored of ale, wine, and other intoxicants.
+- 2 There's no room for caution in a life lived to the fullest.
+- 3 I remember every insult I've received and nurse a silent resentment toward anyone who's ever wronged me.
+- 4 I am slow to trust members of other races, tribes, and societies.
+- 5 Violence is my answer to almost any challenge.
+- 6 Don't expect me to save those who can't save themselves. It is nature's way that the strong thrive and the weak perish.
+
+## Sage
+
+You spent years learning the lore of the multiverse. You scoured manuscripts, studied scrolls, and listened to the greatest experts on the subjects that interest you. Your efforts have made you a master in your fields of study.
+
+Skill Proficiencies: Arcana, History Languages: Two of your choice Equipment: A bottle of black ink, a quill, a small knife, a letter from a dead colleague posing a question you have not yet been able to answer, a set of common clothes, and a belt pouch containing 10 gp## Specialty
+
+To determine the nature of your scholarly training, roll a d8 or choose from the options in the table below.
+
+## d8 Specialty d8
+
+- 1 Alchemist
+- 2 Astronomer
+- 3 Discredited academic
+- 4 Professor
+- 5 Researcher
+- 6 Researcher
+- 7 Wizard's apprentice
+- 8 Scribe
+
+
+## Specialty
+
+W hen you attempt to learn or recall a piece of lore, if you do not know that information, you often know where and from whom you can obtain it. Usually, this information comes from a library, scriptorium, university, or a sage or other learned person or creature. Your DM might rule that the knowledge you seek is secreted away in an almost inaccessible place, or that it simply cannot be found. Unearthing the deepest secrets of the multiverse can require an adventure or even a whole campaign.
+
+## Suggested Characteristics
+
+Sages are defined by their extensive studies, and their characteristics reflect this life of study. Devoted to scholarly pursuits, a sage values knowledge highly—sometimes in its own right, sometimes as a means toward other ideals.
+
+
+## d8 Personality Trait- 1 I use polysyllabic words that convey the impression of great erudition.
+- 2 I've read every book in the world's greatest libraries—or I like to boast that I have.
+- 3 I'm used to helping out those who aren't as smart as I am, and I patiently explain anything and everything to others.
+- 4 There's nothing I like more than a good mystery.
+- 5 I'm willing to listen to every side of an argument before I make my own judgment.
+- 6 I . . . speak . . . slowly . . . when talking . . . to idiots, . . . which . . . almost . . . everyone . . . is . . . compared . . . to me.
+- 7 I am horribly, horribly awkward in social situations.
+- 8 I'm convinced that people are always trying to steal my secrets.
+
+## d6 Ideal
+
+- 1 Knowledge. The path to power and self-improvement is through knowledge. (Neutral)
+- 2 Beauty. What is beautiful points us beyond itself toward what is true. (Good)
+- 3 Logic. Emotions must not cloud our logical thinking. (Lawful)
+- 4 No Limits. Nothing should fetter the infinite possibility inherent in all existence. (Chaotic)
+- 5 Power. Knowledge is the path to power and domination. (Evil)
+- 6 Self-Improvement. The goal of a life of study is the betterment of oneself. (Any)- 1 It is my duty to protect my students.
+- 2 I have an ancient text that holds terrible secrets that must not fall into the wrong hands.
+- 3 I work to preserve a library, university, scriptorium, or monastery.
+- 4 My life's work is a series of tomes related to a specific field of lore.
+- 5 I've been searching my whole life for the answer to a certain question.
+- 6 I sold my soul for knowledge. I hope to do great deeds and win it back.
+
+## d6 Flaw
+
+- 1 I am easily distracted by the promise of information.
+- 2 Most people scream and run when they see a demon. I stop and take notes on its anatomy.
+- 3 Unlocking an ancient mystery is worth the price of a civilization.
+- 4 I overlook obvious solutions in favor of complicated ones.
+- 5 I speak without really thinking through my words, invariably insulting others.
+- 6 I can't keep a secret to save my life, or anyone else's.
+
+## S a i l o r
+
+You sailed on a seagoing vessel for years. In that time, you faced down mighty storms, monsters of the deep, and those who wanted to sink your craft to the bottomless depths. Your first love is the distant line of the horizon, but the time has come to try your hand at something new.Discuss the nature of the ship you previously sailed with your Dungeon Master. Was it a merchant ship, a naval vessel, a ship of discovery, or a pirate ship? How famous (or infamous) is it? Is it widely traveled? Is it still sailing, or is it missing and presumed lost with all hands?
+
+What were your duties on board—boatswain, captain, navigator, cook, or some other position? Who were the captain and first mate? Did you leave your ship on good terms with your fellows, or on the run?
+
+Skill Proficiencies: Athletics, Perception Tool Proficiencies: Navigator's tools, vehicles (water) Equipment: A belaying pin (club), 50 feet of silk rope, a lucky charm such as a rabbit foot or a small stone with a hole in the center (or you may roll for a random trinket on the Trinkets table in chapter 5), a set of common clothes, and a belt pouch containing 10 gp
+
+Feature: Ship's Passage
+
+When you need to, you can secure free passage on a sailing ship for yourself and your adventuring companions. You might sail on the ship you served on, or another ship you have good relations with (perhaps one captained by a former crewmate). Because you're calling in a favor, you can't be certain of a schedule or route that will meet your every need. Your Dungeon Master will determine how long it takes to get where you need to go. In return for your free passage, you and your companions are expected to assist the crew during the voyage.## Suggested Characteristics
+
+Sailors can be a rough lot, but the responsibilities of life on a ship make them generally reliable as well. Life aboard a ship shapes their outlook and forms their most important attachments.
+
+## d8 Personality Trait
+
+- 1 My friends know they can rely on me, no matter what.
+- 2 I work hard so that I can play hard when the work is done.
+- 3 I enjoy sailing into new ports and making new friends over a flagon of ale.
+- 4 I stretch the truth for the sake of a good story.
+- 5 To me, a tavern brawl is a nice way to get to know a new city.
+- 6 I never pass up a friendly wager.
+- 7 My language is as foul as an otyugh nest.
+- 8 I like a job well done, especially if I can convince someone else to do it.
+
+## d6 Ideal
+
+- 1 Respect. The thing that keeps a ship together is mutual respect between captain and crew. (Good)
+- 2 Fairness. We all do the work, so we all share in the rewards. (Lawful)
+- 3 Freedom. The sea is freedom—the freedom to go anywhere and do anything. (Chaotic)
+- 4 Mastery. I'm a predator, and the other ships on the sea are my prey. (Evil)
+- 5 People. I'm committed to my crewmates, not to ideals. (Neutral)
+- 6 Aspiration. Someday I'll own my own ship and chart my own destiny. (Any)
+
+## d6 Bond- 1 I'm loyal to my captain first, everything else second.
+- 2 The ship is most important—crewmates and captains come and go.
+- 3 I'll always remember my first ship.
+- 4 In a harbor town, I have a paramour whose eyes nearly stole me from the sea.
+- 5 I was cheated out of my fair share of the profits, and I want to get my due.
+- 6 Ruthless pirates murdered my captain and crewmates, plundered our ship, and left me to die. Vengeance will be mine.
+
+## d6 Flaw
+
+- 1 I follow orders, even if I think they're wrong.
+- 2 I'll say anything to avoid having to do extra work.
+- 3 Once someone questions my courage, I never back down no matter how dangerous the situation.
+- 4 Once I start drinking, it's hard for me to stop.
+- 5 I can't help but pocket loose coins and other trinkets I come across.
+- 6 My pride will probably lead to my destruction.
+
+## Var iant Sailor: Pirate
+
+You spent your youth under the sway of a dread pirate, a ruthless cutthroat who taught you how to survive in a world of sharks and savages. You've indulged in larceny on the high seas and sent more than one deserving soul to a briny grave. Fear and bloodshed are no strangers to you, and you've garnered a somewhat unsavory reputation in many a port town.
+
+If you decide that your sailing career involved piracy, you can choose the Bad Reputation feature (see sidebar) instead of the Ship's Passage feature.
+
+1## Variant Feature: Bad Reputation
+
+If your character has a sailor background, you may select this background feature instead of Ship's Passage.
+
+No matter where you go, people are afraid of you due to your reputation. When you are in a civilized settlement, you can get away with minor criminal offenses, such as refusing to pay for food at a tavern or breaking down doors at a local shop, since most people will not report your activity to the authorities.
+
+## Soldier
+
+War has been your life for as long as you care to remember. You trained as a youth, studied the use of weapons and armor, learned basic survival techniques, including how to stay alive on the battlefield. You might have been part of a standing national army or a mercenary company, or perhaps a member of a local militia who rose to prominence during a recent war.
+
+When you choose this background, work with your DM to determine which military organization you were a part of, how far through its ranks you progressed, and what kind of experiences you had during your military career. Was it a standing army, a town guard, or a village militia? Or it might have been a noble's or merchant's private army, or a mercenary company.
+
+Skill Proficiencies: Athletics, Intimidation Tool Proficiencies: One type of gaming set, vehicles (land)Equipment: An insignia of rank, a trophy taken from a fallen enemy (a dagger, broken blade, or piece of a banner), a set of bone dice or deck of cards, a set of common clothes, and a belt pouch containing 10 gp
+
+
+## Specialty
+
+During your time as a soldier, you had a specific role to play in your unit or army. Roll a d8 or choose from the options in the table below to determine your role:
+
+## d8 Specialty
+
+- 1 Officer
+- 2
+- 6 Quartermaster
+- Scout
+- 3 Infantry
+- 4 Cavalry
+- 5 Healer
+- Standard bearer
+- 8 Support staff (cook, blacksmith, or the like)
+
+## Feature: Military Rank
+
+You have a military rank from your career as a soldier. Soldiers loyal to your former military organization still recognize your authority and influence, and they defer to you if they are of a lower rank. You can invoke your rank to exert influence over other soldiers and requisition simple equipment or horses for temporary use. You can also usually gain access to friendly military camps and fortresses where your rank is recognized.
+
+## Suggested Characteristics
+
+The horrors of war combined with the rigid discipline of military service leave their mark on all soldiers, shaping their ideals, creating strong bonds, and often leaving them scarred and vulnerable to fear, shame, and hatred.
+
+## d8 Personality Trait- 1 I'm always polite and respectful.
+- 2 I'm haunted by memories of war. I can't get the images of violence out of my mind.
+- 3 I've lost too many friends, and I'm slow to make new ones.
+- 4 I'm full of inspiring and cautionary tales from my military experience relevant to almost every combat situation.
+- 5 I can stare down a hell hound without flinching.
+- 6 I enjoy being strong and like breaking things.
+- 7 I have a crude sense of humor.
+- 8 I face problems head-on. A simple, direct solution is the best path to success.
+
+## d6 Ideal
+
+- 1 Greater Good. Our lot is to lay down our lives in defense of others. (Good)
+- 2 Responsibility. I do what I must and obey just authority. (Lawful)
+- 3 Independence. When people follow orders blindly, they embrace a kind of tyranny. (Chaotic)
+- 4 Might. In life as in war, the stronger force wins. (Evil)
+- 5 Live and Let Live. Ideals aren't worth killing over or going to war for. (Neutral)
+- 6 Nation. My city, nation, or people are all that matter. (Any)
+
+## d6 Bond
+
+- 1 I would still lay down my life for the people I served with.
+- 2 Someone saved my life on the battlefield. To this day, I will never leave a friend behind.
+- 3 My honor is my life.
+- 4 I'll never forget the crushing defeat my company suffered or the enemies who dealt it.
+- 5 Those who fight beside me are those worth dying for.
+- 6 I fight for those who cannot fight for themselves.
+
+## d6 Flaw- 1 The monstrous enemy we faced in battle still leaves me quivering with fear.
+- 2 I have little respect for anyone who is not a proven warrior.
+- 3 I made a terrible mistake in battle cost many lives— and I would do anything to keep that mistake secret.
+- 4 My hatred of my enemies is blind and unreasoning.
+- 5 I obey the law, even if the law causes misery.
+- 6 I'd rather eat my armor than admit when I'm wrong.
+
+## Urchin
+
+You grew up on the streets alone, orphaned, and poor. You had no one to watch over you or to provide for you, so you learned to provide for yourself. You fought fiercely over food and kept a constant watch out for other desperate souls who might steal from you. You slept on rooftops and in alleyways, exposed to the elements, and endured sickness without the advantage of medicine or a place to recuperate. You've survived despite all odds, and did so through cunning, strength, speed, or some combination of each.
+
+You begin your adventuring career with enough money to live modestly but securely for at least ten days. How did you come by that money? What allowed you to break free of your desperate circumstances and embark on a better life?
+
+Skill Proficiencies: Sleight of Hand, Stealth Tool Proficiencies: Disguise kit, thieves' tools Equipment: A small knife, a map of the city you grew up in, a pet mouse, a token to remember your parents by, a set of common clothes, and a belt pouch containing 10 gp## F e a t u r e : C i t y S e c r e t s
+
+You know the secret patterns and flow to cities and can find passages through the urban sprawl that others would miss. W hen you are not in combat, you (and companions you lead) can travel between any two locations in the city twice as fast as your speed would normally allow.
+
+## S u g g e s t e d C h a r a c t e r i s t i c s
+
+Urchins are shaped by lives of desperate poverty, for good and for ill. They tend to be driven either by a comm itment to the people with whom they shared life on the street or by a burning desire to find a better life— and maybe get some payback on all the rich people who treated them badly.
+
+## d8 Personality Trait
+
+- 1 I hide scraps of food and trinkets away in my pockets.
+- 2 I ask a lot of questions.
+- 3 I like to squeeze into small places where no one else can get to me.
+- 4 I sleep with my back to a wall or tree, with everything I own wrapped in a bundle in my arms.
+- 5 I eat like a pig and have bad manners.
+- 6 I think anyone who's nice to me is hiding evil intent.
+- 7 I don't like to bathe.
+- 8 I bluntly say what other people are hinting at or hiding.
+
+## d6 Ideal
+
+- 1 Respect. All people, rich or poor, deserve respect. (Good)
+- 2 Community. We have to take care of each other, because no one else is going to do it. (Lawful)
+- 3 Change. The low are lifted up, and the high and mighty are brought down. Change is the nature of things. (Chaotic)
+- 4 Retribution. The rich need to be shown what life and death are like in the gutters. (Evil)
+- 5 People. I help the people who help me— that's what keeps us alive. (Neutral)
+- 6 Aspiration. I'm going to prove that I'm worthy of a better life.
+
+## d6 Bond
+
+- 1 My town or city is my home, and I'll fight to defend it.
+- 2 I sponsor an orphanage to keep others from enduring what I was forced to endure.
+- 3 I owe my survival to another urchin who taught me to live on the streets.
+- 4 I owe a debt I can never repay to the person who took pity on me.
+- 5 I escaped my life of poverty by robbing an important person, and I'm wanted for it.
+- 6 No one else should have to endure the hardships I've been through.
+
+## d6 Flaw
+
+- 1 If I'm outnumbered, I will run away from a fight.
+- 2 Gold seems like a lot of money to me, and I'll do just about anything for more of it.
+- 3 I will never fully trust anyone other than myself.
+- 4 I'd rather kill someone in their sleep then fight fair.
+- 5 It's not stealing if I need it more than someone else.
+- 6 People who can't take care of themselves get what they deserve.## Chapter 5: Equipment
+
+
+THE MARKETPLACE OF A LARGE CITY TEEMS with buyers and sellers of many sorts: dwarf smiths and elf woodcarvers, halfling farmers and gnome jewelers, not to mention humans of every shape, size, and color drawn from a spectrum of nations and cultures. In the largest cities, almost
+
+anything imaginable is offered for sale, from exotic spices and luxurious clothing to wicker baskets and practical swords.
+
+For an adventurer, the availability of armor, weapons, backpacks, rope, and similar goods is of paramount importance, since proper equipment can mean the difference between life and death in a dungeon or the untamed wilds. This chapter details the mundane and exotic merchandise that adventurers commonly find useful in the face of the threats that the worlds of D&D present.
+
+## Starting Equipment
+
+WHEN you create your character, you receive equipment based on a combination of your class and background. Alternatively, you can start with a number of gold pieces based on your class and spend them on items from the lists in this chapter. See the Starting Wealth by Class table to determine how much gold you have to spend.You decide how your character came by this starting equipment. It might have been an inheritance, or goods that the character purchased during his or her upbringing. You might have been equipped with a weapon, armor, and a backpack as part of military service. You might even have stolen your gear. A weapon could be a family heirloom, passed down from generation to generation until your character finally took up the mantle and followed in an ancestor's adventurous footsteps.
+
+## Starting Wealth by Class
+
+|           | Class Funds       |
+|-----------|-------------------|
+| Barbarian | 2d4 x 10 gp       |
+|           | Bard   5d4 x 10 gp |
+| Cleric    | 5d4 x 10 gp       |
+|           | Druid  2d4 x 10 gp |
+| Fighter   | 5d4 x 10 gp       |
+| Monk      | 5d4 gp            |
+| Paladin   | 5d4 x 10 gp       |
+| Ranger    | 5d4 x 10 gp       |
+| Rogue     | 4d4 x 10 gp       |
+| Sorcerer  | 3d4 x 10 gp       |
+| Warlock   | 4d4 x 10 gp       |
+| Wizard    | 4d4 x 10 gp       |
+
+## Wealth
+
+Wealth appears in many forms in a D&D world. Coins, gemstones, trade goods, art objects, animals, and property can reflect your character's financial well-being. Members of the peasantry trade in goods, bartering for what they need and paying taxes in grain and cheese.Members of the nobility trade either in legal rights, such as the rights to a mine, a port, or farmland, or in gold bars, measuring gold by the pound rather than by the coin. Only merchants, adventurers, and those offering professional services for hire commonly deal in coins.
+
+## Coinage
+
+Common coins come in several different denominations based on the relative worth of the metal from which they are made. The three most common coins are the gold piece (gp), the silver piece (sp), and the copper piece (cp).
+
+With one gold piece, a character can buy a belt pouch, 50 feet of good rope, or a goat. A skilled (but not exceptional) artisan can earn one gold piece a day. The gold piece is the standard unit of measure for wealth, even if the coin itself is not commonly used. When merchants discuss deals that involve goods or services worth hundreds or thousands of gold pieces, the transactions don't usually involve the exchange of individual coins. Rather, the gold piece is a standard measure of value, and the actual exchange is in gold bars, letters of credit, or valuable goods.
+
+One gold piece is worth ten silver pieces, the most prevalent coin among commoners. A silver piece buys a laborer's work for a day, a flask of lamp oil, or a night's rest in a poor inn.
+
+One silver piece is worth ten copper pieces, which are common among laborers and beggars. A single copper piece buys a candle, a torch, or a piece of chalk.In addition, unusual coins made of other precious metals sometimes appear in treasure hoards. The electrum piece (ep) and the platinum piece (pp) originate from fallen empires and lost kingdoms, and they sometimes arouse suspicion and skepticism when used in transactions. An electrum piece is worth five silver pieces, and a platinum piece is worth ten gold pieces.
+
+A standard coin weighs about a third of an ounce, so fifty coins weigh a pound.
+
+## Standard Exchange Rates
+
+| Coin  cp                |   sp  | ep      | gp pp              |
+|-------------------------|-------|---------|--------------------|
+| Copper (cp) 1 1/10      |       |         | 1/50 1/100 1/1,000 |
+| Silver (sp)  10         |     1 | 1/5     | 1/10 1/100         |
+| Electrum (ep) 50        |     5 | 1       | 1/2 1/20           |
+| Gold (gp) 100           |    10 | 2 1     | 1/10               |
+| Platinum (pp) 1,000 100 |       | 20 10 1 |                    |
+
+144
+
+## Selling Treasure
+
+Opportunities abound to find treasure, equipment, weapons, armor, and more in the dungeons you explore. Normally, you can sell your treasures and trinkets when you return to a town or other settlement, provided that you can find buyers and merchants interested in your loot.
+
+Arms, Armor, and Other Equipment. As a general rule, undamaged weapons, armor, and other equipment fetch half their cost when sold in a market. Weapons and armor used by monsters are rarely in good enough condition to sell.Magic Items. Selling magic items is problematic. Finding someone to buy a potion or a scroll isn't too hard, but other items are out of the realm of most but the wealthiest nobles. Likewise, aside from a few common magic items, you won't normally come across magic items or spells to purchase. The value of magic is far beyond simple gold and should always be treated as such.
+
+Gems, Jewelry, and Art Objects. These items retain their full value in the marketplace, and you can either trade them in for coin or use them as currency for other transactions. For exceptionally valuable treasures, the DM might require you to find a buyer in a large town or larger community first.
+
+Trade Goods. On the borderlands, many people conduct transactions through barter. Like gems and art objects, trade goods—bars of iron, bags of salt, livestock, and so on—retain their full value in the market and can be used as currency.
+
+## Armor and Shields
+
+D&D worlds are a vast tapestry made up of many different cultures, each with its own technology level. For this reason, adventurers have access to a variety of arm types, ranging from leather armor to chain mail to costly plate armor, with several other kinds of armor in between. The Armor table collects the most commonly available types of armor found in the game and separates them into three categories: light armor, medium armor, and heavy armor. Many warriors supplement their armor with a shield.
+
+## Variant: Equipment SizesIn most campaigns, you can use or wear any equipment that you find on your adventures, within the bounds of common sense. For example, a burly half-orc won't fit in a halfling's leather armor, and a gnome would be swallowed up in a cloud giant's elegant robe.
+
+The DM can impose more realism. For example, a suit of plate armor made for one human might not fit another one without significant alterations, and a guard's uniform might be visibly ill-fitting when an adventurer tries to wear it as a disguise.
+
+Using this variant, when adventurers find armor, clothing, and similar items that are made to be worn, they might need to visit an armorsmith, tailor, leatherworker, or similar expert to make the item wearable. The cost for such work varies from 10% to 40% of the market price of the item. The DM can either roll 1d4 x 10 or determine the increase in cost based on the extent of the alterations required.
+
+The Armor table shows the cost, weight, and other properties of the common types of armor worn in the worlds of D&D.
+
+Armor Proficiency. Anyone can put on a suit of armor or strap a shield to an arm. Only those proficient in the armor's use know how to wear it effectively, however. Your class gives you proficiency with certain types of armor. If you wear armor that you lack proficiency with, you have disadvantage on any ability check, saving throw, or attack roll that involves Strength or Dexterity, and you can't cast spells.
+
+Armor Class (AC). Armor protects its wearer from attacks. The armor (and shield) you wear determines your base Armor Class.Heavy Armor. Heavier armor interferes with the wearer's ability to move quickly, stealthily, and freely. If the armor or table shows "Str 13" or "Str 15" in the Strength column for an armor or type, the armor or reduces the wearer's speed by 10 feet unless the wearer has a Strength score equal to or higher than the listed score.
+
+Stealth. If the armor or table shows "Disadvantage" in the Stealth column, the wearer has disadvantage on Dexterity (Stealth) checks.
+
+Shields. A shield is made from wood or metal and is carried in one hand. Wielding a shield increases your Armor Class by 2. You can benefit from only one shield at a time.
+
+## Light Armor
+
+Made from supple and thin materials, light armor favors agile adventurers since it offers some protection without sacrificing mobility. If you wear light armor, you add your Dexterity modifier to the base number from your armor type to determine your Armor Class.
+
+Padded. Padded armor consists of quilted layers of cloth and batting.
+
+Leather. The breastplate and shoulder protectors of this armor are made of leather that has been stiffened by being boiled in oil. The rest of the armor is made of softer and more flexible materials.
+
+Studded Leather. Made from tough but flexible leather, studded leather is reinforced with close-set rivets or spikes.
+
+## Medium ArmorMedium armor or offers more protection than light armor, but it also impairs movement more. If you wear medium armor, you add your Dexterity modifier, to a maximum of +2, to the base number from your arm or type to determine your Armor Class.
+
+Hide. This crude armor consists of thick furs and pelts. It is commonly worn by barbarian tribes, evil humanoids, and other folk who lack access to the tools and materials needed to create better armor.
+
+Chain Shirt. Made of interlocking metal rings, a chain shirt is worn between layers of clothing or leather. This armor offers modest protection to the wearer's upper body and allows the sound of the rings rubbing against one another to be muffled by outer layers.
+
+Scale Mail. This armor consists of a coat and leggings (and perhaps a separate skirt) of leather covered with overlapping pieces of metal, much like the scales of a fish. The suit includes gauntlets.
+
+Breastplate. This armor consists of a fitted metal chest piece worn with supple leather. Although it leaves the legs and arms relatively unprotected, this armor provides good protection for the wearer's vital organs while leaving the wearer relatively unencumbered.
+
+Half Plate. Half plate consists of shaped metal plates that cover most of the wearer's body. It does not include leg protection beyond simple greaves that are attached with leather straps.
+
+## Heavy ArmorOf all the armors or categories, heavy armor offers the best protection. These suits of armor cover the entire body and are designed to stop a wide range of attacks. Only proficient warriors can manage their weight and bulk.
+
+Heavy armor doesn't let you add your Dexterity modifier to your Armor Class, but it also doesn't penalize you if your Dexterity modifier is negative.
+
+Ring Mail. This armor is leather armor with heavy rings sewn into it. The rings help reinforce the armor against blows from swords and axes. Ring mail is inferior to chain mail, and it's usually worn only by those who can't afford better armor.
+
+Chain Mail. Made of interlocking metal rings, chain mail includes a layer of quilted fabric worn underneath the mail to prevent chafing and to cushion the impact of blows. The suit includes gauntlets.
+
+Splint. This armor is made of narrow vertical strips of metal riveted to a backing of leather that is worn over cloth padding. Flexible chain mail protects the joints.
+
+Plate. Plate consists of shaped, interlocking metal plates to cover the entire body. A suit of plate includes gauntlets, heavy leather boots, a visored helmet, and thick layers of padding underneath the armor. Buckles and straps distribute the weight over the body.| ARMOR            | Cost         | Armor Class (AC)                 | Strength     | Stealth               | Weight       |
+|------------------|--------------|----------------------------------|--------------|-----------------------|--------------|
+| Light Armor      | Light Armor  | Light Armor                      | Light Armor  | Light Armor           | Light Armor  |
+| Padded           | 5 gp         | 11 + Dex modifier                | —            | Disadvantage          | 8 lb.        |
+| Leather          |              | 10 gp 11 + Dex modifier          | —            | —                     | 10 lb.       |
+| Studded leather  |              | 45 gp 12 + Dex modifier          | —            | —                     | 13 lb.       |
+| Medium Armor     | Medium Armor | Medium Armor                     | Medium Armor | Medium Armor          | Medium Armor |
+| Hide             | 10 gp        | 12 + Dex modifier (max 2)        | —            | —                     | 12 lb.       |
+| Chain shirt      |              | 50 gp 13 + Dex modifier (max 2)  | —            | —                     | 20 lb.       |
+| Scale mail       | 50 gp        | 14 + Dex modifier (max 2)        |              | — Disadvantage 45 lb. |              |
+| Breastplate      |              | 400 gp 14 + Dex modifier (max 2) | —            | —                     | 20 lb.       |
+| Half plate       |              | 750 gp 15 + Dex modifier (max 2) | —            | — Disadvantage 40 lb. |              |
+| Heavy Armor      | Heavy Armor  | Heavy Armor                      | Heavy Armor  | Heavy Armor           | Heavy Armor  |
+| Ring mail        | 30 gp 14     |                                  | —            | — Disadvantage 40 lb. |              |
+| Chain mail       | 75 gp        | 16                               | Str 13       | Disadvantage 55 lb.   |              |
+| Splint 200 gp 17 |              |                                  | Str 15       | Disadvantage 60 lb.   |              |
+| Plate 1,500 gp   |              | 18                               | Str 15       | Disadvantage 65 lb.   |              |
+| Shield           | Shield       | Shield                           | Shield       | Shield                | Shield       |
+| Shield 10 gp +2  |              |                                  | —            | —                     | 6 lb.        |## Getting Into and Out of Armor
+
+The time it takes to don or doff armor depends on the armor's category.
+
+Don. This is the time it takes to put on armor. You benefit from the armor's AC only if you take the full time to don the suit of armor.
+
+Doff. This is the time it takes to take off armor. If you have help, reduce this time by half.
+
+## DONNING AND DOFFING ARMOR
+
+| Category | Don | Doff      |
+|----------|-----|-----------|
+| Light Armor | 1 minute   | 1 minute  |
+| Medium Armor | 5 minutes | 1 minute  |
+| Heavy Armor | 10 minutes | 5 minutes |
+| Shield    | 1 action  | 1 action  |
+
+## Weapons
+
+Your class grants proficiency in certain weapons, reflecting both the class's focus and the tools you are most likely to use. Whether you favor a longsword or a longbow, your weapon and your ability to wield it effectively can mean the difference between life and death while adventuring.
+
+The Weapons table shows the most common weapons used in the worlds of D&D, their price and weight, the damage they deal when they hit, and any special properties they possess. Every weapon is classified as either melee or ranged. A melee weapon is used to attack a target within 5 feet of you, whereas a ranged weapon is used to attack a target at a distance.
+
+## Weapon ProficiencyYour race, class, and feats can grant you proficiency with certain weapons or categories of weapons. The two categories are simple and martial. Most people can use simple weapons with proficiency. These weapons include clubs, maces, and other weapons often found in the hands of commoners. Martial weapons, including swords, axes, and polearms, require more specialized training to use effectively. Most warriors use martial weapons because these weapons put their fighting style and training to best use.
+
+Proficiency with a weapon allows you to add your proficiency bonus to the attack roll for any attack you make with that weapon. If you make an attack roll using a weapon with which you lack proficiency, you do not add your proficiency bonus to the attack roll.
+
+## Weapon Properties
+
+Many weapons have special properties related to their use, as shown in the Weapons table.
+
+Ammunition. You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.
+
+If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon (see "Improvised Weapons" later in the section). A sling must be loaded to deal any damage when used in this way.Finesse. When making an attack with a finesse weapon, you use your choice of Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
+
+Heavy. Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a small creature to use effectively.
+
+Light. A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons. See the rules for two-weapon fighting in chapter 9.
+
+Loading. Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an action, bonus action, or reaction to fire it, regardless of the number of attacks you can normally make.
+
+Range. A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range.
+
+Reach. This weapon adds 5 feet to your reach when you attack with it.
+
+Special. A weapon with the special property has unusual rules governing its use, explained in the weapon's description (see "Special Weapons" later in this section).Thrown. If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property.
+
+Two-Handed. This weapon requires two hands to use. Versatile. This weapon can be used with one or two hands. A damage value in parentheses appears with the property—the damage when the weapon is used with two hands to make a melee attack.
+
+## Improved Weapons
+
+Sometimes characters don't have their weapons and have to attack with whatever is close at hand. An improvised weapon includes any object you can wield in one or two hands, such as broken glass, a table leg, a frying pan, a wagon wheel, or a dead goblin.
+
+In many cases, an improvised weapon is similar to an actual weapon and can be treated as such. For example, a table leg is akin to a club. At the DM's option, a character proficient with a weapon can use a similar object as if it were that weapon and use his or her proficiency bonus.An object that bears no resemblance to a weapon deals 1d4 damage (the DM assigns a damage type appropriate to the object). If a character uses a ranged weapon to make a melee attack, or throws a melee weapon that does not have the thrown property, it also deals 1d4 damage. An improvised thrown weapon has a normal range of 20 feet and a long range of 60 feet.
+
+## Silvered Weapons
+
+Some monsters that have immunity or resistance to nonmagical weapons are susceptible to silver weapons, so cautious adventurers invest extra coin to plate their weapons with silver. You can silver a single weapon or ten pieces of ammunition for 100 gp. This cost represents not only the price of the silver, but the time and expertise needed to add silver to the weapon without making it less effective.
+
+## Special Weapons
+
+Weapons with special rules are described here.
+
+Lance. You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted.
+
+Net. A Large or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net.When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.
+
+## Adventuring Gear
+
+This section describes items that have special rules or require further explanation.
+
+Acid. As an action, you can splash the contents of this vial onto a creature within 5 feet of you or throw the vial up to 20 feet, shattering it on impact. In either case, make a ranged attack against a creature or object, treating the acid as an improvised weapon. On a hit, the target takes 2d6 acid damage.
+
+Alchemist's Fire. This sticky, adhesive fluid ignites when exposed to air. As an action, you can throw this flask up to 20 feet, shattering it on impact. Make a ranged attack against a creature or object, treating the alchemist's fire as an improvised weapon. On a hit, the target takes 1d4 fire damage at the start of each of its turns. A creature can end this damage by using its action to make a DC 10 Dexterity check to extinguish the flames.| Weapons Name          | Cost       | Damage Weight                      | Properties                                                       |
+|-----------------------|------------|------------------------------------|------------------------------------------------------------------|
+| Simple Melee Weapons  |           |                                    |                                                                  |
+|                       | Club      | 1d4 bludgeoning 2 lb. Light        |                                                                  |
+| Dagger                | 2 gp      | 1d4 piercing 1 lb.                 | Finesse, light, thrown (range 20/60)                             |
+| Greatclub             | 2 sp      | 1d8 bludgeoning 10 lb.             | Two-handed                                                       |
+| Handaxe               | 5 gp      | 1d6 slashing 2 lb.                 | Light, thrown (range 20/60)                                      |
+| Javelin               | 5 sp      | 1d6 piercing 2 lb.                 | Thrown (range 30/120)                                            |
+| Light hammer          | 2 gp      |                                    | 1d4 bludgeoning 2 lb. Light, thrown (range 20/60)                |
+| Mace                  | 5 gp      | 1d6 bludgeoning 4 lb.              | —                                                                |
+| Quarterstaff          | 2 sp      | 1d6 bludgeoning 4 lb.              | Versatile (1d8)                                                  |
+| Sickle                | 1 gp      | 1d4 slashing 2 lb. Light           |                                                                  |
+| Spear                 | 1 gp      | 1d6 piercing 3 lb.                 | Thrown (range 20/60), versatile (1d8)                            |
+| Unarmed strike —      |           | 1 bludgeoning                      | — —                                                              |
+| Simple Ranged Weapons |           |                                    |                                                                  |
+| Crossbow, light       | 25 gp     | 1d8 piercing 5 lb.                 | Ammunition (range 80/320), loading, two-handed                   |
+| Dart                  | 5 cp      | 1d4 piercing 1/4 lb.               | Finesse, thrown (range 20/60)                                    |
+| Shortbow              | 25 gp     | 1d6 piercing 2 lb.                 | Ammunition (range 80/320), two-handed                            |
+| Sling                 | 1 sp      | 1d4 bludgeoning                    | —  Ammunition (range 30/120)                                     |
+| Martial Melee Weapons |           |                                    |                                                                  |
+| Battleaxe             | 10 gp     | 1d8 slashing 4 lb. Versatile (1d10)|                              |
+| Flail                 | 10 gp     | 1d8 bludgeoning 2 lb.              | —                                                                |
+| Glaive                | 20 gp     | 1d10 slashing 6 lb.                | Heavy, reach, two-handed                                         |
+| Greataxe              | 30 gp     | 1d12 slashing 7 lb.                | Heavy, two-handed                                                |
+| Greatsword            | 50 gp     | 2d6 slashing 6 lb. Heavy, two-handed|
+| Halberd               | 20 gp     | 1d10 slashing 6 lb.                | Heavy, reach, two-handed                                         |
+| Lance                 | 10 gp     | 1d12 piercing 6 lb. Reach, special |                                                                  |
+| Longsword             | 15 gp     | 1d8 slashing 3 lb. Versatile (1d10)|                              |
+| Maul                  | 10 gp     | 2d6 bludgeoning 10 lb.             | Heavy, two-handed                                                |
+| Morningstar           | 15 gp     | 1d8 piercing 4 lb.                 | —                                                                |
+| Pike                  | 5 gp      | 1d10 piercing 18 lb.               | Heavy, reach, two-handed                                         |
+| Rapier                | 25 gp     | 1d8 piercing 2 lb.                 | Finesse                                                          |
+| Scimitar              | 25 gp     | 1d6 slashing 3 lb. Finesse, light  |                                                                  |
+| Shortsword            | 10 gp     | 1d6 piercing 2 lb. Finesse, light  |                                                                  |
+| Trident               | 5 gp      | 1d6 piercing 4 lb.                 | Thrown (range 20/60), versatile (1d8)                            |
+| War pick              | 5 gp      | 1d8 piercing 2 lb.                 | —                                                                |
+| Warhammer             | 15 gp     | 1d8 bludgeoning 2 lb. Versatile (1d10)|                           |
+| Whip                  | 2 gp      | 1d4 slashing 3 lb. Finesse, reach  |                                                                  |
+| Martial Ranged Weapons|           |                                    |                                                                  |
+|                       |           | Blowgun 10 gp 1 piercing 1 lb.     | Ammunition (range 25/100), loading                               |
+| Crossbow, hand        | 75 gp     | 1d6 piercing 3 lb.                 | Ammunition (range 30/120), light, loading                        |
+| Crossbow, heavy       | 50 gp     | 1d10 piercing 18 lb.               | Ammunition (range 100/400), heavy, loading, two-handed           |
+| Longbow               | 50 gp     | 1d8 piercing 2 lb. Ammunition (range 150/600), heavy, two-handed|
+| Net                   | 1 gp      | —                                  | 3 lb. Special, thrown (range 5/15)                               || A d v e n t u r i n g   G e a r     | Cost        | Weight        | Item                   | Cost        | Weight        |
+|------------------------------------|-------------|---------------|------------------------|-------------|---------------|
+| Abacus                             | 2 gp        | 2 lb.         | Holy symbol            |             |               |
+| Acid (vial)                        | 25 gp       | 1 lb.         | Amulet                 | 5 gp        | 1 lb.         |
+| Alchemist’s fire (flask)           | 50 gp       | 1 lb.         | Emblem                 | 5 gp        | —             |
+| Ammunition                         |             |               | Reliquary              | 5 gp        | 2 lb.         |
+| Arrows (20)                        | 1 gp        | 1 lb.         | Holy water (flask)     | 25 gp       | 1 lb.         |
+| Blowgun needles (50)               | 1 gp        | 1 lb.         | Hourglass              | 25 gp       | 1 lb.         |
+| Crossbow bolts (20)                | 1 gp        | 1 1/2 lb.     | Hunting trap           | 5 gp        | 25 lb.        |
+| Sling bullets (20)                 | 4 cp        | 1 1/2 lb.     | Ink (1 ounce bottle)   | 10 gp       | —             |
+| Antitoxin (vial)                   | 50 gp       | —             | Ink pen                | 2 cp        | —             |
+| Arcane focus                       |             |               | Jug or pitcher         | 2 cp        | 4 lb.         |
+| Crystal                            | 10 gp       | 1 lb.         | Ladder (10-foot) 1 sp  |             | 25 lb.        |
+| Orb                                | 20 gp       | 3 lb.         | Lamp                   | 5 sp        | 1 lb.         |
+| Rod                                | 10 gp       | 2 lb.         | Lantern, bullseye      |             | 10 gp 2 lb.   |
+| Staff                              | 5 gp        | 4 lb.         | Lantern, hooded        | 5 gp        | 2 lb.         |
+| Wand                               | 10 gp       | 1 lb.         | Lock                   | 10 gp       | 1 lb.         |
+| Backpack                           | 2 gp        | 5 lb.         | Magnifying glass       | 100 gp      | —             |
+| Ball bearings (bag of 1,000)      | 1 gp        | 2 lb.         | Manacles               | 2 gp        | 6 lb.         |
+| Barrel                             | 2 gp        | 70 lb.        | Mess kit               | 2 sp        | 1 lb.         |
+| Basket                             | 4 sp        | 2 lb.         | Mirror, steel          | 5 gp        | 1/2 lb.       |
+| Bedroll                            | 1 gp        | 7 lb.         | Oil (flask)            |             | 1 sp 1 lb.    |
+| Bell                               | 1 gp        | —             | Paper (one sheet)      | 2 sp        | —             |
+| Blanket                            |             | 5 sp 3 lb.    | Parchment (one sheet)  | 1 sp        | —             |
+| Block and tackle                   | 1 gp        | 5 lb.         | Perfume (vial)         | 5 gp        | —             |
+| Book                               | 25 gp       | 5 lb.         | Pick, miner’s          | 2 gp        | 10 lb.        |
+| Bottle, glass                      | 2 gp        | 2 lb.         | Piton                  | 5 cp        | 1/4 lb.       |
+| Bucket                             | 5 cp        | 2 lb.         | Poison, basic (vial)   | 100 gp      | —             |
+| Caltrops (bag of 20)               | 1 gp        | 2 lb.         | Pole (10-foot)         |             | 5 cp 7 lb.    |
+| Candle                             | 1 cp        | —             | Pot, iron              | 2 gp        | 10 lb.        |
+| Case, crossbow bolt                | 1 gp        | 1 lb.         | Potion of healing      |             | 50 gp 1/2 lb. |
+| Chain (10 feet)                    | 1 gp  5 gp  | 10 lb.        | Quiver                 | 1 gp        | 1 lb.         |
+| Chalk (1 piece)                    | 1 cp        | —             | Ram, portable          |             | 35 lb.        |
+|                                    |             |               |                        | 4 gp        |               |
+| Chest  Climber's kit               | 5 gp  25 gp | 25 lb. 12 lb. | Rations (1 day)  Robes | 5 sp  1 gp  | 2 lb. 4 lb.   |
+| Clothes, common                    | 5 sp        | 3 lb.         | Rope, hempen (50 feet) | 1 gp        | 10 lb.        |
+| Clothes, costume                   | 5 gp        | 4 lb.         | Rope, silk (50 feet)   | 10 gp 5 lb. |               |
+| Clothes, fine  Clothes, traveler’s | 15 gp       | 6 lb.         | Sack                   |             | 1 cp 1/2 lb.  |
+| Component pouch                    | 25 gp       | 2 lb.         | Sealing wax            | 5 sp        | —             |
+| Crowbar                            | 2 gp        | 5 lb.         | Shovel                 | 2 gp        | 5 lb.         |
+| Druidic focus                      |             |               | Signal whistle         | 5 cp        | —             |
+| Sprig of mistletoe                 | 1 gp        | —             | Signet ring            | 5 gp        | —             |
+| Totem                              | 1 gp        | —             | Soap                   | 2 cp        | —             |
+| Wooden staff                       | 5 gp        | 4 lb.         | Spellbook              | 50 gp       | 3 lb.         |
+| Yew wand                           | 10 gp       | 1 lb.         | Spikes, iron (10)      | 1 gp        | 5 lb.         |
+| Fishing tackle                     | 1 gp        | 4 lb.         | Spyglass               | 1,000 gp    | 1 lb.         |
+| Flask or tankard                   | 2 cp        | 1 lb.         | Tent, two-person       | 2 gp        | 2 0 lb.       |
+| Grappling hook                     | 2 gp        | 4 lb.         | Tinderbox              | 5 sp        | 1 lb.         |
+| Hammer                             | 1 gp        | 3 lb.         | Torch                  | 1 cp        | 1 lb.         |
+| Hammer, sledge  Healer’s kit       | 2 gp        | 10 lb. 3 lb.  | Vial  Waterskin        | 1 gp  2 sp  | 5 lb. (full)  |
+|                                    | 5 gp        |               |                        |             |               |
+|                                    |             |               | Whetstone              | 1 cp        | 1 lb.         |Antitoxin. A creature that drinks this vial of liquid gains advantage on saving throws against poison for 1 hour. It confers no benefit to undead or constructs.
+
+Arcane Focus. An arcane focus is a special item—an orb, a crystal, a rod, a specially constructed staff, a wand-like length of wood, or some similar item—designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus, as described in chapter 10.
+
+Ball Bearings. As an action, you can spill these tiny metal balls from their pouch to cover a level area 10 feet square. A creature moving across the covered area must succeed on a DC 10 Dexterity saving throw or fall prone. A creature moving through the area at half speed doesn't need to make the saving throw.
+
+Block and Tackle. A set of pulleys with a cable threaded through them and a hook to attach to objects, a block and tackle allows you to hoist up to four times the weight you can normally lift.
+
+Book. A book might contain poetry, historical accounts, information pertaining to a particular field of lore, diagrams and notes on gnomish contraptions, or just about anything else that can be represented using text or pictures. A book of spells is a spellbook (described later in this section).Caltrops. As an action, you can spread a single bag of caltrops to cover a 5-foot-square area. Any creature that enters the area must succeed on a DC 15 Dexterity saving throw or stop moving and take 1 piercing damage. Until the creature regains at least 1 hit point, its walking speed is reduced by 10 feet. A creature moving through the area at half speed doesn't need to make the saving throw.
+
+Candle. For 1 hour, a candle sheds bright light in a 5-foot radius and dim light for an additional 5 feet.
+
+Case, Crossbow Bolt. This wooden case can hold up to twenty crossbow bolts.
+
+Case, Map or Scroll. This cylindrical leather case can hold up to ten rolled-up sheets of paper or five rolled-up sheets of parchment.
+
+Chain. A chain has 10 hit points. It can be burst with a successful DC 20 Strength check.
+
+Climber's Kit. A climber's kit includes special pitons, boot tips, gloves, and a harness. You can use the climber's kit as an action to anchor yourself; when you do, you can't fall more than 25 feet from the point where you anchored yourself, and you can't climb more than 25 feet away from that point without undoing the anchor.
+
+Component Pouch. A component pouch is a small, watertight leather belt pouch that has compartments to hold all the material components and other special items you need to cast your spells, except for those components that have a specific cost (as indicated in a spell's description).
+
+Crowbar. Using a crowbar grants advantage to Strength checks where the crow bar's leverage can be applied.Druidic Focus. A druidic focus might be a sprig of mistletoe or holly, a wand or scepter made of yew or another special wood, a staff drawn whole out of a living tree, or a totem object incorporating feathers, fur, bones, and teeth from sacred animals. A druid can use such an object as a spellcasting focus, as described in chapter 10.
+
+Fishing Tackle. This kit includes a wooden rod, silken line, corkwood bobbers, steel hooks, lead sinkers, velvet lures, and narrow netting.
+
+Healer's Kit. This kit is a leather pouch containing bandages, salves, and splints. The kit has ten uses. As an action, you can expend one use of the kit to stabilize a creature that has 0 hit points, without needing to make a Wisdom (Medicine) check.
+
+Holy Symbol. A holy symbol is a representation of a god or pantheon. It might be an amulet depicting a symbol representing a deity, the same symbol carefully engraved or inlaid as an emblem on a shield, or a tiny box holding a fragment of a sacred relic. Appendix B lists the symbols commonly associated with many gods in the multiverse. A cleric or paladin can use a holy symbol as a spellcasting focus, as described in chapter 10. To use the symbol in this way, the caster must hold it in hand, wear it visibly, or bear it on a shield.Holy Water. As an action, you can splash the contents of this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. In either case, make a ranged attack against a target creature, treating the holy water as an improvised weapon. If the target is a fiend or undead, it takes 2d6 radiant damage.
+
+## Equipment Packs
+
+The starting equipment you get from your class includes a collection of useful adventuring gear, put together in a pack. The contents of these packs are listed here. If you are buying your starting equipment, you can purchase a pack for the price shown, which might be cheaper than buying the items individually.
+
+Burglar's Pack (16 gp). Includes a backpack, a bag of 1,000 ball bearings, 10 feet of string, a bell, 5 candles, a crowbar, a hammer, 10 pitons, a hooded lantern, 2 flasks of oil, 5 days rations, a tinderbox, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it.
+
+Diplomat's Pack (39 gp). Includes a chest, 2 cases for maps and scrolls, a set of fine clothes, a bottle of ink, an ink pen, a lamp, 2 flasks of oil, 5 sheets of paper, a vial of perfume, sealing wax, and soap.
+
+Dungeoneer's Pack (12 gp). Includes a backpack, a crowbar, a hammer, 10 pitons, 10 torches, a tinderbox, 10 days of rations, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it.
+
+Entertainer's Pack (40 gp). Includes a backpack, a bedroll, 2 costumes, 5 candles, 5 days of rations, a waterskin, and a disguise kit.Explorer's Pack (10 gp). Includes a backpack, a bedroll, a mess kit, a tinderbox, 10 torches, 10 days of rations, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it.
+
+Priest's Pack (19 gp). Includes a backpack, a blanket, 10 candles, a tinderbox, an alms box, 2 blocks of incense, a censer, vestments, 2 days of rations, and a waterskin.
+
+Scholar's Pack (40 gp). Includes a backpack, a book of lore, a bottle of ink, an ink pen, 10 sheets of parchment, a little bag of sand, and a small knife.
+
+A cleric or paladin may create holy water by performing a special ritual. The ritual takes 1 hour to perform, uses 25 gp worth of powdered silver, and requires the caster to expend a 1st-level spell slot.
+
+Hunting Trap. When you use your action to set it, this trap forms a saw-toothed steel ring that snaps shut when a creature steps on a pressure plate in the center. The trap is affixed by a heavy chain to an immobile object, such as a tree or a spike driven into the ground. A creature that steps on the plate must succeed on a DC 13 Dexterity saving throw or take 1d4 piercing damage and stop moving. Thereafter, until the creature breaks free of the trap, its movement is limited by the length of the chain (typically 3 feet long). A creature can use its action to make a DC 13 Strength check, freeing itself or another creature within its reach on a success. Each failed check deals 1 piercing damage to the trapped creature.Lamp. A lamp casts bright light in a 15-foot radius and dim light for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil.
+
+Lantern, Bullseye. A bullseye lantern casts bright light in a 60-foot cone and dim light for an additional 60 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil.
+
+Lantern, Hooded. A hooded lantern casts bright light in a 30-foot radius and dim light for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil. As an action, you can lower the hood, reducing the light to dim light in a 5-foot radius.
+
+Lock. A key is provided with the lock. Without the key, a creature proficient with thieves' tools can pick this lock with a successful DC 15 Dexterity check. Your DM may decide that better locks are available for higher prices.
+
+Magnifying Glass. This lens allows a closer look at small objects. It is also useful as a substitute for flint and steel when starting fires. Lighting a fire with a magnifying glass requires light as bright as sunlight to focus, tinder to ignite, and about 5 minutes for the fire to ignite. A magnifying glass grants advantage on any ability check made to appraise or inspect an item that is small or highly detailed.Manacles. These metal restraints can bind a Small or Medium creature. Escaping the manacles requires a successful DC 20 Dexterity check. Breaking them requires a successful DC 20 Strength check. Each set of manacles comes with one key. Without the key, a creature proficient with thieves' tools can pick the manacles' lock with a successful DC 15 Dexterity check. Manacles have 15 hit points.
+
+Mess Kit. This tin box contains a cup and simple cutlery. The box clamps together, and one side can be used as a cooking pan and the other as a plate or shallow bowl.
+
+Oil. Oil usually comes in a clay flask that holds 1 pint. As an action, you can splash the oil in this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. Make a ranged attack against a target creature or object, treating the oil as an improvised weapon. On a hit, the target is covered in oil. If the target takes any fire damage before the oil dries (after 1 minute), the target takes an additional 5 fire damage from the burning oil. You can also pour a flask of oil on the ground to cover a 5-foot-square area, provided that the surface is level. If lit, the oil burns for 2 rounds and deals 5 fire damage to any creature that enters the area or ends its turn in the area. A creature can take this damage only once per turn.Poison, Basic. You can use the poison in this vial to coat one slashing or piercing weapon or up to three pieces of ammunition. Applying the poison takes an action. A creature hit by the poisoned weapon or ammunition must make a DC 10 Constitution saving throw or take 1d4 poison damage. Once applied, the poison retains potency for 1 minute before drying.
+
+Potion of Healing. A character who drinks the magical red fluid in this vial regains 2d4 + 2 hit points. Drinking or administering a potion takes an action.
+
+Pouch. A cloth or leather pouch can hold up to 20 sling bullets or 50 blowgun needles, among other things. A compartmentalized pouch for holding spell components is called a component pouch (described earlier in this section).
+
+Quiver. A quiver can hold up to 20 arrows.
+
+Ram, Portable. You can use a portable ram to break down doors. When doing so, you gain a +4 bonus on the Strength check. One other character can help you use the ram, giving you advantage on this check.
+
+Rations. Rations consist of dry foods suitable for extended travel, including jerky, dried fruit, hardtack, and nuts.
+
+Rope. Rope, whether made of hemp or silk, has 2 hit points and can be burst with a DC 17 Strength check.
+
+Scale, Merchant's. A scale includes a small balance, pans, and a suitable assortment of weights up to 2 pounds. With it, you can measure the exact weight of small objects, such as raw precious metals or trade goods, to help determine their worth.
+
+Spellbook. Essential for wizards, a spellbook is a leather-bound tome with 100 blank vellum pages suitable for recording spells.Spyglass. Objects viewed through a spyglass are magnified to twice their size.
+
+Tent. A simple and portable canvas shelter, a tent sleeps two.
+
+Tinderbox. This small container holds flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torch—or anything else with abundant, exposed fuel—takes an action. Lighting any other fire takes 1 minute.
+
+Torch. A torch burns for 1 hour, providing bright light in a 20-foot radius and dim light for an additional 20 feet. If you make a melee attack with a burning torch and hit, it deals 1 fire damage.
+
+## Container Capacity
+
+| Container Capacity   |                                        |
+|----------------------|----------------------------------------|
+| Backpack*            | 1 cubic foot/30 pounds of gear         |
+| Barrel               | 40 gallons liquid, 4 cubic feet solid  |
+| Basket               | 2 cubic feet/40 pounds of gear         |
+| Bottle               | 1 1/2 pints liquid                     |
+| Bucket               | 3 gallons liquid, 1/2 cubic foot solid |
+| Chest                | 12 cubic feet/300 pounds of gear       |
+| Flask or tankard     | 1 pint liquid                          |
+| Jug or pitcher       | 1 gallon liquid                        |
+| Pot, iron            | 1 gallon liquid                        |
+| Pouch                | 1/5 cubic foot/6 pounds of gear        |
+| Sack                  | 1 cubic foot/30 pounds of gear         |
+| Vial                 | 4 ounces liquid                        |
+| Waterskin            | 4 pints liquid                         |
+
+* You can also strap items, such as a bedroll or a coil of rope, to the outside of a backpack.A tool helps you to do something you couldn't otherwise do, such as craft or repair an item, forge a document, or pick a lock. Your race, class, background, or feats give you proficiency with certain tools. Proficiency with a tool allows you to add your proficiency bonus to any ability check you make using that tool. Tool use is not tied to a single ability, since proficiency with a tool represents broader knowledge of its use. For example, the DM might ask you to make a Dexterity check to carve a fine detail with your woodcarver's tools, or a Strength check to make something out of particularly hard wood.
+
+## Tools
+
+| Item                     |             | Cost Weight   |
+|--------------------------|-------------|---------------|
+| Artisan’s tools          |             |               |
+| Alchemist’s supplies     | 50 gp       | 8 lb.         |
+| Brewer’s supplies        | 20 gp       | 9 lb.         |
+| Calligrapher's supplies  | 10 gp       | 5 lb.         |
+| Carpenter’s tools        | 8 gp        | 6 lb.         |
+| Cartographer’s tools     | 15 gp       | 6 lb.         |
+| Cobbler’s tools          | 5 gp        | 5 lb.         |
+| Cook’s utensils          | 1 gp        | 8 lb.         |
+| Glassblower’s tools      | 30 gp       | 5 lb.         |
+| Jeweler’s tools          | 25 gp       | 2 lb.         |
+| Leatherworker’s tools    | 5 gp        | 5 lb.         |
+| Mason’s tools            | 10 gp       | 8 lb.         |
+| Painter’s supplies       | 10 gp 5 lb. |               |
+| Potter’s tools           | 10 gp 3 lb. |               |
+| Smith’s tools            | 20 gp       | 8 lb.         |
+| Tinker’s tools           | 50 gp       | 10 lb.        |
+| Weaver’s tools           | 1 gp        | 5 lb.         |
+| Woodcarver's tools       | 1 gp        | 5 lb.         |
+| Disguise kit             | 25 gp       | 3 lb.         |
+| Forgery kit              | 15 gp       | 5 lb.         |
+| Gaming set               |             |               |
+| Dice set                 | 1 sp        | —             |
+| Dragonchess set          | 1 gp        | 1/2 lb.       |
+| Playing card set         | 5 sp        | —             |
+| Three-Dragon Ante set    | 1 gp        | —             |
+| Herbalism kit            | 5 gp        | 3 lb.         |
+| Musical instrument       |             |               |
+| Bagpipes                 | 30 gp       | 6 lb.         |
+| Drum                     | 6 gp        | 3 lb.         |
+| Dulcimer                 | 25 gp       | 10 lb.        |
+| Flute                    | 2 gp        | 1 lb.         |
+| Lute                     | 35 gp       | 2 lb.         |
+| Lyre                     | 30 gp       | 2 lb.         |
+| Horn                     | 3 gp        | 2 lb.         |
+| Pan flute                | 12 gp       | 2 lb.         |
+| Shawm                    | 2 gp        | 1 lb.         |
+| Viol                     | 30 gp 1 lb. |               |
+| Navigator’s tools        | 25 gp       | 2 lb.         |
+| Poisoner’s kit           | 50 gp       | 2 lb.         |
+| Thieves’ tools           | 25 gp       | 1 lb.         |
+| Vehicles (land or water) | *           | *             |* See the "Mounts and Vehicles" section.
+
+Artisan's Tools. These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.
+
+Disguise Kit. This pouch of cosmetics, hair dye, and small props lets you create disguises that change your physical appearance. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to create a visual disguise.
+
+Forgery Kit. This small box contains a variety of papers and parchments, pens and inks, seals and sealing wax, gold and silver leaf, and other supplies necessary to create convincing forgeries of physical documents. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to create a physical forgery of a document.
+
+Gaming Set. This item encompasses a wide range of game pieces, including dice and decks of cards (for games such as Three-Dragon Ante). A few common examples appear on the Tools table, but other kinds of gaming sets exist. If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.Herbalism Kit. This kit contains a variety of instruments such as clippers, mortar and pestle, and pouches and vials used by herbalists to create remedies and potions. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to identify or apply herbs. Also, proficiency with this kit is required to create antitoxin and potions of healing.
+
+Musical Instrument. Several of the most common types of musical instruments are shown on the table as examples. If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus, as described in chapter 10. Each type of musical instrument requires a separate proficiency.
+
+Navigator's Tools. This set of instruments is used for navigation at sea. Proficiency with navigator's tools lets you chart a ship's course and follow navigation charts. In addition, these tools allow you to add your proficiency bonus to any ability check you make to avoid getting lost at sea.
+
+Poisoner's Kit. A poisoner's kit includes the vials, chemicals, and other equipment necessary for the creation of poisons. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to craft or use poisons.
+
+Thieves' Tools. This set of tools includes a small file, a set of lock picks, a small mirror mounted on a metal handle, a set of narrow-bladed scissors, and a pair of pliers. Proficiency with these tools lets you add your proficiency bonus to any ability checks you make to disarm traps or open locks.
+
+
+## Mounts and VehiclesA good mount can help you move more quickly through the wilderness, but its primary purpose is to carry the gear that would otherwise slow you down. The Mounts and Other Animals table shows each animal's speed and base carrying capacity.
+
+An animal pulling a carriage, cart, chariot, sled, or wagon can move weight up to five times its base carrying capacity, including the weight of the vehicle. If multiple animals pull the same vehicle, they can add their carrying capacity together.
+
+Mounts other than those listed here are available in the worlds of D&D, but they are rare and not normally available for purchase. These include flying mounts (pegasi, griffons, hippogriffs, and similar animals) and even aquatic mounts (giant sea horses, for example). Acquiring such a mount often means securing an egg and raising the creature yourself, making a bargain with a powerful entity, or negotiating with the mount itself.
+
+Barding. Barding is armor designed to protect an animal's head, neck, chest, and body. Any type of armor shown on the Armor table in this chapter can be purchased as barding. The cost is four times the equivalent armor for humanoids, and it weighs twice as much.
+
+Saddles. A military saddle braces the rider, helping you keep your seat on an active mount in battle. It gives you advantage on any check you make to remain mounted. An exotic saddle is required for riding any aquatic or flying mount.
+
+Vehicle Proficiency. If you have proficiency with a certain kind of vehicle (land or water), you can add your proficiency bonus to any check you make to control that kind of vehicle in difficult circumstances.Rowed Vessels. Keelboats and rowboats are used on lakes and rivers. If going downstream, add the speed of the current (typically 3 miles per hour) to the speed of the vehicle. These vehicles can't be rowed against any significant current, but they can be pulled upstream by draft animals on the shores. A rowboat weighs 100 pounds, in case adventurers carry it over land.
+
+
+## Mountains and Other Animals
+
+| Item           |               | Cost Speed   | Carrying Capacity   |
+|----------------|---------------|--------------|---------------------|
+| Camel          | 50 gp         |              | 50 ft. 480 lb.      |
+| Donkey or mule | 8 gp          |              | 40 ft. 420 lb.      |
+| Elephant       | 200 gp 40 ft. |              | 1,320 lb.           |
+| Horse, draft   |               | 50 gp 40 ft. | 540 lb.             |
+| Horse, riding  | 75 gp         | 60 ft.       | 480 lb.             |
+| Mastiff        | 25 gp         |              | 40 ft. 195 lb.      |
+| Pony           |               | 30 gp 40 ft. | 225 lb.             |
+| Warhorse       | 400 gp        |              | 60 ft. 540 lb.      |
+
+## Tack, Harness, and Drawn Vehicles| Item               |        | Cost Weight   |
+|--------------------|--------|---------------|
+| Barding            | x4     | x2            |
+| Bit and bridle     | 2 gp   | 1 lb.         |
+| Carriage           | 100 gp | 600 lb.       |
+| Cart               | 15 gp  | 200 lb.       |
+| Chariot            | 250 gp | 100 lb.       |
+| Feed (per day)     | 5 cp   | 10 lb.        |
+| Saddle             |        |               |
+| Exotic             | 60 gp  | 40 lb.        |
+| Military           | 20 gp  | 30 lb.        |
+| Pack               | 5 gp   | 15 lb.        |
+| Riding             | 10 gp  | 25 lb.        |
+| Saddlebags         | 4 gp   | 8 lb.         |
+| Sled               |        | 20 gp 300 lb. |
+| Stabling (per day) | 5 sp   | —             |
+| Wagon              | 35 gp  | 400 lb.       |
+
+## Waterborne Vehicles
+
+| Item         | Cost            | Speed     |
+|--------------|-----------------|-----------|
+| Galley       | 30,000 gp 4 mph |           |
+| Keelboat     | 3,000 gp 1 mph  |           |
+| Longship     | 10,000 gp 3 mph |           |
+| Rowboat      | 50 gp           | 1 1/2 mph |
+| Sailing ship | 10,000 gp       | 2 mph     |
+| Warship      | 25,000 gp       | 2 1/2 mph |
+
+## Trade Goods
+
+Most wealth is not in coins. It is measured in livestock, grain, land, rights to collect taxes, or rights to resources (such as a mine or a forest).Guilds, nobles, and royalty regulate trade. Chartered companies are granted rights to conduct trade along certain routes, to send merchant ships to various ports, or to buy or sell specific goods. Guilds set prices for the goods or services that they control, and determine who may or may not offer those goods and services. Merchants commonly exchange trade goods without using currency. The Trade Goods table shows the value of common exchanged goods.
+
+## Trade Goods
+
+|        | Cost Goods                                   |
+|--------|----------------------------------------------|
+| 1 cp   | 1 lb. of wheat                               |
+| 2 cp   | 1 lb. of flour or one chicken                |
+| 5 cp   | 1 lb. of salt                                |
+|        | 1 sp 1 lb. of iron or 1 sq. yd. of canvas    |
+| 5 sp   | 1 lb. of copper or 1 sq. yd. of cotton cloth |
+| 1 gp   | 1 lb. of ginger or one goat                  |
+| 2 gp   | 1 lb. of cinnamon or pepper, or one sheep    |
+| 3 gp   | 1 lb. of cloves or one pig                   |
+| 5 gp   | 1 lb. of silver or 1 sq. yd. of linen        |
+|        | 10 gp 1 sq. yd. of silk or one cow           |
+| 15 gp  | 1 lb. of saffron or one ox                   |
+| 50 gp  | 1 lb. of gold                                |
+| 500 gp | 1 lb. of platinum                            |
+
+## ExpensesWhen not descending into the depths of the earth, exploring ruins for lost treasures, or waging war against the encroaching darkness, adventurers face more mundane realities. Even in a fantastical world, people require basic necessities such as shelter, sustenance, and clothing. These things cost money, although some lifestyles cost more than others.
+
+## Lifestyle Expenses
+
+Lifestyle expenses provide you with a simple way to account for the cost of living in a fantasy world. They cover your accommodations, food and drink, and all your other necessities. Furthermore, expenses cover the cost of maintaining your equipment so you can be ready when adventure next calls.
+
+At the start of each week or month (your choice), choose a lifestyle from the Expenses table and pay the price to sustain that lifestyle. The prices listed are per day, so if you wish to calculate the cost of your chosen lifestyle over a thirty-day period, multiply the listed price by 30. Your lifestyle might change from one period to the next, based on the funds you have at your disposal, or you might maintain the same lifestyle throughout your character's career.
+
+Your lifestyle choice can have consequences. Maintaining a wealthy lifestyle might help you make contacts with the rich and powerful, though you run the risk of attracting thieves. Likewise, living frugally might help you avoid criminals, but you are unlikely to make powerful connections.| Lifestyle    | Price/Day                  |
+|--------------|----------------------------|
+| Wretched     | —-                         |
+| Squalid      | 1 sp                       |
+| Poor         | 2 sp                       |
+| Modest       | 1 gp                       |
+| Comfortable  | 2 gp                       |
+| Wealthy      | 4 gp                       |
+|              | Aristocratic 10 gp minimum |
+
+Wretched. You live in inhumane conditions. With no place to call home, you shelter wherever you can, sneaking into barns, huddling in old crates, and relying on the good graces of people better off than you. A wretched lifestyle presents abundant dangers. Violence, disease, and hunger follow you wherever you go. Other wretched people covet your armor, weapons, and adventuring gear, which represent a fortune by their standards. You are beneath the notice of most people.
+
+Squalid. You live in a leaky stable, a mud-floored hut just outside town, or a vermin-infested boarding house in the worst part of town. You have shelter from the elements, but you live in a desperate and often violent environment, in places rife with disease, hunger, and misfortune. You are beneath the notice of most people, and you have few legal protections. Most people at this lifestyle level have suffered some terrible setback. They might be disturbed, marked as exiles, or suffer from disease.Poor. A poor lifestyle means going without the comforts available in a stable community. Simple food and lodgings, threadbare clothing, and unpredictable conditions result in a sufficient, though probably unpleasant, experience. Your accommodations might be a room in a flophouse or in the common room above a tavern. You benefit from some legal protections, but you still have to contend with violence, crime, and disease. People at this lifestyle level tend to be unskilled laborers, costermongers, peddlers, thieves, mercenaries, and other disreputable types.
+
+Modest. A modest lifestyle keeps you out of the slums and ensures that you can maintain your equipment. You live in an older part of town, renting a room in a boarding house, inn, or temple. You don't go hungry or thirsty, and your living conditions are clean, if simple. Ordinary people living modest lifestyles include soldiers with families, laborers, students, priests, hedge wizards, and the like.
+
+
+Comfortable. Choosing a comfortable lifestyle means that you can afford nicer clothing and can easily maintain your equipment. You live in a small cottage in a middle-class neighborhood or in a private room at a fine inn. You associate with merchants, skilled tradespeople, and military officers.
+
+Wealthy. Choosing a wealthy lifestyle means living a life of luxury, though you might not have achieved the social status associated with the old money of nobility or royalty. You live a lifestyle comparable to that of a highly successful merchant, a favored servant of the royalty, or the owner of a few small businesses. You have respectable lodgings, usually a spacious home in a good part of town or a comfortable suite at a fine inn. You likely have a small staff of servants.Aristocratic. You live a life of plenty and comfort. You move in circles populated by the most powerful people in the community. You have excellent lodgings, perhaps a townhouse in the nicest part of town or rooms in the finest inn. You dine at the best restaurants, retain the most skilled and fashionable tailor, and have servants attending to your every need. You receive invitations to the social gatherings of the rich and powerful, and spend evenings in the company of politicians, guild leaders, high priests, and nobility. You must also contend with the highest levels of deceit and treachery. The wealthier you are, the greater the chance you will be drawn into political intrigue as a pawn or participant.
+
+## Food, Drink, and Lodging
+
+The Food, Drink, and Lodging table gives prices for individual food items and a single night's lodging. These prices are included in your total lifestyle expenses.
+
+## Food, Drink, and Lodging| Item                 | Cost   |
+|----------------------|--------|
+| Ale                  |        |
+| Gallon               | 2 sp   |
+| Mug                  | 4 cp   |
+| Banquet (per person) | 10 gp  |
+| Bread, loaf          | 2 cp   |
+| Cheese, hunk         | 1 sp   |
+| Inn stay (per day)   |        |
+| Squalid              | 7 cp   |
+| Poor                 | 1 sp   |
+| Modest               | 5 sp   |
+| Comfortable          | 8 sp   |
+| Wealthy              | 2 gp   |
+| Aristocratic         | 4 gp   |
+| Meals (per day)      |        |
+| Squalid              | 3 cp   |
+| Poor                 | 6 cp   |
+| Modest               | 3 sp   |
+| Comfortable          | 5 sp   |
+| Wealthy              | 8 sp   |
+| Aristocratic         | 2 gp   |
+| Meat, chunk          | 3 sp   |
+| Wine                 |        |
+| Common (pitcher)     | 2 sp   |
+| Fine (bottle)        | 10 gp  |
+
+## Self - Sufficiency
+
+The expenses and lifestyles described in this chapter assume that you are spending your time between adventures in town, availing yourself of whatever services you can afford— paying for food and shelter, paying townspeople to sharpen your sword and repair your armor, and so on. Some characters, though, might prefer to spend their time away from civilization, sustaining themselves in the wild by hunting, foraging, and repairing their own gear.
+
+Maintaining this kind of lifestyle doesn't require you to spend any coin, but it is time-consuming. If you spend your time between adventures practicing a profession, as described in chapter 8, you can eke out the equivalent of a poor lifestyle. Proficiency in the Survival skill lets you live at the equivalent of a comfortable lifestyle.## Services
+
+Adventurers can pay nonplayer characters to assist them or act on their behalf in a variety of circumstances. Most such hirelings have fairly ordinary skills, while others are masters of a craft or art, and a few are experts with specialized adventuring skills.
+
+Some of the most basic types of hirelings appear on the Services table. Other common hirelings include any of the wide variety of people who inhabit a typical town or city, when the adventurers pay them to perform a specific task. For example, a wizard might pay a carpenter to construct an elaborate chest (and its miniature replica) for use in the Leomund's secret chest spell. A fighter might commission a blacksmith to forge a special sword. A bard might pay a tailor to make exquisite clothing for an upcoming performance in front of the duke.
+
+Other hirelings provide more expert or dangerous services. Mercenary soldiers paid to help the adventurers take on a hobgoblin army are hirelings, as are sages hired to research ancient or esoteric lore. If a high-level adventurer establishes a stronghold of some kind, he or she might hire a whole staff of servants and agents to run the place, from a castellan or steward to menial laborers to keep the stables clean. These hirelings often enjoy a long-term contract that includes a place to live within the stronghold as part of the offered compensation.| Service                      | Pay                  |
+|------------------------------|----------------------|
+| Coach cab                    |                      |
+| Between towns 3 cp per mile  |                      |
+| Within a city                | 1 cp                 |
+| Hireling                     |                      |
+|                              | Skilled 2 gp per day |
+| Untrained                    | 2 sp per day         |
+| Messenger                    | 2 cp per mile        |
+| Road or gate toll 1 cp       |                      |
+| Ship’s passage 1 sp per mile |                      |
+
+Skilled hirelings include anyone hired to perform a service that involves a proficiency (including weapon, tool, or skill): a mercenary, artisan, scribe, and so on. The pay shown is a minimum; some expert hirelings require more pay. Untrained hirelings are hired for menial work that requires no particular skill and can include laborers, porters, maids, and similar workers.
+
+## Spellcasting Services
+
+People who are able to cast spells don't fall into the category of ordinary hirelings. It might be possible to find someone willing to cast a spell in exchange for coin or favors, but it is rarely easy and no established pay rates exist. As a rule, the higher the level of the desired spell, the harder it is to find someone who can cast it and the more it costs.Hiring someone to cast a relatively common spell of 1st or 2nd level, such as cure wounds or identify, is easy enough in a city or town, and might cost 10 to 50 gold pieces (plus the cost of any expensive material components). Finding someone able and willing to cast a higher-level spell might involve traveling to a large city, perhaps one with a university or prominent temple. Once found, the spellcaster might ask for a service instead of payment—the kind of service that only adventurers can provide, such as retrieving a rare item from a dangerous locale or traversing a monster-infested wilderness to deliver something important to a distant settlement.
+
+## Trinkets
+
+When you make your character, you can roll once on the Trinkets table to gain a trinket, a simple item lightly touched by mystery. The DM might also use this table. It can help stock a room in a dungeon or fill a creature's pockets.
+
+## Trinkets
+
+## d100 Trinket- 01 A mummified goblin hand
+- 02 A piece of crystal that faintly glows in the moonlight
+- 03 A gold coin minted in an unknown land
+- 04 A diary written in a language you don't know
+- 05 A brass ring that never tarnishes
+- 06 An old chess piece made from glass
+- 07 A pair of knucklebone dice, each with a skull symbol on the side that would normally show six pips
+- 08 A small idol depicting a nightmarish creature that gives you unsettling dreams when you sleep near it
+- 09 A rope necklace from which dangles four mummified elf fingers
+- 10 The deed for a parcel of land in a realm unknown to you
+- 11 A 1-ounce block made from an unknown material
+- 12 A small cloth doll skewered with needles
+- 13 A tooth from an unknown beast
+- 14 An enormous scale, perhaps from a dragon
+- 15 A bright green feather
+- 16 An old divination card bearing your likeness
+- 17 A glass orb filled with moving smoke
+- 18 A 1-pound egg with a bright red shell
+- 19 A pipe that blows bubbles
+- 20 A glass jar containing a weird bit of flesh floating in pickling fluid
+- 21 A tiny gnome-crafted music box that plays a song you dimly remember from your childhood
+- 22 A small wooden statuette of a smug halfling
+- 23 A brass orb etched with strange runes
+- 24 A multicolored stone disk
+- 25 A tiny silver icon of a raven
+- 26 A bag containing forty-seven humanoid teeth, one of which is rotten
+
+## d 100 Trinket- 27 A shard of obsidian that always feels warm to the touch
+- 28 A dragon's bony talon hanging from a plain leather necklace
+- 29 A pair of old socks
+- 30 A blank book whose pages refuse to hold ink, chalk, graphite, or any other substance or marking
+- 31 A silver badge in the shape of a five-pointed star
+- 32 A knife that belonged to a relative
+- 33 A glass vial filled with nail clippings
+- 34 A rectangular metal device with two tiny metal cups on one end that throws sparks when wet
+- 35 A white, sequined glove sized for a human
+- 36 A vest with one hundred tiny pockets
+- 37 A small, weightless stone block
+- 38 A tiny sketch portrait of a goblin
+- 39 An empty glass vial that smells of perfume when opened
+- 40 A gemstone that looks like a lump of coal when examined by anyone but you
+- 41 A scrap of cloth from an old banner
+- 42 A rank insignia from a lost legionnaire
+- 43 A tiny silver bell without a clapper
+- 44 A mechanical canary inside a gnomish lamp
+- 45 A tiny chest carved to look like it has numerous feet on the bottom
+- 46 A dead sprite inside a clear glass bottle
+- 47 A metal can that has no opening but sounds as if it is filled with liquid, sand, spiders, or broken glass (your choice)
+- 48 A glass orb filled with water, in which swims a clockwork goldfish
+- 49 A silver spoon with an M engraved on the handle
+- 50 A whistle made from gold-colored wood
+
+## d100 Trinket- 51 A dead scarab beetle the size of your hand
+- 79 An invitation to a party where a murder happened
+- 52 Two toy soldiers, one with a missing head
+- 53 A small box filled with different-sized buttons
+- 54 A candle that can't be lit
+- 55 A tiny cage with no door
+- 56 An old key
+- 57 An indecipherable treasure map
+- 58 A hilt from a broken sword
+- 59 A rabbit's foot
+- 60 A glass eye
+- 61 A cameo carved in the likeness of a hideous person
+- 62 A silver skull the size of a coin
+- 63 An alabaster mask
+- 64 A pyramid of sticky black incense that smells very bad
+- 65 A nightcap that, when worn, gives you pleasant dreams
+- 66 A single caltrop made from bone
+- 67 A gold monocle frame without the lens
+- 68 A 1-inch cube, each side painted a different color
+- 69 A crystal knob from a door
+- 70 A small packet filled with pink dust
+- 71 A fragment of a beautiful song, written as musical notes on two pieces of parchment
+- 72 A silver teardrop earring made from a real teardrop
+- 73 The shell of an egg painted with scenes of human misery in disturbing detail
+- 74 A fan that, when unfolded, shows a sleeping cat
+- 75 A set of bone pipes
+- 76 A four-leaf clover pressed inside a book discussing manners and etiquette
+- 77 A sheet of parchment upon which is drawn a complex mechanical contraption
+- 78 An ornate scabbard that fits no blade you have found so far
+- A bronze pentacle with an etching of a rat's head in its center
+- 81 A purple handkerchief embroidered with the name of a powerful archmage
+- 82 Half of a floorplan for a temple, castle, or some other structure
+- 83 A bit of folded cloth that, when unfolded, turns into a stylish cap
+- 84 A receipt of deposit at a bank in a far-flung city
+- 85 A diary with seven missing pages
+- 86 An empty silver snuffbox bearing an inscription on the surface that says "dreams"
+- 87 An iron holy symbol devoted to an unknown god
+- 88 A book that tells the story of a legendary hero's rise and fall, with the last chapter missing
+- 89 A vial of dragon blood
+- 90 An ancient arrow of elven design
+- 91 A needle that never bends
+- 92 An ornate brooch of dwarven design
+- 93 An empty wine bottle bearing a pretty label that says, "The Wizard of Wines Winery, Red Dragon Crush, 331422-W"
+- 94 A mosaic tile with a multicolored, glazed surface
+- 95 A petrified mouse
+- 96 A black pirate flag adorned with a dragon's skull and crossbones
+- 97 A tiny mechanical crab or spider that moves about when it's not being observed
+- 98 A glass jar containing lard with a label that reads, "Griffon Grease"
+- 99 A wooden box with a ceramic bottom that holds a living worm with a head on each end of its body
+- 100 A metal urn containing the ashes of a hero## Chapter 6: Customization Options
+
+
+THE COMBINATION OF ABILITY SCORES, RACE, CLASS, and background defines your character's capabilities in the game, and the personal details you create set your character apart from every other character. Even within your class and race, you have options to fine-tune what your character can do. But this chapter is for players who—with the DM's permission—want to go a step further.
+
+This chapter defines two optional sets of rules for customizing your character: multiclassing and feats. Multiclassing lets you combine classes together, and feats are special options you can choose instead of increasing your ability scores as you gain levels. Your DM decides whether these options are available in a campaign.
+
+## Multiclassing
+
+Multiclassing allows you to gain levels in multiple classes. Doing so lets you mix the abilities of those classes to realize a character concept that might not be reflected in one of the standard class options.
+
+With this rule, you have the option of gaining a level in a new class whenever you advance in level, instead of gaining a level in your current class. Your levels in all your classes are added together to determine your character level. For example, if you have three levels in wizard and two in fighter, you're a 5th-level character.As you advance in levels, you might primarily remain a member of your original class with just a few levels in another class, or you might change course entirely, never looking back at the class you left behind. You might even start progressing in a third or fourth class. Compared to a single-class character of the same level, you'll sacrifice some focus in exchange for versatility.
+
+## Multiclassing Example
+
+Gary is playing a 4th-level fighter. When his character earns enough experience points to reach 5th level, Gary decides that his character will multiclass instead of continuing to progress as a fighter. Gary's fighter has been spending a lot of time with Dave's rogue, and has even been doing some jobs on the side for the local thieves' guild as a bruiser. Gary decides that his character will multiclass into the rogue class, and thus his character becomes a 4th-level fighter and 1st-level rogue (written as fighter 4/rogue 1).
+
+When Gary's character earns enough experience to reach 6th level, he can decide whether to add another fighter level (becoming a fighter 5/rogue 1), another rogue level (becoming a fighter 4/rogue 2), or a level in a third class, perhaps dabbling in wizardry thanks to the tome of mysterious lore he acquired (becoming a fighter 4/rogue 1/wizard 1).
+
+## PrerequisitesTo qualify for a new class, you must meet the ability score prerequisites for both your current class and your new one, as shown in the Multiclassing Prerequisites table. For example, a barbarian who decides to multiclass into the druid class must have both Strength and Wisdom scores of 13 or higher. Without the full training that a beginning character receives, you must be a quick study in your new class, having a natural aptitude that is reflected by higher-than-average ability scores.
+
+## Multiclassing Prerequisites
+
+| Class Ability Score Minimum    |
+|--------------------------------------|
+| Barbarian Strength 13                |
+| Bard Charisma 13                     |
+| Cleric Wisdom 13                     |
+| Druid Wisdom 13                      |
+| Fighter Strength 13 or Dexterity 13  |
+| Monk Dexterity 13 and Wisdom 13      |
+| Paladin Strength 13 and Charisma 13  |
+| Ranger Dexterity 13 and Wisdom 13    |
+| Rogue Dexterity 13                   |
+| Sorcerer Charisma 13                 |
+| Warlock Charisma 13                  |
+| Wizard Intelligence 13               |
+
+## Experience Points
+
+The experience point cost to gain a level is always based on your total character level, as shown in the Character Advancement table in chapter 1, not your level in a particular class. So, if you are a cleric 6/fighter 1, you must gain enough XP to reach 8th level before you can take your second level as a fighter or your seventh level as a cleric.## Hit Points and Hit Dice
+
+You gain the hit points from your new class as described for levels after 1st. You gain the 1st-level hit points for a class only when you are a 1st-level character.
+
+You add together the Hit Dice granted by all your classes to form your pool of Hit Dice. If the Hit Dice are the same die type, you can simply pool them together. For example, both the fighter and the paladin have a d10, so if you are a paladin 5/fighter 5, you have ten d10 Hit Dice. If your classes give you Hit Dice of different types, keep track of them separately. If you are a paladin 5/cleric 5, for example, you have five d10 Hit Dice and five d8 Hit Dice.
+
+## Proficiency Bonus
+
+Your proficiency bonus is always based on your total character level, as shown in the Character Advancement table in chapter 1, not your level in a particular class. For example, if you are a fighter 3/rogue 2, you have the proficiency bonus of a 5th-level character, which is +3.
+
+## Proficiencies
+
+When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies, as shown in the Multiclassing Proficiencies table.
+
+## Multi-classing Proficiencies| Class  Proficiencies Gained                                                                                          |
+|----------------------------------------------------------------------------------------------------------------------|
+| Barbarian Shields, simple weapons, martial weapons                                                                   |
+| Bard Light armor, one skill of your choice, one musical instrument of your choice                                   |
+| Cleric Light armor, medium armor, shields                                                                            |
+| Druid Light armor, medium armor, shields (druids  will not wear armor or use shields made of  metal)                 |
+| Fighter Light armor, medium armor, shields, simple weapons, martial weapons                                         |
+| Monk Simple weapons, shortswords                                                                                    |
+| Paladin Light armor, medium armor, shields, simple weapons, martial weapons                                         |
+| Ranger Light armor, medium armor, shields, simple weapons, martial weapons, one skill from the  class’s skill list |
+| Rogue Light armor, one skill from the class’s skill list, thieves’ tools                                            |
+| Sorcerer —                                                                                                          |
+| Warlock Light armor, simple weapons                                                                                  |
+| Wizard —                                                                                                            |
+
+## Class Features
+
+When you gain a new level in a class, you get its features for that level. A few features, however, have additional rules when you're multiclassing: Channel Divinity, Extra Attack, Unarmored Defense, and Spellcasting.
+
+## Channel DivinityIf you already have the Channel Divinity feature and gain a level in a class that also grants the feature, you gain the Channel Divinity effects granted by that class, but getting the feature again doesn't give you an additional use of it. You gain additional uses only when you reach a class level that explicitly grants them to you. For example, if you are a cleric 6/paladin 4, you can use Channel Divinity twice between rests because you are high enough level in the cleric class to have more uses. Whenever you use the feature, you can choose any of the Channel Divinity effects available to you from your two classes.
+
+## Extra Attack
+
+If you gain the Extra Attack class feature from more than one class, the features don't add together. You can't make more than two attacks with this feature unless it says you do (as the fighter's version of Extra Attack does). Similarly, the warlock's eldritch invocation Thirsting Blade doesn't give you additional attacks if you also have Extra Attack.
+
+## Unarmored Defense
+
+If you already have the Unarmored Defense feature, you can't gain it again from another class.
+
+## Spellcasting
+
+Your capacity for spellcasting depends partly on your combined levels in all your spellcasting classes and partly on your individual levels in those classes. Once you have the Spellcasting feature from more than one class, use the rules below. If you multiclass but have the Spellcasting feature from only one class, you follow the rules as described in that class.Spells Known and Prepared. You determine what spells you know and can prepare for each class individually, as if you were a single-classed member of that class. If you are a ranger 4/wizard 3, for example, you know three 1st-level ranger spells based on your levels in the ranger class. As 3rd-level wizard, you know three wizard cantrips, and your spellbook contains ten wizard spells, two of which (the two you gained when you reached 3rd level as a wizard) can be 2nd-level spells. If your Intelligence is 16, you can prepare six wizard spells from your spellbook.
+
+Each spell you know and prepare is associated with one of your classes, and you use the spellcasting ability of that class when you cast the spell. Similarly, a spellcasting focus, such as a holy symbol, can be used only for the spells from the class associated with that focus.
+
+Spell Slots. You determine your available spell slots by adding together all your levels in the bard, cleric, druid, sorcerer, and wizard classes, half your levels (rounded down) in the paladin and ranger classes, and a third of your fighter or rogue levels (rounded down) if you have the Eldritch Knight or the Arcane Trickster feature. Use this total to determine your spell slots by consulting the Multiclass Spellcaster table.If you have more than one spellcasting class, this table might give you spell slots of a level that is higher than the spells you know or can prepare. You can use those slots, but only to cast your lower-level spells. If a lower-level spell that you cast, like burning hands, has an enhanced effect when cast using a higher-level slot, you can use the enhanced effect, even though you don't have any spells of that higher level.
+
+For example, if you are the aforementioned ranger 4/wizard 3, you count as a 5th-level character when determining your spell slots: you have four 1st-level slots, three 2nd-level slots, and two 3rd-level slots. However, you don't know any 3rd-level spells, nor do you know any 2nd-level ranger spells. You can use the spell slots of those levels to cast the spells you do know—and potentially enhance their effects.
+
+Pact Magic. If you have both the Spellcasting class feature and the Pact Magic class feature from the warlock class, you can use the spell slots you gain from the Pact Magic feature to cast spells you know or have prepared from classes with the Spellcasting class feature, and you can use the spell slots you gain from the Spellcasting class feature to cast warlock spells you know.
+
+## Multi-Class Spellcaster: Spell Slots per Spell Level|              |   Lvl. 1st 2nd 3rd 4th 5th  |               |                 | 6th             | 7th  8th 9th   |
+|--------------|-----------------------------|---------------|-----------------|-----------------|----------------|
+| 1st          |                           2 |               | — — — — — — — — |                 |                |
+| 2nd 3        |                             |               |                 | — — — — — — — — |                |
+| 3rd  2       |                           4 |               |                 | — — — — — — —   |                |
+| 4th 4 3      |                             |               |                 |                 | — — — — — — —  |
+| 5th 4 3      |                             | 2             | — — — — — —     |                 |                |
+| 6th 4        |                             | 3 3           |                 | — — — — — —     |                |
+| 7th 4 3 3 1  |                             |               |                 | — — — — —       |                |
+| 8th  3       |                           4 | 3 2          |                 | — — — — —       |                |
+| 9th          |                           4 |               | 3 3 3 1         |                 | — — — —        |
+| 10th         |                           4 | 3 3 3         | 2               |                 | — — — —        |
+| 11th         |                           4 |               | 3 3 3 2 1       |                 | — — —          |
+| 12th 4 3 3 3 |                             |               | 2               | 1               | — — —          |
+| 13th 4       |                             | 3 3 3         | 2               | 1 1             | — —           |
+| 14th 4 3 3 3 |                             |               | 2               | 1               | 1 — —         |
+| 15th         |                           4 | 3 3 3         | 2               | 1 1             | 1 — 1         |
+| 16th         |                           4 | 3 3 3         | 2               | 1               | 1 1 —         |
+| 17th         |                             | 4 3 3 3       | 2               | 1 1             | 1 1           |
+| 18th         |                           4 | 3 3 3 3 1 1 1 |                 |                 | 1 1           |
+| 19th         |                           4 | 3 3 3 3       |                 | 2               | 1 1 1          |
+| 20th 4 3     |                             |               | 3 3 3           | 2 2             | 1 1            |## Feats
+
+A feat represents a talent or an area of expertise that gives a character special capabilities. It embodies training, experience, and abilities beyond what a class provides.
+
+At certain levels, your class gives you the Ability Score Improvement feature. Using the optional feats rule, you can forgo taking that feature to take a feat of your choice instead. You can take each feat only once, unless the feat's description says otherwise.
+
+You must meet any prerequisite specified in a feat to take that feat. If you ever lose a feat's prerequisite, you can't use that feat until you regain the prerequisite. For example, the Grappler feat requires you to have a Strength of 13 or higher. If your Strength is reduced below 13 somehow—perhaps by a withering curse—you can't benefit from the Grappler feat until your Strength is restored.
+
+## Alert
+
+Always on the lookout for danger, you gain the following benefits:
+
+- You gain a +5 bonus to initiative.
+- You can't be surprised while you are conscious.
+- Other creatures don't gain advantage on attack rolls against you as a result of being hidden from you.
+
+## Athlete
+
+You have undergone extensive physical training to gain the following benefits:
+
+- Increase your Strength or Dexterity score by 1, to a maximum of 20.
+- When you are prone, standing up uses only 5 feet of your movement.
+- Climbing doesn't halve your speed.
+- You can make a running long jump or a running high jump after moving only 5 feet on foot, rather than 10 feet.
+
+## ActorSkilled at mimicry and dramatics, you gain the following benefits:
+
+- Increase your Charisma score by 1, to a maximum of 20.
+- You have advantage on Charisma (Deception) and Charisma (Performance) checks when trying to pass yourself off as a different person.
+- You can mimic the speech of another person or the sounds made by other creatures. You must have heard the person speaking, or heard the creature make the sound, for at least 1 minute. A successful Wisdom (Insight) check contested by your Charisma (Deception) check allows a listener to determine that the effect is faked.
+
+## Charger
+
+When you use your action to Dash, you can use a bonus action to make one melee weapon attack or to shove a creature.
+
+If you move at least 10 feet in a straight line immediately before taking this bonus action, you either gain a +5 bonus to the attack's damage roll (if you chose to make a melee attack and hit) or push the target up to 10 feet away from you (if you chose to shove and you succeed).
+
+## Crossbow Expert
+
+Thanks to extensive practice with the crossbow, you gain the following benefits:
+
+- You ignore the loading quality of crossbows with which you are proficient.
+- Being within 5 feet of a hostile creature doesn't impose disadvantage on your ranged attack rolls.
+- When you use the Attack action and attack with a one-handed weapon, you can use a bonus action to attack with a loaded hand crossbow you are holding.## Defensive Duelist
+
+## Prerequisite: Dexterity 13 or higher
+
+When you are wielding a finesse weapon with which you are proficient and another creature hits you with a melee attack, you can use your reaction to add your proficiency bonus to your AC for that attack, potentially causing the attack to miss you.
+
+## Dual Wielder
+
+You master fighting with two weapons, gaining the following benefits:
+
+- You gain a +1 bonus to AC while you are wielding a separate melee weapon in each hand.
+- You can use two-weapon fighting even when the one-handed melee weapons you are wielding aren't light.
+- You can draw or stow two one-handed weapons when you would normally be able to draw or stow only one.
+
+
+## Dungeon Delver
+
+Alert to the hidden traps and secret doors found in many dungeons, you gain the following benefits:
+
+- You have advantage on Wisdom (Perception) and Intelligence (Investigation) checks made to detect the presence of secret doors.
+- You have advantage on saving throws made to avoid or resist traps.
+- You have resistance to the damage dealt by traps.
+- You can search for traps while traveling at a normal pace, instead of only at a slow pace.
+
+## Durable
+
+Hardy and resilient, you gain the following benefits:
+
+- Increase your Constitution score by 1, to a maximum of 20.
+- When you roll a Hit Die to regain hit points, the minimum number of hit points you regain from the roll equals twice your Constitution modifier (minimum of 2).
+
+## Elemental Adaptor
+
+Prerequisite: The ability to cast at least one spell
+
+When you gain this feat, choose one of the following damage types: acid, cold, fire, lightning, or thunder.
+
+Spells you cast ignore resistance to damage of the chosen type. In addition, when you roll damage for a spell you cast that deals damage of that type, you can treat any 1 on a damage die as a 2.
+
+You can select this feat multiple times. Each time you do so, you must choose a different damage type.
+
+## Grappler
+
+Prerequisite: Strength 13 or higher
+
+You've developed the skills necessary to hold your own in close-quarters grappling. You gain the following benefits:
+
+- You have advantage on attack rolls against a creature you are grappling.
+- You can use your action to try to pin a creature grappled by you. To do so, make another grapple check. If you succeed, you and the creature are both restrained until the grapple ends.
+- Creatures that are one size larger than you don't automatically succeed on checks to escape your grapple.
+
+## Great Weapon Master
+
+You've learned to put the weight of a weapon to your advantage, letting its momentum empower your strikes. You gain the following benefits:- On your turn, when you score a critical hit with a melee weapon or reduce a creature to 0 hit points with one, you can make one melee weapon attack as a bonus action.
+- Before you make a melee attack with a heavy weapon that you are proficient with, you can choose to take a
+- 5 penalty to the attack roll. If the attack hits, you add +10 to the attack's damage.
+
+## Healer
+
+You are an able physician, allowing you to mend wounds quickly and get your allies back in the fight. You gain the following benefits:
+
+- When you use a healer's kit to stabilize a dying creature, that creature also regains 1 hit point.
+- As an action, you can spend one use of a healer's kit to tend to a creature and restore 1d6 + 4 hit points to it, plus additional hit points equal to the creature's maximum number of Hit Dice. The creature can't regain hit points from this feat again until it finishes a short or long rest.
+
+## Heavily Armored
+
+Prerequisite: Proficiency with medium armor
+
+You have trained to master the use of heavy armor, gaining the following benefits:
+
+- Increase your Strength score by 1, to a maximum of 20.
+- You gain proficiency with heavy armor.
+
+## Heavy Armor Master
+
+Prerequisite: Proficiency with heavy armor
+
+You can use your arm or to deflect strikes that would kill others. You gain the following benefits:- Increase your Strength score by 1, to a maximum of 20.
+- While you are wearing heavy armor, bludgeoning, piercing, and slashing damage that you take from non-magical weapons is reduced by 3.
+
+## Inspiring Leader
+
+## Prerequisite: Charisma 13 or higher
+
+You can spend 10 minutes inspiring your companions, shoring up their resolve to fight. When you do so, choose up to six friendly creatures (which can include yourself) within 30 feet of you who can see or hear you and who can understand you. Each creature can gain temporary hit points equal to your level + your Charisma modifier. A creature can't gain temporary hit points from this feat again until it has finished a short or long rest.
+
+## Keen Mind
+
+You have a mind that can track time, direction, and detail with uncanny precision. You gain the following benefits.
+
+- Increase your Intelligence score by 1, to a maximum of 20.
+- You always know which way is north.
+- You always know the number of hours left before the next sunrise or sunset.
+- You can accurately recall anything you have seen or heard within the past month.
+
+## Lightly Armored
+
+You have trained to master the use of light armor, gaining the following benefits:
+
+- Increase your Strength or Dexterity score by 1, to a maximum of 20.
+- You gain proficiency with light armor.
+
+## Linguist
+
+You have studied languages and codes, gaining the following benefits:- Increase your Intelligence score by 1, to a maximum of 20.
+- You learn three languages of your choice.
+- You can ably create written ciphers. Others can't decipher a code you create unless they succeed on an Intelligence check (DC equal to your Intelligence score + your proficiency bonus), or they use magic to decipher it.
+
+## Lucky
+
+You have inexplicable luck that seems to kick in at just the right moment.
+
+You have 3 luck points. Whenever you make an attack roll, an ability check, or a saving throw, you can spend one luck point to roll an additional d20. You can choose to spend one of your luck points after you roll the die, but before the outcome is determined. You choose which of the d20s is used for the attack roll, ability check, or saving throw.
+
+You can also spend one luck point when an attack roll is made against you. Roll a d20, and then choose whether the attack uses the attacker's roll or yours.
+
+If more than one creature spends a luck point to influence the outcome of a roll, the points cancel each other out; no additional dice are rolled.
+
+You regain your expended luck points when you finish a long rest.
+
+## Mage Slayer
+
+You have practiced techniques useful in melee combat against spellcasters, gaining the following benefits:- When a creature within 5 feet of you casts a spell, you can use your reaction to make a melee weapon attack against that creature.
+- When you damage a creature that is concentrating on a spell, that creature has disadvantage on the saving throw it makes to maintain its concentration.
+- You have advantage on saving throws against spells cast by creatures within 5 feet of you.
+
+## Magic Initiate
+
+Choose a class: bard, cleric, druid, sorcerer, warlock, or wizard. You learn two cantrips of your choice from that class's spell list.
+
+In addition, choose one 1st-level spell from that same list. You learn that spell and can cast it at its lowest level. Once you cast it, you must finish a long rest before you can cast it again.
+
+Your spellcasting ability for these spells depends on the class you chose: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid; or Intelligence for wizard.
+
+## Martial Adapt
+
+You have martial training that allows you to perform special combat maneuvers. You gain the following benefits:
+
+- You learn two maneuvers of your choice from among those available to the Battle Master archetype in the fighter class. If a maneuver you use requires your target to make a saving throw to resist the maneuver's effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).
+- If you already have superiority dice, you gain one more; otherwise, you have one superiority die, which is a d6. This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest.
+
+## Medium Armor Master
+
+Prerequisite: Proficiency with medium armor
+
+You have practiced moving in medium armor to gain the following benefits:
+
+- Wearing medium armor doesn't impose disadvantage on your Dexterity (Stealth) checks.
+- When you wear medium armor, you can add 3, rather than 2, to your AC if you have a Dexterity of 16 or higher.
+
+## Mobile
+
+You are exceptionally speedy and agile. You gain the following benefits:
+
+- Your speed increases by 10 feet.
+- When you use the Dash action, difficult terrain doesn't cost you extra movement on that turn.
+- When you make a melee attack against a creature, you don't provoke opportunity attacks from that creature for the rest of the turn, whether you hit or not.
+
+## Moderately Armored
+
+Prerequisite: Proficiency with light armorYou have trained to master the use of medium armor and shields, gaining the following benefits:
+
+- Increase your Strength or Dexterity score by 1, to a maximum of 20.
+- You gain proficiency with medium armor and shields.
+
+## Mounted Combatant
+
+You are a dangerous foe to face while mounted. While you are mounted and aren't incapacitated, you gain the following benefits:
+
+- You have advantage on melee attack rolls against any unmounted creature that is smaller than your mount.
+- You can force an attack targeted at your mount to target you instead.
+- If your mount is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
+
+## Observer
+
+Quick to notice details of your environment, you gain the following benefits:
+
+- Increase your Intelligence or Wisdom score by 1, to a maximum of 20.
+- If you can see a creature's mouth while it is speaking a language you understand, you can interpret what it's saying by reading its lips.
+- You have a +5 bonus to your passive Wisdom (Perception) and passive Intelligence (Investigation) scores.
+
+## Polearm Master
+
+You can keep your enemies at bay with reach weapons. You gain the following benefits:- When you take the Attack action and attack with only a glaive, halberd, or quarterstaff, you can use a bonus action to make a melee attack with the opposite end of the weapon. The weapon's damage die for this attack is a d4, and the attack deals bludgeoning damage.
+- While you are wielding a glaive, halberd, pike, or quarterstaff, other creatures provoke an opportunity attack from you when they enter your reach.
+
+## Resilient
+
+Choose one ability score. You gain the following benefits:
+
+- Increase the chosen ability score by 1, to a maximum of 20.
+- You gain proficiency in saving throws using the chosen ability.
+
+
+## Ritual Caster
+
+Prerequisite: Intelligence or Wisdom 13 or higher
+
+You have learned a number of spells that you can cast as rituals. These spells are written in a ritual book, which you must have in hand while casting one of them.
+
+When you choose this feat, you acquire a ritual book holding two 1st-level spells of your choice. Choose one of the following classes: bard, cleric, druid, sorcerer, warlock, or wizard. You must choose your spells from that class's spell list, and the spells you choose must have the ritual tag. The class you choose also determines your spellcasting ability for these spells: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid; or Intelligence for wizard.If you come across a spell in written form, such as a magical spell scroll or a wizard's spellbook, you might be able to add it to your ritual book. The spell must be on the spell list for the class you chose, the spell's level can be no higher than half your level (rounded up), and it must have the ritual tag. The process of copying the spell into your ritual book takes 2 hours per level of the spell, and costs 50 gp per level. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it.
+
+## Savage Attacker
+
+Once per turn when you roll damage for a melee weapon attack, you can reroll the weapon's damage dice and use either total.
+
+## Sentinel
+
+You have mastered techniques to take advantage of every drop in any enemy's guard, gaining the following benefits:
+
+- When you hit a creature with an opportunity attack, the creature's speed becomes 0 for the rest of the turn.
+
+- Creatures within 5 feet of you provoke opportunity attacks from you even if they take the Disengage action before leaving your reach.
+- When a creature within 5 feet of you makes an attack against a target other than you (and that target doesn't have this feat), you can use your reaction to make a melee weapon attack against the attacking creature.
+
+## SharpshooterYou have mastered ranged weapons and can make shots that others find impossible. You gain the following benefits:
+
+- Attacking at long range doesn't impose disadvantage on your ranged weapon attack rolls.
+- Your ranged weapon attacks ignore half cover and three-quarters cover.
+- Before you make an attack with a ranged weapon that you are proficient with, you can choose to take a -5 penalty to the attack roll. If the attack hits, you add +10 to the attack's damage.
+
+## Shield Master
+
+You use shields not just for protection but also for offense. You gain the following benefits while you are wielding a shield:
+
+- If you take the Attack action on your turn, you can use a bonus action to try to shove a creature within 5 feet of you with your shield.
+- If you aren't incapacitated, you can add your shield's AC bonus to any Dexterity saving throw you make against a spell or other harmful effect that targets only you.
+- If you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you can use your reaction to take no damage if you succeed on the saving throw, interposing your shield between yourself and the source of the effect.
+
+## Skilled
+
+You gain proficiency in any combination of three skills or tools of your choice.
+
+## Skulker
+
+Prerequisite: Dexterity 13 or higher
+
+You are expert at slinking through shadows. You gain the following benefits:
+
+- You can try to hide when you are lightly obscured from the creature from which you are hiding.
+- When you are hidden from a creature and miss it with a ranged weapon attack, making the attack doesn't reveal your position.
+- Dim light doesn't impose disadvantage on your Wisdom (Perception) checks relying on sight.
+
+## Spell Sniper
+
+## Prerequisite: The ability to cast at least one spell
+
+You have learned techniques to enhance your attacks with certain kinds of spells, gaining the following benefits:
+
+- When you cast a spell that requires you to make an attack roll, the spell's range is doubled.
+- Your ranged spell attacks ignore half cover and three-quarters cover.
+- You learn one cantrip that requires an attack roll. Choose the cantrip from the bard, cleric, druid, sorcerer, warlock, or wizard spell list. Your spellcasting ability for this cantrip depends on the spell list you chose from: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid; or Intelligence for wizard.
+
+## Tavern Brawler
+
+Accustomed to rough-and-tumble fighting using whatever weapons happen to be at hand, you gain the following benefits:
+
+- Increase your Strength or Constitution score by 1, to a maximum of 20.
+- You are proficient with improvised weapons and unarmed strikes.
+- Your unarmed strike uses a d4 for damage.
+- When you hit a creature with an unarmed strike or an improvised weapon on your turn, you can use a bonus action to attempt to grapple the target.
+
+## ToughYour hit point maximum increases by an amount equal to twice your level when you gain this feat. Whenever you gain a level thereafter, your hit point maximum increases by an additional 2 hit points.
+
+## Warcaster
+
+## Prerequisite: The ability to cast at least one spell
+
+You have practiced casting spells in the midst of combat, learning techniques that grant you the following benefits:
+
+- You have advantage on Constitution saving throws that you make to maintain your concentration on a spell when you take damage.
+- You can perform the somatic components of spells even when you have weapons or a shield in one or both hands.
+- When a hostile creature's movement provokes an opportunity attack from you, you can use your reaction to cast a spell at the creature, rather than making an opportunity attack. The spell must have a casting time of 1 action and must target only that creature.
+
+## Weapon Master
+
+You have practiced extensively with a variety of weapons, gaining the following benefits:
+
+- Increase your Strength or Dexterity score by 1, to a maximum of 20.
+- You gain proficiency with four weapons of your choice.
+
+## Chapter 7: Using Ability Scores
+
+
+SIX ABILITIES PROVIDE A QUICK DESCRIPTION OF EVERY CREATURE'S PHYSICAL AND MENTAL CHARACTERISTICS:
+
+- Strength, measuring physical power
+- Dexterity, measuring agility
+- Constitution, measuring endurance
+- Intelligence, measuring reasoning and memory
+- Wisdom, measuring perception and insight
+- Charisma, measuring force of personalityIs a character muscle-bound and insightful? Brilliant and charming? Nimble and hardy? Ability scores define these qualities—a creature's assets as well as weaknesses.
+
+The three main rolls of the game—the ability check, the saving throw, and the attack roll—rely on the six ability scores. The book's introduction describes the basic rule behind these rolls: roll a d20, add an ability modifier derived from one of the six ability scores, and compare the total to a target number.
+
+This chapter focuses on how to use ability checks and saving throws, covering the fundamental activities that creatures attempt in the game. Rules for attack rolls appear in chapter 9.
+
+## Ability Scores and Modifiers
+
+Each of a creature's abilities has a score, a number that defines the magnitude of that ability. An ability score is not just a measure of innate capabilities, but also encompasses a creature's training and competence in activities related to that ability.
+
+A score of 10 or 11 is the normal human average, but adventurers and many monsters are a cut above average in most abilities. A score of 18 is the highest that a person usually reaches. Adventurers can have scores as high as 20, and monsters and divine beings can have scores as high as 30.
+
+Each ability also has a modifier, derived from the score and ranging from −5 (for an ability score of 1) to +10 (for a score of 30). The Ability Scores and Modifiers table notes the ability modifiers for the range of possible ability scores, from 1 to 30.## A b i l i t y S c o r e s a n d M o d i f i e r s
+
+| Score    |   Modifier  |          |   Score Modifier |
+|----------|-------------|----------|------------------|
+| 1        |             | -5 16-17 |               +3 |
+| 2-3      |          -4 | 18-19 +4 |                  |
+| 4-5 -3   |             | 20-21    |               +5 |
+| 6-7      |          -2 | 22-23    |               +6 |
+| 8-9      |          -1 | 24-25 +7 |                  |
+| 10-11 +0 |             | 26-27    |               +8 |
+| 12-13    |          +1 | 28-29 +9 |                  |
+| 14-15    |          +2 | 30       |              +10 |
+
+To determine an ability m o d i f i e r without consulting the table, subtract 10 from the ability score and then divide the total by 2 (round down).
+
+Because ability m o d i f i e r s a f f e c t a l m o s t every attack roll, ability check, and saving throw, ability m o d i f i e r s c o m e up in play m o r e often than their associated scores.
+
+## A d v a n t a g e a n d D i s a d v a n t a g e
+
+S o m e t i m e s a special ability or spell tells you that you have advantage or disadvantage on an ability check, a saving throw, or an attack roll. W h e n t h a t happens, you roll a second d20 when you make the roll. Use the higher of the two rolls if you have advantage, and use the lower roll if you have disadvantage. For example, if you have disadvantage and roll a 17 and a 5, you use the 5. If you instead have advantage and roll those numbers, you use the 17.If multiple situations affect a roll and each one grants advantage or imposes disadvantage on it, you don't roll more than one additional d20. If two favorable situations grant advantage, for example, you still roll only one additional d20.
+
+If circumstances cause a roll to have both advantage and disadvantage, you are considered to have neither of them, and you roll one d20. This is true even if multiple circumstances impose disadvantage and only one grants advantage or vice versa. In such a situation, you have neither advantage nor disadvantage.
+
+When you have advantage or disadvantage and something in the game, such as the halfling's Lucky trait, lets you reroll the d20, you can reroll only one of the dice. You choose which one. For example, if a halfling has advantage on an ability check and rolls a 1 and a 13, the halfling could use the Lucky trait to reroll the 1.
+
+You usually gain advantage or disadvantage through the use of special abilities, actions, or spells. Inspiration (see chapter 4) can also give a character advantage on checks related to the character's personality, ideals, or bonds. The DM can also decide that circumstances influence a roll in one direction or the other and grant advantage or impose disadvantage as a result.
+
+## Proficiency Bonus
+
+Characters have a proficiency bonus determined by level, as detailed in chapter 1. Monsters also have this bonus, which is incorporated in their stat blocks. The bonus is used in the rules on ability checks, saving throws, and attack rolls.Your proficiency bonus can't be added to a single die roll or other number more than once. For example, if two different rules say you can add your proficiency bonus to a Wisdom saving throw, you nevertheless add the bonus only once when you make the save.
+
+Occasionally, your proficiency bonus might be multiplied or divided (doubled or halved, for example) before you apply it. For example, the rogue's Expertise feature doubles the proficiency bonus for certain ability checks. If a circumstance suggests that your proficiency bonus applies more than once to the same roll, you still add it only once and multiply or divide it only once.
+
+By the same token, if a feature or effect allows you to double your proficiency bonus when making an ability check that wouldn't normally benefit from your proficiency bonus, you still don't add the bonus to the check. For that check your proficiency bonus is 0, given the fact that multiplying 0 by any number is still 0. For instance, if you lack proficiency in the History skill, you gain no benefit from a feature that lets you double your proficiency bonus when you make Intelligence (History) checks.
+
+In general, you don't multiply your proficiency bonus for attack rolls or saving throws. If a feature or effect allows you to do so, these same rules apply.
+
+## Ability Checks
+
+An ability check tests a character's or monster's innate talent and training in an effort to overcome a challenge. The DM calls for an ability check when a character or monster attempts an action (other than an attack) that has a chance of failure. When the outcome is uncertain, the dice determine the results.For every ability check, the DM decides which of the six abilities is relevant to the task at hand and the difficulty of the task, represented by a Difficulty Class. The more difficult a task, the higher its DC. The Typical Difficulty Classes table shows the most common DCs.
+
+## Typical Difficulty Classes
+
+| Task Difficulty DC   |    |
+|----------------------|----|
+| Very easy            |  5 |
+| Easy                 | 10 |
+| Medium               | 15 |
+| Hard                 | 20 |
+| Very hard            | 25 |
+| Nearly impossible    | 30 |
+
+To make an ability check, roll a d20 and add the relevant ability modifier. As with other d20 rolls, apply bonuses and penalties, and compare the total to the DC. If the total equals or exceeds the DC, the ability check is a success—the creature overcomes the challenge at hand. Otherwise, it's a failure, which means the character or monster makes no progress toward the objective or makes progress combined with a setback determined by the DM.
+
+## Contexts
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Sometimes one character's or monster's efforts are directly opposed to another's. This can occur when both of them are trying to do the same thing and only one can succeed, such as attempting to snatch up a magic ring that has fallen on the floor. This situation also applies when one of them is trying to prevent the other one from accomplishing a goal—for example, when a monster tries to force open a door that an adventurer is holding closed. In situations like these, the outcome is determined by a special form of ability check, called a contest.
+
+Both participants in a contest make ability checks appropriate to their efforts. They apply all appropriate bonuses and penalties, but instead of comparing the total to a DC, they compare the totals of their two checks. The participant with the higher check total wins the contest. That character or monster either succeeds at the action or prevents the other one from succeeding.
+
+If the contest results in a tie, the situation remains the same as it was before the contest. Thus, one contestant might win the contest by default. If two characters tie in a contest to snatch a ring off the floor, neither character grabs it. In a contest between a monster trying to open a door and an adventurer trying to keep the door closed, a tie means that the door remains shut.
+
+## SkillsEach ability covers a broad range of capabilities, including skills that a character or a monster can be proficient in. A skill represents a specific aspect of an ability score, and an individual's proficiency in a skill demonstrates a focus on that aspect. (A character's starting skill proficiencies are determined at character creation, and a monster's skill proficiencies appear in the monster's stat block.)
+
+For example, a Dexterity check might reflect a character's attempt to pull off an acrobatic stunt, to palm an object, or to stay hidden. Each of these aspects of Dexterity has an associated skill: Acrobatics, Sleight of Hand, and Stealth, respectively. So a character who has proficiency in the Stealth skill is particularly good at Dexterity checks related to sneaking and hiding.
+
+The skills related to each ability score are shown in the following list. (No skills are related to Constitution.) See an ability's description in the later sections of this chapter for examples of how to use a skill associated with an ability.
+
+| Strength Athletics | Dexterity Acrobatics  Sleight of Hand  Stealth | Intelligence Arcana   | Wisdom Anim al Handling Insight M edicine Perception Survival Charisma   |
+|--------------------|-------------------------------------------------|-----------------------|--------------------------------------------------------------------------|
+| History             | Deception                                                                |
+| Investigation      | Intimidation                                                             |
+| Nature              | Perform ance                                                              |
+|                     | Persuasion                                                               |Sometimes, the DM might ask for an ability check using a specific skill—for example, "Make a Wisdom (Perception) check." At other times, a player might ask the DM if proficiency in a particular skill applies to a check. In either case, proficiency in a skill means an individual can add his or her proficiency bonus to ability checks that involve that skill. Without proficiency in the skill, the individual makes a normal ability check.
+
+For example, if a character attempts to climb up a dangerous cliff, the Dungeon Master might ask for a Strength (Athletics) check. If the character is proficient in Athletics, the character's proficiency bonus is added to the Strength check. If the character lacks that proficiency, he or she just makes a Strength check.Variant: Skills with Different Abilities Normally, your proficiency in a skill applies only to a specific kind of ability check. Proficiency in Athletics, for example, usually applies to Strength checks. In some situations, though, your proficiency might reasonably apply to a different kind of check. In such cases, the DM might ask for a check using an unusual combination of ability and skill, or you might ask your DM if you can apply a proficiency to a different check. For example, if you have to swim from an offshore island to the mainland, your DM might call for a Constitution check to see if you have the stamina to make it that far. In this case, your DM might allow you to apply your proficiency in Athletics and ask for a Constitution (Athletics) check. So if you're proficient in Athletics, you apply your proficiency bonus to the Constitution check just as you would normally do for a Strength (Athletics) check. Similarly, when your half-orc barbarian uses a display of raw strength to intimidate an enemy, your DM might ask for a Strength (Intimidation) check, even though Intimidation is normally associated with Charisma.
+
+## Passive ChecksA passive check is a special kind of ability check that doesn't involve any die rolls. Such a check can represent the average result for a task done repeatedly, such as searching for secret doors over and over again, or can be used when the DM wants to secretly determine whether the characters succeed at something without rolling dice, such as noticing a hidden monster.
+
+Here's how to determine a character's total for a passive check:
+
+10 + all modifiers that normally apply to the check
+
+If the character has advantage on the check, add 5. For disadvantage, subtract 5. The game refers to a passive check total as a score.
+
+For example, if a 1st-level character has a Wisdom of 15 and proficiency in Perception, he or she has a passive Wisdom (Perception) score of 14.
+
+The rules on hiding in the "Dexterity" section below rely on passive checks, as do the exploration rules in chapter 8.
+
+## Working Together
+
+Sometimes two or more characters team up to attempt a task. The character who's leading the effort—or the one with the highest ability modifier—can make an ability check with advantage, reflecting the help provided by the other characters. In combat, this requires the Help action (see chapter 9).A character can only provide help if the task is one that he or she could attempt alone. For example, trying to open a lock requires proficiency with thieves' tools, so a character who lacks that proficiency can't help another character in that task. Moreover, a character can help only when two or more individuals working together would actually be productive. Some tasks, such as threading a needle, are no easier with help.
+
+## Group Checks
+
+When a number of individuals are trying to accomplish something as a group, the DM might ask for a group ability check. In such a situation, the characters who are skilled at a particular task help cover those who aren't.
+
+To make a group ability check, everyone in the group makes the ability check. If at least half the group succeeds, the whole group succeeds. Otherwise, the group fails.
+
+Group checks don't come up very often, and they're most useful when all the characters succeed or fail as a group. For example, when adventurers are navigating a swamp, the DM might call for a group Wisdom (Survival) check to see if the characters can avoid the quicksand, sinkholes, and other natural hazards of the environment. If at least half the group succeeds, the successful characters are able to guide their companions out of danger. Otherwise, the group stumbles into one of these hazards.
+
+## Using Each AbilityEvery task that a character or monster might attempt in the game is covered by one of the six abilities. This section explains in more detail what those abilities mean and the ways they are used in the game.
+
+## Strength
+
+Strength measures bodily power, athletic training, and the extent to which you can exert raw physical force.
+
+## Strength Checks
+
+A Strength check can model any attempt to lift, push, pull, or break something, to force your body through a space, or to otherwise apply brute force to a situation. The Athletics skill reflects aptitude in certain kinds of Strength checks.
+
+Athletics. Your Strength (Athletics) check covers difficult situations you encounter while climbing, jumping, or swimming. Examples include the following activities:
+
+- You attempt to climb a sheer or slippery cliff, avoid hazards while scaling a wall, or cling to a surface while something is trying to knock you off.
+- You try to jump an unusually long distance or pull off a stunt midjump.
+- You struggle to swim or stay afloat in treacherous currents, storm-tossed waves, or areas of thick seaweed. Or another creature tries to push or pull you underwater or otherwise interfere with your swimming.
+
+Other Strength Checks. The DM might also call for a Strength check when you try to accomplish tasks like the following:
+
+- Force open a stuck, locked, or barred door
+- Break free of bonds
+- Push through a tunnel that is too small
+- Hang on to a wagon while being dragged behind it
+- Tip over a statue
+- Keep a boulder from rolling## Attack Rolls and Damage
+
+You add your Strength modifier to your attack roll and your damage roll when attacking with a melee weapon such as a mace, a battleaxe, or a javelin. You use melee weapons to make melee attacks in hand-to-hand combat, and some of them can be thrown to make a ranged attack.
+
+## Lifting and Carrying
+
+Your Strength score determines the amount of weight you can bear. The following terms define what you can lift or carry.
+
+Carrying Capacity. Your carrying capacity is your Strength score multiplied by 15. This is the weight (in pounds) that you can carry, which is high enough that most characters don't usually have to worry about it.
+
+Push, Drag, or Lift. You can push, drag, or lift a weight in pounds up to twice your carrying capacity (or 30 times your Strength score). While pushing or dragging weight in excess of your carrying capacity, your speed drops to 5 feet.
+
+Size and Strength. Larger creatures can bear more weight, whereas Tiny creatures can carry less. For each size category above Medium, double the creature's carrying capacity and the amount it can push, drag, or lift. For a Tiny creature, halve these weights.
+
+## Variant: EncumbranceThe rules for lifting and carrying are intentionally simple. Here is a variant if you are looking for more detailed rules for determining how a character is hindered by the weight of equipment. When you use this variant, ignore the Strength column of the Armor table in chapter 5.
+
+If you carry weight in excess of 5 times your Strength score, you are encumbered, which means your speed drops by 10 feet.
+
+If you carry weight in excess of 10 times your Strength score, up to your maximum carrying capacity, you are instead heavily encumbered, which means your speed drops by 20 feet and you have disadvantage on ability checks, attack rolls, and saving throws that use Strength, Dexterity, or Constitution.
+
+## Dexterity
+
+Dexterity measures agility, reflexes, and balance.
+
+## Dexterity Checks
+
+A Dexterity check can model any attempt to move nimbly, quickly, or quietly, or to keep from falling on tricky footing. The Acrobatics, Sleight of Hand, and Stealth skills reflect aptitude in certain kinds of Dexterity checks.
+
+Acrobatics. Your Dexterity (Acrobatics) check covers your attempt to stay on your feet in a tricky situation, such as when you're trying to run across a sheet of ice, balance on a tightrope, or stay upright on a rocking ship's deck. The DM might also call for a Dexterity (Acrobatics) check to see if you can perform acrobatic stunts, including dives, rolls, somersaults, and flips.Sleight of Hand. Whenever you attempt an act of legerdemain or manual trickery, such as planting something on someone else or concealing an object on your person, make a Dexterity (Sleight of Hand) check. The DM might also call for a Dexterity (Sleight of Hand) check to determine whether you can lift a coin purse off another person or slip something out of another person's pocket.
+
+Stealth. Make a Dexterity (Stealth) check when you attempt to conceal yourself from enemies, slink past guards, slip away without being noticed, or sneak up on someone without being seen or heard.
+
+Other Dexterity Checks. The DM might call for a Dexterity check when you try to accomplish tasks like the following:
+
+- Control a heavily laden cart on a steep descent
+- Steer a chariot around a tight turn
+- Pick a lock
+- Disable a trap
+- Securely tie up a prisoner
+- Wriggle free of bonds
+- Play a stringed instrument
+- Craft a small or detailed object
+
+## Attack Rolls and Damage
+
+You add your Dexterity modifier to your attack roll and your damage roll when attacking with a ranged weapon, such as a sling or a longbow. You can also add your Dexterity modifier to your attack roll and your damage roll when attacking with a melee weapon that has the finesse property, such as a dagger or a rapier.
+
+1
+
+## HidingWhen you try to hide, make a Dexterity (Stealth) check. Until you are discovered or you stop hiding, that check's total is contested by the Wisdom (Perception) check of any creature that actively searches for signs of your presence.
+
+You can't hide from a creature that can see you, and if you make noise (such as shouting a warning or knocking over a vase), you give away your position. An invisible creature can't be seen, so it can always try to hide. Signs of its passage might still be noticed, however, and it still has to stay quiet.
+
+In combat, most creatures stay alert for signs of danger all around, so if you come out of hiding and approach a creature, it usually sees you. However, under certain circumstances, the Dungeon Master might allow you to stay hidden as you approach a creature that is distracted, allowing you to gain advantage on an attack before you are seen.
+
+Passive Perception. When you hide, there's a chance someone will notice you even if they aren't searching. To determine whether such a creature notices you, the DM compares your Dexterity (Stealth) check with that creature's passive Wisdom (Perception) score, which equals 10 + the creature's Wisdom modifier, as well as any other bonuses or penalties. If the creature has advantage, add 5. For disadvantage, subtract 5.
+
+For example, if a 1st-level character (with a proficiency bonus of +2) has a Wisdom of 15 (a +2 modifier) and proficiency in Perception, he or she has a passive Wisdom (Perception) of 14.
+
+What Can You See? One of the main factors in determining whether you can find a hidden creature or object is how well you can see in an area, which might be lightly or heavily obscured, as explained in chapter 8.## Armor Glass
+
+Depending on the armor or you wear, you might add some or all of your Dexterity modifier to your Armor Class, as described in chapter 5.
+
+## Initiative
+
+At the beginning of every combat, you roll initiative by making a Dexterity check. Initiative determines the order of creatures' turns in combat, as described in chapter 9.
+
+## Constitution
+
+Constitution measures health, stamina, and vital force.
+
+## Constitution Checks
+
+Constitution checks are uncommon, and no skills apply to Constitution checks, because the endurance this ability represents is largely passive rather than involving a specific effort on the part of a character or monster. A Constitution check can model your attempt to push beyond normal limits, however.
+
+The DM might call for a Constitution check when you try to accomplish tasks like the following:
+
+- Hold your breath
+- March or labor for hours without rest
+- Go without sleep
+- Survive without food or water
+- Quaff an entire stein of ale in one go
+
+## Hit Points
+
+Your Constitution modifier contributes to your hit points. Typically, you add your Constitution modifier to each Hit Die you roll for your hit points.If your Constitution modifier changes, your hit point maximum changes as well, as though you had the new modifier from 1st level. For example, if you raise your Constitution score when you reach 4th level and your Constitution modifier increases from +1 to +2, you adjust your hit point maximum as though the modifier had always been +2. So you add 3 hit points for your first three levels, and then roll your hit points for 4th level using your new modifier. Or if you're 7th level and some effect lowers your Constitution score so as to reduce your Constitution modifier by 1, your hit point maximum is reduced by 7.
+
+## Intelligence
+
+Intelligence measures mental acuity, accuracy of recall, and the ability to reason.
+
+## Intelligence Checks
+
+An Intelligence check comes into play when you need to draw on logic, education, memory, or deductive reasoning. The Arcana, History, Investigation, Nature, and Religion skills reflect aptitude in certain kinds of Intelligence checks.
+
+Arcana. Your Intelligence (Arcana) check measures your ability to recall lore about spells, magic items, eldritch symbols, magical traditions, the planes of existence, and the inhabitants of those planes.
+
+History. Your Intelligence (History) check measures your ability to recall lore about historical events, legendary people, ancient kingdoms, past disputes, recent wars, and lost civilizations.Investigation. When you look around for clues and make deductions based on those clues, you make an Intelligence (Investigation) check. You might deduce the location of a hidden object, discern from the appearance of a wound what kind of weapon dealt it, or determine the weakest point in a tunnel that could cause it to collapse. Poring through ancient scrolls in search of a hidden fragment of knowledge might also call for an Intelligence (Investigation) check.
+
+Nature. Your Intelligence (Nature) check measures your ability to recall lore about terrain, plants and animals, the weather, and natural cycles.
+
+Religion. Your Intelligence (Religion) check measures your ability to recall lore about deities, rites and prayers, religious hierarchies, holy symbols, and the practices of secret cults.
+
+Other Intelligence Checks. The DM might call for an Intelligence check when you try to accomplish tasks like the following:
+
+- Communicate with a creature without using words
+- Estimate the value of a precious item
+- Pull together a disguise to pass as a city guard
+- Forge a document
+- Recall lore about a craft or trade
+- Win a game of skill
+
+## Spellcasting Ability
+
+Wizards use Intelligence as their spellcasting ability, which helps determine the saving throw DCs of spells they cast.
+
+## Wisdom
+
+Wisdom reflects how attuned you are to the world around you and represents perceptiveness and intuition.
+
+## Wisdom Checks
+
+A W isdom check might reflect an effort to read body language, understand someone's feelings, notice things about the environment, or care for an injured person. The Anim al Handling, Insight, Medicine, Perception, and Survival skills reflect aptitude in certain kinds of W isdom checks.
+
+Animal Handling. When there is any question whether you can calm down a dom esticated animal, keep a mount from getting spooked, or intuit an animal's intentions, the DM might call for a W isdom (Animal Handling) check. You also make a W isdom (Animal Handling) check to control your mount when you attempt a risky maneuver.
+
+Insight. Your W isdom (Insight) check decides whether you can determine the true intentions of a creature, such as when searching out a lie or predicting someone's next move. Doing so involves gleaning clues from body language, speech habits, and changes in mannerisms.
+
+Medicine. A W isdom (M edicine) check lets you try to stabilize a dying companion or diagnose an illness.
+
+Perception. Your W isdom (Perception) check lets you spot, hear, or otherwise detect the presence of something. It measures your general awareness of your surroundings and the keenness of your senses.
+
+## F in d in g a H id d e n O b je c t
+
+When your character searches for a hidden object such as a secret door or a trap, the DM typically asks you to make a Wisdom (Perception) check. Such a check can be used to find hidden details or other information and clues that you might otherwise overlook.In most cases, you need to describe where you are looking in order for the DM to determine your chance of success. For example, a key is hidden beneath a set of folded clothes in the top drawer of a bureau. If you tell the DM that you pace around the room, looking at the walls and furniture for clues, you have no chance of finding the key, regardless of your Wisdom (Perception) check result. You would have to specify that you were opening the drawers or searching the bureau in order to have any chance of success.
+
+For example, you might try to hear a conversation through a closed door, eavesdrop under an open window, or hear monsters moving stealthily in the forest. Or you might try to spot things that are obscured or easy to miss, whether they are orcs lying in ambush on a road, thugs hiding in the shadows of an alley, or candlelight under a closed secret door.
+
+Survival. The DM might ask you to make a Wisdom (Survival) check to follow tracks, hunt wild game, guide your group through frozen wastelands, identify signs that owlbears live nearby, predict the weather, or avoid quicksand and other natural hazards.
+
+Other Wisdom Checks. The DM might call for a Wisdom check when you try to accomplish tasks like the following:
+
+- Get a gut feeling about what course of action to follow
+- Discern whether a seemingly dead or living creature is undead
+
+## Spellcasting Ability
+
+Clerics, druids, and rangers use Wisdom as their spellcasting ability, which helps determine the saving throw DCs of spells they cast.## Charisma
+
+Charisma measures your ability to interact effectively with others. It includes such factors as confidence and eloquence, and it can represent a charming or commanding personality.
+
+## Charisma Checks
+
+A Charisma check might arise when you try to influence or entertain others, when you try to make an impression or tell a convincing lie, or when you are navigating a tricky social situation. The Deception, Intimidation, Performance, and Persuasion skills reflect aptitude in certain kinds of Charisma checks.
+
+Deception. Your Charisma (Deception) check determines whether you can convincingly hide the truth, either verbally or through your actions. This deception can encompass everything from misleading others through ambiguity to telling outright lies. Typical situations include trying to fast-talk a guard, con a merchant, earn money through gambling, pass yourself off in a disguise, dull someone's suspicions with false assurances, or maintain a straight face while telling a blatant lie.
+
+Intimidation. When you attempt to influence someone through overt threats, hostile actions, and physical violence, the DM might ask you to make a Charisma (Intimidation) check. Examples include trying to pry information out of a prisoner, convincing street thugs to back down from a confrontation, or using the edge of a broken bottle to convince a sneering vizier to reconsider a decision.
+
+Performance. Your Charisma (Performance) check determines how well you can delight an audience with music, dance, acting, storytelling, or some other form of entertainment.Persuasion. When you attempt to influence someone or a group of people with tact, social graces, or good nature, the DM might ask you to make a Charisma (Persuasion) check. Typically, you use persuasion when acting in good faith, to foster friendships, make cordial requests, or exhibit proper etiquette. Examples of persuading others include convincing a chamberlain to let your party see the king, negotiating peace between warring tribes, or inspiring a crowd of townsfolk.
+
+Other Charisma Checks. The DM might call for a Charisma check when you try to accomplish tasks like the following:
+
+- Find the best person to talk to for news, rumors, and gossip
+- Blend into a crowd to get the sense of key topics of conversation
+
+## Spellcasting Ability
+
+Bards, paladins, sorcerers, and warlocks use Charisma as their spellcasting ability, which helps determine the saving throw DCs of spells they cast.
+
+## Saving Throws
+
+A saving throw—also called a save—represents an attempt to resist a spell, a trap, a poison, a disease, or a similar threat. You don't normally decide to make a saving throw; you are forced to make one because your character or monster is at risk of harm.
+
+To make a saving throw, roll a d20 and add the appropriate ability modifier. For example, you use your Dexterity modifier for a Dexterity saving throw.
+
+A saving throw can be modified by a situational bonus or penalty and can be affected by advantage and disadvantage, as determined by the DM.Each class gives proficiency in at least two saving throws. The wizard, for example, is proficient in Intelligence saves. As with skill proficiencies, proficiency in a saving throw lets a character add his or her proficiency bonus to saving throws made using a particular ability score. Some monsters have saving throw proficiencies as well.
+
+The Difficulty Class for a saving throw is determined by the effect that causes it. For example, the DC for a saving throw allowed by a spell is determined by the caster's spellcasting ability and proficiency bonus.
+
+The result of a successful or failed saving throw is also detailed in the effect that allows the save. Usually, a successful save means that a creature suffers no harm, or reduced harm, from an effect.
+
+## Chapter 8: Adventuring
+
+DELVING INTO THE ANCIENT TOMB OF HORRORS, slipping through the back alleys of Waterdeep, hacking a fresh trail through the thick jungles on the Isle of Drad—these are the things that Dungeons & Dragons adventures are made of. Your character in the game might explore forgotten ruins and uncharted lands, uncover dark secrets and sinister plots, and slay foul monsters. And if all goes well, your character will survive to claim rich rewards before embarking on a new adventure.
+
+This chapter covers the basics of the adventuring life, from the mechanics of movement to the complexities of social interaction. The rules for resting are also in this chapter, along with a discussion of the activities your character might pursue between adventures.Whether adventurers are exploring a dusty dungeon or the complex relationships of a royal court, the game follows a natural rhythm, as outlined in the book's introduction:
+
+1. The DM describes the environment.
+2. The players describe what they want to do.
+3. The DM narrates the results of their actions.
+
+Typically, the DM uses a map as an outline of the adventure, tracking the characters' progress as they explore dungeon corridors or wilderness regions. The DM's notes, including a key to the map, describe what the adventurers find as they enter each new area. Sometimes, the passage of time and the adventurers' actions determine what happens, so the DM might use a timeline or a flowchart to track their progress instead of a map.
+
+## Time
+
+In situations where keeping track of the passage of time is important, the DM determines the time a task requires. The DM might use a different time scale depending on the context of the situation at hand. In a dungeon environment, the adventurers' movement happens on a scale of minutes. It takes them about a minute to creep down a long hallway, another minute to check for traps on the door at the end of the hall, and a good ten minutes to search the chamber beyond for anything interesting or valuable.
+
+In a city or wilderness, a scale of hours is often more appropriate. Adventurers eager to reach the lonely tower at the heart of the forest hurry across those fifteen miles in just under four hours' time.For long journeys, a scale of days works best. Following the road from Baldur's Gate to Waterdeep, the adventurers spend four uneventful days before a goblin ambush interrupts their journey.
+
+In combat and other fast-paced situations, the game relies on rounds, a 6-second span of time described in chapter 9.
+
+## Movement
+
+Swimming across a rushing river, sneaking down a dungeon corridor, scaling a treacherous mountain slope— all sorts of movement play a key role in D&D adventures.
+
+The DM can summarize the adventurers' movement without calculating exact distances or travel times: "You travel through the forest and find the dungeon entrance late in the evening of the third day." Even in a dungeon, particularly a large dungeon or a cave network, the DM can summarize movement between encounters: "After killing the guardian at the entrance to the ancient dwarven stronghold, you consult your map, which leads you through miles of echoing corridors to a chasm bridged by a narrow stone arch."
+
+Sometimes it's important, though, to know how long it takes to get from one spot to another, whether the answer is in days, hours, or minutes. The rules for determining travel time depend on two factors: the speed and travel pace of the creatures moving and the terrain they're moving over.
+
+## Speed
+
+Every character and monster has a speed, which is the distance in feet that the character or monster can walk in 1 round. This number assumes short bursts of energetic movement in the midst of a life-threatening situation.
+
+The following rules determine how far a character or monster can move in a minute, an hour, or a day.## Travel Pace
+
+While traveling, a group of adventurers can move at a normal, fast, or slow pace, as shown on the Travel Pace table. The table states how far the party can move in a period of time and whether the pace has any effect. A fast pace makes characters less perceptive, while a slow pace makes it possible to sneak around and to search an area more carefully (see the "Activity While Traveling" section later in this chapter for more information).
+
+Forced March. The Travel Pace table assumes that characters travel for 8 hours in a day. They can push on beyond that limit, at the risk of exhaustion.
+
+For each additional hour of travel beyond 8 hours, the characters cover the distance shown in the Hour column for their pace, and each character must make a Constitution saving throw at the end of the hour. The DC is 10 + 1 for each hour past 8 hours. On a failed saving throw, a character suffers one level of exhaustion (see appendix A).
+
+Mounts and Vehicles. For short spans of time (up to an hour), many animals move much faster than humanoids. A mounted character can ride at a gallop for about an hour, covering twice the usual distance for a fast pace. If fresh mounts are available every 8 to 10 miles, characters can cover larger distances at this pace, but this is very rare except in densely populated areas.Characters in wagons, carriages, or other land vehicles choose a pace as normal. Characters in a waterborne vessel are limited to the speed of the vessel (see chapter 5), and they don't suffer penalties for a fast pace or gain benefits from a slow pace. Depending on the vessel and the size of the crew, ships might be able to travel for up to 24 hours per day.
+
+Certain special mounts, such as a pegasus or griffon, or special vehicles, such as a carpet of flying, allow you to travel more swiftly. The Dungeon Master's Guide contains more information on special methods of travel.
+
+## Travel Pace
+
+## Distance Traveled per...
+
+| Pace          | Hour  Hour Day Effect Minute      |                                                                                   |
+|---------------|----------------------------------|-----------------------------------------------------------------------------------|
+|               | Normal 300 feet 3 miles 24 miles | Fast 400 feet 4 miles 30 miles -5 penalty to passive Wisdom (Perception) scores   |
+|               |                                  | —                                                                                 |
+| Slow 200 feet | 2 miles 18 miles                 | Able to use stealth                                                               |
+
+## Difficult Terrain
+
+The travel speeds given in the Travel Pace table assume relatively simple terrain: roads, open plains, or clear dungeon corridors. But adventurers often face dense forests, deep swamps, rubble-filled ruins, steep mountains, and ice-covered ground—all considered difficult terrain.
+
+You move at half speed in difficult terrain—moving 1 foot in difficult terrain costs 2 feet of speed—so you can cover only half the normal distance in a minute, an hour, or a day.
+
+## Special Types of MovementMovement through dangerous dungeons or wild wilderness areas often involves more than simply walking. Adventurers might have to climb, crawl, swim, or jump to get where they need to go.
+
+## Climbing, Swimming, and Crawling
+
+While climbing or swimming, each foot of movement costs 1 extra foot (2 extra feet in difficult terrain), unless a creature has a climbing or swimming speed. At the DM's option, climbing a slippery vertical surface or one with few handholds requires a successful Strength (Athletics) check. Similarly, gaining any distance in rough water might require a successful Strength (Athletics) check.
+
+## Jumping
+
+Your Strength determines how far you can jump.
+
+Long Jump. When you make a long jump, you cover a number of feet up to your Strength score if you move at least 10 feet on foot immediately before the jump. When you make a standing long jump, you can leap only half that distance. Either way, each foot you clear on the jump costs a foot of movement.
+
+This rule assumes that the height of your jump doesn't matter, such as a jump across a stream or chasm. At your DM's option, you must succeed on a DC 10 Strength (Athletics) check to clear a low obstacle (no taller than a quarter of the jump's distance), such as a hedge or low wall. Otherwise, you hit it.When you land in difficult terrain, you must succeed on a DC 10 Dexterity (Acrobatics) check to land on your feet. Otherwise, you land prone.
+
+High Jump. When you make a high jump, you leap into the air a number of feet equal to 3 + your Strength modifier if you move at least 10 feet on foot immediately before the jump. When you make a standing high jump, you can jump only half that distance. Either way, each foot you clear on the jump costs a foot of movement. In some circumstances, your DM might allow you to make a Strength (Athletics) check to jump higher than you normally can.
+
+You can extend your arms half your height above yourself during the jump. Thus, you can reach above you a distance equal to the height of the jump plus 1 1/2 times your height.
+
+## Activity While Travelling
+
+As adventurers travel through a dungeon or the wilderness, they need to remain alert for danger, and some characters might perform other tasks to help the group's journey.
+
+## Marching Order
+
+The adventurers should establish a marching order. A marching order makes it easier to determine which characters are affected by traps, which ones can spot hidden enemies, and which ones are the closest to those enemies when a fight breaks out.A character might occupy the front rank, one or more middle ranks, or the back rank. Characters in the front and back ranks need enough room to travel side by side with others in their rank. When space is too tight, the marching order must change, usually by moving characters to a middle rank.
+
+Fewer Than Three Ranks. If an adventuring party arranges its marching order with only two ranks, they are a front rank and a back rank. If there's only one rank, it's considered a front rank.
+
+## Stealth
+
+While traveling at a slow pace, the characters can move stealthily. As long as they're not in the open, they can try to surprise or sneak by other creatures they encounter. See the rules for hiding in chapter 7.
+
+## Noticing Threats
+
+Use the passive Wisdom (Perception) scores of the characters to determine whether anyone in the group notices a hidden threat. The DM might decide that a threat can be noticed only by characters in a particular rank. For example, as the characters are exploring a maze of tunnels, the DM might decide that only those characters in the back rank have a chance to hear or spot a stealthy creature following the group, while characters in the front and middle ranks cannot.
+
+While traveling at a fast pace, characters take a -5 penalty to their passive Wisdom (Perception) scores to notice hidden threats.Encountering Creatures. If the DM determines that the adventurers encounter other creatures while they're traveling, it's up to both groups to decide what happens next. Either group might decide to attack, initiate a conversation, run away, or wait to see what the other group does.
+
+Surprising Foes. If the adventurers encounter a hostile creature or group, the DM determines whether the adventurers or their foes might be surprised when combat erupts. See chapter 9 for more about surprise.
+
+## Other Activities
+
+Characters who turn their attention to other tasks as the group travels are not focused on watching for danger. These characters don't contribute their passive Wisdom (Perception) scores to the group's chance of noticing hidden threats. However, a character not watching for danger can do one of the following activities instead, or some other activity with the DM's permission.
+
+Navigate. The character can try to prevent the group from becoming lost, making a Wisdom (Survival) check when the DM calls for it. (The Dungeon Master's Guide has rules to determine whether the group gets lost.)
+
+Draw a Map. The character can draw a map that records the group's progress and helps the characters get back on course if they get lost. No ability check is required.
+
+Track. A character can follow the tracks of another creature, making a Wisdom (Survival) check when the DM calls for it. (The Dungeon Master's Guide has rules for tracking.)
+
+Forage. The character can keep an eye out for ready sources of food and water, making a Wisdom (Survival) check when the DM calls for it. (The Dungeon Master's Guide has rules for foraging.)## The Environment
+
+By its nature, adventuring involves delving into places that are dark, dangerous, and full of mysteries to be explored. The rules in this section cover some of the most important ways in which adventurers interact with the environment in such places. The Dungeon Master's Guide has rules covering more unusual situations.
+
+## Falling
+
+A fall from a great height is one of the most common hazards facing an adventurer.
+
+At the end of a fall, a creature takes 1d6 bludgeoning damage for every 10 feet it fell, to a maximum of 20d6. The creature lands prone, unless it avoids taking damage from the fall.
+
+## Suffocating
+
+A creature can hold its breath for a number of minutes equal to 1 + its Constitution modifier (minimum of 30 seconds).
+
+When a creature runs out of breath, it can survive for a number of rounds equal to its Constitution modifier (minimum 1 round). At the start of its next turn, it drops to 0 hit points and is dying.
+
+## Splitting Up the Party
+
+Sometimes, it makes sense to split an adventuring party, especially if you want one or more characters to scout ahead. You can form multiple parties, each moving at a different speed. Each group has its own front, middle, and back ranks.The drawback to this approach is that the party will be split into several smaller groups in the event of an attack. The advantage is that a small group of stealthy characters moving slowly might be able to sneak past enemies that clumsier characters would alert. A rogue and a monk moving at a slow pace are much harder to detect when they leave their dwarf paladin friend behind.
+
+For example, a creature with a Constitution of 14 can hold its breath for 3 minutes. If it starts suffocating, it has 2 rounds to reach air before it drops to 0 hit points.
+
+## Vision and Light
+
+The most fundamental tasks of adventuring—noticing danger, finding hidden objects, hitting an enemy in combat, and targeting a spell, to name just a few—rely heavily on a character's ability to see. Darkness and other effects that obscure vision can prove a significant hindrance.
+
+A given area might be lightly or heavily obscured. In a lightly obscured area, such as dim light, patchy fog, or moderate foliage, creatures have disadvantage on Wisdom (Perception) checks that rely on sight.
+
+A heavily obscured area—such as darkness, opaque fog, or dense foliage—blocks vision entirely. A creature in a heavily obscured area effectively suffers from the blinded condition (see appendix A).
+
+The presence or absence of light in an environment creates three categories of illumination: bright light, dim light, and darkness.
+
+Bright light lets most creatures see normally. Even gloomy days provide bright light, as do torches, lanterns, fires, and other sources of illumination within a specific radius.Dim light, also called shadows, creates a lightly obscured area. An area of dim light is usually a boundary between a source of bright light, such as a torch, and surrounding darkness. The soft light of twilight and dawn also counts as dim light. A particularly brilliant full moon might bathe the land in dim light.
+
+Darkness creates a heavily obscured area. Characters face darkness outdoors at night (even most moonlit nights), within the confines of an unlit dungeon or a subterranean vault, or in an area of magical darkness.
+
+## Blindsight
+
+A creature with blindsight can perceive its surroundings without relying on sight, within a specific radius. Creatures without eyes, such as oozes, and creatures with echolocation or heightened senses, such as bats and true dragons, have this sense.
+
+## Darkvision
+
+Many creatures in the worlds of D&D, especially those that dwell underground, have darkvision. Within a specified range, a creature with darkvision can see in darkness as if the darkness were dim light, so areas of darkness are only lightly obscured as far as that creature is concerned. However, the creature can't discern color in darkness, only shades of gray.
+
+## Truesight
+
+A creature with truesight can, out to a specific range, see in normal and magical darkness, see invisible creatures and objects, automatically detect visual illusions and succeed on saving throws against them, and perceives the original form of a shapechanger or a creature that is transformed by magic. Furthermore, the creature can see into the Ethereal Plane.
+
+## Food and WaterCharacters who don't eat or drink suffer the effects of exhaustion (see appendix A). Exhaustion caused by lack of food or water can't be removed until the character eats and drinks the full required amount.
+
+## Food
+
+A character needs one pound of food per day and can make food last longer by subsisting on half rations. Eating half a pound of food in a day counts as half a day without food.
+
+A character can go without food for a number of days equal to 3 + his or her Constitution modifier (minimum 1). At the end of each day beyond that limit, a character automatically suffers one level of exhaustion.
+
+A normal day of eating resets the count of days without food to zero.
+
+## Water
+
+A character needs one gallon of water per day, or two gallons per day if the weather is hot. A character who drinks only half that much water must succeed on a DC 15 Constitution saving throw or suffer one level of exhaustion at the end of the day. A character with access to even less water automatically suffers one level of exhaustion at the end of the day.
+
+If the character already has one or more levels of exhaustion, the character takes two levels in either case.
+
+## Interacting with Objects
+
+A character's interaction with objects in an environment is often simple to resolve in the game. The player tells the DM that his or her character is doing something, such as moving a lever, and the DM describes what, if anything happens.For example, a character might decide to pull a lever, which might, in turn, raise a portcullis, cause a room to flood with water, or open a secret door in a nearby wall. If the lever is rusted in position, though, a character might need to force it. In such a situation, the DM might call for a Strength check to see whether the character can wrench the lever into place. The DM sets the DC for any such check based on the difficulty of the task.
+
+Characters can also damage objects with their weapons and spells. Objects are immune to poison and psychic damage, but otherwise they can be affected by physical and magical attacks much like creatures can. The DM determines an object's Armor or Class and hit points, and might decide that certain objects have resistance or immunity to certain kinds of attacks. (It's hard to cut a rope with a club, for example.) Objects always fail Strength and Dexterity saving throws, and they are immune to effects that require other saves. When an object drops to 0 hit points, it breaks.
+
+A character can also attempt a Strength check to break an object. The DM sets the DC for any such check.
+
+## Social Interaction
+
+Exploring dungeons, overcoming obstacles, and slaying monsters are key parts of D&D adventures. No less important, though, are the social interactions that adventurers have with other inhabitants of the world.Interaction takes on many forms. You might need to convince an unscrupulous thief to confess to some malfeasance, or you might try to flatter a dragon so that it will spare your life. The DM assumes the roles of any characters who are participating in the interaction that don't belong to another player at the table. Any such character is called a nonplayer character (NPC).
+
+In general terms, an NPC's attitude toward you is described as friendly, indifferent, or hostile. Friendly NPCs are predisposed to help you, and hostile ones are inclined to get in your way. It's easier to get what you want from a friendly NPC, of course.
+
+Social interactions have two primary aspects: roleplaying and ability checks.
+
+## Roleplaying
+
+Roleplaying is, literally, the act of playing out a role. In this case, it's you as a player determining how your character thinks, acts, and talks.
+
+Roleplaying is a part of every aspect of the game, and it comes to the fore during social interactions. Your character's quirks, mannerisms, and personality influence how interactions resolve.
+
+There are two styles you can use when roleplaying your character: the descriptive approach and the active approach. Most players use a combination of the two styles. Use whichever mix of the two works best for you.
+
+## Descriptive Approach Roleplaying
+
+to With this approach, you describe your character's words and actions to the DM and the other players. Drawing on your mental image of your character, you tell everyone what your character does and how he or she does it.
+
+For instance, Chris plays Tordek the dwarf. Tordek has a quick temper and blames the elves of the Cloakwood for his family's misfortune. At a tavern, an obnoxious elf minstrel sits at Tordek's table and tries to strike up a conversation with the dwarf.
+
+Chris says, "Tordek spits on the floor, growls an insult at the bard, and stomps over to the bar. He sits on a stool and glares at the minstrel before ordering another drink."
+
+In this example, Chris has conveyed Tordek's mood and given the DM a clear idea of his character's attitude and actions.
+
+When using descriptive roleplaying, keep the following things in mind:
+
+- Describe your character's emotions and attitude.
+- Focus on your character's intent and how others might perceive it.
+- Provide as much embellishment as you feel comfortable with.
+
+Don't worry about getting things exactly right. Just focus on thinking about what your character would do and describing what you see in your mind.
+
+## Active Approach to Roleplaying
+
+If descriptive roleplaying tells your DM and your fellow players what your character thinks and does, active roleplaying shows them.When you use active roleplaying, you speak with your character's voice, like an actor taking on a role. You might even echo your character's movements and body language. This approach is more immersive than descriptive roleplaying, though you still need to describe things that can't be reasonably acted out.
+
+Going back to the example of Chris roleplaying Tordek above, here's how the scene might play out if Chris used active roleplaying:
+
+Speaking as Tordek, Chris says in a gruff, deep voice, "I was wondering why it suddenly smelt awful in here. If I wanted to hear anything out of you, I'd snap your arm and enjoy your screams." In his normal voice, Chris then adds, "I get up, glare at the elf, and head to the bar."
