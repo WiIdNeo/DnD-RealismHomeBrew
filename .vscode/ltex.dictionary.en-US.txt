@@ -3,3 +3,4 @@ Feywild
 debuffs
 debuff
 psychologic
+lvl

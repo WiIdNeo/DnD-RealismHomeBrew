@@ -1,3 +1,5 @@
+> As often in my scripts you will find the term 'human' not only for humans but for all mortal races. But sometimes I just mean humans, but should be easy to notice.
+
 # Difference to Devils and Celestials
 
 ## Physiologic
@@ -28,3 +30,6 @@ As world-builder I would actually do a twist here. Abyss got the property to alw
 
 But not only the Ground brings resources: Also the celestials got a home: Mount celesta. But there you do not find iron or gems, there you find a lot of powerful plants for medicine and other powerful collectables. So also those are important to the humans, and they come and for a price they get the right to gather those.
 
+### Why do humans believe?
+
+Normally it would be the same question as in Real Life. Why does someone believe? But as gods are real and just mighty humans, it gains a new facet of flavor of asking for help/protection. Also believing is as always a statement to personal opinion about cycle of life itself and the own wish for afterlife. 
