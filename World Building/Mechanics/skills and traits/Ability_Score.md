@@ -196,4 +196,41 @@ INT: 10
 WIS: 14
 CHA: 10
 
+Level 12: 16 Pfunds
+Also this time you go for a full feat
+May spend 1 Upgrade in DEX go get +5 Bonus and another in Wis (cost: 12)
+
+Level 14: 10+4 Pfunds
+Spend 10 Pfunds for two levels of CON
+ASI: two in CON
+STR: 10
+DEX: 20
+CON: 17
+INT: 10
+WIS: 15
+CHA: 10
+
+Level 16: 10+4 Pfunds
+13: One in Dex one in WIS
+ASI into feat
+
+Level 19: 17+1
+2 in WIS, 1 to CON (18)
+WIS-Half Feat
+STR: 10
+DEX: 20
+CON: 18
+INT: 10
+WIS: 18
+CHA: 10
+
+Level 20: 6 Pfunds
+One to Con:
+STR: 10
+DEX: 20
+CON: 19
+INT: 10
+WIS: 18
+CHA: 10
+
 ```
