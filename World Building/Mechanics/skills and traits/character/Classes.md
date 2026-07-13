@@ -1,71 +1,3 @@
-> This features mostly the changes of classes and races. Many other aspects are handled in other scripts or if not the basic DnD Rules apply.
-
-> ### Important: I am not a big fan of any this class grants a ASI as it destructs the fantasy and you could some standards of weapons or something to adapt most.
-> ### So there won't be any ASIs by class but by background
-
-
-# Races
-
-> For look or story refer to Wiki or originally PHB
-
-| Race       | Subrace         | Size   | Traits                                                                                                                                                                                                                                                                                                                                                          |
-| ---------- | --------------- | ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Human      | —               | ~1.7 m | 1. You gain the **Skilled** feat; 2. You learn one extra language of your choice                                                                                                                                                                                                                                                                                |
-| Elf        | High Elf        | ~1.8 m | **Fey Ancestry** (advantage on saving throws against being charmed; immune to magical sleep); **Trance** (4-hour long rest); proficiency with one martial weapon of your choice (longsword, shortsword, shortbow, or longbow); you know one Wizard cantrip; **Darkvision (Tier 1)**                                                                             |
-| Elf        | Wood Elf        | ~1.8 m | **Fey Ancestry**; **Trance**; proficiency with longbow and shortbow; **Mask of the Wild** (can attempt to hide when lightly obscured by natural phenomena); Speed +1.5 m; **Darkvision (Tier 1)**                                                                                                                                                               |
-| Elf        | Drow (Dark Elf) | ~1.7 m | **Fey Ancestry**; **Trance**; proficiency with rapier, shortsword, and hand crossbow; **Drow Magic** (*Dancing Lights*; later *Faerie Fire* and *Darkness* once per long rest); **Sunlight Sensitivity** (disadvantage on attack rolls and Wisdom (Perception) checks relying on sight in direct sunlight); **Darkvision (Tier 3)**                             |
-| Dwarf      | Hill Dwarf      | ~1.2 m | **Dwarven Resilience** (advantage on saving throws against poison; resistance to poison damage); **Dwarven Combat Training** (battleaxe, handaxe, light hammer, warhammer); proficiency with one artisan's tool (smith's tools, brewer's supplies, or mason's tools); **Stonecunning**; **Dwarven Toughness** (+1 hit point per level); **Darkvision (Tier 2)** |
-| Dwarf      | Mountain Dwarf  | ~1.4 m | As Hill Dwarf, except **Dwarven Toughness** is replaced by proficiency with light and medium armor; **Darkvision (Tier 2)**                                                                                                                                                                                                                                     |
-| Halfling   | Lightfoot       | ~1.1 m | You gain the **Lucky** feat; **Brave** (advantage on saving throws against being frightened); **Halfling Nimbleness**; **Naturally Stealthy** (can attempt to hide behind a creature at least one size larger)                                                                                                                                                  |
-| Halfling   | Stout           | ~1.1 m | You gain the **Lucky** feat; **Brave**; **Halfling Nimbleness**; **Stout Resilience** (advantage on saving throws against poison; resistance to poison damage)                                                                                                                                                                                                  |
-| Gnome      | Forest Gnome    | ~1.0 m | **Gnome Cunning** (advantage on Intelligence, Wisdom, and Charisma saving throws against magic); you know the *Minor Illusion* cantrip; **Speak with Small Beasts**; **Darkvision (Tier 1)**                                                                                                                                                                    |
-| Gnome      | Rock Gnome      | ~1.0 m | **Gnome Cunning**; **Artificer's Lore** (double proficiency bonus on History checks related to magic items, alchemical objects, or technological devices); **Tinker** (proficiency with tinker's tools and can construct Tiny clockwork devices); **Darkvision (Tier 1)**                                                                                       |
-| Half-Elf   | —               | ~1.7 m | **Fey Ancestry**; **Skill Versatility** (gain proficiency in two skills of your choice); **Darkvision (Tier 1)**                                                                                                                                                                                                                                                |
-| Half-Orc   | —               | ~1.8 m | **Menacing** (proficiency in Intimidation); **Relentless Endurance** (once per long rest, drop to 1 hit point instead of 0); **Savage Attacks** (roll one additional weapon damage die on a critical hit); **Darkvision (Tier 1)**                                                                                                                              |
-| Dragonborn | —               | ~1.9 m | **Draconic Ancestry** (choose acid, cold, fire, lightning, or poison); **Breath Weapon** (once per short or long rest); resistance to your ancestry's damage type                                                                                                                                                                                               |
-| Tiefling   | —               | ~1.7 m | **Hellish Resistance** (fire resistance); **Infernal Legacy** (*Thaumaturgy*; at 3rd level *Hellish Rebuke* once per long rest; at 5th level *Darkness* once per long rest); **Darkvision (Tier 1)**                                                                                                                                                            |
-| Aasimar    | —               | ~1.8 m | **Celestial Resistance** (resistance to necrotic and radiant damage); **Healing Hands** (once per long rest, restore hit points equal to your Charisma modifier); you know the *Light* cantrip; **Darkvision (Tier 1)**                                                                                                                                         |
-| Goliath    | —               | ~2.1 m | **Stone's Endurance** (once per short rest, reduce damage by 1d12 + your Constitution modifier); **Powerful Build**; **Mountain Born** (naturally acclimated to cold climates and high altitude); no Darkvision                                                                                                                                                 |
-| Orc        | —               | ~1.9 m | **Adrenaline Rush** (once per short rest, take the Dash action as a bonus action and gain temporary hit points equal to your level); **Relentless Endurance** (once per long rest); proficiency in Intimidation; **Darkvision (Tier 1)**                                                                                                                        |
-| Tabaxi     | —               | ~1.7 m | **Feline Agility** (double your speed until the end of the turn; must spend a turn without moving to use again); **Cat's Claws** (climb speed equal to walking speed; claw unarmed strike); proficiency in Perception and Stealth; **Darkvision (Tier 1)**                                                                                                      |
-| Kenku      | —               | ~1.6 m | **Expert Forgery** (advantage on checks made to duplicate existing handwriting or craftwork); **Mimicry** (can imitate sounds and voices); proficiency in two of: Deception, Sleight of Hand, or Stealth; no Darkvision                                                                                                                                         |
-| Aarakocra  | —               | ~1.5 m | Flying speed 15 m (only while not wearing medium or heavy armor); **Talons** (claw unarmed strike); no Darkvision                                                                                                                                                                                                                                               |
-| Genasi     | Air Genasi      | ~1.8 m | **Unending Breath** (can breathe indefinitely underwater and never need to breathe); **Mingle with the Wind** (cast *Levitate* on yourself once per long rest); no Darkvision                                                                                                                                                                                   |
-| Genasi     | Earth Genasi    | ~1.8 m | **Earth Walk** (ignore difficult terrain made of earth or stone); **Merge with Stone** (cast *Pass without Trace* or *Passwall* equivalent, depending on your ruleset, once per long rest); no Darkvision                                                                                                                                                       |
-| Genasi     | Fire Genasi     | ~1.7 m | Fire resistance; you know the *Produce Flame* cantrip; **Darkvision (Tier 1)**                                                                                                                                                                                                                                                                                  |
-| Genasi     | Water Genasi    | ~1.8 m | **Amphibious**; swimming speed equal to walking speed; you know the *Shape Water* cantrip; no Darkvision                                                                                                                                                                                                                                                        |
-| Firbolg    | —               | ~2.1 m | **Firbolg Magic** (*Detect Magic* and *Disguise Self* once per long rest; *Disguise Self* only for natural humanoid appearances); **Hidden Step** (become invisible until the start of your next turn as a bonus action); **Powerful Build**; proficiency in Nature and Survival; no Darkvision                                                                 |
-| Lizardfolk | —               | ~1.8 m | **Bite** (bite unarmed strike); **Natural Armor**; **Hold Breath** (15 minutes); **Cunning Artisan** (craft simple weapons or tools from slain creatures during a short rest); no Darkvision                                                                                                                                                                    |
-| Tortle     | —               | ~1.5 m | **Natural Armor**; **Claws** (claw unarmed strike); **Hold Breath** (1 hour); **Shell Defense** (withdraw into your shell as an action, gaining defensive benefits but unable to move or take actions); no Darkvision                                                                                                                                           |
-| Triton     | —               | ~1.7 m | **Amphibious**; swimming speed equal to walking speed; cold resistance; **Emissary of the Sea** (communicate simple ideas with aquatic beasts); you know the *Shape Water* cantrip; **Darkvision (Tier 1)**                                                                                                                                                     |
-
-## Darkvision
-
-| Tier | Effect |
-|--|--|
-| 1 | In range of 18m all types of light seem one tier brighter, except for those that can't be increased! |
-| 2 | In range of 27m all types of light seem one tier brighter, except for those that can't be increased! |
-| 3 | In range of 36m all types of light seem one tier brighter, except for those that can't be increased! |
-
-| Types of Light | Times / Places |
-|--|---|
-| Day Light | just normal day |
-| Dim Light / dusk | On sunset/sunrise; in houses without light source; on some dark winter days |
-| Light Night | If moon is bright; if you are around a big fire |
-| Normal Night / Dark | on normal nights |
-| Real Dark | in dungeons without light — darkvision is useless here, as vision still needs *some* light source! |
-
-## Class specific
-
-### Tabaxi
-
-| Weapon  |Damage| Wield  | Init | Parry DC | Parry / Block | Stance Dmg |
-|-|-|-|-|-|-|-|
-| Cat's Claw | 1d8+Prof+DEX-Mod | double | +3 | +1 | against sharp Weapons you can't parry or block, against thump weapons even on success parry/block you receive 1W4+Prof damage | +0 |
-
-
-
-# Classes
 ## BARBARIAN
 
 ### Klassentabelle
@@ -1582,3 +1514,465 @@ Whenever you gain a rogue level, you can swap one known spell for another (follo
 ---
 
 *Numbers, dice, ranges, and DCs above reflect the standard 2014 5th Edition Rogue class; wording is rewritten rather than quoted from the source text.*
+
+# Sorcerer — Mechanics Reference (2014 Rules)
+
+## Core Stats
+
+- **Hit Die:** 1d6 per sorcerer level
+- **HP at 1st level:** 6 + Constitution modifier
+- **HP at higher levels:** 1d6 (or 4) + Constitution modifier per level after 1st
+- **Armor:** None
+- **Weapons:** Daggers, darts, slings, quarterstaffs, light crossbows
+- **Tools:** None
+- **Saving Throws:** Constitution, Charisma
+- **Skills:** Choose 2 from Arcana, Deception, Insight, Intimidation, Persuasion, Religion
+
+**Starting Equipment:** (a) a light crossbow and 20 bolts or (b) any simple weapon; (a) a component pouch or (b) an arcane focus; (a) a dungeoneer's pack or (b) an explorer's pack; two daggers — plus whatever your background grants.
+
+---
+
+## Sorcerer Progression Table
+
+| Level | Prof. Bonus | Cantrips Known | Spells Known | Sorcery Points | Features |
+|---|---|---|---|---|---|
+| 1 | +2 | 4 | 2 | — | Spellcasting, Sorcerous Origin |
+| 2 | +2 | 4 | 3 | 2 | Font of Magic |
+| 3 | +2 | 4 | 4 | 3 | Metamagic |
+| 4 | +2 | 5 | 5 | 4 | Ability Score Improvement |
+| 5 | +3 | 5 | 6 | 5 | — |
+| 6 | +3 | 5 | 7 | 6 | Sorcerous Origin feature |
+| 7 | +3 | 5 | 8 | 7 | — |
+| 8 | +3 | 5 | 9 | 8 | Ability Score Improvement |
+| 9 | +4 | 5 | 10 | 9 | — |
+| 10 | +4 | 6 | 11 | 10 | Metamagic |
+| 11 | +4 | 6 | 12 | 11 | — |
+| 12 | +4 | 6 | 12 | 12 | Ability Score Improvement |
+| 13 | +5 | 6 | 13 | 13 | — |
+| 14 | +5 | 6 | 13 | 14 | Sorcerous Origin feature |
+| 15 | +5 | 6 | 14 | 15 | — |
+| 16 | +5 | 6 | 14 | 16 | Ability Score Improvement |
+| 17 | +6 | 6 | 15 | 17 | Metamagic |
+| 18 | +6 | 6 | 15 | 18 | Sorcerous Origin feature |
+| 19 | +6 | 6 | 15 | 19 | Ability Score Improvement |
+| 20 | +6 | 6 | 15 | 20 | Sorcerous Restoration |
+
+### Spell Slots per Level
+
+| Sorcerer Level | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 | 2 | — | — | — | — | — | — | — | — |
+| 2 | 3 | — | — | — | — | — | — | — | — |
+| 3 | 4 | 2 | — | — | — | — | — | — | — |
+| 4 | 4 | 3 | — | — | — | — | — | — | — |
+| 5 | 4 | 3 | 2 | — | — | — | — | — | — |
+| 6 | 4 | 3 | 3 | — | — | — | — | — | — |
+| 7 | 4 | 3 | 3 | 1 | — | — | — | — | — |
+| 8 | 4 | 3 | 3 | 2 | — | — | — | — | — |
+| 9 | 4 | 3 | 3 | 3 | 1 | — | — | — | — |
+| 10 | 4 | 3 | 3 | 3 | 2 | — | — | — | — |
+| 11 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 12 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 13 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 14 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 15 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 16 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 18 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
+| 19 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
+| 20 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
+
+---
+
+## Core Class Features
+
+### Spellcasting (1st)
+Charisma-based caster. You know a fixed number of spells rather than preparing from a list (see table above).
+
+- **Spell save DC** = 8 + proficiency bonus + Cha modifier
+- **Spell attack modifier** = proficiency bonus + Cha modifier
+- Whenever you gain a sorcerer level you can swap one spell you know for a different one (from the sorcerer list).
+
+### Sorcerous Origin (1st)
+Choose Draconic Bloodline or Wild Magic. Grants features at 1st, 6th, 14th, and 18th level.
+
+### Font of Magic (2nd)
+Gain a pool of sorcery points (see table), which fully refill on a long rest.
+
+- **Convert a spell slot into sorcery points** (bonus action): 1st = 2 points, 2nd = 3, 3rd = 5, 4th = 6, 5th = 7.
+- **Convert sorcery points into a spell slot** (bonus action): 1st = 2 points, 2nd = 3, 3rd = 5, 4th = 6, 5th = 7. You cannot create a slot of 6th level or higher this way.
+
+### Meta magic (3rd, +1 option at 10th, +1 at 17th — 4 total)
+Choose from the following (spend sorcery points to apply, usually when you cast a spell):
+
+- **Careful Spell** (1 pt) — When you cast a spell that forces others to save, choose up to your Cha modifier (min 1) creatures to automatically succeed.
+- **Distant Spell** (1 pt) — Double the range of a spell with a range of 5 ft or more; touch spells become 30 ft range.
+- **Empowered Spell** (1 pt) — Reroll up to your Cha modifier (min 1) damage dice from the spell; you must use the new rolls. Can combine with other metamagic affecting the same spell's damage.
+- **Extended Spell** (1 pt) — Double the duration of a spell with a duration of 1 minute or more, to a max of 24 hours.
+- **Heightened Spell** (3 pts) — One target of the spell has disadvantage on its first saving throw against it.
+- **Quickened Spell** (2 pts) — Change a spell's casting time from one action to a bonus action.
+- **Subtle Spell** (1 pt) — Cast a spell without verbal or somatic components.
+- **Twinned Spell** (cost = spell's level, 1 for a cantrip) — For a spell that targets only one creature and doesn't already allow multiple targets, target a second creature in range with the same casting (using the same slot). Doesn't work on spells with a range of Self.
+
+### Ability Score Improvement (4th, 8th, 12th, 16th, 19th)
++2 to one ability score, or +1 to two ability scores (max 20).
+
+### Sorcerous Restoration (20th)
+Regain 4 sorcery points whenever you finish a short rest.
+
+---
+
+## Sorcerous Origins
+
+### Draconic Bloodline
+
+**1st — Dragon Ancestor:** Choose a kind of dragon; this determines the damage type tied to some of your other features. You can speak, read, and write Draconic. When making a Charisma check while interacting with dragons, your proficiency bonus is doubled if you're proficient in the relevant skill.
+
+**1st — Draconic Resilience:** Max HP increases by 1, and again every time you gain a sorcerer level. While not wearing armor, your AC = 13 + Dex modifier.
+
+**6th — Elemental Affinity:** When you cast a spell that deals damage of the type tied to your draconic ancestry, add your Cha modifier to one damage roll of that spell. You can also spend 1 sorcery point to gain resistance to that damage type for 1 hour when you cast such a spell.
+
+**14th — Dragon Wings:** Action: sprout dragon wings, granting a flying speed equal to your current speed (you can't wear armor unless it's made for you while the wings are out). Dismiss them as a bonus action.
+
+**18th — Draconic Presence:** Action, spend 5 sorcery points: for 1 minute, exude an aura of awe or fear (your choice) in a 60-ft radius. Each hostile creature (fear) or friendly creature (awe) that starts its turn in the aura must succeed on a Wisdom save or be frightened (fear) / charmed (awe) until the aura ends. Affected creatures can repeat the save at the end of their own turns, ending the effect on themselves on a success. You can end the aura early as a bonus action.
+
+### Wild Magic
+
+**1st — Wild Magic Surge:** After you cast a sorcerer spell of 1st level or higher, the DM can have you roll a d20; on a 1, you roll on the Wild Magic Surge table for a random magical effect.
+
+**1st — Tides of Chaos:** Once, you can gain advantage on one attack roll, ability check, or saving throw. Once used, you need a long rest before using it again — unless a Wild Magic Surge triggers, in which case the DM may let you regain the use.
+
+**6th — Bend Luck:** Reaction, spend 2 sorcery points: when another creature you can see makes an attack roll, ability check, or saving throw, roll 1d4 and apply it as a bonus or penalty (your choice) to that roll.
+
+**14th — Controlled Chaos:** When you roll on the Wild Magic Surge table, you can roll twice and choose either result.
+
+**18th — Spell Bombardment:** When you roll damage for a spell and roll the highest possible number on a damage die, roll that die again and add it to the damage (once per turn per instance).
+
+*(The Wild Magic Surge table itself is a long random-effects table from the source material and isn't reproduced here — your DM will have it, or you can note that one is needed.)*
+
+---
+
+*Numbers, dice, ranges, and DCs above reflect the standard 2014 5th Edition Sorcerer class; wording is rewritten rather than quoted from the source text.*
+
+# Wizard — Mechanics Reference (2014 Rules)
+
+## Core Stats
+
+- **Hit Die:** 1d6 per wizard level
+- **HP at 1st level:** 6 + Constitution modifier
+- **HP at higher levels:** 1d6 (or 4) + Constitution modifier per level after 1st
+- **Armor:** None
+- **Weapons:** Daggers, darts, slings, quarterstaffs, light crossbows
+- **Tools:** None
+- **Saving Throws:** Intelligence, Wisdom
+- **Skills:** Choose 2 from Arcana, History, Insight, Investigation, Medicine, Religion
+
+**Starting Equipment:** (a) a quarterstaff or (b) a dagger; (a) a component pouch or (b) an arcane focus; (a) a scholar's pack or (b) an explorer's pack; a spellbook — plus whatever your background grants.
+
+---
+
+## Wizard Progression Table
+
+| Level | Prof. Bonus | Cantrips Known | Features |
+|---|---|---|---|
+| 1 | +2 | 3 | Spellcasting, Arcane Recovery |
+| 2 | +2 | 3 | Arcane Tradition |
+| 3 | +2 | 3 | — |
+| 4 | +2 | 4 | Ability Score Improvement |
+| 5 | +3 | 4 | — |
+| 6 | +3 | 4 | Arcane Tradition feature |
+| 7 | +3 | 4 | — |
+| 8 | +3 | 4 | Ability Score Improvement |
+| 9 | +4 | 4 | — |
+| 10 | +4 | 5 | Arcane Tradition feature |
+| 11 | +4 | 5 | — |
+| 12 | +4 | 5 | Ability Score Improvement |
+| 13 | +5 | 5 | — |
+| 14 | +5 | 5 | Arcane Tradition feature |
+| 15 | +5 | 5 | — |
+| 16 | +5 | 5 | Ability Score Improvement |
+| 17 | +6 | 5 | — |
+| 18 | +6 | 5 | Spell Mastery |
+| 19 | +6 | 5 | Ability Score Improvement |
+| 20 | +6 | 5 | Signature Spells |
+
+### Spell Slots per Level
+
+| Wizard Level | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 | 2 | — | — | — | — | — | — | — | — |
+| 2 | 3 | — | — | — | — | — | — | — | — |
+| 3 | 4 | 2 | — | — | — | — | — | — | — |
+| 4 | 4 | 3 | — | — | — | — | — | — | — |
+| 5 | 4 | 3 | 2 | — | — | — | — | — | — |
+| 6 | 4 | 3 | 3 | — | — | — | — | — | — |
+| 7 | 4 | 3 | 3 | 1 | — | — | — | — | — |
+| 8 | 4 | 3 | 3 | 2 | — | — | — | — | — |
+| 9 | 4 | 3 | 3 | 3 | 1 | — | — | — | — |
+| 10 | 4 | 3 | 3 | 3 | 2 | — | — | — | — |
+| 11 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 12 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 13 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 14 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 15 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 16 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 18 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
+| 19 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
+| 20 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
+
+---
+
+## Core Class Features
+
+### Spellcasting (1st)
+Intelligence-based prepared caster, using a spellbook.
+
+- **Spell save DC** = 8 + proficiency bonus + Int modifier
+- **Spell attack modifier** = proficiency bonus + Int modifier
+- **Spells prepared** = Int modifier + wizard level (minimum 1); can re-prepare after a long rest (needs at least 1 minute per prepared spell's level, roughly).
+- Start with a spellbook containing 6 1st-level wizard spells of your choice.
+- Gain two more wizard spells of your choice for your spellbook each time you level up (must be of a level you can cast).
+- **Ritual casting:** any spell in your spellbook with the ritual tag can be cast as a ritual (without expending a slot) by adding 10 minutes to its casting time, provided you have the spell prepared or it's a spell you've learned that way.
+- A spellcasting focus (arcane focus or component pouch) can substitute for material components that don't have a cost listed.
+
+### Arcane Recovery (1st)
+Once per day, when you finish a short rest, recover expended spell slots with a combined level equal to or less than half your wizard level (round up). None of the slots can be 6th level or higher.
+
+### Arcane Tradition (2nd)
+Choose a school of magic: Abjuration, Conjuration, Divination, Enchantment, Evocation, Illusion, Necromancy, or Transmutation. Grants features at 2nd, 6th, 10th, and 14th level.
+
+### Ability Score Improvement (4th, 8th, 12th, 16th, 19th)
++2 to one ability score, or +1 to two ability scores (max 20).
+
+### Spell Mastery (18th)
+Choose one 1st-level and one 2nd-level spell in your spellbook. You can cast them at their lowest level without expending a slot, whenever you want.
+
+### Signature Spells (20th)
+Choose two 3rd-level spells in your spellbook as signature spells. They're always prepared and don't count against your prepared total. You can cast each of them once at 3rd level without expending a slot; you must finish a short or long rest before doing so again with that spell.
+
+---
+
+## Arcane Traditions
+
+### School of Abjuration
+
+**2nd — Abjuration Savant:** Gold and time to copy an abjuration spell into your spellbook are halved.
+
+**2nd — Arcane Ward:** When you cast an abjuration spell of 1st level or higher, create a magical ward with HP = 2 × wizard level + Int modifier. Any damage you'd take is taken by the ward first, reducing what reaches you; excess damage past the ward's HP carries over to you. The ward's HP doesn't refresh except by casting another abjuration spell, which recreates it.
+
+**6th — Projected Ward:** Reaction: when you or a creature within 30 ft you can see takes damage, your Arcane Ward absorbs it instead.
+
+**10th — Improved Abjuration:** Add your proficiency bonus to any ability check required as part of casting one of your abjuration spells.
+
+**14th — Spell Resistance:** Advantage on saving throws against spells, and resistance to damage from spells.
+
+### School of Conjuration
+
+**2nd — Conjuration Savant:** Gold and time to copy a conjuration spell into your spellbook are halved.
+
+**2nd — Minor Conjuration:** Action: conjure a nonmagical, valueless object no larger than a 3-ft cube (or up to 10 lb) in your hand or an unoccupied space within 10 ft. It disappears after 1 hour, if it takes any damage, or if you use this feature again.
+
+**6th — Benign Transposition:** Action: teleport up to 30 ft to an unoccupied space you can see, or swap places with a willing Small or Medium creature within 30 ft. Usable once per rest for free, or again by expending a 1st-level or higher spell slot.
+
+**10th — Focused Conjuration:** Concentration on a conjuration spell can't be broken by taking damage.
+
+**14th — Durable Summons:** Any creature you summon or create with a conjuration spell gains 30 temporary HP.
+
+### School of Divination
+
+**2nd — Divination Savant:** Gold and time to copy a divination spell into your spellbook are halved.
+
+**2nd — Portent:** At the start of each day, roll two d20s and record the results. You can replace any attack roll, saving throw, or ability check made by you or a creature you can see with one of these rolls (must decide before the roll is made). Each die can only be used once, then refreshes on your next long rest.
+
+**6th — Expert Divination:** When you cast a divination spell of 2nd level or higher using a spell slot, you regain one expended spell slot — of a level lower than the spell just cast, and no higher than 5th level.
+
+**10th — The Third Eye:** Action: gain one of the following until you use this feature again (requires a short or long rest to reuse): 60-ft darkvision for 1 hour; see into the Ethereal Plane out to 60 ft for 1 minute; read any language for 1 hour; or see invisible creatures/objects for 1 hour.
+
+**14th — Greater Portent:** Roll three d20s for your Portent feature each day, and choose any two of the three results to keep.
+
+### School of Enchantment
+
+**2nd — Enchantment Savant:** Gold and time to copy an enchantment spell into your spellbook are halved.
+
+**2nd — Hypnotic Gaze:** Action: target one creature within 5 ft you can see; it must succeed on a Wisdom save (vs. your spell save DC) or be charmed until the end of your next turn (speed 0, incapacitated, facing you). You can use your action on subsequent turns to maintain the gaze, extending the duration, as long as the target stays within 5 ft of you. Once a creature succeeds on the save, it's immune to this feature for 24 hours.
+
+**6th — Instinctive Charm:** Reaction: when a creature within 30 ft you can see attacks you, force it to make a Wisdom save (vs. your spell DC) unless it's immune to being charmed. On a failure, it must target the nearest other creature (chosen at random if tied) instead. Usable once per short or long rest.
+
+**10th — Split Enchantment:** When you cast an enchantment spell of 1st level or higher that targets only one creature, you can target a second creature with the same casting (same slot).
+
+**14th — Alter Memories:** When you charm a creature with an enchantment spell, you can make it unaware it was charmed. You can also erase up to (Int modifier, min 1) hours of its memory from the last 24 hours, chosen by you (must be at least 1 minute of memory); the target can make an Int save to resist if you try to erase memories of you acting hostile toward it.
+
+### School of Evocation
+
+**2nd — Evocation Savant:** Gold and time to copy an evocation spell into your spellbook are halved.
+
+**2nd — Sculpt Spells:** When you cast a damaging evocation spell, choose up to (1 + spell's level) creatures caught in the area to automatically succeed their saving throw and take no damage if they'd normally take half on a success.
+
+**6th — Potent Cantrip:** When a cantrip you cast damages a creature that succeeds on its save against it, that creature still takes half damage (but suffers no other effect).
+
+**10th — Empowered Evocation:** Add your Int modifier to the damage roll of any wizard evocation spell you cast.
+
+**14th — Overchannel:** When you cast a wizard spell of 1st–5th level that deals damage, you can deal maximum damage instead of rolling. The first time you do this in a day, there's no cost. Using it again before a long rest deals you 2d12 necrotic damage per spell level (ignoring resistance/immunity), increasing by 1d12 per spell level for each additional use that day.
+
+### School of Illusion
+
+**2nd — Illusion Savant:** Gold and time to copy an illusion spell into your spellbook are halved.
+
+**2nd — Improved Minor Illusion:** Learn the *minor illusion* cantrip if you don't know it. When you cast it, you can create both a sound and an image with a single casting.
+
+**6th — Malleable Illusions:** When you cast an illusion spell with a duration of 1 minute or longer, you can use an action to change the nature of the illusion (within the limits of the original spell) as long as you can perceive it.
+
+**10th — Illusory Self:** Reaction: when a creature you can see attacks you, interpose an illusory duplicate. The attacker must make an Int save (vs. your spell DC) or target the duplicate instead, automatically missing you. Usable once per short or long rest.
+
+**14th — Illusory Reality:** When you cast an illusion spell of 1st level or higher affecting an area, you can choose one nonmagical object no larger than a 5-ft cube within that area and make it real for 1 minute — it behaves like whatever the illusion depicted it as, physically, and can be damaged/destroyed normally. It reverts to its original state if the illusion ends before the minute is up.
+
+### School of Necromancy
+
+**2nd — Necromancy Savant:** Gold and time to copy a necromancy spell into your spellbook are halved.
+
+**2nd — Grim Harvest:** Once per turn, when you kill a creature with a spell of 1st level or higher, regain HP equal to twice the spell's level (three times if it was a necromancy spell). Doesn't work against constructs or undead.
+
+**6th — Undead Thralls:** Adds *animate dead* to your spellbook if you don't already know it. When you cast it, you can target one additional corpse or pile of bones, creating an extra undead. Any undead you create with a necromancy spell gets bonus max HP (equal to your wizard level) and adds your proficiency bonus to its damage rolls.
+
+**10th — Inured to Undeath:** Resistance to necrotic damage, and your hit point maximum can't be reduced by outside effects.
+
+**14th — Command Undead:** Action: target one undead creature (yours or another's) within 60 ft you can see; it must make a Charisma save against your spell DC or fall under your control (becomes friendly, follows your commands) for 24 hours, until you repeat the feature, or until you/your allies harm it. If it succeeds, you can't use this feature on it again. Undead you created yourself don't get a saving throw.
+
+### School of Transmutation
+
+**2nd — Transmutation Savant:** Gold and time to copy a transmutation spell into your spellbook are halved.
+
+**2nd — Minor Alchemy:** After a short or long rest, transform one nonmagical object into a different nonmagical object of similar size and mass, for 1 hour (or until you use this again). Requires proficiency with alchemist's supplies to attempt.
+
+**6th — Transmuter's Stone:** Spend 8 hours to create a stone storing transmutation magic. Whoever carries it gains one benefit of your choice (swappable each time you finish a long rest): 60-ft darkvision, +10 ft speed, proficiency in Con saves, or resistance to one damage type (acid/cold/fire/lightning/thunder, your choice). Creating a new stone destroys the power of any old one.
+
+**10th — Shapechanger:** Cast *polymorph* on yourself without expending a spell slot, a number of times per long rest equal to your Int modifier (min 1).
+
+**14th — Master Transmuter:** Destroy your transmuter's stone to produce one of the following effects: remove a curse/disease/poison, restore a missing body part, restore youth (reduce apparent age by 3d10 years, minimum 13), or permanently transform one nonmagical object into another nonmagical object.
+
+---
+
+*Numbers, dice, ranges, and DCs above reflect the standard 2014 5th Edition Wizard class; wording is rewritten rather than quoted from the source text.*
+
+# Warlock — Mechanics Reference (2014 Rules)
+
+## Core Stats
+
+- **Hit Die:** 1d8 per warlock level
+- **HP at 1st level:** 8 + Constitution modifier
+- **HP at higher levels:** 1d8 (or 5) + Constitution modifier per level after 1st
+- **Armor:** Light armor
+- **Weapons:** Simple weapons
+- **Tools:** None
+- **Saving Throws:** Wisdom, Charisma
+- **Skills:** Choose 2 from Arcana, Deception, History, Intimidation, Investigation, Nature, Religion
+
+**Starting Equipment:** (a) a light crossbow and 20 bolts or (b) any simple weapon; (a) a component pouch or (b) an arcane focus; (a) a scholar's pack or (b) a dungeoneer's pack; leather armor, any simple weapon, two daggers — plus whatever your background grants.
+
+---
+
+## Warlock Progression Table
+
+| Level | Prof. Bonus | Cantrips Known | Spells Known | Slot Level | Slots | Invocations Known | Features |
+|---|---|---|---|---|---|---|---|
+| 1 | +2 | 2 | 1 | 1st | 1 | — | Otherworldly Patron, Pact Magic |
+| 2 | +2 | 2 | 2 | 1st | 2 | 2 | Eldritch Invocations |
+| 3 | +2 | 2 | 3 | 2nd | 2 | 2 | Pact Boon |
+| 4 | +2 | 3 | 4 | 2nd | 2 | 2 | Ability Score Improvement |
+| 5 | +3 | 3 | 5 | 3rd | 2 | 3 | — |
+| 6 | +3 | 3 | 6 | 3rd | 2 | 3 | Otherworldly Patron feature |
+| 7 | +3 | 3 | 7 | 4th | 2 | 4 | — |
+| 8 | +3 | 3 | 8 | 4th | 2 | 5 | Ability Score Improvement |
+| 9 | +4 | 3 | 9 | 5th | 2 | 5 | — |
+| 10 | +4 | 4 | 10 | 5th | 2 | 5 | Otherworldly Patron feature |
+| 11 | +4 | 4 | 11 | 5th | 3 | 6 | Mystic Arcanum (6th level) |
+| 12 | +4 | 4 | 11 | 5th | 3 | 6 | Ability Score Improvement |
+| 13 | +5 | 4 | 12 | 5th | 3 | 7 | Mystic Arcanum (7th level) |
+| 14 | +5 | 4 | 12 | 5th | 3 | 7 | Otherworldly Patron feature |
+| 15 | +5 | 4 | 13 | 5th | 3 | 8 | Mystic Arcanum (8th level) |
+| 16 | +5 | 4 | 13 | 5th | 3 | 8 | Ability Score Improvement |
+| 17 | +6 | 4 | 14 | 5th | 4 | 9 | Mystic Arcanum (9th level) |
+| 18 | +6 | 4 | 14 | 5th | 4 | 9 | — |
+| 19 | +6 | 4 | 15 | 5th | 4 | 10 | Ability Score Improvement |
+| 20 | +6 | 4 | 15 | 5th | 4 | 10 | Eldritch Master |
+
+*Unlike other full casters, all your Pact Magic slots are the same level (shown in "Slot Level") and there are only a few of them — but they all come back on a short rest, not just a long one.*
+
+---
+
+## Core Class Features
+
+### Otherworldly Patron (1st)
+Choose Archfey, Fiend, or Great Old One. Grants features at 1st, 6th, 10th, and 14th level, plus an expanded spell list always available to you.
+
+### Pact Magic (1st)
+Charisma-based caster with a small number of same-level slots (see table).
+
+- **Spell save DC** = 8 + proficiency bonus + Cha modifier
+- **Spell attack modifier** = proficiency bonus + Cha modifier
+- All expended Pact Magic slots return after a **short or long rest**.
+- You know a fixed number of spells (see table) rather than preparing from a list; swap one known spell for another whenever you level up.
+
+### Eldritch Invocations (2nd)
+Learn a number of invocations as you level (see table); some require a minimum level or a specific Pact Boon to select. You can swap one known invocation for another when you gain a warlock level.
+
+### Pact Boon (3rd)
+Choose one:
+
+- **Pact of the Chain** — Learn *find familiar* (castable as a ritual); your familiar can additionally take the form of an imp, pseudodragon, quasit, or sprite. As an action, you can have your familiar take the Attack action using its reaction, and it can also take the Dodge action on its own without costing you an action.
+- **Pact of the Blade** — Action: create a pact weapon in your hand (any melee weapon you're proficient with, treated as magical). You can also touch a nonmagical weapon to turn it into your pact weapon (banishing any previous one, though it's not destroyed — you can summon it back as a bonus action). Dismiss your pact weapon into nothingness with a thought, and re-summon it to your hand as a bonus action.
+- **Pact of the Tome** — Gain a Book of Shadows containing 3 cantrips from any class's spell list (using Int, Wis, or Cha as their spellcasting ability, your choice). Swap one of these cantrips for another with an hour of study.
+
+### Ability Score Improvement (4th, 8th, 12th, 16th, 19th)
++2 to one ability score, or +1 to two ability scores (max 20).
+
+### Mystic Arcanum (11th, 13th, 15th, 17th)
+Choose one warlock spell of 6th level (at 11th), 7th level (13th), 8th level (15th), and 9th level (17th). You can cast each chosen spell once without expending a slot; you must finish a long rest before casting that spell this way again. These don't count as spells known for other purposes.
+
+### Eldritch Master (20th)
+Spend 1 minute entreating your patron for aid to regain all expended Pact Magic slots. Once per long rest.
+
+---
+
+## Otherworldly Patrons
+
+### The Archfey
+
+**Expanded Spells:** *faerie fire*, *sleep* (1st); *calm emotions*, *phantasmal force* (2nd); *blink*, *plant growth* (3rd); *dominate beast*, *greater invisibility* (4th); *dream*, *insect plague* (5th).
+
+**1st — Fey Presence:** Action: each creature in a 10-ft cube originating from you must make a Wisdom save or be charmed or frightened (your choice) until the end of your next turn. Usable once per short or long rest.
+
+**6th — Misty Escape:** Reaction when you take damage: turn invisible and teleport up to 60 ft to an unoccupied space you can see. Invisibility lasts until the start of your next turn or until you attack or cast a spell. Usable once per short or long rest.
+
+**10th — Beguiling Defenses:** Immune to being charmed. When another creature tries to charm you, you can use your reaction to try to turn the charm back on it — it must make a Wisdom save or become charmed by you for 1 minute (or until it takes damage).
+
+**14th — Dark Delirium:** Action: target one creature within 60 ft; it must make a Wisdom save or be trapped in a dark delirium (incapacitated, speed 0) for 1 minute or until it takes damage — you must concentrate on this as if concentrating on a spell. Usable on a given creature only once per long rest.
+
+### The Fiend
+
+**Expanded Spells:** *burning hands*, *command* (1st); *blindness/deafness*, *scorching ray* (2nd); *fireball*, *stinking cloud* (3rd); *fire shield*, *wall of fire* (4th); *flame strike*, *hallow* (5th).
+
+**1st — Dark One's Blessing:** When you reduce a hostile creature to 0 HP, gain temporary HP equal to your Cha modifier + warlock level (minimum 1).
+
+**6th — Dark One's Own Luck:** Once per short or long rest, add 1d10 to one ability check or saving throw after rolling but before knowing the outcome.
+
+**10th — Fiendish Resilience:** Choose a damage type; gain resistance to it. You can change your choice after a short or long rest.
+
+**14th — Hurl Through Hell:** Reaction when you hit a creature with an attack: instead of dealing damage, banish it through the lower planes. It vanishes and reappears at the end of your next turn in the space it left (or the nearest unoccupied space), taking 10d10 psychic damage (creatures immune to being frightened are immune to this). Usable once per long rest.
+
+### The Great Old One
+
+**Expanded Spells:** *dissonant whispers*, *Tasha's hideous laughter* (1st); *detect thoughts*, *phantasmal force* (2nd); *clairvoyance*, *sending* (3rd); *black tentacles*, *confusion* (4th); *dominate person*, *telekinesis* (5th).
+
+**1st — Awakened Mind:** Telepathically communicate with any creature within 30 ft you can see (it understands you regardless of language, as long as you share one it knows... more precisely: you can speak telepathically to it in a language you know).
+
+**6th — Entropic Ward:** Reaction when a creature makes an attack roll against you: impose disadvantage on that roll. If it misses, your next attack roll against that creature before the end of your next turn has advantage. Usable once per short or long rest.
+
+**10th — Thought Shield:** Your thoughts can't be read by telepathy or other means unless you allow it. Resistance to psychic damage, and any creature that deals psychic damage to you takes the same amount of damage back.
+
+**14th — Create Thrall:** Action: touch an incapacitated humanoid to charm it permanently, as though affected by *dominate monster* (no save). You can communicate with it telepathically as long as you share a plane.
+
+---
+
+*Numbers, dice, ranges, and DCs above reflect the standard 2014 5th Edition Warlock class; wording is rewritten rather than quoted from the source text.*
