@@ -118,7 +118,7 @@ At 3rd level, when you adopt this path, you choose a totem spirit and gain its f
 Your totem animal might be an animal more appropriate to your homeland (e.g. a hawk or vulture in place of an eagle).
 
 - **Bear**: While raging, you have resistance to all damage except psychic damage.
-- **Eagle**: While you're raging and aren't wearing heavy armor, other creatures have disadvantage on opportunity attack rolls against you, and you can use the Dash action as a bonus action on your turn.
+- **Eagle**: While you're raging and aren't wearing heavy armor, you got advantage on defensive reactions, and you can use the Dash action as a bonus action on your turn.
 - **Wolf**: While you're raging, your friends have advantage on melee attack rolls against any creature within 5 feet of you that is hostile to you.
 
 #### Aspect of the Beast (6th level)
