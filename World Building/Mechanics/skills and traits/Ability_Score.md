@@ -47,10 +47,6 @@ Following the rounding system of x.5 rounding down you get following values:
 |            23 |  8.166667 |                                      8 |
 |            24 |  8.5 |                                      8 |
 |            25 |  8.833333 |                                      9 |
-|            26 |  9.166667 |                                      9 |
-|            27 |  9.5 |                                      9 |
-|            28 |  9.833333 |                                     10 |
-|            29 | 10.166667 |                                     10 |
 
 
 Cost to specific levels are:
@@ -82,11 +78,6 @@ Cost to specific levels are:
 |        23 |           92 |
 |        24 |          100 |
 |        25 |          108 |
-|        26 |          117 |
-|        27 |          126 |
-|        28 |          135 |
-|        29 |          145 |
-|        30 |          155 |
 
 From level 10 are:
 
@@ -107,48 +98,17 @@ From level 10 are:
 |            23 |                 74 |
 |            24 |                 82 |
 |            25 |                 90 |
-|            26 |                 99 |
-|            27 |                108 |
-|            28 |                117 |
-|            29 |                127 |
-|            30 |                137 |
 
 
-But know the real question: What values do you start with? As you gain on level up always some to increase later one, you know do not get to many Pfunds. 
-```
-min = 18 * 6 = 108
-max = 35 * 6 = 210
-~~> 180?
-    Most classes specify on 2 Attributes:
-        max for just those is 22 (84) and you got 14 left:
-            So you could all let reach 4 (3) and got two more left, so one reaches 5. 
-                This would mean -3 on everthing except for two main stats being +6
-                    Too high!
-~~> 150?
-    max in two:
-        20 (70), ten left:
-            3 in rest
-                -3 on all, +5 in mains
-    all 0 plus main:
-        10 x 6 = 60
-            two main stats:
-                19: +4
-                    Too high!
-~~> 130?
-    10 x 6 = 60 --> 70
-        17, 4 left
-            one more to 11
-                0 on all
-                    +3 on max
-                        would be +6 
-                            Standerd-array is -1, 0, +1, +1, +2, +2 => +5
-                                seams fair
-```
+You start on 120 Pfunds.
+
+> You can save Pfunds for later, but you can't respqnd them on regular, as this would mean to train your body and mind, so it's a dm decision if and in what time you can respec here.
 
 ## Leveling
 
 You gain per level your Professiency Bonus in Pfunds. So to level 20 you gain 78. Your Background grands you 3 free Level ups, in any way you want, but +2 max. The ASIs grant you additionally 5 to 7 two free level ups of your choice. (for fairness I may fix the number of feasts for each class, I will see during PHB rework and playtesting), which means between 10 and 14 free levels.
 
+<<<<<<< Updated upstream
 ```
 Think you are an fighter. Your background is you are a guardian of the forests, so your main attribut may be DEX and you got two off attributes: WIS and CON
 You go for good alrounder having everything to 10. You spend 108 of your 130 into your stats. Than you increase DEX twice and WIS and COn both once. Resulting in 13 in DEX, 12 in WIS and 11 in CON. Than your background grants you two DEX and one WIS. So your stats in the beginning look like:
@@ -234,3 +194,6 @@ WIS: 18
 CHA: 10
 
 ```
+=======
+> Stat cap is no longer 20 but 24!
+>>>>>>> Stashed changes

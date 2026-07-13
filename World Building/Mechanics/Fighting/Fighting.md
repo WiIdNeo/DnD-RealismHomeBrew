@@ -276,3 +276,6 @@ On leaving the melee range of an enemy it got it's leaving attack. Now there are
 - You want to dodge
   - if you just guess the moment when dodge should be necessary, the DC gains a +1 per meter melee Range the attacking weapon got.
   - if you want normal DC, you need to walk backwards to the point of dodge: multiplied by 1.5 
+
+
+---
