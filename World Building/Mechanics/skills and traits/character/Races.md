@@ -63,4 +63,7 @@
 |-|-|-|-|-|-|-|
 | Cat's Claw | 1d8+Prof+DEX-Mod | double | +3 | +1 | against sharp Weapons you can't parry or block, against thump weapons even on success parry/block you receive 1W4+Prof damage | +0 |
 
+natural weapon!
+
+
 
