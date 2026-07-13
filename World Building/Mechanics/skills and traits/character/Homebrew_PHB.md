@@ -1283,3 +1283,302 @@ Action: expend a spell slot to end one spell affecting yourself or a willing cre
 
 *Numbers, dice, ranges, and DCs above reflect the standard 2014 5th Edition Paladin class; wording is rewritten rather than quoted from the source text.*
 
+# Ranger — Mechanics Reference (2014 Rules)
+
+## Core Stats
+
+- **Hit Die:** 1d10 per ranger level
+- **HP at 1st level:** 10 + Constitution modifier
+- **HP at higher levels:** 1d10 (or 6) + Constitution modifier per level after 1st
+- **Armor:** Light armor, medium armor, shields
+- **Weapons:** Simple weapons, martial weapons
+- **Tools:** None
+- **Saving Throws:** Strength, Dexterity
+- **Skills:** Choose 3 from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, Survival
+
+**Starting Equipment:** (a) scale mail or (b) leather armor; (a) two shortswords or (b) two simple melee weapons; (a) a dungeoneer's pack or (b) an explorer's pack; a longbow and a quiver of 20 arrows — plus whatever your background grants.
+
+---
+
+## Ranger Progression Table
+
+| Level | Prof. Bonus | Features | Spells Known | 1st | 2nd | 3rd | 4th | 5th |
+|---|---|---|---|---|---|---|---|---|
+| 1 | +2 | Favored Enemy, Natural Explorer | — | — | — | — | — | — |
+| 2 | +2 | Fighting Style, Spellcasting | 2 | 2 | — | — | — | — |
+| 3 | +2 | Ranger Archetype, Primeval Awareness | 3 | 3 | — | — | — | — |
+| 4 | +2 | Ability Score Improvement | 3 | 3 | — | — | — | — |
+| 5 | +3 | Extra Attack | 4 | 4 | 2 | — | — | — |
+| 6 | +3 | Favored Enemy & Natural Explorer improvements | 4 | 4 | 2 | — | — | — |
+| 7 | +3 | Ranger Archetype feature | 5 | 4 | 3 | — | — | — |
+| 8 | +3 | Ability Score Improvement, Land's Stride | 5 | 4 | 3 | — | — | — |
+| 9 | +4 | — | 6 | 4 | 3 | 2 | — | — |
+| 10 | +4 | Natural Explorer improvement, Hide in Plain Sight | 6 | 4 | 3 | 2 | — | — |
+| 11 | +4 | Ranger Archetype feature | 7 | 4 | 3 | 3 | — | — |
+| 12 | +4 | Ability Score Improvement | 7 | 4 | 3 | 3 | — | — |
+| 13 | +5 | — | 8 | 4 | 3 | 3 | 1 | — |
+| 14 | +5 | Favored Enemy improvement, Vanish | 8 | 4 | 3 | 3 | 1 | — |
+| 15 | +5 | Ranger Archetype feature | 9 | 4 | 3 | 3 | 2 | — |
+| 16 | +5 | Ability Score Improvement | 9 | 4 | 3 | 3 | 2 | — |
+| 17 | +6 | — | 10 | 4 | 3 | 3 | 3 | 1 |
+| 18 | +6 | Feral Senses | 10 | 4 | 3 | 3 | 3 | 1 |
+| 19 | +6 | Ability Score Improvement | 11 | 4 | 3 | 3 | 3 | 2 |
+| 20 | +6 | Foe Slayer | 11 | 4 | 3 | 3 | 3 | 2 |
+
+---
+
+## Core Class Features
+
+### Favored Enemy (1st)
+Choose a type of enemy (or, if you pick humanoids, two specific humanoid races). You have advantage on Survival checks to track them and on Intelligence checks to recall information about them; you also learn one language they typically speak, if any. Pick an additional favored enemy at 6th and 14th level.
+
+### Natural Explorer (1st)
+Choose a favored terrain type. While traveling in it (and doing so alone, without your group, applies the stealth benefit below):
+- Difficult terrain doesn't slow your group's travel pace.
+- Your group can't get lost except by magical means.
+- You stay alert to danger even while doing something else while traveling (foraging, navigating, tracking).
+- Moving stealthily at a normal pace is possible even alone.
+- Foraging yields twice the usual food.
+- While tracking, you also learn the exact number of creatures, their sizes, and how long ago they passed through.
+
+Pick an additional favored terrain at 6th and 10th level.
+
+### Fighting Style (2nd)
+Choose one:
+- **Archery** — +2 to attack rolls with ranged weapons.
+- **Defense** — +1 AC while wearing armor.
+- **Dueling** — +2 damage with a one-handed melee weapon, provided you wield no other weapon.
+- **Two-Weapon Fighting** — Add your ability modifier to the damage of the second attack when two-weapon fighting.
+
+### Spellcasting (2nd)
+Wisdom-based, "spells known" caster (you know a fixed list, not a prepared list).
+- **Spell save DC** = 8 + proficiency bonus + Wis modifier
+- **Spell attack modifier** = proficiency bonus + Wis modifier
+- Spells known increases per the table above; you can swap one known spell for another whenever you gain a ranger level.
+
+### Ranger Archetype (3rd)
+Choose Hunter or Beast Master. Grants features at 3rd, 7th, 11th, and 15th level.
+
+### Primeval Awareness (3rd)
+Action: expend one spell slot to sense whether aberrations, celestials, dragons, elementals, fey, fiends, or undead are present within 1 mile (6 miles if in your favored terrain). This tells you which types are present, but not their number or location.
+
+### Ability Score Improvement (4th, 8th, 12th, 16th, 19th)
++2 to one ability score, or +1 to two ability scores (max 20).
+
+### Extra Attack (5th)
+Attack twice instead of once when you take the Attack action.
+
+### Land's Stride (8th)
+Moving through nonmagical difficult terrain costs no extra movement. You can also move through nonmagical plants without being slowed and without taking damage from them if they have thorns, spines, or similar. You have advantage on saves against magical plants that impede movement (e.g. *entangle*).
+
+### Hide in Plain Sight (10th)
+Spend 1 minute camouflaging yourself with natural materials. While you then remain stationary and take no actions or reactions, you get a +10 bonus to Stealth checks.
+
+### Vanish (14th)
+You can take the Hide action as a bonus action. You also can't be tracked by nonmagical means, unless you choose to leave a trail.
+
+### Feral Senses (18th)
+You're aware of the location of invisible creatures within 30 ft, as long as they aren't hidden from you and you aren't blinded or deafened. You no longer have disadvantage on attack rolls against creatures you can't see, provided you're aware of their location (i.e. they're within 5 ft).
+
+### Foe Slayer (20th)
+Once per turn, add your Wisdom modifier to an attack roll or damage roll against one of your favored enemies.
+
+---
+
+## Ranger Archetypes
+
+### Hunter
+
+**3rd — Hunter's Prey.** Choose one:
+- **Colossus Slayer** — Once per turn, deal an extra 1d8 damage to a creature that's below its hit point maximum.
+- **Giant Killer** — Reaction: when a Large or larger creature within 5 ft hits or misses you with an attack, you can make a melee attack against it.
+- **Horde Breaker** — Once per turn on your turn, when you make a weapon attack, you can make another attack with the same weapon against a different creature within 5 ft of the original target and also within range.
+
+**7th — Defensive Tactics.** Choose one:
+- **Escape the Horde** — Opportunity attacks against you are made with disadvantage.
+- **Multiattack Defense** — When a creature hits you with an attack, it has disadvantage on all other attack rolls against you this turn.
+- **Steel Will** — Advantage on saving throws against being frightened.
+
+**11th — Multiattack.** Choose one:
+- **Volley** — Action: make a ranged attack against every creature within 10 ft of a point you can see within weapon range.
+- **Whirlwind Attack** — Action: make a melee attack against every creature within 5 ft of you.
+
+**15th — Superior Hunter's Defense.** Choose one:
+- **Evasion** — On an effect that allows a Dex save for half damage: success = no damage, failure = half damage.
+- **Stand Against the Tide** — Reaction: when hit by an attack from a creature, force it to reroll the attack and use the new result.
+- **Uncanny Dodge** — Reaction: halve the damage of an attack that hits you.
+
+### Beast Master
+
+**3rd — Ranger's Companion.** You gain a beast companion (a low-CR creature, typically CR 1/4 or lower) that fights alongside you and obeys your commands. It uses your proficiency bonus; its hit point maximum is either its normal maximum or four times your ranger level, whichever is higher; it adds your proficiency bonus to its AC, attack rolls, damage rolls, and any saving throw or skill it's proficient in. On your turn, you can use a bonus action to command it to Attack, Dash, Disengage, Dodge, or Help; if you give no command, it only takes the Dodge action. Once you have Extra Attack, when you take the Attack action you can forgo one of your own attacks to let the companion take the Attack action as a bonus action.
+
+**7th — Exceptional Training.** Commanding the companion to Dash, Disengage, Dodge, or Help no longer costs an action from you (it still doesn't need your action at all). The companion's attacks now count as magical for overcoming resistance/immunity to nonmagical attacks.
+
+**11th — Bestial Fury.** The companion can make two attacks when you command it to Attack.
+
+**15th — Share Spells.** When you cast a spell targeting only yourself, you can also affect your companion with it if the companion is within 30 ft of you.
+
+---
+
+*Numbers, dice, ranges, and DCs above reflect the standard 2014 5th Edition Ranger class; wording is rewritten rather than quoted from the source text.*
+
+# Rogue — Mechanics Reference (2014 Rules)
+
+## Core Stats
+
+- **Hit Die:** 1d8 per rogue level
+- **HP at 1st level:** 8 + Constitution modifier
+- **HP at higher levels:** 1d8 (or 5) + Constitution modifier per level after 1st
+- **Armor:** Light armor
+- **Weapons:** Simple weapons, hand crossbows, longswords, rapiers, shortswords
+- **Tools:** Thieves' tools
+- **Saving Throws:** Dexterity, Intelligence
+- **Skills:** Choose 4 from Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Performance, Persuasion, Sleight of Hand, Stealth
+
+**Starting Equipment:** (a) a rapier or (b) a shortsword; (a) a shortbow and quiver of 20 arrows or (b) a shortsword; (a) a burglar's pack, dungeoneer's pack, or explorer's pack; leather armor, two daggers, thieves' tools — plus whatever your background grants.
+
+---
+
+## Rogue Progression Table
+
+| Level | Prof. Bonus | Sneak Attack | Features |
+|---|---|---|---|
+| 1 | +2 | 1d6 | Expertise, Sneak Attack, Thieves' Cant |
+| 2 | +2 | 1d6 | Cunning Action |
+| 3 | +2 | 2d6 | Roguish Archetype |
+| 4 | +2 | 2d6 | Ability Score Improvement |
+| 5 | +3 | 3d6 | Uncanny Dodge |
+| 6 | +3 | 3d6 | Expertise |
+| 7 | +3 | 4d6 | Evasion |
+| 8 | +3 | 4d6 | Ability Score Improvement |
+| 9 | +4 | 5d6 | Roguish Archetype feature |
+| 10 | +4 | 5d6 | Ability Score Improvement |
+| 11 | +4 | 6d6 | Reliable Talent |
+| 12 | +4 | 6d6 | Ability Score Improvement |
+| 13 | +5 | 7d6 | Roguish Archetype feature |
+| 14 | +5 | 7d6 | Blindsense |
+| 15 | +5 | 8d6 | Slippery Mind |
+| 16 | +5 | 8d6 | Ability Score Improvement |
+| 17 | +6 | 9d6 | Roguish Archetype feature |
+| 18 | +6 | 9d6 | Elusive |
+| 19 | +6 | 10d6 | Ability Score Improvement |
+| 20 | +6 | 10d6 | Stroke of Luck |
+
+---
+
+## Core Class Features
+
+### Expertise (1st, again at 6th)
+Pick two of your skill proficiencies (or one skill proficiency plus your thieves' tools proficiency) at 1st level, and two more at 6th level. Your proficiency bonus is doubled for any ability check using those.
+
+### Sneak Attack (1st)
+Once per turn, add extra damage (see table) to one hit with a finesse or ranged weapon, if you have advantage on the attack roll — or if you don't have advantage but another enemy of the target is within 5 ft of it and you don't have disadvantage on the attack.
+
+### Thieves' Cant (1st)
+You know a secret mix of dialect, jargon, and code — plus secret signs and symbols — that lets you hide messages in seemingly-normal conversation. Only others who know thieves' cant understand the hidden meaning.
+
+### Cunning Action (2nd)
+Bonus action each turn to Dash, Disengage, or Hide.
+
+### Roguish Archetype (3rd)
+Choose Thief, Assassin, or Arcane Trickster. Grants features at 3rd, 9th, 13th, and 17th level.
+
+### Ability Score Improvement (4th, 8th, 10th, 12th, 16th, 19th)
++2 to one ability score, or +1 to two ability scores (max 20).
+
+### Uncanny Dodge (5th)
+Reaction when hit by an attack you can see: halve the attack's damage against you.
+
+### Evasion (7th)
+On an effect that allows a Dexterity save for half damage: success = no damage, failure = half damage.
+
+### Reliable Talent (11th)
+When you make an ability check using a skill or tool you're proficient with, treat any d20 roll of 9 or lower as a 10.
+
+### Blindsense (14th)
+If you can hear, you're aware of the location of any hidden or invisible creature within 10 ft of you.
+
+### Slippery Mind (15th)
+Gain proficiency in Wisdom saving throws.
+
+### Elusive (18th)
+No attack roll has advantage against you while you aren't incapacitated.
+
+### Stroke of Luck (20th)
+If your attack misses, you can turn it into a hit; or if you fail an ability check, you can treat the d20 roll as a 20 instead. Once per short or long rest.
+
+---
+
+## Roguish Archetypes
+
+### Thief
+
+**3rd — Fast Hands:** Use the bonus action from Cunning Action to make a Sleight of Hand check, use thieves' tools to disarm a trap or pick a lock, or take the Use an Object action.
+
+**3rd — Second-Story Work:** Climbing no longer costs extra movement. When you make a running jump, the distance you cover increases by your Dexterity modifier (in feet).
+
+**9th — Supreme Sneak:** Advantage on Stealth checks if you move no more than half your speed on the same turn.
+
+**13th — Use Magic Device:** Ignore all class, race, and level requirements on the use of magic items.
+
+**17th — Thief's Reflexes:** In the first round of combat, take two turns — one at your normal initiative and a second at initiative minus 10 (can't use it on subsequent rounds).
+
+---
+
+### Assassin
+
+**3rd — Bonus Proficiencies:** Disguise kit, poisoner's kit.
+
+**3rd — Assassinate:** Advantage on attack rolls against any creature that hasn't taken a turn yet in combat. Any hit you score against a surprised creature is a critical hit.
+
+**9th — Infiltration Expertise:** Spend 7 days and 25 gp to establish a false identity (documents, contacts, disguises, etc.).
+
+**13th — Impostor:** After studying a person's speech, writing, and behavior for at least 3 hours, you can convincingly mimic them (opposed by an Insight check if someone suspects the ruse).
+
+**17th — Death Strike:** When you attack a surprised creature and hit, it must make a Constitution save (DC = 8 + Dex modifier + proficiency bonus) or the damage is doubled.
+
+---
+
+### Arcane Trickster
+
+**3rd — Spellcasting:** Learn wizard cantrips and spells, mostly from the illusion and enchantment schools. Intelligence-based caster.
+
+- **Spell save DC** = 8 + proficiency bonus + Int modifier
+- **Spell attack modifier** = proficiency bonus + Int modifier
+- Learn 3 cantrips at 3rd level (must include *mage hand*), plus 1 more at 10th level.
+- Know 3 1st-level spells at 3rd level, two of which must be illusion or enchantment spells (same restriction applies to spells learned as you level, except those gained at 8th, 14th, and 20th level, which can be any school).
+
+| Rogue Level | Cantrips Known | Spells Known | 1st | 2nd | 3rd | 4th |
+|---|---|---|---|---|---|---|
+| 3 | 3 | 3 | 2 | — | — | — |
+| 4 | 3 | 4 | 3 | — | — | — |
+| 5 | 3 | 4 | 3 | — | — | — |
+| 6 | 3 | 4 | 3 | — | — | — |
+| 7 | 3 | 5 | 4 | 2 | — | — |
+| 8 | 3 | 6 | 4 | 2 | — | — |
+| 9 | 3 | 6 | 4 | 2 | — | — |
+| 10 | 4 | 7 | 4 | 3 | — | — |
+| 11 | 4 | 8 | 4 | 3 | — | — |
+| 12 | 4 | 8 | 4 | 3 | — | — |
+| 13 | 4 | 9 | 4 | 3 | 2 | — |
+| 14 | 4 | 10 | 4 | 3 | 2 | — |
+| 15 | 4 | 10 | 4 | 3 | 2 | — |
+| 16 | 4 | 11 | 4 | 3 | 3 | — |
+| 17 | 4 | 11 | 4 | 3 | 3 | — |
+| 18 | 4 | 11 | 4 | 3 | 3 | 1 |
+| 19 | 4 | 12 | 4 | 3 | 3 | 1 |
+| 20 | 4 | 13 | 4 | 3 | 3 | 1 |
+
+Whenever you gain a rogue level, you can swap one known spell for another (following the same level/school restrictions).
+
+**3rd — Mage Hand Legerdemain:** When you cast *mage hand*, the spectral hand can be made invisible, and — as a bonus action, if the hand is within 30 ft — you can control it to stow or retrieve an object from a container or creature, pick a lock, or disarm a trap remotely with your thieves' tools.
+
+**9th — Magical Ambush:** If you're hidden from a creature when you cast a spell targeting it, that creature has disadvantage on any saving throw against the spell.
+
+**13th — Versatile Trickster:** Bonus action, if your *mage hand* is within 5 ft of a creature: gain advantage on your attack rolls against that creature until the end of the turn (the hand distracts it).
+
+**17th — Spell Thief:** Reaction when a creature targets you with a spell of 1st–4th level that allows a saving throw: force that creature to make its own save against your spell save DC; on a failure, the spell has no effect on you and its slot is expended, and you can cast a copy of that spell (using your own spellcasting ability and a slot of the same level) within the next 8 hours. If you don't cast it in that time, the stolen spell is lost. Once per long rest.
+
+---
+
+*Numbers, dice, ranges, and DCs above reflect the standard 2014 5th Edition Rogue class; wording is rewritten rather than quoted from the source text.*
