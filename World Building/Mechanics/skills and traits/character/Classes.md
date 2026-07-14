@@ -1237,9 +1237,9 @@ Once per turn, add your Wisdom modifier to an attack roll or damage roll against
 
 ### Beast Master
 
-**3rd — Ranger's Companion.** You gain a beast companion (a low-CR creature, typically CR 1/4 or lower) that fights alongside you and obeys your commands. It uses your proficiency bonus; its hit point maximum is either its normal maximum or four times your ranger level, whichever is higher; it adds your proficiency bonus to its AC, attack rolls, damage rolls, and any saving throw or skill it's proficient in. On your turn, you can use a bonus action to command it to Attack, Dash, Disengage, Dodge, or Help; if you give no command, it only takes the Dodge action. Once you have Extra Attack, when you take the Attack action you can forgo one of your own attacks to let the companion take the Attack action as a bonus action.
+**3rd — Ranger's Companion.** You gain a beast companion (a low-CR creature, typically CR 1/4 or lower) that fights alongside you and obeys your commands. It uses your proficiency bonus; its hit point maximum is your's*0.8 and it's stamina is either its normal maximum or your prof bonus times your ranger level, whichever is higher; attack rolls, damage rolls, and any saving throw or skill it's proficient in: add your prof bonus. On your turn, you can use a bonus action to command it to Attack, Dash, Disengage, Dodge, or Help; if you give no command, it only takes the Dodge action. Once you have Extra Attack, when you take the Attack action you can forgo one of your own attacks to let the companion take the Attack action as a bonus action.
 
-**7th — Exceptional Training.** Commanding the companion to Dash, Disengage, Dodge, or Help no longer costs an action from you (it still doesn't need your action at all). The companion's attacks now count as magical for overcoming resistance/immunity to nonmagical attacks.
+**7th — Exceptional Training.** Commanding the companion to Dash, Disengage, Dodge, or Help no longer costs a bonus action from you. The companion's attacks now count as magical for overcoming resistance/immunity to nonmagical attacks.
 
 **11th — Bestial Fury.** The companion can make two attacks when you command it to Attack.
 
