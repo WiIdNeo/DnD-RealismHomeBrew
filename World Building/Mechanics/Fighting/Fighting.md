@@ -131,7 +131,7 @@ If the pool drops below 0, the remaining force is passed through proportionally 
 Blocking requires really low timing or speed so Defensive Aktion Bonus is here - (2 + Weapon Mod).
 
 ### 6.3 Parry
-Requires timing and accuracy so Defensive Action Mod is + (2 - Weapon Mod). On success: 0 damage + free counterattack (opportunity attack, no reaction possible from the opponent). On failure: full hit. There is a parry bonus to the check depending on your weapon.
+Requires timing and accuracy so Defensive Action Mod is + (2 - Weapon Mod). On success: 0 damage + free counterattack (opportunity attack, no reaction possible from the opponent, your damage is reduced by enemy's prof-mod). On failure: full hit. There is a parry bonus to the check depending on your weapon.
 
 **Cost (regardless of success):**
 $$\text{Stamina-Drain} = \left(\text{Damage} \times \frac{\text{Stance-Breaking}}{2}\right) + \frac{\text{Prof-Mod}}{2}$$

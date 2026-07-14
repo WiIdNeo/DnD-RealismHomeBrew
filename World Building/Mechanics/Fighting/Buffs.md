@@ -20,4 +20,4 @@
 
 ### Lying on the ground:
 
-Dieser neue zustand tritt dann ein, wenn das Ziel auf dem Boden liegt, also wenn es umgestoßen wird oder sich hinlegt. Dadurch gilt er als Halb-verdeckt und Range Angriffe haben Nachteil. Um diesen Zustand zu überwinden wird 4.5m der Bewegungsreichweite verbraucht.
+Dieser neue zustand tritt dann ein, wenn das Ziel auf dem Boden liegt, also wenn es umgestoßen wird oder sich hinlegt. Dadurch gilt er als Halb-verdeckt und Range Angriffe haben Nachteil, der betroffene kann nicht parrieren und andere defensive reaktionen erhalten +2 Schwierigkeit. Um diesen Zustand zu überwinden wird 4.5m der Bewegungsreichweite verbraucht.
