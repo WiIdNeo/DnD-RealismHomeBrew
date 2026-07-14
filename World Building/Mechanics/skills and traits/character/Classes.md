@@ -785,9 +785,6 @@ The 2024 Fighter has a **Weapon Mastery** class feature: starts knowing 3 weapon
 
 ## Core Stats
 
-- **Hit Die:** 1d8 per monk level
-- **HP at 1st level:** 8 + Constitution modifier
-- **HP at higher levels:** 1d8 (or 5) + Constitution modifier per level after 1st
 - **Armor:** None
 - **Weapons:** Simple weapons, shortswords
 - **Tools:** One type of artisan's tools, or one musical instrument
@@ -800,29 +797,28 @@ The 2024 Fighter has a **Weapon Mastery** class feature: starts knowing 3 weapon
 
 ## Monk Progression Table
 
-| Level | Prof. Bonus | Martial Arts Die | Ki Points | Unarmored Movement Bonus | Features |
-|---|---|---|---|---|---|
-| 1 | +2 | 1d4 | — | — | Unarmored Defense, Martial Arts |
-| 2 | +2 | 1d4 | 2 | +10 ft | Ki, Unarmored Movement |
-| 3 | +2 | 1d4 | 3 | +10 ft | Monastic Tradition, Deflect Missiles |
-| 4 | +2 | 1d4 | 4 | +10 ft | Ability Score Improvement, Slow Fall |
-| 5 | +3 | 1d6 | 5 | +10 ft | Extra Attack, Stunning Strike |
-| 6 | +3 | 1d6 | 6 | +15 ft | Ki-Empowered Strikes, Monastic Tradition feature |
-| 7 | +3 | 1d6 | 7 | +15 ft | Evasion, Stillness of Mind |
-| 8 | +3 | 1d6 | 8 | +15 ft | Ability Score Improvement |
-| 9 | +4 | 1d6 | 9 | +15 ft | Unarmored Movement improvement |
-| 10 | +4 | 1d6 | 10 | +20 ft | Purity of Body |
-| 11 | +4 | 1d8 | 11 | +20 ft | Monastic Tradition feature |
-| 12 | +4 | 1d8 | 12 | +20 ft | Ability Score Improvement |
-| 13 | +5 | 1d8 | 13 | +20 ft | Tongue of the Sun and Moon |
-| 14 | +5 | 1d8 | 14 | +25 ft | Diamond Soul |
-| 15 | +5 | 1d8 | 15 | +25 ft | Timeless Body |
-| 16 | +5 | 1d8 | 16 | +25 ft | Ability Score Improvement |
-| 17 | +6 | 1d10 | 17 | +25 ft | Monastic Tradition feature |
-| 18 | +6 | 1d10 | 18 | +30 ft | Empty Body |
-| 19 | +6 | 1d10 | 19 | +30 ft | Ability Score Improvement |
-| 20 | +6 | 1d10 | 20 | +30 ft | Perfect Self |
-
+| Level | Prof. Bonus | Ki Points | Unarmored Movement Bonus | Features |
+|---|---|---|---|---|
+| 1 | +2  | — | — | Unarmored Defense, Martial Arts |
+| 2 | +2 | 2 | +10 ft | Ki, Unarmored Movement |
+| 3 | +2  | 3 | +10 ft | Monastic Tradition, Deflect Missiles |
+| 4 | +2 | 4 | +10 ft | Ability Score Improvement, Slow Fall |
+| 5 | +3  | 5 | +10 ft | Extra Attack, Stunning Strike |
+| 6 | +3  | 6 | +15 ft | Ki-Empowered Strikes, Monastic Tradition feature |
+| 7 | +3  | 7 | +15 ft | Evasion, Stillness of Mind |
+| 8 | +3  | 8 | +15 ft | Ability Score Improvement |
+| 9 | +4  | 9 | +15 ft | Unarmored Movement improvement |
+| 10 | +4 | 10 | +20 ft | Purity of Body |
+| 11 | +4 | 11 | +20 ft | Monastic Tradition feature |
+| 12 | +4| 12 | +20 ft | Ability Score Improvement |
+| 13 | +5 | 13 | +20 ft | Tongue of the Sun and Moon |
+| 14 | +5 | 14 | +25 ft | Diamond Soul |
+| 15 | +5 | 15 | +25 ft | Timeless Body |
+| 16 | +5 | 16 | +25 ft | Ability Score Improvement |
+| 17 | +6 | 17 | +25 ft | Monastic Tradition feature |
+| 18 | +6 | 18 | +30 ft | Empty Body |
+| 19 | +6 | 19 | +30 ft | Ability Score Improvement |
+| 20 | +6 | 20 | +30 ft | Perfect Self |
 ---
 
 ## Core Class Features
@@ -833,11 +829,12 @@ While wearing no armor and not using a shield: **AC = 10 + Dex mod + Wis mod**.
 ### Martial Arts (1st)
 Applies while unarmed or using a monk weapon (shortswords and simple melee weapons without the two-handed or heavy property), and you're not wearing armor or using a shield:
 - Use Dexterity instead of Strength for attack/damage rolls with unarmed strikes and monk weapons.
-- Roll the Martial Arts die (see table) instead of the normal unarmed/monk-weapon damage, if higher.
+- If your Initiative is higher than your opponent's: add 1d4 Damage if you hit
 - After taking the Attack action with an unarmed strike or monk weapon, you can make one extra unarmed strike as a bonus action (only once per turn, and only if you haven't used your bonus action already).
+- For damage check Special Weapons in Weapon Table (WIP)
 
 ### Ki (2nd)
-You gain a pool of ki points (see table). Spending ki fuels ki features. Spent points return on a short or long rest, but for a short rest you must spend at least 30 minutes of it meditating to regain them.
+You gain a pool of ki points (see table). Spending ki fuels ki features. Spended points return on a short or long rest, but for a short rest you must spend at least 30 minutes of it meditating to regain them.
 
 **Ki save DC = 8 + proficiency bonus + Wisdom modifier**
 
@@ -857,7 +854,7 @@ Choose Open Hand, Shadow, or Four Elements. Grants features at 3rd, 6th, 11th, a
 Reaction when hit by a ranged weapon attack: reduce the damage by **1d10 + Dex mod + monk level**. If this reduces damage to 0 and the missile is small enough to hold with a free hand, you catch it. Catching it lets you spend 1 ki to make a ranged attack with it as part of the same reaction, using proficiency regardless of normal weapon proficiencies.
 
 ### Ability Score Improvement (4th, 8th, 12th, 16th, 19th)
-+2 to one ability score, or +1 to two ability scores (max 20).
++2 to one ability score, or +1 to two ability scores (max 24).
 
 ### Slow Fall (4th)
 Reaction when falling: reduce fall damage by **5 × monk level**.
@@ -907,11 +904,11 @@ If you roll initiative with 0 ki points remaining, regain 4 ki points.
 - Str save or pushed up to 15 ft.
 - No reactions until the end of your next turn.
 
-**Wholeness of Body (6th)** — Action: regain HP equal to 3 × monk level. Usable once per long rest.
+**Wholeness of Body (6th)** — Action: regain HP equal to 1 × monk level, 2 x monk level Stamina. Usable once per long rest.
 
 **Tranquility (11th)** — At the end of a long rest, gain the effect of a *sanctuary* spell lasting until the start of your next long rest (can end early as normal). Save DC = your ki save DC.
 
-**Quivering Palm (17th)** — On an unarmed strike hit, spend 3 ki to set up lethal vibrations lasting a number of days equal to your monk level. Only one target can be affected at a time. You may end it harmlessly with no action, or use your action (must share a plane with the target) to force a Constitution save (DC = ki save DC): failure drops the target to 0 HP, success deals 10d10 necrotic damage.
+**Quivering Palm (17th)** — On an unarmed strike hit, spend 3 ki to set up lethal vibrations lasting a number of days equal to your monk level. Only one target can be affected at a time. You may end it harmlessly with no action, or use your action (must share a plane with the target) to force a Constitution save (DC = ki save DC): failure drops the target to 0 HP, success deals 8d10 necrotic damage.
 
 ### Way of Shadow
 
@@ -959,8 +956,6 @@ At 5th level+, you can spend extra ki to upcast a discipline spell that has a hi
 - **Wave of Rolling Earth** *(17th level req.)* — 6 ki: cast *wall of stone*.
 
 ---
-
-*Numbers and mechanics above reflect the standard 2014 5th Edition Monk class; wording has been rewritten for clarity and to fix OCR errors, not copied from the source text.*
 
 # Paladin — Mechanics Reference (2014 Rules)
 
