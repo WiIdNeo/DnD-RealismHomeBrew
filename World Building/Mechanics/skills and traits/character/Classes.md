@@ -657,10 +657,10 @@ Enemy's got disadvantage against you defensive Reaction. 1 use at 9th, 2 at 13th
 ## Champion
 
 * **3rd — Improved Critical:** Weapon attacks score a critical hit on a roll of 19–20.
-* **7th — Remarkable Athlete:** Add half proficiency bonus (round up) to Strength, Dexterity, or Constitution checks that don't already use proficiency. Running long jump distance increases by Strength modifier feet.
+* **7th — Remarkable Athlete:** Add half proficiency bonus (round up) to Strength, Dexterity, or Constitution checks that don't already use proficiency. Long jump distance increases by Strength modifier feet.
 * **10th — Additional Fighting Style:** Choose a second Fighting Style option.
 * **15th — Superior Critical:** Critical hit range expands to 18–20.
-* **18th — Survivor:** At the start of each turn, if below half max HP (and not at 0), regain 5 + Constitution modifier HP.
+* **18th — Survivor:** At the start of each turn, if below half max HP (and not at 0) or a fourth of stamina, regain min(1, Constitution modifier+1) HP or min(1, Constirution-Mod+Prof-Mod) stamina, based on what is missing.
 
 ## Battle Master
 
@@ -673,7 +673,7 @@ Enemy's got disadvantage against you defensive Reaction. 1 use at 9th, 2 at 13th
 
 ### Battle Master Maneuvers (choose from)
 
-Commander's Strike, Disarming Attack, Distracting Strike, Evasive Footwork, Feinting Attack, Goading Attack, Lunging Attack, Maneuvering Attack, Menacing Attack, Parry, Precision Attack, Pushing Attack, Rally, Riposte, Sweeping Attack, Trip Attack.
+Commander's Strike, Disarming Attack, Distracting Strike, Evasive Footwork, Feinting Attack, Goading Attack, Lunging Attack, Maneuvering Attack, Menacing Attack, Parry, Precision Attack, Pushing Attack, Rally, Sweeping Attack, Trip Attack.
 
 ## Eldritch Knight
 
