@@ -1252,9 +1252,6 @@ Once per turn, add your Wisdom modifier to an attack roll or damage roll against
 
 ## Core Stats
 
-- **Hit Die:** 1d8 per rogue level
-- **HP at 1st level:** 8 + Constitution modifier
-- **HP at higher levels:** 1d8 (or 5) + Constitution modifier per level after 1st
 - **Armor:** Light armor
 - **Weapons:** Simple weapons, hand crossbows, longswords, rapiers, shortswords
 - **Tools:** Thieves' tools
@@ -1407,15 +1404,10 @@ Whenever you gain a rogue level, you can swap one known spell for another (follo
 
 ---
 
-*Numbers, dice, ranges, and DCs above reflect the standard 2014 5th Edition Rogue class; wording is rewritten rather than quoted from the source text.*
-
 # Sorcerer — Mechanics Reference (2014 Rules)
 
 ## Core Stats
 
-- **Hit Die:** 1d6 per sorcerer level
-- **HP at 1st level:** 6 + Constitution modifier
-- **HP at higher levels:** 1d6 (or 4) + Constitution modifier per level after 1st
 - **Armor:** None
 - **Weapons:** Daggers, darts, slings, quarterstaffs, light crossbows
 - **Tools:** None
@@ -1499,7 +1491,7 @@ Gain a pool of sorcery points (see table), which fully refill on a long rest.
 ### Meta magic (3rd, +1 option at 10th, +1 at 17th — 4 total)
 Choose from the following (spend sorcery points to apply, usually when you cast a spell):
 
-- **Careful Spell** (1 pt) — When you cast a spell that forces others to save, choose up to your Cha modifier (min 1) creatures to automatically succeed.
+- **Careful Spell** (1 pt) — When you cast a spell that forces others to save, choose up to your Cha-modifier (min 1) creatures to automatically succeed.
 - **Distant Spell** (1 pt) — Double the range of a spell with a range of 5 ft or more; touch spells become 30 ft range.
 - **Empowered Spell** (1 pt) — Reroll up to your Cha modifier (min 1) damage dice from the spell; you must use the new rolls. Can combine with other metamagic affecting the same spell's damage.
 - **Extended Spell** (1 pt) — Double the duration of a spell with a duration of 1 minute or more, to a max of 24 hours.

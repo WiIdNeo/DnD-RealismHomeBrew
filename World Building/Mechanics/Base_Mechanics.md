@@ -21,7 +21,13 @@ Exhaustion is normally reduced by **1 level only after completing a Long Rest wi
 
 This already is really realistic. Normally you start to move slower, your muscles do not react like you wish, you start to hallucinate, you can't think anymore, you sleep longer. On extreme state you just can't move anymore and not only speed, but you can't use your muscles anymore as all your energy is needed for heart and breath. So at this state someone needs to care about you already, and lastly you just die. So base list is quite good you slowly lose your body control and life power. But I personally would not change anything on this yet. Maybe later if my group faces such punishment, I will return.
 
-# Drowning
+# Fall Damage 
+
+Immediately affects your HP.
+
+# Resting
+
+A long rest is automatically also a short rest, but only one no matter how long you actually rest.
 
 # Travel
 
