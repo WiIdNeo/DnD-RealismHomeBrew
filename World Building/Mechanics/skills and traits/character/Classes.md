@@ -961,9 +961,6 @@ At 5th level+, you can spend extra ki to upcast a discipline spell that has a hi
 
 ## Core Stats
 
-- **Hit Die:** 1d10 per paladin level
-- **HP at 1st level:** 10 + Constitution modifier
-- **HP at higher levels:** 1d10 (or 6) + Constitution modifier per level after 1st
 - **Armor:** All armor, shields
 - **Weapons:** Simple weapons, martial weapons
 - **Tools:** None
@@ -1009,20 +1006,22 @@ At 5th level+, you can spend extra ki to upcast a discipline spell that has a hi
 Action: detect the presence and rough location (not exact identity) of any celestial, fiend, or undead within 60 ft that isn't behind total cover; also reveals a place or object that's been consecrated or desecrated. Uses = 1 + Charisma modifier per long rest.
 
 ### Lay on Hands (1st)
-Pool of healing = **5 × paladin level**, refills on a long rest. As an action, touch a creature to restore HP from the pool (any amount up to what's left). Instead of healing, you can spend 5 points from the pool to cure one disease or neutralize one poison affecting the touched creature.
+Pool of healing = **3 × paladin level**, refills on a long rest. As an action, touch a creature to restore HP from the pool (any amount up to what's left). Instead of healing, you can spend 5 points from the pool to cure one disease or neutralize one poison affecting the touched creature.
+Pool of stamina = **2 × paladin level**, refills on a long rest. As an action, touch a creature to restore HP from the pool (any amount up to what's left).
 
 ### Fighting Style (2nd)
 Choose one:
-- **Defense** — +1 AC while wearing armor.
-- **Dueling** — +2 damage with a one-handed melee weapon, as long as you're not wielding another weapon.
-- **Great Weapon Fighting** — Reroll 1s and 2s on damage dice for two-handed or versatile melee weapons (must keep the new roll).
-- **Protection** — Reaction: impose disadvantage on an attack roll against an ally within 5 ft of you, provided you're wielding a shield.
+
+* **Defense:** +2 AC while wearing armor, +1 to blocking
+* **Dueling:** +1 to parry move. Your Riposte's damage ignores enemies Prof-Mod 
+* **Great Weapon Fighting:** Reroll 1s and 2s on damage dice for two-handed/versatile melee weapons (must use new roll). +(Prof-Bonus/2) Stamina Drain on attack on a stance
+* **Protection:** +2 to blocking, Wearing a shield, use reaction to impose disadvantage on an attack roll against a creature within 5 ft that you can see attacking a target other than you.
 
 ### Spellcasting (2nd)
 Charisma-based prepared caster.
 - **Spell save DC** = 8 + proficiency bonus + Cha modifier
 - **Spell attack modifier** = proficiency bonus + Cha modifier
-- **Spells prepared** = Cha modifier + half paladin level, rounded down (minimum 1); can re-prepare after a long rest.
+- **Spells prepared** = Cha modifier + half paladin level - 1, rounded down (minimum 1); can re-prepare after a long rest.
 - Oath spells (granted by your Sacred Oath) are always prepared and don't count against this total.
 
 ### Divine Smite (2nd)
@@ -1046,7 +1045,7 @@ Attack twice instead of once when you take the Attack action.
 While conscious, you and allies within 10 ft (30 ft at 18th level) add your Charisma modifier (minimum +1) to saving throws.
 
 ### Aura of Courage (10th)
-You and allies within 10 ft (30 ft at 18th level) can't be frightened while you're conscious.
+You and allies within 10 ft (30 ft from 18th level) can't be frightened while you're conscious.
 
 ### Improved Divine Smite (11th)
 All your melee weapon hits deal an extra 1d8 radiant damage automatically (in addition to any Divine Smite you choose to use).
@@ -1112,9 +1111,6 @@ Action: expend a spell slot to end one spell affecting yourself or a willing cre
 
 ## Core Stats
 
-- **Hit Die:** 1d10 per ranger level
-- **HP at 1st level:** 10 + Constitution modifier
-- **HP at higher levels:** 1d10 (or 6) + Constitution modifier per level after 1st
 - **Armor:** Light armor, medium armor, shields
 - **Weapons:** Simple weapons, martial weapons
 - **Tools:** None
@@ -1157,38 +1153,44 @@ Action: expend a spell slot to end one spell affecting yourself or a willing cre
 ### Favored Enemy (1st)
 Choose a type of enemy (or, if you pick humanoids, two specific humanoid races). You have advantage on Survival checks to track them and on Intelligence checks to recall information about them; you also learn one language they typically speak, if any. Pick an additional favored enemy at 6th and 14th level.
 
-### Natural Explorer (1st)
-Choose a favored terrain type. While traveling in it (and doing so alone, without your group, applies the stealth benefit below):
-- Difficult terrain doesn't slow your group's travel pace.
-- Your group can't get lost except by magical means.
-- You stay alert to danger even while doing something else while traveling (foraging, navigating, tracking).
-- Moving stealthily at a normal pace is possible even alone.
-- Foraging yields twice the usual food.
-- While tracking, you also learn the exact number of creatures, their sizes, and how long ago they passed through.
+### Favored Terrain
+
+Choose one type of favored terrain. When you make an Intelligence or Wisdom check related to your favored terrain, your proficiency bonus is doubled if you're using a skill you're proficient in.
+
+While traveling for an hour or more in your favored terrain, you gain the following benefits:
+
+* Difficult terrain doesn't slow your group's travel.
+* Your group can't become lost except by magical means.
+* Even when you're engaged in another activity while traveling (such as foraging, navigating, or tracking), you remain alert to danger.
+* If you are traveling alone, you can move stealthily at a normal pace.
+* When you forage, you find twice as much food as normal.
+* While tracking other creatures, you also learn their exact number, sizes, and how long ago they passed through the area.
 
 Pick an additional favored terrain at 6th and 10th level.
 
 ### Fighting Style (2nd)
 Choose one:
-- **Archery** — +2 to attack rolls with ranged weapons.
-- **Defense** — +1 AC while wearing armor.
-- **Dueling** — +2 damage with a one-handed melee weapon, provided you wield no other weapon.
-- **Two-Weapon Fighting** — Add your ability modifier to the damage of the second attack when two-weapon fighting.
+
+* **Archery:** +3 to attack rolls with ranged weapons.
+* **Defense:** +2 AC while wearing armor, +1 to blocking
+* **Dueling:** +1 to parry move. Your Riposte's damage ignores enemies Prof-Mod 
+* **Two-Weapon Fighting:** Add ability modifier to the damage of your off-hand attack when two-weapon fighting.
 
 ### Spellcasting (2nd)
-Wisdom-based, "spells known" caster (you know a fixed list, not a prepared list).
+Wisdom-based, "spells known" caster 
+
 - **Spell save DC** = 8 + proficiency bonus + Wis modifier
 - **Spell attack modifier** = proficiency bonus + Wis modifier
 - Spells known increases per the table above; you can swap one known spell for another whenever you gain a ranger level.
 
 ### Ranger Archetype (3rd)
-Choose Hunter or Beast Master. Grants features at 3rd, 7th, 11th, and 15th level.
+Choose Hunter or Beast Master.
 
 ### Primeval Awareness (3rd)
 Action: expend one spell slot to sense whether aberrations, celestials, dragons, elementals, fey, fiends, or undead are present within 1 mile (6 miles if in your favored terrain). This tells you which types are present, but not their number or location.
 
 ### Ability Score Improvement (4th, 8th, 12th, 16th, 19th)
-+2 to one ability score, or +1 to two ability scores (max 20).
++2 to one ability score, or +1 to two ability scores (max 24).
 
 ### Extra Attack (5th)
 Attack twice instead of once when you take the Attack action.
@@ -1220,8 +1222,8 @@ Once per turn, add your Wisdom modifier to an attack roll or damage roll against
 - **Horde Breaker** — Once per turn on your turn, when you make a weapon attack, you can make another attack with the same weapon against a different creature within 5 ft of the original target and also within range.
 
 **7th — Defensive Tactics.** Choose one:
-- **Escape the Horde** — Opportunity attacks against you are made with disadvantage.
-- **Multiattack Defense** — When a creature hits you with an attack, it has disadvantage on all other attack rolls against you this turn.
+- **Escape the Horde** — Your reactions to opportunity attacks gain advantage.
+- **Multiattack Defense** — When a creature hits you with an attack, your reactions to it's attacks gain advantage this turn.
 - **Steel Will** — Advantage on saving throws against being frightened.
 
 **11th — Multiattack.** Choose one:
@@ -1229,8 +1231,8 @@ Once per turn, add your Wisdom modifier to an attack roll or damage roll against
 - **Whirlwind Attack** — Action: make a melee attack against every creature within 5 ft of you.
 
 **15th — Superior Hunter's Defense.** Choose one:
-- **Evasion** — On an effect that allows a Dex save for half damage: success = no damage, failure = half damage.
-- **Stand Against the Tide** — Reaction: when hit by an attack from a creature, force it to reroll the attack and use the new result.
+- **Evasion** — On an effect that allows a Dex save for half damage: success = no damage, failure = half damage, dodges cost you only 7 stamina.
+- **Stand Against the Tide** — Reaction: when atacked by a creature, force it to reroll the attack damage and use the new result.
 - **Uncanny Dodge** — Reaction: halve the damage of an attack that hits you.
 
 ### Beast Master
@@ -1245,7 +1247,6 @@ Once per turn, add your Wisdom modifier to an attack roll or damage roll against
 
 ---
 
-*Numbers, dice, ranges, and DCs above reflect the standard 2014 5th Edition Ranger class; wording is rewritten rather than quoted from the source text.*
 
 # Rogue — Mechanics Reference (2014 Rules)
 

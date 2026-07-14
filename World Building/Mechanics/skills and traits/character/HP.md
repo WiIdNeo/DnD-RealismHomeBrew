@@ -21,3 +21,8 @@ $$\text{HP} = 40 + \text{CON-Mod}\times3$$
 5|55
 6|58
 7|61
+
+
+## 0 HP
+
+0 HP does mean you are unconscious. If damage exceeds this lethally your dm may decides to count it as death.
