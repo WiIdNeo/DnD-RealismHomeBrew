@@ -666,7 +666,7 @@ Enemy's got disadvantage against you defensive Reaction. 1 use at 9th, 2 at 13th
 
 * **3rd — Combat Superiority:** Gain 4 superiority dice (d8s); regain expended dice on a short or long rest (up to max). Learn 3 maneuvers from the maneuver list. Maneuver save DC = 8 + proficiency bonus + Strength or Dexterity modifier.
 * **3rd — Student of War:** Proficiency with one type of artisan's tools.
-* **7th — Know Your Enemy:** Spend 1 minute observing/interacting with a creature to learn how it compares to you in two chosen categories (e.g., Strength, AC, HP, class levels).
+* **7th — Know Your Enemy:** Spend 1 minute observing/interacting with a creature to learn how it compares to you in two chosen categories (e.g., Strength, AC, HP, Stamina, class levels).
 * **10th — Improved Combat Superiority:** Superiority dice become d10s.
 * **15th — Relentless:** If you have no superiority dice remaining, regain one when you roll initiative.
 * **18th — Improved Combat Superiority:** Superiority dice become d12s.
@@ -709,26 +709,24 @@ Commander's Strike, Disarming Attack, Distracting Strike, Evasive Footwork, Fein
 
 ---
 
-# ADDENDUM: 2024 Weapon Mastery System
+## ADDENDUM: 2024 Weapon Mastery System
 
-The 2024 revised rules (Player's Handbook 2024 / "5.5e") added **Weapon Mastery** — a mastery property attached to every weapon, usable only by classes/features that grant access to it (Barbarian, Fighter, Paladin, Ranger, Rogue). Fighters get the most masteries known and can swap them on a long rest.
-
-## The 8 Mastery Properties
+### The 8 Mastery Properties
 
 | Property | Trigger | Effect |
 | -------- | ------- | ------ |
 | **Cleave** | Hit with a melee attack | Make a melee attack roll against a second creature within 5 ft of the first and within your reach. On a hit, deal weapon damage (no ability modifier unless negative). Once per turn. |
 | **Graze** | Miss with an attack | Still deal damage equal to the ability modifier used for the attack roll (same damage type as the weapon). |
 | **Nick** | Attacking with a Light weapon's bonus-action extra attack | Make that extra attack as part of the Attack action instead of as a bonus action. Once per turn. |
-| **Push** | Hit | Push the creature up to 10 ft directly away from you, if Large or smaller. |
+| **Push** | Hit | Push the creature up to 10 ft directly away from you, if Large or smaller. This triggers opportunity attacks, but not yours. Those opportunity attacks can only be dodged. Dodge is some easier: +1 |
 | **Sap** | Hit | Target has disadvantage on its next attack roll before the start of your next turn. |
 | **Slow** | Hit and deal damage | Reduce target's Speed by 10 ft until the start of your next turn (doesn't stack beyond 10 ft total from this property). |
 | **Topple** | Hit | Force a Constitution save (DC 8 + proficiency bonus + ability modifier used). Failure = Prone. |
 | **Vex** | Hit and deal damage | Gain advantage on your next attack roll against that creature before the end of your next turn. |
 
-## Weapon-to-Mastery Assignments
+### Weapon-to-Mastery Assignments
 
-### Simple Melee
+#### Simple Melee
 | Weapon | Mastery |
 |---|---|
 | Club | Slow |
@@ -742,7 +740,7 @@ The 2024 revised rules (Player's Handbook 2024 / "5.5e") added **Weapon Mastery*
 | Sickle | Nick |
 | Spear | Sap |
 
-### Simple Ranged
+#### Simple Ranged
 | Weapon | Mastery |
 |---|---|
 | Dart | Vex |
@@ -750,7 +748,7 @@ The 2024 revised rules (Player's Handbook 2024 / "5.5e") added **Weapon Mastery*
 | Shortbow | Vex |
 | Sling | Slow |
 
-### Martial Melee
+#### Martial Melee
 | Weapon | Mastery |
 |---|---|
 | Battleaxe | Topple |
@@ -772,19 +770,16 @@ The 2024 revised rules (Player's Handbook 2024 / "5.5e") added **Weapon Mastery*
 | War Pick | Sap |
 | Whip | Slow |
 
-### Martial Ranged
+#### Martial Ranged
 | Weapon | Mastery |
 |---|---|
-| Blowgun | Vex |
 | Hand Crossbow | Vex |
 | Heavy Crossbow | Push |
 | Longbow | Slow |
-| Musket | Slow |
-| Pistol | Vex |
 
-## Fighter Access (2024 rules)
+### Fighter Access (2024 rules)
 
-The 2024 Fighter has a **Weapon Mastery** class feature: starts knowing 3 weapon masteries at 1st level (weapons you're proficient with), growing to 4 at 4th, 5 at 10th, 6 at 16th (exact benchmarks vary by errata — check current published Fighter table for your ruleset version). You can swap out one known mastery for another whenever you finish a long rest.
+The 2024 Fighter has a **Weapon Mastery** class feature: starts knowing 3 weapon masteries at 1st level (weapons you're proficient with), growing to 4 at 4th, 5 at 10th, 6 at 16th. You can swap out one known mastery for another whenever you finish a long rest.
 
 # Monk — Mechanics Reference (2014 Rules)
 
