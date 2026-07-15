@@ -133,6 +133,8 @@ $$\text{Defensive Action Mod} = \text{DC(Way out of the AoE)}\times\text{Reactio
 
 (Below 2: y = 2x, 2 or higher: y = x²)
 
+> Look to Weapon table: There you find a Overview about how difficult it is to get out of the way of the weapons reach. If radiant is below 30° it is normally the easiest to dodge to side, so range of AoE becomes 0.5 or if you go more into calc even below. In case the weapon does a swipe it does not really do any difference, in what direction you dodge, but dodging with the weapons direction is normally harder (+1), as the timing is much closer. As Player also describe what you exactly want to do!
+
 Dodges backwards are always more difficult: +1 
 
 | Tell                       | Reaction Time Mod |
@@ -141,6 +143,8 @@ Dodges backwards are always more difficult: +1
 |  short                         | ×(4/3)              |
 | normal             | ×1,0              |
 | slow  | ×(2/3)              |
+
+Normal is a handed average weapons speed, fast an arrows speed.
 
 
 ### 6.2 Block

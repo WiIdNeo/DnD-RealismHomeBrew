@@ -21,11 +21,11 @@ If your weapon is really heavy it is likely to slow you down. To simulate that y
 ## Overview
 
 | Waffe               | Wield  | Init | Parry DC | Parry | Block | Stance Dmg |
-| ------------------- | ------ | ---: | -------: | ----: | ----: | ---------: |
-| Keule               | single |   -1 |       -1 |    -1 |     0 |         +1 |
-| Dolch               | single |   +3 |       +1 |    -2 |    -2 |         -2 |
-| Handaxt             | single |   +1 |       -1 |    -1 |     0 |         +1 |
-| Wurfspeer           | single |   +1 |       +2 |     0 |    -1 |          0 |
+| ------------------- | ------ | ---: | -------: | ----: | ----: | ---------: | 
+| Keule               | single |   -1 |       -1 |    -1 |     0 |         +1 | 
+| Dolch               | single |   +3 |       +1 |    -2 |    -2 |         -2 | 
+| Handaxt             | single |   +1 |       -1 |    -1 |     0 |         +1 | 
+| Wurfspeer           | single |   +1 |       +2 |     0 |    -1 |          0 | 
 | Leichter Hammer     | single |    0 |       -2 |    -1 |    +1 |         +1 |
 | Streitkolben        | single |   -1 |       -2 |    -2 |    +2 |         +2 |
 | Sichel              | single |   +2 |       -2 |    -2 |    -2 |         -1 |
@@ -64,47 +64,106 @@ If your weapon is really heavy it is likely to slow you down. To simulate that y
 | Schwere Armbrust    | double |   -3 |       -3 |    -3 |    -3 |         -3 |
 | Langbogen           | double |    0 |       -3 |    -3 |    -3 |         -3 |
 
-| Weapon                | Damage | Reason                                                   |
-| --------------------- | -----: | -------------------------------------------------------- |
-| Club                  |    1d6 | Low penetration, but blunt trauma can still incapacitate |
-| Dagger                |    1d6 | Very lethal, but highly dependent on exact hit location  |
-| Handaxe               |    1d8 | Strong cutting force, enough mass                        |
-| Javelin               |    1d8 | Deep penetration, momentum from thrust/throw             |
-| Light Hammer          |    1d6 | Small mass, localized impact                             |
-| Mace                  |    1d8 | Heavy impact, strong against bone and armor              |
-| Sickle                |    1d6 | Cutting weapon, but limited penetration                  |
-| Dart                  |    1d4 | Small projectile, limited wound channel                  |
-| Sling                 |    1d6 | Small projectile but high velocity                       |
-| Flail                 |    1d8 | Heavy impact, unpredictable strikes                      |
-| Morningstar           |    1d8 | Similar to mace, spikes increase trauma                  |
-| Rapier                |    1d6 | Extremely dangerous thrust, but narrow wound             |
-| Scimitar              |    1d8 | Strong cutting weapon                                    |
-| Shortsword            |    1d8 | Balanced cutting/stabbing weapon                         |
-| War Pick              |   1d10 | Concentrated force, armor penetration                    |
-| Whip                  |    1d4 | Painful but limited deep trauma                          |
-| Blowgun               |    1d4 | Minimal physical damage                                  |
-| Hand Crossbow         |    1d8 | Strong penetration                                       |
-| Net                   |      0 | No damage                                                |
-| Quarterstaff (single) |    1d6 | Blunt weapon, moderate mass                              |
-| Quarterstaff (double) |    1d8 | More leverage                                            |
-| Spear (single)        |    1d8 | Excellent penetration                                    |
-| Spear (double)        |    1d8 | More control, not much more wound damage                 |
-| Battleaxe (single)    |   1d10 | Heavy cutting edge                                       |
-| Battleaxe (double)    |   1d10 | More leverage, same injury potential                     |
-| Longsword (single)    |    1d8 | Baseline                                                 |
-| Longsword (double)    |   1d10 | Two-handed leverage increases impact                     |
-| Trident               |    1d8 | Similar to spear                                         |
-| Warhammer             |   1d10 | Heavy concentrated impact                                |
-| Greatclub             |   1d10 | Massive blunt trauma                                     |
-| Light Crossbow        |    1d8 | High penetration                                         |
-| Glaive                |   1d10 | Heavy blade + leverage                                   |
-| Great Axe             |   1d12 | Maximum cutting trauma                                   |
-| Greatsword            |   1d10 | Less concentrated than axe but huge cuts                 |
-| Halberd               |   1d10 | Similar to poleaxe                                       |
-| Maul                  |   1d12 | Maximum blunt trauma                                     |
-| Pike                  |    1d8 | Deep penetration, but less mass                          |
-| Heavy Crossbow        |   1d10 | Very high penetration                                    |
-| Longbow               |    1d8 | Strong penetration, lower mass than crossbow             |
+| Waffe               | Angriff   | Radiant |  Länge | Speed               |
+| ------------------- | --------- | ------: | -----: | ------------------- |
+| Keule               | Hieb      |    100° |  80 cm | normal              |
+| Dolch               | Stich     |     10° |  20 cm | fast                |
+| Dolch               | Hieb      |     80° |  20 cm | fast                |
+| Handaxt             | Hieb      |    100° |  40 cm | normal              |
+| Wurfspeer           | Wurf      |      5° | 180 cm | normal              |
+| Leichter Hammer     | Hieb      |    100° |  40 cm | normal              |
+| Streitkolben        | Hieb      |    100° |  70 cm | normal              |
+| Sichel              | Hieb      |    110° |  45 cm | fast                |
+| Wurfpfeil           | Wurf      |      3° |  15 cm | fast                |
+| Schleuder           | Projektil |      2° |      – | fast                |
+| Dreschflegel        | Hieb      |    130° |  90 cm | normal              |
+| Morgenstern         | Hieb      |    120° |  80 cm | normal              |
+| Rapier              | Stich     |      8° | 110 cm | fast                |
+| Rapier              | Hieb      |     60° | 110 cm | fast                |
+| Krummsäbel          | Hieb      |    120° |  95 cm | fast                |
+| Kurzschwert         | Stich     |     10° |  70 cm | fast                |
+| Kurzschwert         | Hieb      |    100° |  70 cm | normal              |
+| Kriegshacke         | Hieb      |     95° |  75 cm | normal              |
+| Peitsche            | Schnalzen |     40° | 250 cm | normal                |
+| Blasrohr            | Projektil |      2° | 150 cm | fast                |
+| Handarmbrust        | Bolzen    |      2° |      – | fast                |
+| Netz                | Wurf      |     - | - | langsames Projektil |
+| Kampfstab (1H)      | Stoß      |     10° | 170 cm | normal              |
+| Kampfstab (1H)      | Hieb      |    120° | 170 cm | normal              |
+| Kampfstab (2H)      | Stoß      |     10° | 180 cm | normal              |
+| Kampfstab (2H)      | Hieb      |    140° | 180 cm | normal              |
+| Speer (1H)          | Stoß      |      8° | 230 cm | normal                |
+| Speer (1H)          | Hieb      |     90° | 230 cm | normal              |
+| Speer (2H)          | Stoß      |      8° | 260 cm | normal                |
+| Speer (2H)          | Hieb      |    100° | 260 cm | normal              |
+| Streitaxt (1H)      | Hieb      |    110° |  80 cm | normal              |
+| Streitaxt (2H)      | Hieb      |    120° | 120 cm | normal              |
+| Langschwert (1H)    | Stich     |      8° | 110 cm | normal                |
+| Langschwert (1H)    | Hieb      |    110° | 110 cm | normal              |
+| Langschwert (2H)    | Stich     |      8° | 120 cm | normal                |
+| Langschwert (2H)    | Hieb      |    120° | 120 cm | normal              |
+| Dreizack (1H)       | Stich     |     12° | 220 cm | normal                |
+| Dreizack (2H)       | Stich     |     12° | 240 cm | normal                |
+| Kriegshammer (1H)   | Hieb      |     90° |  75 cm | normal              |
+| Kriegshammer (2H)   | Hieb      |    100° | 120 cm | normal              |
+| Großer Knüppel      | Hieb      |    110° | 150 cm | normal              |
+| Leichte Armbrust    | Bolzen    |      2° |      – | fast                |
+| Glefe               | Hieb      |    130° | 220 cm | normal              |
+| Glefe               | Stich     |     10° | 220 cm | fast                |
+| Großaxt             | Hieb      |    130° | 160 cm | normal              |
+| Großschwert         | Stich     |      8° | 170 cm | normal                |
+| Großschwert         | Hieb      |    130° | 170 cm | normal              |
+| Hellebarde          | Stich     |     10° | 240 cm | normal                |
+| Hellebarde          | Hieb      |    130° | 240 cm | normal              |
+| Streithammer (Maul) | Hieb      |    100° | 170 cm | normal              |
+| Pike                | Stich     |      5° | 450 cm | normal                |
+| Schwere Armbrust    | Bolzen    |      2° |      – | fast                |
+| Langbogen           | Pfeil     |      2° |      – | fast                |
+
+
+| Weapon                | Damage Risky | Damage Save| Reason                                                   |
+| --------------------- | -----: | -----:|--------------------------------------------------- |
+| Club                  |    1d8 | 2d4 |Low penetration, but blunt trauma can still incapacitate |
+| Dagger                |    1d8 | 2d4|Very lethal, but highly dependent on exact hit location  |
+| Handaxe               |    1d8 | 2d4|Strong cutting force, enough mass                        |
+| Javelin               |    1d10 | 1d6+1d4|Deep penetration, momentum from thrust/throw             |
+| Light Hammer          |    1d8 | 2d4|Small mass, localized impact                             |
+| Mace                  |    1d10 | 1d6+1d4|Heavy impact, strong against bone and armor              |
+| Sickle                |    1d8 | 2d4|Cutting weapon, but limited penetration                  |
+| Dart                  |    1d6 | - |Small projectile, limited wound channel                  |
+| Sling                 |    1d8 | 2d4|Small projectile but high velocity                       |
+| Flail                 |    1d10 | 1d6+1d4|Heavy impact, unpredictable strikes                      |
+| Morningstar           |    1d10 | 1d6+1d4|Similar to mace, spikes increase trauma                  |
+| Rapier                |    1d8 | 2d4|Extremely dangerous thrust, but narrow wound             |
+| Scimitar              |    1d10 | 1d6+1d4|Strong cutting weapon                                    |
+| Shortsword            |    1d10 | 1d6+1d4|Balanced cutting/stabbing weapon                         |
+| War Pick              |   1d12 | 2d6|Concentrated force, armor penetration                    |
+| Whip                  |    1d6 | -|Painful but limited deep trauma                          |
+| Blowgun               |    1d6 | -|Minimal physical damage                                  |
+| Hand Crossbow         |    1d10 | 1d6+1d4|Strong penetration                                       |
+| Net                   |      0 | -|No damage                                                |
+| Quarterstaff (single) |    1d8 | 2d4|Blunt weapon, moderate mass                              |
+| Quarterstaff (double) |    1d10 | 1d6+1d4|More leverage                                            |
+| Spear (single)        |    1d10 | 1d6+1d4|Excellent penetration                                    |
+| Spear (double)        |    1d10 | 1d6+1d4|More control, not much more wound damage                 |
+| Battleaxe (single)    |   1d12 |2d6 |Heavy cutting edge                                       |
+| Battleaxe (double)    |   1d12 | 2d6|More leverage, same injury potential                     |
+| Longsword (single)    |    1d10 | 1d6+1d4|Baseline                                                 |
+| Longsword (double)    |   1d12 | 2d6 |Two-handed leverage increases impact                     |
+| Trident               |    1d10 |1d6+1d4 |Similar to spear                                         |
+| Warhammer             |   1d12 |2d6 |Heavy concentrated impact                                |
+| Greatclub             |   1d12 | 2d6|Massive blunt trauma                                     |
+| Light Crossbow        |    1d10 |1d6+1d4 |High penetration                                         |
+| Glaive                |   1d12 |2d6 |Heavy blade + leverage                                   |
+| Great Axe             |   2d8 |2d6+1d4 |Maximum cutting trauma                                   |
+| Greatsword            |   1d12 |2d6 |Less concentrated than axe but huge cuts                 |
+| Halberd               |   1d12 | 2d6|Similar to poleaxe                                       |
+| Maul                  |   2d8 | 2d4|Maximum blunt trauma                                     |
+| Pike                  |    1d10 |1d6+1d4 |Deep penetration, but less mass                          |
+| Heavy Crossbow        |   1d12 |2d6 |Very high penetration                                    |
+| Longbow               |    1d10 |1d6+1d4 |Strong penetration, lower mass than crossbow             |
+
+**If your Prof Bonus is 5 or higher, and you got profession with your weapon, you can choose to go for Save or Risky Damage, before you always go risky!**
 
 ## Special Weapons
 ### Shield

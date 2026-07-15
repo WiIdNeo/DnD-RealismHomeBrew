@@ -900,12 +900,22 @@ While wearing no armor and not using a shield: **AC = 4 + Dex mod + Wis mod**.
 ### Martial Arts (1st)
 Applies while unarmed or using a monk weapon (shortswords and simple melee weapons without the two-handed or heavy property), and you're not wearing armor or using a shield:
 - Use Dexterity instead of Strength for attack/damage rolls with unarmed strikes and monk weapons.
-- If your Initiative is higher than your opponent's: add 1d4 Damage if you hit
+- If your Initiative is higher than your opponent's: 
+
+|Tier | + Dice|
+|-|-|
+|1 | 1d4|
+|3 | 1d6|
+|5 | 1d8|
+|7 |1d10|
+|9 | 1d12|
+|...|...|
+
 - After taking the Attack action with an unarmed strike or monk weapon, you can make one extra unarmed strike as a bonus action (only once per turn, and only if you haven't used your bonus action already).
 
-| Weapon  |Damage| Wield  | Init | Parry DC | Parry / Block | Stance Dmg |
+| Weapon  |Risky Damage| Save Damage|Wield  | Init | Parry DC | Parry / Block | Stance Dmg |
 |-|-|-|-|-|-|-|
-| Monk's Fist | 1d8+Prof+DEX | double | +3 | +2 | against sharp Weapons you can't parry or block, against thump weapons even on success parry/block you receive 1W4+Prof damage | +0 |
+| Monk's Fist | 1d10+Prof+DEX | 1d4+1d6+Prof+DEX| double | +3 | +2 | against sharp Weapons you can't parry or block, against thump weapons even on success parry/block you receive 1W4+Prof damage | +0 |
 
 natural weapon!
 

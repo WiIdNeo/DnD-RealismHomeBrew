@@ -59,9 +59,9 @@
 
 ### Tabaxi
 
-| Weapon  |Damage| Wield  | Init | Parry DC | Parry / Block | Stance Dmg |
-|-|-|-|-|-|-|-|
-| Cat's Claw | 1d8+Prof+DEX or STR-Mod | double | +3 | +2 | against sharp Weapons you can't parry or block, against thump weapons even on success parry/block you receive 1W4+Prof damage | +0 |
+| Weapon  |Damage Risky | Damage Save| Wield  | Init | Parry DC | Parry / Block | Stance Dmg |
+|-|-|-|-|-|-|-|-|
+| Cat's Claw | 1d10 (DEX or STR)| 1d6+1d4 (DEX or STR) | double | +3 | +2 | against sharp Weapons you can't parry or block, against thump weapons even on success parry/block you receive 1W4+Prof damage | +0 |
 
 natural weapon!
 

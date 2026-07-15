@@ -174,9 +174,9 @@ You gain advantage on Charisma checks against one non-hostile creature of your c
 
 **Classes:** Artificer, Druid, Sorcerer, Warlock, Wizard
 
-Numbing frost forms on a target; on a failed Constitution save it takes 1d6 cold damage and has disadvantage on its next weapon attack roll before the end of its next turn. (Projectile)
+Numbing frost forms on a target; on a failed Constitution save it takes 1d6 cold damage and has disadvantage on its next weapon attack roll before the end of its next turn.
 
-*Higher Levels:* Damage rises to 2d6 at level 5, 3d6 at 11, 4d6 at 17.
+*Higher Levels:* Damage rises to 2d4 at level 5, 2d6 at 11, 3d6 at 17.
 
 ---
 
@@ -190,7 +190,7 @@ Numbing frost forms on a target; on a failed Constitution save it takes 1d6 cold
 
 You make a normal melee attack against an adjacent creature; on a hit, green fire also leaps to a second nearby creature of your choice, dealing fire damage equal to your spellcasting modifier.
 
-*Higher Levels:* At 5th level the melee hit deals +1d8 fire damage and the leap damage becomes 1d8 + modifier; both scale again at 11th (2d8/2d8) and 17th (3d8/3d8).
+*Higher Levels:* At 5th level the melee hit deals +1d4 fire damage and the leap damage becomes 1d4 + modifier; both scale again at 11th (1d6/1d6) and 17th (1d8/1d8).
 
 ---
 
@@ -218,7 +218,7 @@ You seize the air to create one effect: push a Medium or smaller creature 5 feet
 
 ---
 
-## Hand of Radiance (UA)
+## Hand of Radiance
 
 *Evocation cantrip* — Unearthed Arcana 36: Starter Spells
 
@@ -226,9 +226,9 @@ You seize the air to create one effect: push a Medium or smaller creature 5 feet
 
 **Classes:** Cleric
 
-Radiance erupts from your raised hand; each creature you choose within 5 feet must succeed on a Constitution save or take 1d6 radiant damage.
+Radiance erupts from your raised hand; each creature you choose within 1.5 must succeed on a Constitution save or take 1d6 radiant damage. (Instantaneous)
 
-*Higher Levels:* Damage rises to 2d6 at level 5, 3d6 at 11, 4d6 at 17.
+*Higher Levels:* Damage rises to 2d4 at level 5, Range raises to 2m at level 11 and 3m at 17.
 
 ---
 
@@ -240,9 +240,9 @@ Radiance erupts from your raised hand; each creature you choose within 5 feet mu
 
 **Classes:** Druid, Sorcerer, Warlock, Wizard
 
-A cloud of mites and fleas swarms a target; on a failed Constitution save it takes 1d6 poison damage and is shoved 5 feet in a randomly rolled direction (if able to move), without provoking opportunity attacks.
+A cloud of mites and fleas swarms a target (circle of 0.25m radius); Dodge possible. CON Save. The swarm stays DC - Con Rounds. As long the swarm stays you are blinded. You take 1d4 on impact. (fast projectile)
 
-*Higher Levels:* Damage rises to 2d6 at level 5, 3d6 at 11, 4d6 at 17.
+*Higher Levels:* Damage rises to 2d4 at level 11, Range rises to 0.5m on lvl 5 and 1m at 17.
 
 ---
 
@@ -266,9 +266,9 @@ You make a touched object (up to 10 feet in any dimension) shed bright light in 
 
 **Classes:** Artificer; optional for Sorcerer, Warlock, Wizard
 
-A lash of lightning strikes a creature within 15 feet; on a failed Strength save it's yanked up to 10 feet toward you and takes 1d8 lightning damage if it ends adjacent to you.
+A lash of lightning strikes a creature within 4.5m; on a failed Strength save it's yanked up to 3m toward you and takes 1d6 lightning damage if it ends adjacent to you. (instant)
 
-*Higher Levels:* Damage rises to 2d8 at level 5, 3d8 at 11, 4d8 at 17.
+*Higher Levels:* Damage rises to 2d4 at level 5, 2d6 at 11, at 17 it reaches up to 7m and pulls up to 4m.
 
 ---
 
@@ -330,7 +330,7 @@ You whisper a message to a chosen creature, who alone hears it and can whisper a
 
 A spike of psychic energy strikes a creature's mind; on a failed Intelligence save it takes 1d6 psychic damage and subtracts 1d4 from its next saving throw before the end of your next turn.
 
-*Higher Levels:* Damage rises to 2d6 at level 5, 3d6 at 11, 4d6 at 17.
+*Higher Levels:* Damage rises to 1d8 at level 5, 1d6+1d4 at 11, 2d6 at 17.
 
 ---
 
@@ -354,7 +354,7 @@ You create a sound (any volume or source) or a static image of an object no larg
 
 **Classes:** Druid, Sorcerer, Wizard
 
-You reshape a 5-foot cube of dirt or stone: instantly excavate and relocate loose earth up to 5 feet (no damage), etch shapes/words/patterns lasting 1 hour, or turn ground into (or out of) difficult terrain for 1 hour. Up to two non-instantaneous effects can persist at once; dismiss one as an action.
+You reshape a 1,5m cube of dirt or stone: instantly excavate and relocate loose earth up to 5 feet (no damage), etch shapes/words/patterns lasting 1 hour, or turn ground into (or out of) difficult terrain for 1 hour. Up to two non-instantaneous effects can persist at once; dismiss one as an action.
 
 ---
 
@@ -374,13 +374,13 @@ You flip a simple physical on/off switch on any electronic device within range, 
 
 *Conjuration cantrip* — Player's Handbook
 
-**Casting Time:** 1 action · **Range:** 10 feet · **Components:** V, S · **Duration:** Instantaneous
+**Casting Time:** 1 action · **Range:** 3m · **Components:** V, S · **Duration:** Instantaneous
 
 **Classes:** Artificer, Druid, Sorcerer, Warlock, Wizard
 
-You project noxious gas from your palm; on a failed Constitution save the target takes 1d12 poison damage.
+You project noxious gas from your palm; on a failed Constitution save the target takes 1d8 poison damage. (slow projectile)
 
-*Higher Levels:* Damage rises to 2d12 at level 5, 3d12 at 11, 4d12 at 17.
+*Higher Levels:* Damage rises to 2d6 at level 5, 2d8 at 11, Range is now 5m.
 
 ---
 
@@ -404,9 +404,9 @@ A minor magic trick: create a harmless sensory effect, light/snuff a small flame
 
 **Classes:** Druid
 
-Your teeth or nails sharpen for a melee spell attack against an adjacent creature, dealing 1d10 acid damage on a hit before returning to normal.
+Your teeth or nails sharpen for a melee spell attack against an adjacent creature, dealing 1d8 acid damage on a hit before returning to normal.
 
-*Higher Levels:* Damage rises to 2d10 at level 5, 3d10 at 11, 4d10 at 17.
+*Higher Levels:* Damage rises to, 2d6 at 11, Duration is 2 rounds on level 5 and 4 on level 17, you can dismiss at any time for no cost.
 
 ---
 
@@ -418,9 +418,9 @@ Your teeth or nails sharpen for a melee spell attack against an adjacent creatur
 
 **Classes:** Druid
 
-A harmless flame flickers in your hand, shedding bright light in 10 feet and dim light for 10 more, until dismissed or recast. You can hurl it at a creature within 30 feet as a ranged spell attack (1d8 fire damage on a hit), which ends the spell.
+A harmless flame flickers in your hand, shedding bright light in 10 feet and dim light for 10 more, until dismissed or recast. You can hurl it at a creature within 30 feet as a ranged spell attack (1d6 fire damage on a hit), which ends the spell.
 
-*Higher Levels:* Damage rises to 2d8 at level 5, 3d8 at 11, 4d8 at 17.
+*Higher Levels:* Damage rises to 2d4 at level 5, 2d6 at 11, 2d8 at 17.
 
 ---
 
@@ -432,9 +432,9 @@ A harmless flame flickers in your hand, shedding bright light in 10 feet and dim
 
 **Classes:** Artificer, Sorcerer, Wizard
 
-A frigid ray attacks with a ranged spell attack; on a hit it deals 1d8 cold damage and reduces the target's speed by 10 feet until the start of your next turn.
+A frigid ray attacks with a ranged spell attack; on a hit it deals 1d4 cold damage and reduces the target's speed by 10 feet each round it misses a CON Check.
 
-*Higher Levels:* Damage rises to 2d8 at level 5, 3d8 at 11, 4d8 at 17.
+*Higher Levels:* Damage rises to 1d6 at level 5, 2d4 at 11, 2d6 at 17.
 
 ---
 
@@ -458,9 +458,9 @@ You touch a willing creature; once before the spell ends, it can add a d4 roll t
 
 **Classes:** Cleric
 
-Radiance descends on a target; on a failed Dexterity save (cover offers no benefit) it takes 1d8 radiant damage.
+Radiance descends on a target; it takes 1d6 radiant damage. (normal speed)
 
-*Higher Levels:* Damage rises to 2d8 at level 5, 3d8 at 11, 4d8 at 17.
+*Higher Levels:* Damage rises to 2d4 at level 5, 3d4 at 11, 2d8 at 17.
 
 ---
 
@@ -510,9 +510,9 @@ Your held club or quarterstaff is empowered: for the duration you use your spell
 
 **Classes:** Artificer, Sorcerer, Wizard
 
-Lightning jolts a creature you touch (a melee spell attack, with advantage if the target wears metal armor). On a hit it takes 1d8 lightning damage and can't take reactions until the start of its next turn.
+Lightning jolts a creature you touch (a melee spell attack, with double Damage if the target wears metal armor). On a hit it takes 1d4 lightning damage and can't take reactions until the start of its next turn (reaction != defensive action). (normal)
 
-*Higher Levels:* Damage rises to 2d8 at level 5, 3d8 at 11, 4d8 at 17.
+*Higher Levels:* Damage rises to 1d6 at level 5, 2d4 at 11, 2d6 at 17.
 
 ---
 
@@ -536,9 +536,9 @@ You touch a living creature at 0 hit points, stabilizing it. Has no effect on un
 
 **Classes:** Artificer; optional for Sorcerer, Warlock, Wizard
 
-Spectral blades sweep around you; each other creature within 5 feet must succeed on a Dexterity save or take 1d6 force damage.
+Spectral blades sweep around you; each other creature within 1.5m. Blocks are 3 impacts, can't parry. 1d4 force damage. 
 
-*Higher Levels:* Damage rises to 2d6 at level 5, 3d6 at 11, 4d6 at 17.
+*Higher Levels:* Damage rises to 1d6 at level 5, 2d4 at 11, 2d6 at 17.
 
 ---
 
@@ -558,13 +558,15 @@ A minor supernatural sign: amplify your voice for 1 minute, flicker/change flame
 
 *Transmutation cantrip* — Player's Handbook
 
-**Casting Time:** 1 action · **Range:** 30 feet · **Components:** V, S, M (a thorny plant stem) · **Duration:** Instantaneous
+**Casting Time:** 1 action · **Range:** 9m · **Components:** V, S, M (a thorny plant stem) · **Duration:** Instantaneous
 
 **Classes:** Artificer, Druid
 
-A thorned vine lashes a creature (a melee spell attack); on a hit it deals 1d6 piercing damage, and if Large or smaller, is pulled up to 10 feet toward you.
+A thorned vine lashes a creature; on a hit it deals 1d4 piercing damage, and if Normal size or smaller, is pulled up to 10 feet toward you. (slow projectile)
 
-*Higher Levels:* Damage rises to 2d6 at level 5, 3d6 at 11, 4d6 at 17.
+*Higher Levels:* Make 2 vines lash at one or different targets: must get 2 vines dodged at level 5, increase range of vines to 15m of you at level 11 and make 3 vines reach for the target or different targets. 
+
+Two vines can pull a large and three a giant foe.
 
 ---
 
@@ -576,9 +578,9 @@ A thorned vine lashes a creature (a melee spell attack); on a hit it deals 1d6 p
 
 **Classes:** Artificer, Bard, Druid, Sorcerer, Warlock, Wizard
 
-A burst of thunder (audible 100 feet away) strikes everyone else within 5 feet; a failed Constitution save deals 1d6 thunder damage.
+A burst of thunder (audible 100 feet away) strikes everyone else within 1.5 feet; a failed Constitution save deals 1d6 thunder damage. (instant)
 
-*Higher Levels:* Damage rises to 2d6 at level 5, 3d6 at 11, 4d6 at 17.
+*Higher Levels:* Damage rises to 1d10 at level 5, 2d8 at 17. At level 11 Range becomes 2.5m
 
 ---
 
@@ -590,9 +592,9 @@ A burst of thunder (audible 100 feet away) strikes everyone else within 5 feet; 
 
 **Classes:** Cleric, Warlock, Wizard
 
-A dolorous bell tolls around a target; on a failed Wisdom save it takes 1d8 necrotic damage — or 1d12 if it's already missing hit points.
+A dolorous bell tolls around a target; on a failed Wisdom save it takes 1d4 necrotic damage — or 1d6 if it's already missing hit points.
 
-*Higher Levels:* Damage dice increase by one at level 5 (2d8/2d12), 11 (3d8/3d12), and 17 (4d8/4d12).
+*Higher Levels:* Damage dice increase by one at level 5 (2d4/2d6), 17 (2d6/3d6), at level 11 there are now two bells, so target gains disadvantage on save.
 
 ---
 
@@ -604,7 +606,7 @@ A dolorous bell tolls around a target; on a failed Wisdom save it takes 1d8 necr
 
 **Classes:** Bard, Sorcerer, Warlock, Wizard
 
-You study a target's defenses; if the spell is still active on your next turn, you gain advantage on your first attack roll against it.
+You study a target's defenses; if the spell is still active on your next turn, your target can't use a defensive action on your first attack roll against it.
 
 ---
 
@@ -622,7 +624,7 @@ A barrage of enchanted insults strikes a creature that can hear you; on a failed
 
 ---
 
-## Virtue (UA)
+## Virtue
 
 *Abjuration cantrip* — Unearthed Arcana 36: Starter Spells
 
@@ -630,7 +632,7 @@ A barrage of enchanted insults strikes a creature that can hear you; on a failed
 
 **Classes:** Cleric
 
-You touch a creature with at least 1 hit point, granting it 1d4 + your spellcasting modifier temporary hit points, lost when the spell ends.
+You touch a creature with at least 1 hit point, granting it 1d8 + your spellcasting modifier temporary hit points, lost when the spell ends.
 
 ---
 
@@ -642,9 +644,9 @@ You touch a creature with at least 1 hit point, granting it 1d4 + your spellcast
 
 **Classes:** Cleric
 
-Burning radiance bursts from you; each creature you choose within range must succeed on a Constitution save or take 1d6 radiant damage.
+Burning radiance bursts from you; each creature you choose within range must succeed on a Constitution save or take 1d6 radiant damage. (Instant)
 
-*Higher Levels:* Damage rises to 2d6 at level 5, 3d6 at 11, 4d6 at 17.
+*Higher Levels:* Damage rises to 2d4 at level 5, 2d6 at 11, 2d8 at 17.
 
 ---
 
