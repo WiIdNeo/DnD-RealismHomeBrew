@@ -1538,7 +1538,6 @@ Regain 4 sorcery points whenever you finish a short rest.
 
 ---
 
-*Numbers, dice, ranges, and DCs above reflect the standard 2014 5th Edition Sorcerer class; wording is rewritten rather than quoted from the source text.*
 
 # Wizard — Mechanics Reference (2014 Rules)
 
