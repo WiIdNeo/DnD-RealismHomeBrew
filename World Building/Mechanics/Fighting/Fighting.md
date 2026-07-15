@@ -94,8 +94,6 @@ $$DC = \text{10} + \text{Init-Diff-Tier} + \text{Attacker-Prof} - \text{Defender
 
 Defender rolls a plain 1d20 ≥ DC (all modifiers are already baked into the DC). At parity with no initiative difference: ~50/50. A natural 20 always succeeds, a natural 1 always fails.
 
-**Init-Diff-Tier** (capped at max. +4, to limit stacking with stat/prof bonuses):
-
 | Initiative Difference | Tier |
 |---|---|
 | 0 | 0 |
@@ -108,7 +106,7 @@ Defender rolls a plain 1d20 ≥ DC (all modifiers are already baked into the DC)
 | 21 | 7 |
 | ... | ... |
 
-*Replaces a separate "can I react at all" gate check — the initiative difference flows directly into the existing defense DC, no extra roll needed.*
+If the defenders is higher than the attackers of course take the value*(-1) instead!
 
 In case you role a nat1 or nat20 that only effects your position in action queue, the Initiative for this difference is still increased/decreased according to Buffs.
 
@@ -116,8 +114,6 @@ In case you role a nat1 or nat20 that only effects your position in action queue
 ### 6.1 Dodge
 
 As DEX is already represented in Initiative-Difference. Defensive Action Mod is 2, as I am not a fan of basic Heads or Tails, but the DM can decide if the check is close to win, so you may already in the dodge, so the damage is halved and the zone maybe isn't hit or something like that. If your Dm wants a Head and Tail System I recommend instead a Mod of 0.
-
-Failure
 
 Fixed stamina cost of 9. Pure DEX check, scaling with distance/attacker's DEX. On success: 0 damage.
 
@@ -279,3 +275,20 @@ On leaving the melee range of an enemy it got it's leaving attack. Now there are
 
 
 ---
+
+## 15. Disarming
+
+### How to disarm?
+
+There are multiple ways of disarming a foe. First is the foe fails the parry/block defensive action critically (nat1). Then it drops its parry/block weapon.
+
+Other is you call the attempt to disarm. Then in case you hit, the foe makes an unbuffed d20 throw against your damage. Damage is not dealt to the foe's hp at all. In case it gets the save nothing happens. If it loses the save it looses the weapon you called out. If you called to main weapon but the foe blocks/parries it mustn't do the throw.
+
+If the foe got a two handed weapon it got advantage to this second way.
+
+### What happens to the weapon?
+
+The weapons simply drops to the ground. If your dm decides to go for a more complex way he just guesses how far the weapon was thrown. For this may use the difference of d20 and disarming damage and multiply it with 15 for the Centimeters the weapon flow away.
+
+After every disarming event the weapon can be used by everyone. You burn 5 feet of your movement in advance to take up a weapon. You DM decides if that is possible due to weight and size.
+
