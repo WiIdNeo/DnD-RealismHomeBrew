@@ -1,0 +1,69 @@
+import random
+
+k = 0
+j = 0
+
+#for i in range(250000):
+#     x = random.randint(1, 8)
+#     y = random.randint(1, 6) + random.randint(1,8)/4
+#     z = 0
+#     y = random.randint(1,4) + random.randint(1,4)
+#     z = random.randint(1, 6) + random.randint(1,4)
+#     a = y - x
+#     b = z - x
+#     j += a
+#     k += b
+#     print(x, y, z, a, b)
+
+#print(j, k)
+
+
+foes = []
+rounds = []
+
+y = 0
+z = 0
+c = 0
+
+
+# Humanoid targets
+for i in range(25, 62):
+    foes.append(i)
+    foes.append(i)
+    foes.append(i)
+
+# Boss enemies
+for i in range(50, 250):
+    foes.append(i)
+    foes.append(i)
+    a = i*1.5
+    foes.append(a)
+
+for foe in foes:
+    print(foe)
+    k = 0
+    r = 0
+    t = 0
+    
+    # monk
+    x = foe
+    while x > 0:
+        k += 1
+        x -= 4.5+4+5
+
+    # tabaxi
+    x = foe
+    while x > 0:
+        r += 1
+        t += 1
+        if t > 5:
+            x -= 6.5+4+5
+            continue
+        x -= 3.5+4+5
+    d = k - r
+    c += d
+    rounds.append([d, c])
+
+
+print(rounds)
+     

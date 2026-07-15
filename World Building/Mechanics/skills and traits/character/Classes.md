@@ -895,14 +895,21 @@ The 2024 Fighter has a **Weapon Mastery** class feature: starts knowing 3 weapon
 ## Core Class Features
 
 ### Unarmored Defense (1st)
-While wearing no armor and not using a shield: **AC = 10 + Dex mod + Wis mod**.
+While wearing no armor and not using a shield: **AC = 4 + Dex mod + Wis mod**.
 
 ### Martial Arts (1st)
 Applies while unarmed or using a monk weapon (shortswords and simple melee weapons without the two-handed or heavy property), and you're not wearing armor or using a shield:
 - Use Dexterity instead of Strength for attack/damage rolls with unarmed strikes and monk weapons.
 - If your Initiative is higher than your opponent's: add 1d4 Damage if you hit
 - After taking the Attack action with an unarmed strike or monk weapon, you can make one extra unarmed strike as a bonus action (only once per turn, and only if you haven't used your bonus action already).
-- For damage check Special Weapons in Weapon Table (WIP)
+
+| Weapon  |Damage| Wield  | Init | Parry DC | Parry / Block | Stance Dmg |
+|-|-|-|-|-|-|-|
+| Monk's Fist | 1d8+Prof+DEX | double | +3 | +2 | against sharp Weapons you can't parry or block, against thump weapons even on success parry/block you receive 1W4+Prof damage | +0 |
+
+natural weapon!
+
+> Tabaxies get the opportunity to swap Damage Type from Plungeion to Slash due to their Claws. it still counts as Material Art attack. Everything else stays the same.
 
 ### Ki (2nd)
 You gain a pool of ki points (see table). Spending ki fuels ki features. Spended points return on a short or long rest, but for a short rest you must spend at least 30 minutes of it meditating to regain them.

@@ -121,9 +121,6 @@ A shield does not deal any damage on Attack! Therefore your Target needs to do a
 
 ### Natural Weapons
 
-Natural Weapons can be handled differently and as I did not play test yet I am not sure how strong those things are:
-
-1. You give a little more damage 1d6 → 1d8
-2. You gain Bonuses on checks that need hands or are easier with, this could include Dodging!
+As your movement is not blocked or slowed in any way all checks whatfore figners or arms are useful the DC becomes 1 lower. This also applies to dodges.
 
 The weapons themself you find in Classes and Races markdowns
