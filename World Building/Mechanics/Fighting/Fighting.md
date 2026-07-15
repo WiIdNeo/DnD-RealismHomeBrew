@@ -113,11 +113,35 @@ In case you role a nat1 or nat20 that only effects your position in action queue
 
 ### 6.1 Dodge
 
-As DEX is already represented in Initiative-Difference. Defensive Action Mod is 2, as I am not a fan of basic Heads or Tails, but the DM can decide if the check is close to win, so you may already in the dodge, so the damage is halved and the zone maybe isn't hit or something like that. If your Dm wants a Head and Tail System I recommend instead a Mod of 0.
+As DEX is already represented in Initiative-Difference. Defensive Action Mod is based on area affected by the Effect, as I am not a fan of basic Heads or Tails, but the DM can decide if the check is close to win, so you may already in the dodge, so the damage is halved and the zone maybe isn't hit or something like that.
 
 Fixed stamina cost of 9. Pure DEX check, scaling with distance/attacker's DEX. On success: 0 damage.
 
-If you evade the same enemy multiple times in a row during the same turn the stamina cost reduces by one each time it attacks. When turn of the enemy ends it get's resetted to 9
+If you evade the same enemy multiple times in a row during the same turn the stamina cost reduces by one each time it attacks. When turn of the enemy ends, or you are hit it get's resetted to 9.
+
+$$\text{Defensive Action Mod} = \text{DC(Way out of the AoE)}\times\text{Reaction Time Mod}$$
+
+|Way out of the AoE|DC|
+|-|-|
+|0.5m | 1 |
+|1m|2|
+|2m|4|
+|3m|9|
+|4m|16|
+|5m|25m|
+|6m|36m|
+
+(Below 2: y = 2x, 2 or higher: y = x²)
+
+Dodges backwards are always more difficult: +1 
+
+| Tell                       | Reaction Time Mod |
+| ----------------------------------- | ----------------- |
+| No (instant)                     | ×(5/3)              |
+|  short                         | ×(4/3)              |
+| normal             | ×1,0              |
+| slow  | ×(2/3)              |
+
 
 ### 6.2 Block
 You gain a block buff depending on your block weapon, stamina drain scales with the damage of the hit:

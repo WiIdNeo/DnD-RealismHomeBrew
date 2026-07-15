@@ -4,3 +4,4 @@ debuffs
 debuff
 psychologic
 lvl
+AoEs
