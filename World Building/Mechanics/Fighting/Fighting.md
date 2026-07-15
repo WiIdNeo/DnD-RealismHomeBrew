@@ -117,6 +117,8 @@ As DEX is already represented in Initiative-Difference. Defensive Action Mod is 
 
 Fixed stamina cost of 9. Pure DEX check, scaling with distance/attacker's DEX. On success: 0 damage.
 
+If you evade the same enemy multiple times in a row during the same turn the stamina cost reduces by one each time it attacks. When turn of the enemy ends it get's resetted to 9
+
 ### 6.2 Block
 You gain a block buff depending on your block weapon, stamina drain scales with the damage of the hit:
 
