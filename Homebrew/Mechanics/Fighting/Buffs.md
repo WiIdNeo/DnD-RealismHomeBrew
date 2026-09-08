@@ -15,13 +15,4 @@
 | **Petrified**     | The creature turns to stone. It is incapacitated, does not age, and becomes extremely resilient. 
 | **Unconscious**   | The creature is lying on the ground, incapacitated, and drops its held items. It automatically fails Strength and Dexterity checks. It is considered **"Lying on the Ground."**  |
 
----
-
-### Lying on the Ground
-
-This new condition applies when a target is lying on the ground, either because it has been knocked down or because it lies down voluntarily.
-
-While in this state, the creature is considered **half-covered**. Ranged attacks against it have disadvantage. The affected creature cannot parry, and other defensive reactions have their difficulty increased by **+2**.
-
-To overcome this condition, **4.5 m of movement** must be spent.
 
