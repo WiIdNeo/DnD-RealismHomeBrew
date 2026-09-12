@@ -111,7 +111,7 @@ die Erste Herrin, und die letzte Bahn.
 
 ## Grundidee: Zwei Reaktionen auf dieselbe Wahrheit
 
-Sowohl Bruder Tamlin als auch Ilsevet Morrow spüren nach der Sommersonnenwende, dass etwas nicht stimmt. Sie reagieren aber gegensätzlich: Tamlin sucht Hilfe *außerhalb* Triboars (offizieller Weg, Kirchenhierarchie), Ilsevet kämpft *innerhalb* der Stadt (direkter, aber aussichtsloser Widerstand). Beide Wege sollen am Ende zeigen: Der Kult lässt sich nicht durch guten Willen aufhalten, nur durch das Verstehen und Bekämpfen seiner Methode – bzw. durch das Ausschalten Lysandras selbst.
+Sowohl Bruder Tamlin als auch Ilsevet Morrow spüren nach der Sommersonnenwende, dass etwas nicht stimmt. Sie reagieren aber gegensätzlich: Tamlin sucht Hilfe *außerhalb* Triboars (offizieller Weg, Kirchenhierarchie), Ilsevet kämpft *innerhalb* der Stadt (direkter, aber aussichtsloser Widerstand). Beide Wege sollen am Ende zeigen: Der Kult lässt sich nicht durch guten Willen aufhalten, nur durch das Verstehen und Bekämpfen seiner Methoden, also auch nicht durch das Ausschalten Lysandras selbst, denn sie ist nur eine Wichtige Person, aber nicht, die einzige.
 
 ---
 
@@ -119,7 +119,6 @@ Sowohl Bruder Tamlin als auch Ilsevet Morrow spüren nach der Sommersonnenwende,
 
 ### Auslöser
 In den Tagen nach dem Fest verdichten sich seine Zweifel:
-- Aurelians Rede wirkte "lustlos, fast auswendig gelernt" (siehe Session 2).
 - Schwester Ophelia reagiert offen ängstlich auf Fremde – wird von den anderen Priestern beschwichtigt statt ernst genommen.
 - Die Feuer der Nacht gingen aus, ohne dass jemand eine schlüssige Erklärung liefert.
 - Tamlin konfrontiert Aurelian direkt. Aurelian weicht aus, tut die Sorgen seines Lehrlings (wieder einmal) ab.
@@ -128,17 +127,14 @@ Das ist der Bruch: Tamlin beschließt, den Dienstweg zu verlassen und die Vorgä
 
 ### Route A1 — Die Gruppe begleitet Tamlin
 - **Trigger:** Die Gruppe erfährt von seinen Plänen kurz bevor oder während sie selbst mit der Karawane aufbrechen (z. B. Tamlin sucht sie gezielt auf, weil er weiß, dass sie ebenfalls misstrauisch sind, oder sie treffen ihn zufällig am Stadttor mit gepacktem Bündel).
-- Schließt sich die Gruppe an, ändert sich die Route: **Waterdeep statt (zunächst) Neverwinter.**
-- **In Waterdeep:** Empfang in den Spires of the Morning – im Gegensatz zu Aurelian wird Tamlin hier ernst genommen. Ein hochrangiger Priester (Vorschlag: **Hoherwächter Ansellus Brightflame** oder ähnlich) hört sich den Bericht an, erkennt Muster aus anderen Städten wieder (das ist ein guter Moment, um anzudeuten, dass Lysandras Methode nicht neu oder isoliert ist) und beauftragt die Gruppe offiziell, die Vorfälle **in Neverwinter** zu untersuchen – mit kirchlicher Rückendeckung, vielleicht einem kleinen Segen/Gegenstand und einem Kontakt vor Ort.
-- Tamlin selbst kann in Waterdeep zurückbleiben (Ausbildung, Sicherheit, Bürokratie) oder die Gruppe weiter begleiten – je nachdem, wie sehr du ihn als wiederkehrende Figur nutzen willst.
-- **Effekt:** Die Gruppe reist mit einem klaren, "sauberen" Auftrag und offizieller Autorität nach Neverwinter – ein Kontrast zu dem, was sie dort vorfinden werden.
+- **In Waterdeep:** Empfang in den Spires of the Morning – im Gegensatz zu Aurelian wird Tamlin hier ernst genommen. Ein hochrangiger Priester (Vorschlag: **Hoherwächter Ansellus Brightflame** oder ähnlich) hört sich den Bericht an, erkennt Muster aus anderen Städten (und auch Waterdeep) wieder (das ist ein guter Moment, um anzudeuten, dass Lysandras Methode nicht neu oder isoliert ist) und beauftragt die Gruppe offiziell, die Vorfälle zu untersuchen – mit kirchlicher Rückendeckung, vielleicht einem kleinen Segen/Gegenstand und einem Kontakt vor Ort.
 
 ### Route A2 — Die Gruppe bleibt in Triboar / reist direkt nach Neverwinter
-- Tamlin bricht allein (oder mit anderer Begleitung) nach Waterdeep auf.
-- Wenn die Gruppe später selbst in Neverwinter ankommt, finden sie ihn dort wieder – **eingesperrt.**
-- **Empfohlene Variante:** Tamlin hat tatsächlich Waterdeep erreicht und wurde (wie in A1) mit einem offiziellen Auftrag nach Neverwinter zurückgeschickt, um dort zu ermitteln. Vor Ort ist er jedoch zu forsch oder zu offen vorgegangen – und wurde von bereits kompromittierten Stellen (z. B. einem Wachoffizier oder Beamten, der selbst schon "abgestumpft" oder sympathisierend ist) unter einem Vorwand festgesetzt: Ruhestörung, Aufwiegelung, angebliche Blasphemie gegen "die Herrin der Nacht".
-- Das zeigt der Gruppe zweierlei auf einmal: dass der offizielle Weg allein nicht reicht, *und* wie tief die Gleichgültigkeit/Infiltration in Neverwinter bereits sitzt – noch bevor sie selbst aktiv ermitteln.
-- Seine Freilassung/Rettung kann als kleiner, persönlicher Einstiegs-Hook in den Neverwinter-Teil der Kampagne dienen.
+- Tamlin bricht allein nach Waterdeep auf.
+- Wenn die Gruppe später selbst in Waterdeep ankommt, finden sie ihn dort wieder – **eingesperrt** - nachdem sie einen Vermisstensteckbrief von ihm finden.
+- Tamlin hat tatsächlich Waterdeep erreicht und wurde (wie in A1) mit einem offiziellen Auftrag weitergeschickt.Er war jedoch zu forsch oder zu offen vorgegangen – und wurde von bereits kompromittierten Stellen (z. B. einem Wachoffizier oder Beamten, der selbst schon "abgestumpft" oder sympathisierend ist) unter einem Vorwand festgesetzt: Ruhestörung, Aufwiegelung, angebliche Blasphemie gegen "die Herrin der Nacht".
+- Das zeigt der Gruppe zweierlei auf einmal: dass der offizielle Weg allein nicht reicht, *und* wie tief die Gleichgültigkeit/Infiltration bereits sitzt – noch bevor sie selbst aktiv ermitteln.
+- Seine Freilassung/Rettung kann als kleiner, persönlicher Einstiegs-Hook in den Teil der Kampagne dienen.
 
 ---
 
@@ -179,8 +175,7 @@ Nutze Lysandras Statblock (siehe Tänzerin.md) nicht zwingend für einen Kampf b
 Baue den Moment der Enthüllung als Dialog während oder kurz vor dem Kampf ein, nicht als reinen Exposition-Dump. Ideen für Lysandras Worte (in ihrem typischen doppeldeutigen, überlegenen Ton):
 
 - Sie deutet an, dass Triboar für sie ohnehin nur "ein Schritt" ist – eine kleine Stadt auf einem viel längeren Weg.
-- Sie lässt fallen, dass Neverwinter "schon lange zuhört" – ein Hinweis, dass ihr Netzwerk dort weiter fortgeschritten und länger etabliert ist als in Triboar, nicht bloß, dass "Zeit vergangen" ist. Das ist erzählerisch stimmiger: Triboar ist Lysandras *neueste* Station, Neverwinter eine ihrer *ältesten*.
-- Optional ein kurzer Verweis nach Norden ("dort, wo die Stille zuerst gesät wurde"), als leiser Fingerzeig auf den eigentlichen Ursprung (Mirabar/Luskan) – ohne es explizit zu benennen. Das gibt dir später Raum, die Wahl offen zu lassen.
+- Sie lässt fallen, dass Neverwinter "schon lange zuhört" – ein Hinweis, dass ihr Netzwerk dort weiter fortgeschritten und länger etabliert ist als in Triboar, nicht bloß, dass "Zeit vergangen" ist. Das ist erzählerisch stimmiger: Triboar ist Lysandras *neueste* Station, Waterdeep eine ihrer *ältesten*.
 
 ## Ausgang der Konfrontation
 - **Fluchtoption:** Sie nutzt *Schattenschritt* und/oder *Person unsichtbar machen*, um zu entkommen, sobald der Kampf klar zu ihren Ungunsten steht. Das hält sie als Antagonistin für später am Leben.
@@ -189,29 +184,10 @@ Baue den Moment der Enthüllung als Dialog während oder kurz vor dem Kampf ein,
 
 ---
 
-# Neverwinter — Ankunft ohne begleitenden Priester
-
-Falls sich die Gruppe keinem der beiden Priester anschließt, brauchst du einen eigenständigen Grund, warum sie ohnehin nach Neverwinter reist (persönliches Ziel/Hook eines Charakters, das du bereits andernorts angelegt hast oder noch anlegen willst).
-
+# Waterdeep
 ### Was sie dort vorfinden
 - Gleichgültigkeit und Shar-Symbolik sind **deutlich weiter verbreitet und offener** als in Triboar: "Herrin der Nacht"-Schreine, die niemand mehr versteckt, Kerzen, die man öffentlich und ohne Scham löscht statt entzündet, vereinzelte Bewohner mit unverhohlenen Shar-Zeichen (Onyx-Perlen, achtstrahlige Motive), auf die niemand mehr reagiert.
-- Wichtig für die Stimmung: Es soll **nicht** wie eine offen von Shar beherrschte Stadt wirken (kein Terror, keine Straßenpredigten) – sondern wie eine Stadt, die es sich bereits bequem in der Gleichgültigkeit eingerichtet hat. Genau die "Gewöhnung", die Lysandra anstrebt, nur eben weiter fortgeschritten.
-
-### Der Hinweis auf den Ursprung
-Auch Neverwinter ist nicht die Quelle – nur eine weitere, ältere Station. Ein Gelehrter, ein Priester, ein Dokument oder Lysandra selbst (im Konfrontationsgespräch, siehe oben) kann andeuten, dass die eigentliche Bewegung weiter nördlich beginnt.
-
-### Mirabar oder Luskan?
-
-Kurze Gegenüberstellung, um dir die Entscheidung zu erleichtern:
-
-| | **Mirabar** | **Luskan** |
-|---|---|---|
-| Charakter | Isolierte Zwergen-Stadtstaat, streng kontrolliert, misstrauisch gegenüber Fremden | Ehemalige Piratenstadt, regiert von den "Ships" (Hohen Kapitänen), lose Kontrolle, Grauzonen-Moral |
-| Passendes Bild für Shar | Verborgenes, unterirdisches Netzwerk – passt zu Minen/Tunneln, "Ausbreitung im Dunkeln" wörtlich genommen | Verfall, Verlust, Trümmer von Illusk unter der Stadt – passt thematisch stärker zu Shars Domäne (Verlust, Untergang eines einst großen Ortes) |
-| Zugang für die Gruppe | Schwieriger – Mirabar ist fremdenfeindlich, gute Quelle für Spannung/Misstrauen als Hindernis | Leichter – Hafenstadt, mehr Durchreiseverkehr, leichter zu erklären, warum Lysandras Musikanten/Netzwerk von dort aus reisen |
-| Empfehlung | Gute Wahl, wenn du eine politische Verschwörung "von oben" erzählen willst | **Tendenziell die stärkere thematische Wahl** – der Verfall/Verlust-Charakter der Stadt selbst spiegelt Shars Lehre, und als Hafenstadt erklärt sie organisch, wie sich Lysandras "Ohrwurm"-Netzwerk (reisende Musikanten, siehe Merren Tallow) über Wasserwege verbreitet hat |
-
-Aktuelle Tendenz: Luskan
+- Wichtig für die Stimmung: Es soll **nicht** wie eine offen von Shar beherrschte Stadt wirken (kein Terror, keine Straßenpredigten) – sondern wie eine Stadt, die es sich bereits bequem in der Gleichgültigkeit eingerichtet hat. Genau die "Gewöhnung", die Lysandra anstrebt, nur sehr viel weiter fortgeschritten.
 
 # Positionen von Ritualen
 
@@ -439,5 +415,3 @@ Hier die Subtabellen für alle markierten Bereiche:
 | 4 | Bote einer untergegangenen Zivilisation |
 | 5 | Naturgeist mit Auftrag |
 | 6 | Verwandelter Adliger/NSC |
-
-Soll ich noch die "Kein Fang"- oder "kleiner/mittlerer/großer Fisch"-Bereiche mit konkreten Fischarten/Werten ausdifferenzieren, oder passt das Grundgerüst so?

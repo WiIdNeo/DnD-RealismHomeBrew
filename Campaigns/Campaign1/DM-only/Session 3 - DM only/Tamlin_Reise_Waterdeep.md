@@ -2,8 +2,6 @@
 
 ## Grober Fahrplan
 
-Die Route Triboar → Waterdeep ist deutlich länger als der bereits geplante Weg Triboar → Phandalin (siehe Session 2/3-Reste), daher hier nur grob in Etappen gedacht, nicht tagesgenau — fülle nach Bedarf auf.
-
 | Etappe | Grobinhalt |
 |---|---|
 | Aufbruch | Tamlin verlässt Triboar, ggf. begleitet die Gruppe ihn (siehe Route A1 in den Zusätzen) |
@@ -50,7 +48,3 @@ Du brauchst für diese Session vermutlich nur Aufbruch + 1–2 Encounter + evtl.
 - Die meisten Begegnungen sind schlicht beiläufig — ein Nicken, ein "Gepriesen sei das Licht" im Vorbeigehen, nichts Dramatisches. Das hilft, die selteneren auffälligen Reaktionen (Misstrauen, Abwehr) umso mehr hervorzuheben.
 
 ---
-
-## Kurzer Hinweis zur Ankunft in Waterdeep
-
-Für diese Session vermutlich nicht nötig, aber als Ausblick: Die volle Ausarbeitung der Szene in den Spires of the Morning (Empfang, offizieller Auftrag Richtung Neverwinter) ist bereits in der Zusätze-Datei angelegt — hier reicht ein kurzer Cliffhanger/Übergang, falls die Session vorher endet.

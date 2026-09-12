@@ -8,20 +8,6 @@ Diese Quest ist als **Kette konkreter Stationen** gedacht, keine feste Reihenfol
 
 ---
 
-## Eskalationsstufen im Überblick
-
-| Stufe | Bezeichnung | Kernidee |
-|---|---|---|
-| 1 | Ambiente/Verdacht | Nur Stimmung, keine Beweise |
-| 2 | Ermittlung | Erste Indizien, noch ungefährlich |
-| 3 | Soziale Konfrontation | Gespräch mit Lysandra/Umfeld, keine Gewalt |
-| 4 | Gegenwehr des Kults | Einschüchterung, Rufmord, kleine Gewalt |
-| 5 | Offener Konflikt | Erzwungener Kampf, aber nicht gegen Lysandra |
-| 6 | Showdown | Lysandra persönlich |
-| 7 | Nachwirkung | Abhängig vom Ausgang |
-
----
-
 ## Stationen
 
 ### Station 1 — Der Auftrag (Stufe 1)
@@ -34,10 +20,8 @@ Ilsevet sucht die Gruppe gezielt auf (sie hat sie bereits beim Fest als aufmerks
 
 ### Station 2 — Erste Risse (Stufe 1–2)
 
-Zwei bis drei kurze, lose verknüpfte Vignetten, die du nach Bedarf einstreust:
-
 - **Kinderreim-Moment:** Die Gruppe hört Kinder beim Spielen unbewusst die "Acht Schritte in den Kreis" nachtanzen. Keine Mechanik nötig – reine Stimmung, aber ein guter Gänsehaut-Beat.
-- **Marktplatz-Gerücht:** Ein Gespräch unter Passanten über "die Herrin der Nacht" – warm, unschuldig gemeint. Versucht die Gruppe zu warnen, ernten sie Schulterzucken ("ist doch nur ein Tuch, das sie trägt").
+- **Marktplatz-Gerücht:** Ein Gespräch unter Passanten über "die Herrin der Nacht".
 - **Stiller Schrein-Fund:** Bei einem unrelated Besuch (z. B. bei einem Questgeber aus dem Ritualbuch-Plot) entdeckt die Gruppe nebenbei einen unauffälligen kleinen Hausaltar – ausgeblasene statt entzündete Kerze, dunkles Tuch. Moralisches Dilemma: bloßstellen, ignorieren, oder vorsichtig ansprechen?
 
 *Ziel:* Unbehagen aufbauen, ohne dass die Gruppe schon etwas "tun" kann.
@@ -46,7 +30,7 @@ Zwei bis drei kurze, lose verknüpfte Vignetten, die du nach Bedarf einstreust:
 
 ### Station 3 — Der Trauerredner (Stufe 2)
 
-Bei einer Beerdigung (ideal: die Familie eines NPCs, den die Gruppe bereits kennt) hält ein von Lysandra vermittelter Redner eine Trostrede voller Doppeldeutigkeit ("Trauer ist nur ein Tanz, der endet"). Ein SG-17-Religion-Check (siehe Tänzerin.md) deckt die zweite Bedeutungsebene auf.
+Bei einer Beerdigung hält ein Redner eine Trostrede voller Doppeldeutigkeit ("Trauer ist nur ein Tanz, der endet"). Ein SG-17-Religion-Check (siehe Tänzerin.md) deckt die zweite Bedeutungsebene auf.
 
 *Optionen für die Gruppe:*
 - Öffentlich eingreifen → Skandal, aber ohne Beweise wirkt es wie Störung einer Trauerfeier.
@@ -76,7 +60,7 @@ Gerüchte tauchen auf: Ilsevet sei nur eifersüchtig, labil, suche Aufmerksamkei
 
 ### Station 6 — Nächtlicher Späher (Stufe 4)
 
-Durch die Spur aus Station 5 findet die Gruppe Hinweise auf einen kleinen, echten Ritualort (Keller, Lagerhaus, stillgelegte Kapelle). Eine Stealth-/Beschattungs-Szene bei Nacht führt zum ersten **handfesten Beweis**: das echte schwarze Scheiben-Symbol mit violettem Rand, unmissverständlich Sharran (siehe Diskussion zur Symbolik).
+Durch die Spur aus Station 5 findet die Gruppe Hinweise auf einen kleinen, echten Ritualort (Keller, Lagerhaus, stillgelegte Kapelle). Eine Stealth-/Beschattungs-Szene bei Nacht führt zum ersten **handfesten Beweis**: das echte schwarze Scheiben-Symbol mit violettem Rand, unmissverständlich Sharran
 
 *Wichtig:* Dies ist bewusst als der Moment gedacht, an dem "es gibt keine Zweifel mehr" beginnt – im Gegensatz zu Lysandras eigener Zweideutigkeit.
 
@@ -118,14 +102,12 @@ Hier eskaliert es zum echten Kampf – nutze Lysandras vollen Statblock (Tänzer
 
 ## Endings (wähle passend zum Spielverlauf)
 
-- **Tod im Kampf** — Netzwerk bleibt vorerst führerlos, aber nicht zerschlagen.
-- **Flucht** — offener Hook für Neverwinter/weiter nördlich.
+- **Tod im Kampf** — Netzwerk bleibt.
+- **Flucht** — offener Hook für Waterdeep.
 - **Gefangennahme** — politisch/rechtlich schwierig mangels harter Beweise; guter Rollenspiel-Epilog.
-- **Öffentliche Enttarnung ohne Gewalt** — Ruf zerstört, sie muss fliehen, kein Kampf nötig.
-- **Verhandlung** — Abzug im Tausch gegen Schweigen über einen kompromittierten NPC oder Informationen Richtung Neverwinter/Mirabar/Luskan.
 - **Märtyrer-Moment** — sie lässt sich beiläufig fassen/töten, weil "die Saat schon gepflanzt ist" — unheimlicher als ein normaler Sieg.
 
-**Keine volle Bekehrung als Standardziel** — ihre Persönlichkeit (denkt in Jahren, lässt sich nicht erschüttern) spricht dagegen. Optionaler Riss: eine persönliche Wunde (z. B. ein verlorener Werwandler-Angehöriger, den Selûnes Kirche nicht schützen konnte oder sogar mitjagte) kann im Gespräch mit dem Paladin aufblitzen — ohne dass sie tatsächlich umkehrt.
+**Keine volle Bekehrung als Standardziel** — ihre Persönlichkeit (denkt in Jahren, lässt sich nicht erschüttern) spricht dagegen. Wichtig: Warum ist die Shar-Anhängerin?
 
 ---
 
