@@ -4,7 +4,7 @@ Some of the Repo will be in German, may use a translator if you are interested i
 
 In this Repo you find my Stories and World Building Stuff.
 
-There are some issues about realism of world and fighting I will address as Home-brew. Additionally, I will add some monsters and especially lore. For those I am not inventing any new monsters, but adapting some monsters of religions. I will try to name my sources in such a case, so you can read more about the bases and may adjust yourself.
+There are some issues about realism of world and fighting I will address as Home-brew. Additionally, I will add some monsters and especially lore. For those I am not inventing any new monsters, but adapting some monsters of religions. I will try to name my sources, so you can read more about the bases and may adjust yourself.
 
 As this project is a home-brew free-time project it will expand non-regular and always around my current needs or interests for my campaign. Feel free to raise a pull request to expand yourself. 
 
@@ -12,7 +12,7 @@ Please keep close to my own structure of monsters etc., and call that in an issu
 
 ## ideas
 
-To get you a basic idea of what happens in this home-brew:
+### Mechanics
 
 - I will reduce abstrtaction massivly. 
   - Fights:
@@ -20,14 +20,28 @@ To get you a basic idea of what happens in this home-brew:
     - Implement a more detailed called shot system
     - Remove Spells in advantage of more complex and adaptive Spell using.
       - You still will find a very low amount of spells to show how it could work, but they are no boundaries.
+    - Spells:
+      - even if keeping a low level of spells for orientation, i will remove this strict spell-bounding you got atm
   - World and Travel:
     - Implement weather / temperature and make them really matter
-  - Lore:
-    - I do not like the idea of the thematic worlds like the outer planes are. Therefore the outer planes collaps to biomes on material plane
-    - Also I am not sure if I keep Fey and Fell like they are now or if I collapse them to one mirror of the world.
 
-Really important for this idea is to remove strict spells and make the players more describe what they really want to do and the dm is just saying yes or no, but this description makes the game much more open and you can really do what you want to. Also you don't need any big spell list to carry.
+### Lore
+For this i will adapt the lore of the forgotten realms and toril. It will feature map reorganizing, lore adaption and adding new monsters.
 
-### 2026-09-09
+- I do not like the idea of the thematic worlds like the outer planes are. Therefore the outer planes collaps to biomes or places in material plane
+- Also I am not sure if I keep Fey and Fell like they are now or if I collapse them to one mirror of the world, as fell is just like evil and fey is chaotic, what results in 1.5 evil and 0.5 evil mirrors, kind of strange.
+- One important topic will be the mappin of characters. For example tiama, currently just grasping for might and wealth is boring. I would try to give her more of an identity if possible. 
 
-Today I dropped a lot of reworks of Levelsystem and classing today, as I do not longer find it worth to rework this - especially becuase it is really hard to implement a change like that to real campaigns. So this Homebrew mainly focusses on adapting classes, fighting and the world.
+## plan
+
+To organise the workflow, i will note the chain of steps here.
+
+1. Map - all starts on map. The bioms, the mountains, the oceans and therefore the cults, the peoples, the cities and more. I hope I can rework the map on minimal changes. 
+  - Ocean Currents
+  - Wind Systems
+  - Biom placement
+  - City placement and sizes
+2. In depth review of lore 
+  - I start on Fearun, Sword Coast expanding further. As this may influences map, there will be changes later on.
+3. Adaption for personal lore and home-brew
+  - colapsing the outer planes to bioms on the material plane
