@@ -29,8 +29,14 @@ Please keep close to my own structure of monsters etc., and call that in an issu
 For this i will adapt the lore of the forgotten realms and toril. It will feature map reorganizing, lore adaption and adding new monsters.
 
 - I do not like the idea of the thematic worlds like the outer planes are. Therefore the outer planes collaps to biomes or places in material plane
-- Also I am not sure if I keep Fey and Fell like they are now or if I collapse them to one mirror of the world, as fell is just like evil and fey is chaotic, what results in 1.5 evil and 0.5 evil mirrors, kind of strange.
-- One important topic will be the mappin of characters. For example tiama, currently just grasping for might and wealth is boring. I would try to give her more of an identity if possible. 
+- Fey and Fell are kept as mirror world, but are also collapsed to just one, closer to the original idea of the celtics.
+- One important topic will be the mapping of characters. For example tiama, currently just grasping for might and wealth is boring. I would try to give her more of an identity if possible. 
+
+### Classes
+
+- I will rework how classes are choosen and designed. Goal is to make the system more open for specific ideas and easier adaptions.
+- As part of this rework I may reduce the way magic is casted to show a little more Magic is rare, as it often seams like a natural thing just everyone can lern if he is just reading a book. I will try to give it more weight while not destroing the way a caster feels like to play. 
+- For this I may divide magic into sourcery and miricals, like the Dark Souls games do. So, as a first draft sourcery needs years of study, but is indipendent, and miracles are learned fast, but you need to keep your reputation to that god or being grant you your miricals. This could result in more Role Playing and character development. 
 
 ## plan
 
@@ -45,3 +51,5 @@ To organise the workflow, i will note the chain of steps here.
   - I start on Fearun, Sword Coast expanding further. As this may influences map, there will be changes later on.
 3. Adaption for personal lore and home-brew
   - colapsing the outer planes to bioms on the material plane
+
+> If not stated different the source is forgottenrealms.fandom.com
