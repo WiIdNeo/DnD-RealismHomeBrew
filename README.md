@@ -47,9 +47,9 @@ To organise the workflow, i will note the chain of steps here.
   - Wind Systems
   - Biom placement
   - City placement and sizes
+  - Adaption for Homebrew (may resizing and reworking the map)
+    - I try to keep the places in relativ position and to not drop any, but may there will be some deaths to die.
 2. In depth review of lore 
-  - I start on Fearun, Sword Coast expanding further. As this may influences map, there will be changes later on.
-3. Adaption for personal lore and home-brew
-  - colapsing the outer planes to bioms on the material plane
+  - I start on Fearun, Sword Coast expanding further. As this may influences map, so there will be changes later on.
 
 > If not stated different the source is forgottenrealms.fandom.com

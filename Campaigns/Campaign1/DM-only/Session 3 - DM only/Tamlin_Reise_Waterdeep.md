@@ -1,3 +1,28 @@
+## A. Bruder Tamlin — Der Ruf nach Waterdeep
+
+### Auslöser
+In den Tagen nach dem Fest verdichten sich seine Zweifel:
+- Schwester Ophelia reagiert offen ängstlich auf Fremde – wird von den anderen Priestern beschwichtigt statt ernst genommen.
+- Die Feuer der Nacht gingen aus, ohne dass jemand eine schlüssige Erklärung liefert.
+- Tamlin konfrontiert Aurelian direkt. Aurelian weicht aus, tut die Sorgen seines Lehrlings (wieder einmal) ab.
+
+Das ist der Bruch: Tamlin beschließt, den Dienstweg zu verlassen und die Vorgänge direkt den **Spires of the Morning** in Waterdeep zu melden – der höchsten Lathander-Institution, die er kennt.
+
+### Route A1 — Die Gruppe begleitet Tamlin
+- **Trigger:** Die Gruppe erfährt von seinen Plänen kurz bevor oder während sie selbst mit der Karawane aufbrechen (z. B. Tamlin sucht sie gezielt auf, weil er weiß, dass sie ebenfalls misstrauisch sind, oder sie treffen ihn zufällig am Stadttor mit gepacktem Bündel).
+- **In Waterdeep:** Empfang in den Spires of the Morning – im Gegensatz zu Aurelian wird Tamlin hier ernst genommen. Ein hochrangiger Priester (Vorschlag: **Hoherwächter Ansellus Brightflame** oder ähnlich) hört sich den Bericht an, erkennt Muster aus anderen Städten (und auch Waterdeep) wieder (das ist ein guter Moment, um anzudeuten, dass Lysandras Methode nicht neu oder isoliert ist) und beauftragt die Gruppe offiziell, die Vorfälle zu untersuchen – mit kirchlicher Rückendeckung, vielleicht einem kleinen Segen/Gegenstand und einem Kontakt vor Ort.
+
+### Route A2 — Die Gruppe bleibt in Triboar / reist direkt nach Neverwinter
+- Tamlin bricht allein nach Waterdeep auf.
+- Wenn die Gruppe später selbst in Waterdeep ankommt, finden sie ihn dort wieder – **eingesperrt** - nachdem sie einen Vermisstensteckbrief von ihm finden.
+- Tamlin hat tatsächlich Waterdeep erreicht und wurde (wie in A1) mit einem offiziellen Auftrag weitergeschickt.Er war jedoch zu forsch oder zu offen vorgegangen – und wurde von bereits kompromittierten Stellen (z. B. einem Wachoffizier oder Beamten, der selbst schon "abgestumpft" oder sympathisierend ist) unter einem Vorwand festgesetzt: Ruhestörung, Aufwiegelung, angebliche Blasphemie gegen "die Herrin der Nacht".
+- Das zeigt der Gruppe zweierlei auf einmal: dass der offizielle Weg allein nicht reicht, *und* wie tief die Gleichgültigkeit/Infiltration bereits sitzt – noch bevor sie selbst aktiv ermitteln.
+- Seine Freilassung/Rettung kann als kleiner, persönlicher Einstiegs-Hook in den Teil der Kampagne dienen.
+
+---
+
+
+
 # Bruder Tamlin — Reise nach Waterdeep
 
 ## Grober Fahrplan

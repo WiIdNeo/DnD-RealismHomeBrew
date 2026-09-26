@@ -61,127 +61,55 @@ weapons (dagger, rapier) and ranged combat.
 
 ---
 
-## 3. Weapon Table
+## 3. Defense Options
 
-Weapons grant different buffs/debuffs to checks and properties, making
-weapon choice tactically important. Full table lives in `Weapons.md`.
+You got 3 defensive options:
 
----
+- Dodging
+- Blocking
+- Parrying
 
-## 4. Magic
+### Form
 
-Most spells require line of sight and (for precision effects) anatomical
-knowledge of the target. Projectile spells work like physical ranged
-attacks: the defender gets a normal Dodge/Block/Parry check against them.
+You throw 1d20. If you get higher than the attacker you win, else you loose.
 
----
+In addition you can throw up to Stat-Mod times an additional d20 (you need to declare before throw)
 
-## 5. Tokens 
+Parry and Dodge scale on DEX
 
-### 5.1 Pool
+Blocking Scales on CON
 
-**Here may create a CON-Based Table to manipulate the reduction**
+```
+This means if your DEX-Mod is +4 you can buff up to 4 DEX-Defenses. You can not buff 4 parries and 4 dodges!
+```
 
-Every combatant gets a fresh pool at the **start of combat**, sized per
-round rather than per fight:
+### Blocking 
 
-$$\text{Tokens}(\text{Round } n) = \max\big(\text{Floor},\ 10 - (n - 1)\big)$$
+Blocking means you absorb the hit with your weapon, best a shield. The shilding will absorb all the damage, but it can be overcome or your poise can be broken.
 
-- Round 1: 10 tokens. Round 2: 9. Round 3: 8. … and so on.
-- **Floor = 0** by default — the pool can fully run dry in long fights,
-  making late rounds progressively more luck-driven instead of tactical.
-  This is intentional: it matches a setting where weapons are extremely
-  lethal and long fights should feel increasingly desperate.
-- **Feats/Buffs** may raise the Floor (e.g. "never below 2") or slow the
-  decay (e.g. "−1 every 2 rounds instead of every round"). This is your
-  primary progression lever going forward — no separate Stamina formula
-  needed.
-- If your Token Pool at the end of the round is higher than your new would be you gain the difference in addition to the new pool's size.
+This will highly refer to the weapons' kinds. If your blocking weapon got higher Tier than the attackers weapon your block throw is increased by the tiers and your poise can't be broken. But if the attacker still wins the check he will overcome your block doing normal Damage. In case your attacker's weapon tier is higher or equal to yours it is about poise breaking. If the attacker wins the check he will breake your stance sending you to ground and on dms flavor may throw yoou back little bit. Here no tier difference is applied.
 
-### 5.2 Spending — both sides bid on their own roll
+If your enemy is larger category than you he gets +x² on the poise check, while x is the size tiers between you and the enemy.
 
-For every individual attack/defense exchange, **both combatants** secretly
-commit a number of tokens from their current round's pool, then reveal
-simultaneously and roll:
+### Parrying
 
-- **Attacker tokens** add directly to the attacker's own d20 roll.
-- **Defender tokens** add directly to the defender's own d20 roll.
+To parry means you redirect your opponents attack to expose him. But to fail it means to expose yourself to the enemy's attack.
 
-Tokens are **spent immediately on reveal, win or lose** — bidding is a real
-commitment, not a guaranteed bonus. 1 token = +1 flat, no conversion table
-needed.
+If you get the check you can freely attack without rolling a d20 and just the damage.
 
-This restores the bluffing tension of committing a resource before knowing
-the opponent's commitment — without requiring full-round scripting for the
-whole party. Each exchange is resolved independently, in normal turn order,
-as one opposed roll (see Section 6).
+If you fail the check your enemy can add it's Prof-Mod to it's attack.
+
+The checks are also influenced by die Parry Bonuses of the weapons, but not py size, as parrying does not get much harder on different size.
+
+### Dodging
+
+Dodging is just evading the enemy's attack and therefore it does not have a penality resulting in damage, but it consumes some movement you got for the round and you can't do it anymore if you do not have the needed Movement left.
 
 ---
 
-## 6. Opposed Roll (core resolution)
-
-Attacker and defender both roll 1d20 and add their own modifiers. Higher
-total wins the exchange.
-
-$$\text{Attack Roll} = 1d20 + \text{Attacker-Prof} + \text{Weapon-Mod} + \text{Attacker-Tokens}$$
-
-$$\text{Defense Roll} = 1d20 + \text{Defender-Prof} + \text{Weapon-Mod} + \text{Stance-Mod} + \text{Defender-Tokens}$$
-
-- **Stance-Mod** is whichever Dodge/Block/Parry modifier applies — see
-  Section 7, note that the signs there are written for *this* roll-based
-  format (higher Stance-Mod always helps the defender).
-- **Weapon-Mod** Check Mods of weapons in `weapons.md`.
-- **Attribute-Mod** for the defender: DEX for Dodge/Parry, CON for
-  Block.
-- A natural 20 always wins the roll it's part of; a natural 1 always loses
-  it, regardless of totals.
-- **Tie:** attacker wins.
-
----
-
-## 7. Defense Options
-
-### 7.1 Dodge
-
-DEX is already represented via the Attribute-Mod and Speed Bonus (Section
-6). The Stance-Mod is a **malus** — the more ground you need to cover, the
-harder it is to actually pull off:
-
-$$\text{Stance-Mod (Dodge)} = -\big(\text{DC(Distance out of the AoE)} + \text{DEX-Mod}\big)$$
-
-| Way out of the AoE | DC |
-|--|--|
-| 0.5 m | 1 |
-| 1 m | 2 |
-| 2 m | 4 |
-| 3 m | 9 |
-| 4 m | 16 |
-| 5 m | 25 |
-| 6 m | 36 |
-
-(Below 2 m: y = 2x. At 2 m or higher: y = x².)
-
-### 7.2 Block
-
-Stance-Mod: $+\text{CON-Mod}$
-
-### 7.3 Parry
-
-Stance-Mod: $(-2 + \text{DEX-Mod})$ 
-
-- **Win the opposed roll:** 0 damage + a guaranteed free counterattack
-  (cannot be evaded, no reaction from the opponent).
-- **Lose the opposed roll:** you take the full hit.
-
----
-
-## 8. Damage
+## 4. Damage
 
 $$\text{Damage} = \max\left(1,\ \text{Weapon-Roll} + \text{Prof-Mod} + \text{Stat-Mod}\right)$$
-
-- **Prof-Mod** unchanged (+2 to +6) — carries the level curve.
-- **Stat-Mod** (weapon's governing stat) full weight.
-
 
 ### Rounding Rule
 Standard 0.5 → round up, but reduce the base value by 0.07 first (so x.5
@@ -217,13 +145,11 @@ the head is dangerous, and a hit to ear/eye can be immediate death.
 Most buffs are covered in the separate `Buffs.md`.
 
 ### Advantage and Disadvantage
-AC is just a damage modifier here, applied after the opposed roll decides
-whether a hit lands at all (Section 6) — it doesn't touch the roll itself.
-Advantage/Disadvantage therefore also don't touch the "hit die." If a
-target is blinded, it isn't easier for you to aim —
+If a target is blinded, it isn't easier for you to aim —
 it's harder for *them* to notice the attack. So Advantage/Disadvantage come
 from specific Buffs/Debuffs and typically mean "best of two" on the damage
-die, or disadvantage on a saving throw.
+die, or disadvantage on a saving throw. So even if something tells advantage/disadvantege for you,
+your dm may makes the call it is instead the opposite for your opponent.
 
 ---
 
@@ -238,20 +164,7 @@ attacking an unconscious target allows an undefended finishing blow.
 
 ## 13. Opportunity Attacks
 
-Handled as usual, but reactable unless the DM rules otherwise.
-
-New type: entering someone's melee range grants them an opening-hit
-opportunity at the normal Defensive Action DC with mod 0. If declared, you
-can choose to react (treated as a normal out-of-sequence attack) or not
-(you take the hit, or if they fail their DC they can't react to your next
-action).
-
-Leaving melee range grants a leaving attack:
-- **Block/Parry:** as normal, but all distance moved before the block
-  counts as moving backwards (×1.5).
-- **Dodge:** if you guess the dodge timing, DC gets +1 per meter of the
-  attacking weapon's melee reach. If you want the normal DC, you must walk
-  backwards to the dodge point (×1.5 distance).
+Opportunity Attacks will be mostly removed from game to make skirmishing and tactic actually work.
 
 ---
 

@@ -1,3 +1,56 @@
+## B. Ilsevet Morrow — Kampf gegen den Einfluss in Triboar
+
+### Auslöser
+Ilsevet mag Lysandra zunächst aus Eitelkeit nicht (siehe NPC-Notiz: "sie noch etwas schöner ist und mehr Aufmerksamkeit auf sich zieht"). Nach dem Fest kippt das langsam in echte Überzeugung, als sie beginnt, Muster zu erkennen: Leute, die Lysandras Formulierungen übernehmen, ohne es zu merken; erste kleine "Herrin der Nacht"-Schreine; Nachbarn, die Kerzen lieber löschen als anzünden "zur Ruhe".
+
+### Die Quest — und warum sie scheitern muss
+Ilsevet bittet die Gruppe um Hilfe, dem Einfluss aktiv entgegenzutreten. Konkrete Ansatzpunkte, die du als einzelne Szenen/Rollenspielmomente anbieten kannst:
+- Ein Gegen-Auftritt bei einem kleineren Fest oder Markttag – Ilsevet tanzt bewusst "für Selûne", offen und eindeutig, um Lysandras Zweideutigkeit zu kontern.
+- Aufklärung Einzelner: ein Gespräch mit einem Trauernden, den Lysandra "getröstet" hat, das Sichtbarmachen der Doppelbedeutung.
+- Ein Priester Selûnes (falls es einen gibt) wird um öffentliche Unterstützung gebeten – reagiert aber zögerlich, weil es "unbewiesen" ist und einen Skandal riskiert.
+- Enttarnung eines beginnenden Schreins oder eines kleinen Kultmitglieds vor Zeugen.
+
+**Der Kniff:** Jede einzelne dieser Szenen kann *lokal* gelingen – die Gruppe rettet eine Situation, überzeugt eine Person, deckt einen Vorfall auf. Aber die Gesamtwirkung bleibt aus. Baue das über die folgenden Tage/Wochen (ingame, gerne zeitgerafft) als spürbare Verschiebung ein:
+- Beim ersten Mal ist ein Shar-Symbol noch gut versteckt; beim dritten Mal trägt es jemand offen als Schmuck.
+- NPCs reagieren zunehmend mit einem Schulterzucken statt Entsetzen ("ist doch nur ein Tuch", "sie hat doch nur getanzt").
+- Ilsevet selbst wird zunehmend frustriert und resigniert – ein guter Moment für Charakterentwicklung: Sie erkennt, dass offene Konfrontation der Symptome nichts bringt, solange die Ursache (Lysandra selbst) unangetastet bleibt.
+
+### Die eigentliche Lösung
+Das Einzige, was wirklich etwas bewirkt, ist die **direkte Konfrontation mit Lysandra als Person** – nicht mit ihrem Einfluss. Das führt direkt in den nächsten Abschnitt.
+
+---
+
+# Ausplanen von verschiedenen Konfrontationen mit Lysandra
+
+## Eskalationsstufen
+
+Nutze Lysandras Statblock (siehe Tänzerin.md) nicht zwingend für einen Kampf bis zum Tod – sie ist als wiederkehrende Antagonistin interessanter, wenn sie entkommen kann. Denk in Stufen:
+
+1. **Verdacht säen** (bereits über Sommersonnenwende-Ereignisse angelegt) – die Gruppe bemerkt Unstimmigkeiten, ohne Beweise.
+2. **Erste offene Konfrontation** (getriggert durch Ilsevets Quest) – ein Gespräch oder kleiner Zwischenfall, bei dem Lysandra kalt, aber nicht offen feindselig bleibt. Sie weiß, dass direkte Aggression ihr schadet; sie bleibt in der Doppeldeutigkeit, selbst wenn die Gruppe sie direkt anspricht (siehe *Zweideutige Zunge*).
+3. **Eskalation zum Kampf** – erst wenn die Gruppe sie wirklich in die Enge treibt (z. B. beim Versuch, einen Schrein oder ein Ritual zu stören), lässt sie die Maske fallen. Hier kannst du ihren vollen Statblock nutzen.
+
+## Was die Gruppe im Kampf/Gespräch erfährt
+
+Baue den Moment der Enthüllung als Dialog während oder kurz vor dem Kampf ein, nicht als reinen Exposition-Dump. Ideen für Lysandras Worte (in ihrem typischen doppeldeutigen, überlegenen Ton):
+
+- Sie deutet an, dass Triboar für sie ohnehin nur "ein Schritt" ist – eine kleine Stadt auf einem viel längeren Weg.
+- Sie lässt fallen, dass Neverwinter "schon lange zuhört" – ein Hinweis, dass ihr Netzwerk dort weiter fortgeschritten und länger etabliert ist als in Triboar, nicht bloß, dass "Zeit vergangen" ist. Das ist erzählerisch stimmiger: Triboar ist Lysandras *neueste* Station, Waterdeep eine ihrer *ältesten*.
+
+## Ausgang der Konfrontation
+- **Fluchtoption:** Sie nutzt *Schattenschritt* und/oder *Person unsichtbar machen*, um zu entkommen, sobald der Kampf klar zu ihren Ungunsten steht. Das hält sie als Antagonistin für später am Leben.
+- **Konsequenz für Triboar:** Selbst wenn die Gruppe sie vertreibt, ist der Schaden in der Stadt bereits angerichtet – ihr Netzwerk aus unwissenden Anhängern besteht weiter (siehe *Ziele*, Punkt 1 in Tänzerin.md). Das gibt Ilsevet einen bittersüßen Teilerfolg statt eines glatten Sieges.
+- **Für die Gruppe:** Der Sieg über Lysandra persönlich ist der einzige greifbare Erfolg der Session – im Gegensatz zum aussichtslosen Kampf gegen die allgemeine Stimmung. Das sollte sich befriedigend anfühlen, auch wenn die größere Bedrohung (Neverwinter, der Ursprung) unangetastet bleibt.
+
+---
+
+# Waterdeep
+### Was sie dort vorfinden
+- Gleichgültigkeit und Shar-Symbolik sind **deutlich weiter verbreitet und offener** als in Triboar: "Herrin der Nacht"-Schreine, die niemand mehr versteckt, Kerzen, die man öffentlich und ohne Scham löscht statt entzündet, vereinzelte Bewohner mit unverhohlenen Shar-Zeichen (Onyx-Perlen, achtstrahlige Motive), auf die niemand mehr reagiert.
+- Wichtig für die Stimmung: Es soll **nicht** wie eine offen von Shar beherrschte Stadt wirken (kein Terror, keine Straßenpredigten) – sondern wie eine Stadt, die es sich bereits bequem in der Gleichgültigkeit eingerichtet hat. Genau die "Gewöhnung", die Lysandra anstrebt, nur sehr viel weiter fortgeschritten.
+
+
+
 # Ilsevet Morrow — Kampf gegen den Einfluss
 
 ## Kurzüberblick
