@@ -38,18 +38,14 @@ For this i will adapt the lore of the forgotten realms and toril. It will featur
 - As part of this rework I may reduce the way magic is casted to show a little more Magic is rare, as it often seams like a natural thing just everyone can lern if he is just reading a book. I will try to give it more weight while not destroing the way a caster feels like to play. 
 - For this I may divide magic into sourcery and miricals, like the Dark Souls games do. So, as a first draft sourcery needs years of study, but is indipendent, and miracles are learned fast, but you need to keep your reputation to that god or being grant you your miricals. This could result in more Role Playing and character development. 
 
-## plan
+## lore
 
-To organise the workflow, i will note the chain of steps here.
+I will try to keep as many things from canon and only adapt as far as needed for my personal perpos and realism.
 
-1. Map - all starts on map. The bioms, the mountains, the oceans and therefore the cults, the peoples, the cities and more. I hope I can rework the map on minimal changes. 
-  - Ocean Currents
-  - Wind Systems
-  - Biom placement
-  - City placement and sizes
-  - Adaption for Homebrew (may resizing and reworking the map)
-    - I try to keep the places in relativ position and to not drop any, but may there will be some deaths to die.
-2. In depth review of lore 
-  - I start on Fearun, Sword Coast expanding further. As this may influences map, so there will be changes later on.
+> If not stated different the source is forgottenrealms.fandom.com or official books
 
-> If not stated different the source is forgottenrealms.fandom.com
+> ## LEGACY DIRs
+>
+> Legacy dirs contain not further supported scripts, ideas and pictures. They are mainly meant for me to remember what my planes where, so you find in there a lot of mechanics, lore-snippets and more what can be contradictory, illogical, and immature. 
+>
+> Lot of stuff also moved to legacy because it seams like taking to much time at the table and game speed shouldn't be ruined by core mechanics.

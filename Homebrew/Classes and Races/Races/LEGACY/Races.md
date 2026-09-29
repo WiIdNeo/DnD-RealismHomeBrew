@@ -8,8 +8,8 @@
 
 > For look or story refer to Wiki or originally PHB
 
-| Race       | Subrace         | Size   | Traits                                                                                                                                                                                                                                                                                                                                                          |
-| ---------- | --------------- | ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Race       | Subrace         | Size   | Traits       |
+| ---------- | --------------- | ------ | --------------- |
 | Human      | —               | ~1.7 m | 1. You gain the **Skilled** feat; 2. You learn one extra language of your choice        |
 | Elf        | High Elf        | ~1.8 m | **Fey Ancestry** (advantage on saving throws against being charmed; immune to magical sleep); **Trance** (4-hour long rest); proficiency with one martial weapon of your choice (longsword, shortsword, shortbow, or longbow); you know one Wizard cantrip; **Darkvision (Tier 1)**                                                                             |
 | Elf        | Wood Elf        | ~1.8 m | **Fey Ancestry**; **Trance**; proficiency with longbow and shortbow; **Mask of the Wild** (can attempt to hide when lightly obscured by natural phenomena); Speed +1.5 m; **Darkvision (Tier 1)**  |
@@ -39,31 +39,7 @@
 | Tortle     | —               | ~1.5 m | **Natural Armor**; **Claws** (claw unarmed strike); **Hold Breath** (1 hour); **Shell Defense** (withdraw into your shell as an action, gaining defensive benefits but unable to move or take actions); no Darkvision   |
 | Triton     | —               | ~1.7 m | **Amphibious**; swimming speed equal to walking speed; cold resistance; **Emissary of the Sea** (communicate simple ideas with aquatic beasts); you know the *Shape Water* cantrip; **Darkvision (Tier 1)**                                                                                                                                                     |
 
-## Darkvision
 
-| Tier | Effect |
-|--|--|
-| 1 | In range of 18m all types of light seem one tier brighter, except for those that can't be increased! |
-| 2 | In range of 27m all types of light seem one tier brighter, except for those that can't be increased! |
-| 3 | In range of 36m all types of light seem one tier brighter, except for those that can't be increased! |
-
-| Types of Light | Times / Places |
-|--|---|
-| Day Light | just normal day |
-| Dim Light / dusk | On sunset/sunrise; in houses without light source; on some dark winter days |
-| Light Night | If moon is bright; if you are around a big fire |
-| Normal Night / Dark | on normal nights |
-| Real Dark | in dungeons without light — darkvision is useless here, as vision still needs *some* light source! |
-
-## Class specific
-
-### Tabaxi
-
-| Weapon  |Damage Risky | Damage Save| Wield  | Init | Parry DC | Parry / Block | Stance Dmg |
-|-|-|-|-|-|-|-|-|
-| Cat's Claw | 1d10 (DEX or STR)| 1d6+1d4 (DEX or STR) | double | +3 | +2 | against sharp Weapons you can't parry or block, against thump weapons even on success parry/block you receive 1W4+Prof damage | +0 |
-
-natural weapon!
 
 
 

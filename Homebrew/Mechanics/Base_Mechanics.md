@@ -220,3 +220,20 @@ Speed and travel time are calculated independently and multiplied only at the en
 More Mechanics in character care sheet!
 
 
+# Darkvision
+
+> I think there will be different Tiers of Darkvision, so a first idea on this here, but not too sure here. What I am sure about is the true dark.
+
+| Tier | Effect |
+|--|--|
+| 1 | In range of 18m all types of light seem one tier brighter, except for those that can't be increased! |
+| 2 | In range of 27m all types of light seem one tier brighter, except for those that can't be increased! |
+| 3 | In range of 36m all types of light seem one tier brighter, except for those that can't be increased! |
+
+| Types of Light | Times / Places |
+|--|---|
+| Day Light | just normal day |
+| Dim Light / dusk | On sunset/sunrise; in houses without light source; on some dark winter days |
+| Light Night | If moon is bright; if you are around a big fire |
+| Normal Night / Dark | on normal nights |
+| Real Dark | in dungeons without light — darkvision is useless here, as vision still needs *some* light source! |
