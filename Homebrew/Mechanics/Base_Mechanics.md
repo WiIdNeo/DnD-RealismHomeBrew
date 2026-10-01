@@ -237,3 +237,8 @@ More Mechanics in character care sheet!
 | Light Night | If moon is bright; if you are around a big fire |
 | Normal Night / Dark | on normal nights |
 | Real Dark | in dungeons without light — darkvision is useless here, as vision still needs *some* light source! |
+
+
+# Heavy
+
+There is no Heavy Attribute to weapons anymore, because the weight would just be reduced and the force recovored, by shorter radius.
