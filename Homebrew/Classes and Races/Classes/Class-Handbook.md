@@ -442,6 +442,28 @@ A --> |INT > 12|1
 7 --> |INT > 18|10
 ```
 
+### Arcane Energy
+*There is no element behind it and no tradition that taught it to you. Magic itself, unshaped, is the projectile: a bolt, a lance, a wall, a fist. It does exactly what you will it to, and the only things that grow with you are how much of it there is and how well you can steer it.*
+
+```mermaid
+flowchart TD
+
+A[Base Character]
+
+1["Control minor amount of arcane energy."]
+2["Use your Bonus action to steer or reshape already exsisting objects of arcane energy you control"]
+3["Control more amount of arcane energy"]
+4["Use your reaction to may form or move already exsisting arcane magic without changing the original purpose"]
+5["Controll multiple objects at once"]
+6["Shape more komplexe forms"]
+
+A --> |INT > 12|1 
+1 --> 2 
+1 --> |INT > 14|3 
+1 --> 4
+1 --> 5
+1 --> |INT > 16|6 
+```
 
 ## Marshals
 ### Adrenaline
@@ -457,7 +479,7 @@ The pool itself does nothing. **Your path decides what each Tier gives you**.
 | 3 | Your DEX and STR are increased by 1d4 as long as you remain in this tier | you gain disadvantage defensive reactions again all range attacks
 4 | If you hit your target you can do an additional attack on disadvantage | Your tunnelvision becomes more badly: If you try to retreat you burn double the movement
 5 | You attack so strong parries and blocks against your attacks get disadvantage | You can only swap a target if you get hit by it or you last one died.
-6 | You attack one pure brutality dealing double damage for 2d4 rounds, than you gain one stage of exhaustion. 
+6 | You attack one pure brutality reciving a second action per round | per round you use your second action you get one Level of exhaustion, but as long as you stay abouth Tier 4 you do not notice the exhaustion yet
 
 ---
 
@@ -472,7 +494,7 @@ flowchart TD
 
 A[Base Character]
 
-1["Gain the adrenaline pool. You gain 1d4 when you hit and 1d4 when you take damage. The pool empties 1 minute after the last hostile action. By itself it does nothing; your paths give the Tiers meaning."]
+1["Gain the adrenaline pool. You gain 1d6 when you hit and 1d6 when you take damage. The pool empties 1 minute after the last hostile action. By itself it does nothing; your paths give the Tiers meaning."]
 2["Calm down: as a bonus action, spend 2d4 adrenaline per Tier you want to drop."]
 5["Keyed up: when you roll initiative, gain 1d6 adrenaline per Init/10(unless surprised)."]
 6["Afterglow: adrenaline fades over 10 minutes instead of 1. If a new fight starts in that time, half of what is left is still there."]
@@ -488,6 +510,7 @@ A -->|STR, DEX or CON > 11|1
 2 -->|CON > 14|7
 7 -->|CON > 16|9
 6 -->|CON > 16|12
+1 --> 11
 ```
 
 ### Fighter · Barbarian (STR)
@@ -504,7 +527,7 @@ A[Base Character]
 4["Bloodied: the first time each fight you drop to half HP or lower, gain 2d6 adrenaline."]
 5["Rage-fed: you also gain adrenaline while raging, but only 1d4 per hit."]
 6["Terrifying entrance: when you enter rage, every enemy within 6m makes a WIS throw or is frightened until the end of its next turn."]
-7["Relentless: the first time each rage you would drop to 0 HP, make a CON throw (DC 10) to stay on 1 HP instead."]
+7["Relentless: the first time each rage you would drop to 0 HP, make a CON throw (DC 10) to stay on 1 HP instead. This is an Reaction and burns 1d8 Adrenaline"]
 9["Ignore the end of a rage at the cost of one level of exhaustion."]
 10["Breaker: advantage on STR throws to smash, lift or force objects while raging."]
 11["War cry: when you enter rage, you gain +1d4 damage per hit."]
@@ -544,7 +567,7 @@ A[Base Character]
 7["Challenge: as a bonus action spend 10 Adrenaline: a target makes a WIS throw. On a fail, it can attack only you and you can attack only it, until one of you is down, flees, or two rounds pass without one of you attack."]
 13["Cold blade: as a reaction, spend 10 adrenaline to ignore your Tier debuff until the start of your next turn."]
 14["Opening: As Reaktion to a defensive parry you lose you can use your bonus action to make a d20 Throw against your enemies CON. On win you make it fall prone and negate the attack. You gain 1d20 Adrenaline, if you loose, you recive +2d20 Adrenaline and the attack you recive deals +Adrenaline-Tier damage"]
-15["Showpiece: the first time each fight you reach a new Tier by doing an attack you can immideatly attack that target again."]
+15["Showpiece: the first time each fight you reach a new Tier (per Tier) by doing an attack you can immideatly attack that target again."]
 
 A -->|DEX > 12|1
 1 --> 2
@@ -596,7 +619,7 @@ flowchart TD
 
 A[Base Character]
 
-1["Bare hands: unarmed strikes count as weapons, use STR or DEX, and are never improvised. Damage is 2d4"]
+1["Bare hands: unarmed strikes count as weapons, use STR or DEX, and are never improvised. Damage is "]
 2["Take hold: grapple as part of an attack instead of a separate action. But if you fail, you can't use grapple as action or bonus action this round anymore"]
 3["Pin: if you beat a grappled target's escape throw by 5 or more, it can't react to your attacks."]
 4["Throw: throw a grappled target up to 3m; it lands prone."]
@@ -791,7 +814,7 @@ A[Base Character]
 
 1["Learn to shape Light and make it flow in intended direction."]
 2["Gain your weapon (choose its visual). It deals damage as the mundane weapon it mimics, plus 1d6 damage on hit; the damage type varies with the moon's phase."]
-3["Perform a 1h ritual, under direct moonlight the whole time, to reshape your weapon or spawn a new one (the old one breaks)."]
+3["Perform a 1h ritual, under direct moonlight the whole time, to reshape your weapon or spawn a new one (the old one fades)."]
 4["Learn to make the light flow out of a place (it becomes darker and light-less)."]
 5["Once per day, instantly reshape your weapon as your action; the effect varies by phase."]
 6["Hide in the darkness you drew out of a place: while inside it you have advantage on Stealth."]
@@ -812,33 +835,6 @@ A-->|WIS > 13|1
 new moon | Low | Necrotic damage | it is emerging darkness making surroundings in 2m 2 stages darker and in 5m 1. Inside this cloud you can see like one step brighter.
 | 50/50 | Mid | Radiant Damage | you emerge light and shadow the same making no difference. If an Enemy is in your weapons reach after the rit you can use your Bonus action to attack
 
-### Light Mage · Shadow-Weaver
-*Shadow is not the absence of light but its other face, and it follows every flame you have ever stood beside. You have learned to take hold of it: to pull it thick around yourself, to give it edges, to send it where you cannot go. A shadow needs a light to be cast. You only ever borrow the darkness a light already made.*
-
-```mermaid
-flowchart TD
-
-A[Base Character]
-
-1["Draw light out of a spot, making a dark patch up to 2m. You need an existing light source nearby."]
-2["Hide in shadows: advantage on Stealth in dim light or darkness. In full light you cannot vanish."]
-3["Shape shadows into simple forms (a hand, a rope) that can hold or carry trivial things, but no real weight."]
-4["Shadow binding: fetter a creature by its own shadow (STR throw or restrained for 1d4 rounds)."]
-5["Shadow-step: move between two shadows within 6m as a bonus action."]
-6["Shape a shadow into a minor servant that follows simple orders. It is ephemeral and dies in bright light."]
-7["Darken an area (10m) for 1 minute; you see normally inside it."]
-8["Create a permanent dark zone (10m radius) in a ritual; it lasts until dispelled or until a stronger light burns it out."]
-
-A -->|WIS > 12|1
-1 --> 2
-1 --> |WIS > 14|3
-3 --> |WIS > 15|4
-2 --> |WIS > 15|5
-3 --> |WIS > 16|6
-1 --> |WIS > 16|7
-7 --> |WIS > 18|8
-6 --> 8
-```
 
 ---
 
@@ -860,7 +856,7 @@ A[Base Character]
 4["Choose whether you learn a fear or a want. Your illusion now lasts 2d4 Rounds."]
 5["Read multiple targets — up to 3 — at once. Choose your learning for each independently."]
 6["If your target believes an illusion you can attack it twice."]
-7["As Reaction to a target beliving the illusion deal 2d10 damage to it."]
+7["As Reaction to a target pitfalling to the illusion deal 2d10 psy damage to it."]
 8["Make your Illusion hurt your opponend if it is a fear for 1d12 as bonus action or if it's a want make it get disadvantage on all it's throws that turn as Action (nat20 ignore this)"]
 
 A --> |CHA or INT > 13|1
@@ -882,11 +878,11 @@ A[Base Character]
 
 1["Manipulate light's flow to form a fata morgana. Every turn you sustain it, every target (including allies) makes a CHA throw against you. Targets who know the terrain instead make a WIS throw applying their proficiency (doubled if proficient)."]
 2["If you've seen and studied the phenomenon you're mimicking for 1h, add your CHA twice on that check."]
-3["You now mimic the process, not just the state — enemies see, say, a crack forming and breaking into the earth. Targets always make a CHA throw. You can concentrate on 2 fata morganas now; if you fail a concentration throw you lose all existing."]
+3["You now mimic the process, not just the state — enemies see, let's say, a crack forming and breaking into the earth. Targets always make a CHA throw. You can concentrate on 2 fata morganas now; if you fail a concentration throw you lose all existing."]
 4["If a target fails their check, the illusion becomes real for them. It still breaks if someone who succeeded the check touches it."]
 5["Shape a fata morgana as a bonus action. Concentrate on up to 3 fata morganas now."]
 6["Add your CHA bonus on concentration throws about your fata morgana. You now make a concentration check on each independently."]
-7["If failing the check of your illusions, deal 4d4 damage per target (per fata morgana)."]
+7["If failing the check of your illusions, deal 2d4 damage per target (per fata morgana)."]
 8["You now don't need any light source or a direction of light to create a fata morgana. You can now upkeep up to 5 illusions at a time."]
 
 A -->|CHA or INT > 12|1
@@ -913,20 +909,17 @@ flowchart TD
 
 A[Base Character]
 
-1["Blood toll: spend your own HP to boost a spell."]
+1["Blood toll: spend your own HP or that of willing creatures to perform or boost a spell."]
 2["The toll becomes more efficient (less HP cost per benefit)."]
 3["Drain a sip of vitality from a touched creature (1d4 necrotic damage); you gain the same amount as temporary HP."]
 4["Use blood from other creatures instead of your own."]
-5["Steal a target's stamina: it has disadvantage on its next STR, DEX or CON throw while you have advantage on yours."]
 6["Give vitality: transfer HP from yourself or a donor to another creature."]
 7["Supply a group (up to 4 creatures) with drained or donated vitality at once."]
-8["Bank prepared, preserved blood as a resource pool, usable without bleeding live."]
 
 A --> |WIS > 12|1
 1 --> |CON > 13|2
-1 --> 3 --> 5
+1 --> 3 
 1 --> 4 --> 6 --> |WIS > 16|7
-1 --> |WIS > 15|8
 
 ```
 
@@ -938,14 +931,13 @@ flowchart TD
 
 A[Base Character]
 
-1["Empower corpses and command them."]
-2["Empower more corpses simultaneously."]
+1["Empower corpses and command them (Corpse-Points: 1.5)."]
+2["Empower more corpses simultaneously (Corpse Points: 4)."]
 3["Awaken and command as a bonus action."]
-4["Higher-quality corpses yield noticeably stronger servants."]
+4["Higher-quality corpses yield noticeably stronger servants (Unlock not Marshel Corspe-Powers)."]
 5["Raise skeletons from bare bones, even old ones: weaker than a fresh corpse, but cheap. You always need a body or bones."]
-6["Hold a horde (up to 10 undead) under control. Beyond your limit you must pass an INT throw each turn to keep control. Holy power and fire hurt and break your servants."]
-7["Bind a ghostly guardian to a grave or object: it is incorporeal and watches a limited radius."]
-8["Raise an elite servant from an exceptional corpse, distinctly more capable than your standard minions."]
+6["Hold a horde under control (10). Beyond your limit you must pass an INT throw each turn to keep control. "]
+8["Learn to compine different corpses to achieve more powerfull hybrids"]
 
 A --> |INT > 12|1 --> 4 --> |INT > 17|8
 1 --> 2
@@ -955,40 +947,22 @@ A --> |INT > 12|1 --> 4 --> |INT > 17|8
 3 --> |INT > 17|7
 ```
 
+>### Basic Table to limit the number of servants
+> 
+>||Tiny | Small | Medium | Large | Giant | +++ |
+>|-|-|-|-|-|-|-|
+>|Marshel | 0.5 | 1 | 1.5 | 2 | 4 | 5 |
+>|Minor Magic | 1 | 1.5 | 2.5 | 4 | 5.5 | 6.5 |
+>|Full Magic | 2 | 3| 4 | 5.5 | 7 | 8.5 |
+
+
+
 ---
 
+
+
+
 ## Sorcerer
-
-### Sorcerer · Arcane Energy
-*There is no element behind it and no tradition that taught it to you. Magic itself, unshaped, is the projectile: a bolt, a lance, a wall, a fist. It does exactly what you will it to, and the only things that grow with you are how much of it there is and how well you can steer it.*
-
-```mermaid
-flowchart TD
-
-A[Base Character]
-
-1["Launch a bolt of raw arcane force at a target within 12m (1d6 force damage)."]
-2["Steer your bolts after launch around cover and corners; they no longer need a clear line."]
-3["Launch up to 3 bolts at once (1d4 each), at one or several targets."]
-4["Force shield: a disc of force that absorbs up to 1d10 damage as a reaction."]
-5["Force wall: a 3m by 3m plane of force that blocks passage until broken or for 1 minute."]
-6["Force fist: a hand of force that pushes, grabs or punches (strength equal to your INT score)."]
-7["Turn force into a beam, lance or wave: a 12m line (2d8) or a 6m cone that knocks enemies back."]
-8["Volley: up to 10 bolts, each steered on its own."]
-9["Levitate yourself or an object for up to 1 minute (slowly, 3m per round)."]
-
-A --> |INT > 11|1
-1 --> 2
-1 --> |INT > 13|3
-1 --> |INT > 13|4
-4 --> |INT > 15|5
-1 --> |INT > 14|6
-1 --> |INT > 13|9
-2 --> |INT > 16|7
-3 --> |INT > 18|8
-2 --> 8
-```
-
 
 ### Sorcerer · Channeler
 *Magic was never meant to be tame, and you have never quite managed to fully leash it. Every spell you cast is a negotiation with forces that don't much care what you intended — sometimes they cooperate exactly, sometimes they overshoot wildly, and sometimes the difference between the two is the most interesting thing that happens all fight. You do not control wild magic. You survive it, more skillfully each time.*
@@ -1001,16 +975,13 @@ A[Base Character]
 1["Cast spells, but there may be side effects (the DM improvises, or uses the table below)."]
 2["Reroll a side-effect roll."]
 3["Roll a second side-effect roll if you wish."]
-4["TBD"]
 5["Reduce the range of the worst outcomes (still random, but the floor is raised)."]
-6["Recognize a side effect before it resolves, and choose to accept it or attempt to suppress it. (d20 + CHA-Mod > 15)"]
-7["Cast two spells in sequence sharing a single side-effect roll."]
+6["Recognize a side effect before it resolves, and choose to accept it or attempt to suppress it. (d20 + CHA-Mod > 15: On fail a second effect is rolled without you having noticed)"]
 8["Let a deviation run fully wild by choice — highest risk, highest possible reward, full narrative license to the DM."]
 
 A -- > |CHA > 11|1
 1 -- > |CHA > 13|2 -- > 5 -- > |CHA > 15|6
 1 -- > 3 -- > |CHA > 14| 8
-1 -- > |CHA > 15|7
 ```
 
 ---
@@ -1029,16 +1000,17 @@ A[Base Character]
 2["Your bind check improves: 2d10 instead of 1d20."]
 3["No hard cap on the number of bound demons, but each additional demon adds 1d4 difficulty to the check."]
 4["Add your INT-Mod twice to the bind/controll check."]
-5["If you controll no other demons your controll and bindchecks become 3d8"]
-6["Demeons under Tier 3 suffer disadvantage on your binding checks"]
-7["Extend your rituals to beings beyond demons (spirits, elementals, fey or angels). Each needs its own name, price and circle, and no being may exceed a Tier equal to your Level."]
-8["If your bind check was 10 higher than your demons escape check they do not vanish after they did their task."]
+5["If you controll no other demons your controll and bindchecks become 3d10"]
+6["Demeons suffer disadvantage on escape check if your Level is 3 higher than their CR. Additionally you gain Advantage if your Level is 6 higher."]
 
 A -->|INT > 11|1
-1 --> |INT > 14|2 --> 4 --> 5 --> |INT > 17|6 --> 8
+1 --> |INT > 14|2 --> 4 --> 5 --> |INT > 17|6
 1 --> 3
-4 --> |INT > 16|7
 ```
+
+> ### Danger 
+>
+> Flat_DC = 10 + CR / 2 
 
 ---
 
@@ -1054,7 +1026,6 @@ A[Base Character]
 2["Pray to your patron for a minor power buff until your next long rest."]
 3["Gain a patron-specific minor trait, reflecting your patron's theme."]
 4["Gain a pact weapon."]
-5["TBD"]
 6["Gain a stronger patron-specific ability, or bind a second patron."]
 7["Gain the power to reshape your pact weapon in a one hour ritual."]
 8["Your patron grants you a signature, iconic ability tied directly to its core theme."]

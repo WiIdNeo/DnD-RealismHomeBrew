@@ -1,3 +1,188 @@
+## Sommersonnenwende
+
+### Rede
+
+Er hebt die Hände zur aufgehenden Sonne – eine Geste, die jeder im Dorf auswendig kennt. Manche murmeln die ersten Worte schon mit, bevor er sie spricht.
+
+„Seht her, gute Leute – seht, wie er kommt.
+
+Jeden Morgen stirbt die Nacht aufs Neue, und jeden Morgen wird uns vergeben, was gestern war. Das ist Lathanders Gabe an uns: kein Tag ist wie der andere, kein Fehler zu groß, um nicht mit dem nächsten Sonnenaufgang neu begonnen zu werden.
+
+Heute steht er höher als je zuvor. Wachset, sagt er uns. Werdet mehr, als ihr gestern wart.
+
+Manche fürchten, was nach dem heutigen Tag kommt – dass die Nächte nun wieder länger werden. Aber fürchtet die Wende nicht. Auch das ist Lathanders Lehre: dass sich der Kreis immer schließt, um sich wieder zu öffnen.
+
+Also lasst uns feiern, solange das Licht am höchsten steht!“
+
+*Bei diesen Worten – wie jedes Jahr – tritt eine junge Priesterin vor, barfuß, in leichten Stoffbahnen, die Gold und Orange auffangen. Der Alte hält kurz inne, fast schmunzelnd, während sie zu tanzen beginnt: erst langsam, mit der Sonne, dann schneller, wirbelnder, bis das Dorf klatscht und stampft. Die Rede, die alle kennen, wird zur Kulisse; die eigentliche Anziehungskraft ist sie.*
+
+„…und lasst uns morgen früh wieder aufstehen, dem neuen Tag entgegen, so wie wir es immer tun.
+
+Gepriesen sei der Morgenlord. Gepriesen sei das Licht, das niemals endet, sondern nur schläft, um zu erwachen.“
+
+
+### Arie
+
+```
+
+**I. Morgenröte**
+
+Der Morgen steigt in Rosengold empor,
+weckt Blüte, Feld und jeden Hahnenschrei,
+Lathanders Licht tritt durch das Himmelstor
+und macht das alte Jahr aufs Neue frei.
+
+Wir tanzten einst im ersten warmen Strahl,
+als Kinder, die kein Dunkel noch gekannt,
+wir glaubten, Licht sei ohne Zweifel, Wahl,
+sei alles, was uns hält, uns Halt, uns Pfand.
+
+So preist ihn, der die Schwelle uns eröffnet,
+der jeden Tag aufs Neu die Nacht durchbricht –
+doch wisset: was am Morgen euch getroffen,
+ist nicht das Ganze, ist nur halbes Licht.
+
+
+**II. Die Wandlerin**
+
+Und seht, wie hoch die Sonne heut auch steht,
+sie neigt sich, wie sie es seit je getan,
+und eine andre Herrin, ungesehen,
+hebt schon am Rand des Himmels ihren Kahn.
+
+Sie, die man nennt die Wandlerin, die Milde,
+die Hüterin der Reisenden bei Nacht,
+trägt heut ihr dunkelstes, ihr leerstes Bild –
+denn heute ist es, dass ihr Licht erschlafft.
+
+Man sagt, sie ruhe, wenn ihr Rund verschwindet,
+dass sie sich sammle für den nächsten Lauf,
+dass Schwäche nur ein andres Wachsen sei,
+ein Atemholen, eh sie steigt hinauf.
+
+So feiern wir sie, wenn sie leise geht,
+so beten wir zu ihr, wenn sie sich neigt –
+denn die uns führt, wenn keine Sichel steht,
+ist Herrin noch, auch wenn sie sich verschweigt.
+
+Gepriesen sei die Herrin dieser Nacht,
+die niemals ganz erlischt und niemals bleibt,
+die aus der Fülle in die Leere lacht
+und aus der Leere neue Fülle treibt.
+
+**III. Die Leere Krone**
+
+Und wenn das letzte Licht vergeht,
+wenn auch ihr Kahn zu keinem Ufer fährt,
+dann bleibt, was vor der Sonne steht,
+das Erste, Älteste, das nichts entbehrt.
+
+Nicht Finsternis, die etwas uns verwehrt –
+nein, eine Fülle, tiefer als das Licht,
+ein Schweigen, lang bevor Licht sich lehrt
+zu sprechen, sich zu formen, ein Gedicht.
+
+Wer sagt, dass Angst uns in der Leere fänd',
+hat nie gesehn, wie die Weite reicht,
+hat nie gespürt, wie sanft die Hand, die end',
+uns wieder öffnet, was der Tag verscheucht.
+
+Sie, die kein Name und kein Bild mehr fasst,
+die Herrin, die man nicht beim Namen nennt,
+die schweigend hält, was jede Furcht verlasst,
+die Nacht, die keine andre Nacht mehr kennt –
+
+ihr, ohne Form, ohr' Auge, ohne Wort,
+sei heute, da kein Mond die Dunkelheit
+und keine Sonne stört, sei diesem Ort
+die stille Krone dieser Zeit geweiht.
+
+Gepriesen sei die Herrin dieser Nacht –
+und wisst: sie war schon da, eh wir sie sahn,
+und bleibt, auch wenn kein Licht sie sichtbar macht,
+die Erste Herrin, und die letzte Bahn.
+```
+
+### Magiesammler
+
+Ein Objekt, dass die Gruppe begehrt wird weggekauft: Überbieten oder vor der Nase kaufen.
+
+![](./Mansion.png)
+
+
+## A. Bruder Tamlin — Der Ruf nach Waterdeep
+
+### Auslöser
+In den Tagen nach dem Fest verdichten sich seine Zweifel:
+- Schwester Ophelia reagiert offen ängstlich auf Fremde – wird von den anderen Priestern beschwichtigt statt ernst genommen.
+- Die Feuer der Nacht gingen aus, ohne dass jemand eine schlüssige Erklärung liefert.
+- Tamlin konfrontiert Aurelian direkt. Aurelian weicht aus, tut die Sorgen seines Lehrlings (wieder einmal) ab.
+
+Das ist der Bruch: Tamlin beschließt, den Dienstweg zu verlassen und die Vorgänge direkt den **Spires of the Morning** in Waterdeep zu melden – der höchsten Lathander-Institution, die er kennt.
+
+### Route A1 — Die Gruppe begleitet Tamlin
+- **Trigger:** Die Gruppe erfährt von seinen Plänen kurz bevor oder während sie selbst mit der Karawane aufbrechen (z. B. Tamlin sucht sie gezielt auf, weil er weiß, dass sie ebenfalls misstrauisch sind, oder sie treffen ihn zufällig am Stadttor mit gepacktem Bündel).
+- **In Waterdeep:** Empfang in den Spires of the Morning – im Gegensatz zu Aurelian wird Tamlin hier ernst genommen. Ein hochrangiger Priester (Vorschlag: **Hoherwächter Ansellus Brightflame** oder ähnlich) hört sich den Bericht an, erkennt Muster aus anderen Städten (und auch Waterdeep) wieder (das ist ein guter Moment, um anzudeuten, dass Lysandras Methode nicht neu oder isoliert ist) und beauftragt die Gruppe offiziell, die Vorfälle zu untersuchen – mit kirchlicher Rückendeckung, vielleicht einem kleinen Segen/Gegenstand und einem Kontakt vor Ort.
+
+### Route A2 — Die Gruppe bleibt in Triboar / reist nach Neverwinter
+- Tamlin bricht allein nach Waterdeep auf.
+- Wenn die Gruppe später selbst in Waterdeep ankommt, finden sie ihn dort wieder – **eingesperrt** - nachdem sie einen Vermisstensteckbrief von ihm finden.
+- Tamlin hat tatsächlich Waterdeep erreicht und wurde (wie in A1) mit einem offiziellen Auftrag weitergeschickt.Er war jedoch zu forsch oder zu offen vorgegangen – und wurde von bereits kompromittierten Stellen (z. B. einem Wachoffizier oder Beamten, der selbst schon "abgestumpft" oder sympathisierend ist) unter einem Vorwand festgesetzt: Ruhestörung, Aufwiegelung, angebliche Blasphemie gegen "die Herrin der Nacht".
+- Das zeigt der Gruppe zweierlei auf einmal: dass der offizielle Weg allein nicht reicht, *und* wie tief die Gleichgültigkeit/Infiltration bereits sitzt – noch bevor sie selbst aktiv ermitteln.
+- Seine Freilassung/Rettung kann als kleiner, persönlicher Einstiegs-Hook in den Teil der Kampagne dienen.
+
+---
+
+# Bruder Tamlin — Reise nach Waterdeep
+
+## Grober Fahrplan
+
+| Etappe | Grobinhalt |
+|---|---|
+| Aufbruch | Tamlin verlässt Triboar, ggf. begleitet die Gruppe ihn (siehe Route A1 in den Zusätzen) |
+| Unterwegs | 2–3 Reise-Encounter aus dem Pool unten, gestreut über mehrere Tage |
+| Zwischenstopp | Ein größerer Ort auf dem Weg (Dorf oder Kleinstadt) — guter Ort für die "Reaktionen"-Szenen |
+| Ankunft Waterdeep | Kurze Ankunftsszene, Empfang in den Spires of the Morning (siehe Zusätze-Datei für den offiziellen Auftrag) |
+
+Du brauchst für diese Session vermutlich nur Aufbruch + 1–2 Encounter + evtl. den Zwischenstopp — der Rest kann als Zeitraffer/Montage laufen.
+
+---
+
+## Encounter-Pool
+
+- **Pilger schließen sich an** — ein oder zwei einfache Gläubige hören von Tamlins Mission und wollen "dem Licht dienen", indem sie mitreisen. Gut für Rollenspiel, potenziell auch Belastung (langsamer, unvorsichtiger).
+- **Ein skeptischer Mitreisender** — ein Kaufmann oder Söldner in der Karawane hält die ganze Sache für übertrieben, konfrontiert Tamlin offen ("Junge, geh nach Hause").
+- **Kleiner Überfall auf die Karawane** — Wegelagerer zielen speziell auf den "reich aussehenden" Priester, in der Annahme, er trage Tempelgold bei sich.
+- **Ein Bettler bittet um Segen** — einfache, warme Szene; zeigt, wie ernst Tamlin seinen Glauben nimmt, auch unter Druck.
+- **Nächtliches Gespräch am Lagerfeuer** — Tamlin öffnet sich der Gruppe, erzählt von seinen Zweifeln an Aurelian, evtl. auch eigene Unsicherheit ("Bin ich überheblich, das zu tun?").
+- **Ein zweiter Vorfall unterwegs** — in einem Dorf auf dem Weg zeigt sich ein kleineres Echo dessen, was in Triboar passiert (ausgeblasene statt entzündete Kerzen, ein befremdlich beiläufiger Kommentar) — sät früh den Verdacht, dass es kein Triboar-exklusives Problem ist.
+- **Ein Bote/Reisender aus Waterdeep** kommt entgegen, bringt aktuelle Gerüchte aus der Stadt — guter Aufhänger für Vorausdeutung.
+- **Wetterprobe/Naturhindernis** — reiner Pacing-Encounter ohne Kult-Bezug, zur Auflockerung.
+- **Ein Selûne-Wanderpriester** kreuzt den Weg — reagiert je nach Wahl entweder hilfsbereit und besorgt oder seltsam defensiv/ablehnend (optionaler Vorgriff auf die Ilsevet-Thematik).
+
+---
+
+## Reaktionen von Reisenden und Dorfbewohnern auf Tamlin (Brainstorm-Pool)
+
+**Positiv/ehrfürchtig:**
+- Manche bitten spontan um Segen, laden ihn zum Essen ein, wollen ihm ein Geleit stellen.
+- Kinder sind fasziniert von der Robe, stellen naive Fragen zu Lathander.
+- Ein Wirt gewährt Rabatt oder ein Freibier, "für den guten Zweck".
+
+**Skeptisch/gleichgültig:**
+- Manche wittern in einem so jungen Priester auf Mission eher jemanden, der sich wichtig macht.
+- Ein zynischer Händler kommentiert, dass "die Götter sowieso nichts an den Preisen ändern".
+- Achselzucken, wenn Tamlin von den Vorfällen in Triboar erzählt — die Leute unterwegs haben eigene Sorgen.
+
+**Misstrauisch/unangenehm:**
+- Manche werden vorsichtig oder wortkarg, sobald Tamlin nach Selûne/Shar-nahen Themen fragt — nicht unbedingt aus Bosheit, oft nur Aberglaube oder Unbehagen, über "die Herrin der Nacht" zu sprechen.
+- In dem Dorf mit dem "zweiten Vorfall" (siehe Encounter-Pool) reagiert jemand auffällig defensiv, wenn Tamlin nachfragt.
+- Ein Reisender warnt ihn scherzhaft-ernst, in Waterdeep "nicht zu forsch" aufzutreten — hohe Priester mögen keine unangemeldeten jungen Boten mit großen Anschuldigungen.
+
+**Neutral/atmosphärisch:**
+- Die meisten Begegnungen sind schlicht beiläufig — ein Nicken, ein "Gepriesen sei das Licht" im Vorbeigehen, nichts Dramatisches. Das hilft, die selteneren auffälligen Reaktionen (Misstrauen, Abwehr) umso mehr hervorzuheben.
+
+
 ## B. Ilsevet Morrow — Kampf gegen den Einfluss in Triboar
 
 ### Auslöser
@@ -49,7 +234,7 @@ Baue den Moment der Enthüllung als Dialog während oder kurz vor dem Kampf ein,
 - Gleichgültigkeit und Shar-Symbolik sind **deutlich weiter verbreitet und offener** als in Triboar: "Herrin der Nacht"-Schreine, die niemand mehr versteckt, Kerzen, die man öffentlich und ohne Scham löscht statt entzündet, vereinzelte Bewohner mit unverhohlenen Shar-Zeichen (Onyx-Perlen, achtstrahlige Motive), auf die niemand mehr reagiert.
 - Wichtig für die Stimmung: Es soll **nicht** wie eine offen von Shar beherrschte Stadt wirken (kein Terror, keine Straßenpredigten) – sondern wie eine Stadt, die es sich bereits bequem in der Gleichgültigkeit eingerichtet hat. Genau die "Gewöhnung", die Lysandra anstrebt, nur sehr viel weiter fortgeschritten.
 
-
+---
 
 # Ilsevet Morrow — Kampf gegen den Einfluss
 

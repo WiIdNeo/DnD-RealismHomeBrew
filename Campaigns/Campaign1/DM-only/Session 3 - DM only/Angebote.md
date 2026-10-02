@@ -24,7 +24,7 @@
 | Kicher-Amulett | 30 GM | 30 GM | Kichert leise, wenn der Träger lügt – nur er selbst hört es. |
 | Kühltrank | 40 GM | 40 GM | Senkt die Körpertemperatur; wirkt wie Widerstand gegen Feuerschaden für 1 Stunde. |
 
----
+---     
 
 ## ⚪ Gewöhnlich (Common)
 
